@@ -16,11 +16,11 @@
 
 ## Sayaçlar (v3.0 — 2026-11-27)
 
-- **Toplam benzersiz proje: 241,184** (fork'lar hariç; v1.0 = 9.515 listelenmiş / 13.006 hasat)
+- **Toplam benzersiz proje: 245,146** (fork'lar hariç; v1.0 = 9.515 listelenmiş / 13.006 hasat)
 - Atılan düşük olasılıklı P5 kaydı (v1 kuralı): 3493
-- Kullanılan sorgu varyasyonu (banka + dinamik yıl/çeyrek/ay dilimleri): 4,077
+- Kullanılan sorgu varyasyonu (banka + dinamik yıl/çeyrek/ay dilimleri): 4,361
 - Kural: **her satır = 1 proje** (link + açıklama + dil + yıldız)
-- Dil dağılımı (ilk 12): — 62984, Python 23428, C++ 20338, Rust 18340, JavaScript 17922, HTML 15263, Java 13115, C# 10349, Jupyter Notebook 9727, TypeScript 8103, Lua 7746, C 6752
+- Dil dağılımı (ilk 12): — 63444, Python 23552, C++ 22657, Rust 18352, JavaScript 17974, HTML 15388, Java 13162, C# 10358, Jupyter Notebook 9732, TypeScript 8151, Lua 7753, C 7112
 - Cheat-saha dökümü: aşağıdaki rekabet haritasına bakınız.
 
 ### GitHub evreninin gerçek büyüklüğü (ölçülmüş `total_count`)
@@ -46,20 +46,20 @@
 ## İçindekiler
 
 - 0. Bayrak Projelerimiz — Bu Hattın Kalbi — **2 repo**
-- 1. ImGui Çekirdeği & Resmi Ekosistem — **124 repo**
-- 2. Oyun Cheat / Hile Menüleri — REKABET SAHASI (oyun oyun döküldü) — **65387 repo**
-- 3. Loader, KeyAuth, HWID & Lisans Sistemleri — **23932 repo**
-- 4. UI Editörleri, Tasarımcılar & Builder'lar — **1805 repo**
-- 5. Temalar, Stiller & Görsel Paketler — **5005 repo**
-- 6. Animasyon & Efekt Sistemleri — **1715 repo**
-- 7. Node Editörler, Plotlar & Görselleştirme — **2846 repo**
-- 8. Overlay, Hook & Render Backend Altyapıları (D3D / OpenGL / Vulkan) — **4289 repo**
-- 9. Dil Bağlayıcıları (Bindings & Wrappers) — **31160 repo**
-- 10. Motor & Platform Entegrasyonları (SDL / GLFW / Unity / Unreal / Web) — **6374 repo**
-- 11. Widget, Araç & Yardımcı Kütüphaneler — **8066 repo**
-- 12. Örnek, Şablon & Öğrenme Projeleri — **13104 repo**
-- 13. Geniş Evren (hack/cheat evreni — derin ilgililik taraması bekliyor) — **1654 repo**
-- 14. Diğer ImGui / Cheat-Saha Projeleri — **75721 repo**
+- 1. ImGui Çekirdeği & Resmi Ekosistem — **306 repo**
+- 2. Oyun Cheat / Hile Menüleri — REKABET SAHASI (oyun oyun döküldü) — **65736 repo**
+- 3. Loader, KeyAuth, HWID & Lisans Sistemleri — **23960 repo**
+- 4. UI Editörleri, Tasarımcılar & Builder'lar — **1818 repo**
+- 5. Temalar, Stiller & Görsel Paketler — **5029 repo**
+- 6. Animasyon & Efekt Sistemleri — **1732 repo**
+- 7. Node Editörler, Plotlar & Görselleştirme — **3000 repo**
+- 8. Overlay, Hook & Render Backend Altyapıları (D3D / OpenGL / Vulkan) — **4665 repo**
+- 9. Dil Bağlayıcıları (Bindings & Wrappers) — **31295 repo**
+- 10. Motor & Platform Entegrasyonları (SDL / GLFW / Unity / Unreal / Web) — **6801 repo**
+- 11. Widget, Araç & Yardımcı Kütüphaneler — **8253 repo**
+- 12. Örnek, Şablon & Öğrenme Projeleri — **13279 repo**
+- 13. Geniş Evren (hack/cheat evreni — derin ilgililik taraması bekliyor) — **3285 repo**
+- 14. Diğer ImGui / Cheat-Saha Projeleri — **75985 repo**
 
 ---
 
@@ -67,24 +67,24 @@
 
 | Saha | Repo sayısı |
 |---|---:|
-| CS / CS2 / CSGO | 4991 |
-| FiveM / GTA / RDR | 4046 |
-| Fortnite | 1676 |
-| Valorant | 1478 |
-| Apex Legends | 179 |
-| Tarkov / EFT | 317 |
-| Rust (oyun) | 3242 |
-| PUBG | 652 |
-| DayZ / Arma | 532 |
-| R6 / Siege / DbD | 608 |
-| CoD / Warzone / BF / Overwatch | 1597 |
-| Roblox / Minecraft / Terraria | 11671 |
-| Türk sahnesi (Zula / Wolfteam / Metin2 / KO / Silkroad) | 118 |
-| DMA / Donanım sahnesi | 1108 |
-| HvH / paste sahnesi (neverlose / onetap / fatality / skeet / gamesense) | 844 |
-| Diğer oyunlar (Hunt / TF2 / L4D / Quake / Halo / mobil sahneler) | 6888 |
-| Evrensel cheat menü / base / paste (oyun belirtmeyen) | 25440 |
-| **TOPLAM CHEAT SAHASI** | **65387** |
+| CS / CS2 / CSGO | 5036 |
+| FiveM / GTA / RDR | 4049 |
+| Fortnite | 1689 |
+| Valorant | 1504 |
+| Apex Legends | 186 |
+| Tarkov / EFT | 321 |
+| Rust (oyun) | 3250 |
+| PUBG | 653 |
+| DayZ / Arma | 533 |
+| R6 / Siege / DbD | 613 |
+| CoD / Warzone / BF / Overwatch | 1615 |
+| Roblox / Minecraft / Terraria | 11689 |
+| Türk sahnesi (Zula / Wolfteam / Metin2 / KO / Silkroad) | 120 |
+| DMA / Donanım sahnesi | 1109 |
+| HvH / paste sahnesi (neverlose / onetap / fatality / skeet / gamesense) | 845 |
+| Diğer oyunlar (Hunt / TF2 / L4D / Quake / Halo / mobil sahneler) | 6933 |
+| Evrensel cheat menü / base / paste (oyun belirtmeyen) | 25591 |
+| **TOPLAM CHEAT SAHASI** | **65736** |
 
 ---
 
@@ -110,6 +110,7 @@
 - [FlaxEngine/ImGui](https://github.com/FlaxEngine/ImGui) — Dear ImGui plugin for Flax Engine that adds debug GUI interface to game viewport. — C++ · 21 yıldız
 - [BigFaceCat2017/IMGUI](https://github.com/BigFaceCat2017/IMGUI) — IMGUI 菜单 用在iOS 内置几个UI 例子 — — · 9 yıldız
 - [630642270/imgui](https://github.com/630642270/imgui) — c++ imgui 窗口透明绘制 — C++ · 6 yıldız
+- [chrisforbes/imgui](https://github.com/chrisforbes/imgui) — Immediate Mode UI experiments — C · 6 yıldız
 - [co-stuff/imgui](https://github.com/co-stuff/imgui) — IMGUI for Conquer Online (D3D9 versions) — C++ · 6 yıldız
 - [antono2/imgui](https://github.com/antono2/imgui) — Generated Dear ImGui and ImPlot bindings for V, with standard and docking variants, GLFW/Vulkan backends and reproducible… — C++ · 5 yıldız
 - [bonsai-rx/imgui](https://github.com/bonsai-rx/imgui) — Bonsai Library for composing user interfaces and real-time graphs using Dear ImGui — C# · 5 yıldız
@@ -127,102 +128,283 @@
 - [gooid/imgui](https://github.com/gooid/imgui) — Go wrapper library for "Dear ImGui" — C++ · 2 yıldız
 - [QuiQiJingFeng/imgui](https://github.com/QuiQiJingFeng/imgui) — imgui+lua — C++ · 2 yıldız
 - [VMonoShiki/ImGui](https://github.com/VMonoShiki/ImGui) — Liquid Glass ImGui DX11 — C++ · 2 yıldız
+- [zeroxer/IMGUI](https://github.com/zeroxer/IMGUI) — Make an IMGUI library from scratch — C++ · 2 yıldız
 - [cladam/imgui](https://github.com/cladam/imgui) — hica GUI library using Dear ImGui + SDL2 + OpenGL — C · 1 yıldız
+- [epsilonbsp/imgui](https://github.com/epsilonbsp/imgui) — (açıklama yok) — Odin · 1 yıldız · arşiv
 - [FEZModding/IMGUI](https://github.com/FEZModding/IMGUI) — FEZ mod for integrating the ImGui.NET wrapper of Dear ImGui — C# · 1 yıldız
 - [Firefly-Star/ImGui](https://github.com/Firefly-Star/ImGui) — ImGui library with premake5.lua — C++ · 1 yıldız
 - [FrankyCao/imgui](https://github.com/FrankyCao/imgui) — (açıklama yok) — — · 1 yıldız
+- [godesteem/imgui](https://github.com/godesteem/imgui) — Fork of https://github.com/ocornut/imgui — C++ · 1 yıldız
+- [hunsou/imgui](https://github.com/hunsou/imgui) — (açıklama yok) — C++ · 1 yıldız
+- [ljy13691882678/imgui](https://github.com/ljy13691882678/imgui) — (açıklama yok) — C++ · 1 yıldız
 - [mpolitzer/imgui](https://github.com/mpolitzer/imgui) — imgui. OpenGL for graphics and Allegro5 for input (DEFUNCT) — C · 1 yıldız
 - [nickav/imgui](https://github.com/nickav/imgui) — (açıklama yok) — JavaScript · 1 yıldız
+- [outgoes/ImGui](https://github.com/outgoes/ImGui) — ImGui Framework Library — C++ · 1 yıldız
+- [QuiYou/ImGui](https://github.com/QuiYou/ImGui) — (açıklama yok) — C++ · 1 yıldız
+- [Serialbocks/ImGui](https://github.com/Serialbocks/ImGui) — (açıklama yok) — C++ · 1 yıldız
+- [StraitX/ImGui](https://github.com/StraitX/ImGui) — (açıklama yok) — C++ · 1 yıldız
+- [sunipkm/imgui](https://github.com/sunipkm/imgui) — Fork of Ocornut's Dear ImGui to be used as a stand-alone library for GUIs. — C++ · 1 yıldız
+- [TeamHypersomnia/imgui](https://github.com/TeamHypersomnia/imgui) — fork — C++ · 1 yıldız
+- [TechMecca/imgui](https://github.com/TechMecca/imgui) — (açıklama yok) — C++ · 1 yıldız
 - [thesalutytdev/imgui](https://github.com/thesalutytdev/imgui) — (açıklama yok) — Java · 1 yıldız
 - [UndefinedChai/imgui](https://github.com/UndefinedChai/imgui) — imgui template. — C++ · 1 yıldız
+- [Very-Real-Engine/imgui](https://github.com/Very-Real-Engine/imgui) — imgui repository for Very Real Engine — C++ · 1 yıldız
 - [ydah/imgui](https://github.com/ydah/imgui) — Generated Ruby bindings for Dear ImGui with an idiomatic API, exception-safe DSL, GLFW/SDL3/OpenGL/WebGPU backends, and ImPlot. — Ruby · 1 yıldız
 - [ZeroCoolDev/ImGUI](https://github.com/ZeroCoolDev/ImGUI) — Integrating plugin UnrealImGUI (ue5 fork) into base starting empty project of Unreal https://github.com/benui-dev/UnrealImGui — C++ · 1 yıldız
 - [048PVG/imgui](https://github.com/048PVG/imgui) — (açıklama yok) — Lua · 0 yıldız
+- [11992288ABDF/Imgui](https://github.com/11992288ABDF/Imgui) — V — — · 0 yıldız
+- [a43aeacbe2aa9d8bb05814bff8033cdf/IMGUI](https://github.com/a43aeacbe2aa9d8bb05814bff8033cdf/IMGUI) — (açıklama yok) — — · 0 yıldız
+- [adstogo9988-cyber/imgui](https://github.com/adstogo9988-cyber/imgui) — (açıklama yok) — — · 0 yıldız
+- [AJNB66/ImGui](https://github.com/AJNB66/ImGui) — TG: AJNB66 — C · 0 yıldız
+- [AleksaCrveni/ImGui](https://github.com/AleksaCrveni/ImGui) — Immediate mode graphics user interface — C++ · 0 yıldız
+- [AlekSimpson/imgui](https://github.com/AlekSimpson/imgui) — Experimenting with immediate mode GUIs, implementing simple todo app with imgui — Makefile · 0 yıldız
 - [alguemqualquer123/imgui](https://github.com/alguemqualquer123/imgui) — (açıklama yok) — C++ · 0 yıldız
+- [almickle/imgui](https://github.com/almickle/imgui) — portable library to use imgui in any project — C++ · 0 yıldız
+- [alwinl/imgui](https://github.com/alwinl/imgui) — (açıklama yok) — C++ · 0 yıldız
+- [Andy-Paa/imgui](https://github.com/Andy-Paa/imgui) — (açıklama yok) — C++ · 0 yıldız
+- [Anoobee/Imgui](https://github.com/Anoobee/Imgui) — test files — C++ · 0 yıldız
+- [anulax1225/imgui](https://github.com/anulax1225/imgui) — (açıklama yok) — C++ · 0 yıldız
 - [ArnaudValensi/cimgui](https://github.com/ArnaudValensi/cimgui) — (açıklama yok) — — · 0 yıldız
+- [aryandahiya66/Imgui](https://github.com/aryandahiya66/Imgui) — New LODER imgui — — · 0 yıldız
+- [asa/imgui](https://github.com/asa/imgui) — (açıklama yok) — C++ · 0 yıldız
+- [ashishmittal85/imgui](https://github.com/ashishmittal85/imgui) — forked from https://github.com/TheCherno/imgui — C++ · 0 yıldız
+- [astroq91/imgui](https://github.com/astroq91/imgui) — (açıklama yok) — C++ · 0 yıldız
 - [awolven/cimgui](https://github.com/awolven/cimgui) — A modified version of cimgui friendly to cffi. — — · 0 yıldız
+- [Ayoub1268/Imgui](https://github.com/Ayoub1268/Imgui) — (açıklama yok) — C++ · 0 yıldız
+- [balibali1/imgui](https://github.com/balibali1/imgui) — 一个1.66b旧版本的imgui，用于学习 — C++ · 0 yıldız
+- [Ballomizzy2/imgui](https://github.com/Ballomizzy2/imgui) — (açıklama yok) — C++ · 0 yıldız
+- [BillDior/imgui](https://github.com/BillDior/imgui) — imgui — C++ · 0 yıldız
+- [Bj29ASH/imgui](https://github.com/Bj29ASH/imgui) — v1.83 — C++ · 0 yıldız
+- [Bkebi-Reborn/imgui](https://github.com/Bkebi-Reborn/imgui) — About Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies — C++ · 0 yıldız
+- [blogPic/Imgui](https://github.com/blogPic/Imgui) — (açıklama yok) — — · 0 yıldız
 - [bomboclatzak-sudo/imgui](https://github.com/bomboclatzak-sudo/imgui) — (açıklama yok) — Lua · 0 yıldız
 - [Br33zyy/IMGUI](https://github.com/Br33zyy/IMGUI) — (açıklama yok) — Lua · 0 yıldız
+- [burgueralt07-crypto/ImGui](https://github.com/burgueralt07-crypto/ImGui) — (açıklama yok) — C++ · 0 yıldız
+- [bvqu/imgui](https://github.com/bvqu/imgui) — (açıklama yok) — C · 0 yıldız
+- [cej4126/imgui](https://github.com/cej4126/imgui) — (açıklama yok) — C++ · 0 yıldız
 - [CheezLang/imgui](https://github.com/CheezLang/imgui) — Bindings for Dear ImGui — C++ · 0 yıldız
+- [cherryexternal/imgui](https://github.com/cherryexternal/imgui) — (açıklama yok) — — · 0 yıldız
 - [Cherryxxh/IMGUI](https://github.com/Cherryxxh/IMGUI) — (açıklama yok) — C# · 0 yıldız
+- [Claud345/Imgui](https://github.com/Claud345/Imgui) — Imgui for mobile — C++ · 0 yıldız
 - [coidx/imgui](https://github.com/coidx/imgui) — (açıklama yok) — — · 0 yıldız
 - [Contrast001/imgui](https://github.com/Contrast001/imgui) — (açıklama yok) — — · 0 yıldız
+- [Coolaid003/imgui](https://github.com/Coolaid003/imgui) — (açıklama yok) — C++ · 0 yıldız
 - [cpp-benchmark1/imgui](https://github.com/cpp-benchmark1/imgui) — (açıklama yok) — — · 0 yıldız
 - [cpp-port/imgui](https://github.com/cpp-port/imgui) — (açıklama yok) — CMake · 0 yıldız
 - [CPPCDwe/ImGui](https://github.com/CPPCDwe/ImGui) — (açıklama yok) — Lua · 0 yıldız
+- [crackingsofplay/imgui](https://github.com/crackingsofplay/imgui) — imgui — — · 0 yıldız
+- [Cut666/ImGui](https://github.com/Cut666/ImGui) — (açıklama yok) — C++ · 0 yıldız
+- [dadair-ca/imgui](https://github.com/dadair-ca/imgui) — fork of ocornut/imgui — C · 0 yıldız
 - [Damageg432/Imgui](https://github.com/Damageg432/Imgui) — A simple ImGui and Minhook .dll to allow you to create ImGui menu's alot quicker. ##What it has to offer ImGui - The last version… — — · 0 yıldız
+- [danadrianmirea/imgui](https://github.com/danadrianmirea/imgui) — (açıklama yok) — C++ · 0 yıldız
+- [dazKind/imgui](https://github.com/dazKind/imgui) — (açıklama yok) — C++ · 0 yıldız
 - [DeCEll-1/ImGui](https://github.com/DeCEll-1/ImGui) — IMGUI setup for starsector — Java · 0 yıldız
+- [deepin-community/imgui](https://github.com/deepin-community/imgui) — (açıklama yok) — C++ · 0 yıldız
 - [Degenerate-States/IMGUI](https://github.com/Degenerate-States/IMGUI) — Imgui source with opengl and sdl example code — C++ · 0 yıldız
+- [dfssssssssasw33333/imgui](https://github.com/dfssssssssasw33333/imgui) — (açıklama yok) — — · 0 yıldız
+- [dickinsonethan45-collab/imgui](https://github.com/dickinsonethan45-collab/imgui) — (açıklama yok) — C++ · 0 yıldız
+- [dicroce/imgui](https://github.com/dicroce/imgui) — (açıklama yok) — C++ · 0 yıldız
+- [dikii544/Imgui](https://github.com/dikii544/Imgui) — (açıklama yok) — — · 0 yıldız
+- [docryze/imgui](https://github.com/docryze/imgui) — (açıklama yok) — C++ · 0 yıldız
 - [e1iot77OFFICIAL/ImGui](https://github.com/e1iot77OFFICIAL/ImGui) — (açıklama yok) — Lua · 0 yıldız
+- [egorsmth/imgui](https://github.com/egorsmth/imgui) — (açıklama yok) — C++ · 0 yıldız
+- [egrrratatuj-blip/Imgui](https://github.com/egrrratatuj-blip/Imgui) — (açıklama yok) — — · 0 yıldız
 - [elessarshaiya/ImGui](https://github.com/elessarshaiya/ImGui) — (açıklama yok) — — · 0 yıldız
+- [eliwoahzja/imgui](https://github.com/eliwoahzja/imgui) — (açıklama yok) — C · 0 yıldız
+- [emjayhaha00-cmyk/imgui](https://github.com/emjayhaha00-cmyk/imgui) — (açıklama yok) — C++ · 0 yıldız
+- [Eoburos/imgui](https://github.com/Eoburos/imgui) — (açıklama yok) — C++ · 0 yıldız
+- [epoqe/imgui](https://github.com/epoqe/imgui) — mirror of dear imgui with some extra stuff — C++ · 0 yıldız
+- [Evilfatoss/Imgui](https://github.com/Evilfatoss/Imgui) — gut — — · 0 yıldız
+- [evokable/imgui](https://github.com/evokable/imgui) — Dear Imgui in Evokable format — C++ · 0 yıldız
+- [evoncheats/imgui](https://github.com/evoncheats/imgui) — (açıklama yok) — C++ · 0 yıldız
 - [F3XS/ImGui](https://github.com/F3XS/ImGui) — (açıklama yok) — Lua · 0 yıldız
 - [faeiana/imgui](https://github.com/faeiana/imgui) — (açıklama yok) — Lua · 0 yıldız
+- [Farontir/imgui](https://github.com/Farontir/imgui) — (açıklama yok) — C++ · 0 yıldız
 - [fels-lang/imgui](https://github.com/fels-lang/imgui) — Fels bindings to Dear ImGui (docking branch) through cimgui — C · 0 yıldız
+- [FenrirBots/imgui](https://github.com/FenrirBots/imgui) — A minutely modified fork of Dear ImGui — C++ · 0 yıldız
+- [Florinacho/IMGUI](https://github.com/Florinacho/IMGUI) — (açıklama yok) — C · 0 yıldız
 - [gagi0911/imgui](https://github.com/gagi0911/imgui) — (açıklama yok) — — · 0 yıldız
 - [galactic-dust/imgui](https://github.com/galactic-dust/imgui) — (açıklama yok) — — · 0 yıldız
+- [GameDevDeps/imgui](https://github.com/GameDevDeps/imgui) — fork from https://github.com/ocornut/imgui — C++ · 0 yıldız
+- [GbMods22/Imgui](https://github.com/GbMods22/Imgui) — (açıklama yok) — — · 0 yıldız
 - [gehinkk05-code/Imgui](https://github.com/gehinkk05-code/Imgui) — (açıklama yok) — Lua · 0 yıldız
 - [geon2419/imgui](https://github.com/geon2419/imgui) — Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies — — · 0 yıldız
 - [Glenn-Gray-Labs/imgui](https://github.com/Glenn-Gray-Labs/imgui) — (açıklama yok) — — · 0 yıldız
+- [GoogleDepends/imgui](https://github.com/GoogleDepends/imgui) — (açıklama yok) — C++ · 0 yıldız
+- [GoonWareX/imgui](https://github.com/GoonWareX/imgui) — bru — C++ · 0 yıldız
+- [granolacomdanone/imgui](https://github.com/granolacomdanone/imgui) — (açıklama yok) — — · 0 yıldız
+- [hagypp/imgui](https://github.com/hagypp/imgui) — (açıklama yok) — C++ · 0 yıldız
+- [handsome1112/Imgui](https://github.com/handsome1112/Imgui) — (açıklama yok) — C++ · 0 yıldız
+- [hangocdinhnew/imgui](https://github.com/hangocdinhnew/imgui) — Hard Forked from StrataSource/imgui — C++ · 0 yıldız
+- [hankthetank5/imgui](https://github.com/hankthetank5/imgui) — added cmake to imgui — C++ · 0 yıldız
+- [harumo11/imgui](https://github.com/harumo11/imgui) — Installable imgui (cmake && make && sudo make install) — C++ · 0 yıldız
+- [hbomax1ano12-star/Imgui](https://github.com/hbomax1ano12-star/Imgui) — (açıklama yok) — C++ · 0 yıldız
+- [highowbio/Imgui](https://github.com/highowbio/Imgui) — (açıklama yok) — — · 0 yıldız
+- [Hoopdoop123/imgui](https://github.com/Hoopdoop123/imgui) — (açıklama yok) — C++ · 0 yıldız
 - [Horcruxes/imgui](https://github.com/Horcruxes/imgui) — (açıklama yok) — Python · 0 yıldız
+- [howareyouo/imgui](https://github.com/howareyouo/imgui) — (açıklama yok) — C++ · 0 yıldız
 - [hung-hv/imgui](https://github.com/hung-hv/imgui) — using imgui c++ — Python · 0 yıldız
 - [HustreLiny/imgui](https://github.com/HustreLiny/imgui) — (açıklama yok) — JavaScript · 0 yıldız
 - [iamRaavanan/imgui](https://github.com/iamRaavanan/imgui) — imgui setup for the RTH Engine — — · 0 yıldız
+- [IbrahimHindawi/imgui](https://github.com/IbrahimHindawi/imgui) — http://iki.fi/sol/imgui/ — C · 0 yıldız
+- [Ice340379/IMGUI](https://github.com/Ice340379/IMGUI) — 1 — — · 0 yıldız
+- [IcyTv/imgui](https://github.com/IcyTv/imgui) — Imgui, but with meson build support — C++ · 0 yıldız
 - [igrr/imgui](https://github.com/igrr/imgui) — (açıklama yok) — — · 0 yıldız
 - [IHjsefhFSL23AFLK1249/imgui](https://github.com/IHjsefhFSL23AFLK1249/imgui) — (açıklama yok) — Lua · 0 yıldız
+- [iiievan/imgui](https://github.com/iiievan/imgui) — imgui subrepo for dna engine — C++ · 0 yıldız
+- [imguiop/Imgui](https://github.com/imguiop/Imgui) — Imgui — — · 0 yıldız
 - [infiniteHQ/imgui](https://github.com/infiniteHQ/imgui) — ImGui graphical interface system for the Cherry & Vortex creation platform. This custom version of ImGui include custom… — — · 0 yıldız
+- [Insertso2/imgui](https://github.com/Insertso2/imgui) — (açıklama yok) — C++ · 0 yıldız
 - [ipgov62-rgb/imgui](https://github.com/ipgov62-rgb/imgui) — (açıklama yok) — Python · 0 yıldız
+- [iRath96/imgui](https://github.com/iRath96/imgui) — A fork of ocornut/imgui for use in my projects — C++ · 0 yıldız
 - [JakeyWasTaken/ImGui](https://github.com/JakeyWasTaken/ImGui) — Roblox DearImGui, yet to be named. — Lua · 0 yıldız
 - [jaredgk/IMgui](https://github.com/jaredgk/IMgui) — Front end, browser-based GUI for IMa2 software — C++ · 0 yıldız
+- [jesuissdf67/imgui](https://github.com/jesuissdf67/imgui) — imgui cert — — · 0 yıldız
 - [JJJJJJJustin/imgui](https://github.com/JJJJJJJustin/imgui) — A repo copied from imgui v1.66b, just for learning — — · 0 yıldız
+- [jjzhang166/imgui](https://github.com/jjzhang166/imgui) — (açıklama yok) — C++ · 0 yıldız
+- [joachimwestlund/imgui](https://github.com/joachimwestlund/imgui) — Test with Dear ImGui SDL3 and cmake — C++ · 0 yıldız
 - [jquepi/imgui](https://github.com/jquepi/imgui) — (açıklama yok) — — · 0 yıldız
+- [jreapc/imgui](https://github.com/jreapc/imgui) — (açıklama yok) — C++ · 0 yıldız
 - [jroimartin/imgui](https://github.com/jroimartin/imgui) — Dear ImGui bindings for Go. — C++ · 0 yıldız · arşiv
 - [jurgen-kluft/cimgui](https://github.com/jurgen-kluft/cimgui) — imgui wrapped within ccode — — · 0 yıldız
+- [k1ryanov/imgui](https://github.com/k1ryanov/imgui) — Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies — — · 0 yıldız
 - [kakarose2022/Imgui](https://github.com/kakarose2022/Imgui) — (açıklama yok) — C# · 0 yıldız
+- [kalians-maker/ImGui](https://github.com/kalians-maker/ImGui) — (açıklama yok) — — · 0 yıldız
 - [kernellsys/imgui](https://github.com/kernellsys/imgui) — (açıklama yok) — C++ · 0 yıldız
+- [kingmaker91317-ops/imgui](https://github.com/kingmaker91317-ops/imgui) — (açıklama yok) — C · 0 yıldız
 - [Klametz/imgui](https://github.com/Klametz/imgui) — (açıklama yok) — Lua · 0 yıldız
 - [Kodpact/imgui](https://github.com/Kodpact/imgui) — Fork of imgui — — · 0 yıldız
+- [kolorist/imgui](https://github.com/kolorist/imgui) — (açıklama yok) — C++ · 0 yıldız
+- [kookcj23/Imgui](https://github.com/kookcj23/Imgui) — (açıklama yok) — — · 0 yıldız
+- [KoronisCreator/Imgui](https://github.com/KoronisCreator/Imgui) — (açıklama yok) — — · 0 yıldız
+- [kunlun-shan/imgui](https://github.com/kunlun-shan/imgui) — (açıklama yok) — — · 0 yıldız
 - [kvalium/imgui](https://github.com/kvalium/imgui) — Simple ImageMagick GUi for processing several files at once — JavaScript · 0 yıldız
+- [kyrkCZ/IMGUI](https://github.com/kyrkCZ/IMGUI) — (açıklama yok) — — · 0 yıldız
 - [Kztutorial99/IMGUI](https://github.com/Kztutorial99/IMGUI) — (açıklama yok) — C · 0 yıldız
 - [LAK132/imgui](https://github.com/LAK132/imgui) — (açıklama yok) — — · 0 yıldız
+- [LazyFalcon/IMGUI](https://github.com/LazyFalcon/IMGUI) — (açıklama yok) — C++ · 0 yıldız
 - [LeeGeonJae/ImGui](https://github.com/LeeGeonJae/ImGui) — (açıklama yok) — — · 0 yıldız
 - [lequochaidevh/imgui](https://github.com/lequochaidevh/imgui) — Run imgui with docking and fix some issue linux. — — · 0 yıldız
 - [lethalaperedux/IMGUI](https://github.com/lethalaperedux/IMGUI) — (açıklama yok) — — · 0 yıldız
+- [Lindengrounder/imGui](https://github.com/Lindengrounder/imGui) — (açıklama yok) — C++ · 0 yıldız
 - [livmackintosh/imgui](https://github.com/livmackintosh/imgui) — (açıklama yok) — — · 0 yıldız
+- [loithanhquan-ltq/imgui](https://github.com/loithanhquan-ltq/imgui) — (açıklama yok) — — · 0 yıldız
+- [m-photon/Imgui](https://github.com/m-photon/Imgui) — imgui — — · 0 yıldız
 - [MapleCheatOsuLeak/imgui](https://github.com/MapleCheatOsuLeak/imgui) — !!!DO NOT USE CHEATS!!! REPO AND ORG CREATED WITH EDUCATIONAL AND ARCHIVING PURPOSES. PERSON WHO UPLOADED DOES NOT HAVE ANY… — C++ · 0 yıldız
 - [marc1uk/imgui](https://github.com/marc1uk/imgui) — imgui fork, with additions from imtui and imgui auto — — · 0 yıldız
 - [mariakesa/ImGUI](https://github.com/mariakesa/ImGUI) — (açıklama yok) — Python · 0 yıldız
+- [matsmikill/ImGui](https://github.com/matsmikill/ImGui) — (açıklama yok) — C++ · 0 yıldız
+- [megret/imgui](https://github.com/megret/imgui) — (açıklama yok) — C++ · 0 yıldız
+- [merlyalipante-cmyk/imgui](https://github.com/merlyalipante-cmyk/imgui) — (açıklama yok) — C++ · 0 yıldız
+- [Metadon-svg/Imgui](https://github.com/Metadon-svg/Imgui) — (açıklama yok) — — · 0 yıldız
 - [MingNian/ImGui](https://github.com/MingNian/ImGui) — (açıklama yok) — — · 0 yıldız
+- [MIRICHEAT/Imgui](https://github.com/MIRICHEAT/Imgui) — (açıklama yok) — — · 0 yıldız
+- [misomosi/imgui](https://github.com/misomosi/imgui) — imgui with basic cmake support — C++ · 0 yıldız
+- [MouriPre/Imgui](https://github.com/MouriPre/Imgui) — (açıklama yok) — — · 0 yıldız
+- [MrE-Fog/imgui](https://github.com/MrE-Fog/imgui) — (açıklama yok) — C++ · 0 yıldız
+- [Mrqeqe/imgui](https://github.com/Mrqeqe/imgui) — (açıklama yok) — C++ · 0 yıldız
 - [mtstanfield/imgui](https://github.com/mtstanfield/imgui) — Fork of ImGui to better support my WASM use-cases. — — · 0 yıldız
+- [MUrsLEeN0711/Imgui](https://github.com/MUrsLEeN0711/Imgui) — (açıklama yok) — HTML · 0 yıldız
 - [Myc123abc/imgui](https://github.com/Myc123abc/imgui) — imgui with cmake, build static lib with sdl3 and vulkan — C++ · 0 yıldız
+- [Mystical2090/imgui](https://github.com/Mystical2090/imgui) — (açıklama yok) — C++ · 0 yıldız
+- [newganesh/IMGUI](https://github.com/newganesh/IMGUI) — (açıklama yok) — — · 0 yıldız
 - [nguyenngotanhoang/imgui](https://github.com/nguyenngotanhoang/imgui) — ImGui for Mobile Not for PC — Lua · 0 yıldız
+- [nordsoyv/imgui](https://github.com/nordsoyv/imgui) — (açıklama yok) — TypeScript · 0 yıldız
 - [NotCalebCarlson/imgui](https://github.com/NotCalebCarlson/imgui) — (açıklama yok) — C · 0 yıldız
 - [notsonar/imgui](https://github.com/notsonar/imgui) — (açıklama yok) — Lua · 0 yıldız
+- [nowlife1337-pixel/imgui](https://github.com/nowlife1337-pixel/imgui) — (açıklama yok) — C++ · 0 yıldız
+- [nyyakko/imgui](https://github.com/nyyakko/imgui) — (açıklama yok) — C++ · 0 yıldız
 - [octoon/imgui](https://github.com/octoon/imgui) — Immediate Mode Graphic User Interface for Rust — Rust · 0 yıldız
+- [official-jahid/imgui](https://github.com/official-jahid/imgui) — (açıklama yok) — C++ · 0 yıldız
+- [OpenMandrivaAssociation/imgui](https://github.com/OpenMandrivaAssociation/imgui) — (açıklama yok) — — · 0 yıldız
+- [osksun/imgui](https://github.com/osksun/imgui) — imgui for Sne Engine — C++ · 0 yıldız
+- [P34R1/imgui](https://github.com/P34R1/imgui) — (açıklama yok) — C · 0 yıldız
+- [pagetu9-ops/Imgui](https://github.com/pagetu9-ops/Imgui) — (açıklama yok) — — · 0 yıldız
 - [paikhombalukram901-cpu/ImGui](https://github.com/paikhombalukram901-cpu/ImGui) — Cheats — — · 0 yıldız
+- [pegvin/imgui](https://github.com/pegvin/imgui) — A Immediate Mode GUI Library — C · 0 yıldız
+- [Peter23-max/IMGUI](https://github.com/Peter23-max/IMGUI) — (açıklama yok) — — · 0 yıldız
+- [PetrolStation/ImGui](https://github.com/PetrolStation/ImGui) — (açıklama yok) — C++ · 0 yıldız
 - [pierdell/imgui](https://github.com/pierdell/imgui) — (açıklama yok) — — · 0 yıldız
 - [QtSkia/imgui](https://github.com/QtSkia/imgui) — (açıklama yok) — — · 0 yıldız
 - [QuackDuckWall/ImGUI](https://github.com/QuackDuckWall/ImGUI) — Unity Gui creator — C# · 0 yıldız
 - [RedHit00091/imgui](https://github.com/RedHit00091/imgui) — imgui for spoofer — — · 0 yıldız
+- [reglnk/imgui](https://github.com/reglnk/imgui) — Dear ImGui fork for my engine — — · 0 yıldız
 - [rifkikesepara/imgui](https://github.com/rifkikesepara/imgui) — (açıklama yok) — — · 0 yıldız
+- [Rihen-Universe/ImGui](https://github.com/Rihen-Universe/ImGui) — Dear ImGui (ocornut) repackage pour le build Jenga de Nkentseu. MIT amont inchangee. — C++ · 0 yıldız
 - [romesonetone-glitch/Imgui](https://github.com/romesonetone-glitch/Imgui) — (açıklama yok) — Lua · 0 yıldız
 - [ruanwenfeng/imgui](https://github.com/ruanwenfeng/imgui) — imgui demo — C++ · 0 yıldız
+- [rubend056/imgui](https://github.com/rubend056/imgui) — Imgui Fork — C++ · 0 yıldız
+- [rudir/imgui](https://github.com/rudir/imgui) — (açıklama yok) — — · 0 yıldız
 - [Rxpl0it/Imgui](https://github.com/Rxpl0it/Imgui) — (açıklama yok) — Python · 0 yıldız
 - [sagpant/imgui](https://github.com/sagpant/imgui) — (açıklama yok) — — · 0 yıldız
+- [sanjarAmin/Imgui](https://github.com/sanjarAmin/Imgui) — (açıklama yok) — — · 0 yıldız
+- [sarkar-tanmoy/imgui](https://github.com/sarkar-tanmoy/imgui) — (açıklama yok) — C++ · 0 yıldız
+- [sddz-hl/imgui](https://github.com/sddz-hl/imgui) — (açıklama yok) — C++ · 0 yıldız
+- [Sekopa/imGUI](https://github.com/Sekopa/imGUI) — (açıklama yok) — HTML · 0 yıldız
+- [ShaoxinGu/imgui](https://github.com/ShaoxinGu/imgui) — My personal imgui project used for Toy Engine. — C++ · 0 yıldız
+- [Shaw75/imgui](https://github.com/Shaw75/imgui) — (açıklama yok) — C++ · 0 yıldız
 - [simpaul13/ImGui](https://github.com/simpaul13/ImGui) — this ImGui — — · 0 yıldız
 - [SiterBro235/imgui](https://github.com/SiterBro235/imgui) — (açıklama yok) — Lua · 0 yıldız
 - [skinnedraw/ImGui](https://github.com/skinnedraw/ImGui) — (açıklama yok) — Lua · 0 yıldız
+- [SliNGz/imgui](https://github.com/SliNGz/imgui) — (açıklama yok) — C++ · 0 yıldız
+- [Sloupsy/ImGUI](https://github.com/Sloupsy/ImGUI) — (açıklama yok) — — · 0 yıldız
+- [smt005/ImGui](https://github.com/smt005/ImGui) — (açıklama yok) — C++ · 0 yıldız
+- [sousas2ds/imgui](https://github.com/sousas2ds/imgui) — (açıklama yok) — — · 0 yıldız
 - [sraisleger/imgui](https://github.com/sraisleger/imgui) — AI javascript image to ui "translator" built with Google AI Studio — TypeScript · 0 yıldız
+- [standy66/imgui](https://github.com/standy66/imgui) — ocornut/imgui fork for building AlexBobkov/graphicssamples — C++ · 0 yıldız
+- [stezik/imgui](https://github.com/stezik/imgui) — (açıklama yok) — C++ · 0 yıldız
 - [stinkyfish1/IMGUI](https://github.com/stinkyfish1/IMGUI) — simple imgui template — C++ · 0 yıldız
+- [sultgalu/imgui](https://github.com/sultgalu/imgui) — (açıklama yok) — C++ · 0 yıldız
 - [sxyafiq/imgui](https://github.com/sxyafiq/imgui) — For cloning dependencies — — · 0 yıldız
+- [synced-dev/Imgui](https://github.com/synced-dev/Imgui) — (açıklama yok) — — · 0 yıldız
+- [Syntax404errorrr/ImGui](https://github.com/Syntax404errorrr/ImGui) — (açıklama yok) — C++ · 0 yıldız
+- [tawandachiteshe/imgui](https://github.com/tawandachiteshe/imgui) — (açıklama yok) — C++ · 0 yıldız
+- [tencentmalos/imgui](https://github.com/tencentmalos/imgui) — CemuAndroid submodule mirror for imgui — C++ · 0 yıldız
+- [thama1997/imgui](https://github.com/thama1997/imgui) — (açıklama yok) — — · 0 yıldız
+- [TheGod22113/imgui](https://github.com/TheGod22113/imgui) — (açıklama yok) — — · 0 yıldız
+- [theKlanc/imgui](https://github.com/theKlanc/imgui) — (açıklama yok) — C++ · 0 yıldız
+- [thienhanbaro/imgui](https://github.com/thienhanbaro/imgui) — (açıklama yok) — C++ · 0 yıldız
+- [tickbase/imgui](https://github.com/tickbase/imgui) — (açıklama yok) — C++ · 0 yıldız
+- [Touklakoss-inc/imgui](https://github.com/Touklakoss-inc/imgui) — (açıklama yok) — C++ · 0 yıldız
+- [TriangleUniverse/imgui](https://github.com/TriangleUniverse/imgui) — (açıklama yok) — C++ · 0 yıldız
+- [tyouhyou/imgui](https://github.com/tyouhyou/imgui) — A cross-platform immediate mode gui library. — C++ · 0 yıldız
 - [UNDRLORDOffical/ImGui](https://github.com/UNDRLORDOffical/ImGui) — ImGui — Lua · 0 yıldız
+- [unkoman12/imgui](https://github.com/unkoman12/imgui) — (açıklama yok) — HTML · 0 yıldız
 - [utkuyukseI/ImGui](https://github.com/utkuyukseI/ImGui) — (açıklama yok) — Lua · 0 yıldız
+- [vanindm/imgui](https://github.com/vanindm/imgui) — (açıklama yok) — C++ · 0 yıldız
+- [vbpcx/IMGUI](https://github.com/vbpcx/IMGUI) — (açıklama yok) — — · 0 yıldız
+- [Voxyety/IMGUI](https://github.com/Voxyety/IMGUI) — (açıklama yok) — — · 0 yıldız
+- [vseslav-k/imgui](https://github.com/vseslav-k/imgui) — (açıklama yok) — C++ · 0 yıldız
+- [webs3dev/imgui](https://github.com/webs3dev/imgui) — imgui : preset — C++ · 0 yıldız
+- [WeihanSun/imgui](https://github.com/WeihanSun/imgui) — samples of imgui — C++ · 0 yıldız
+- [widellt/imgui](https://github.com/widellt/imgui) — (açıklama yok) — C++ · 0 yıldız
+- [Winteradio/Imgui](https://github.com/Winteradio/Imgui) — CMakelists file for the imgui's backends — — · 0 yıldız
 - [wk5882846/imgui](https://github.com/wk5882846/imgui) — A Qt frontend program based on ImageMagick — C++ · 0 yıldız
+- [wkslight/imgui](https://github.com/wkslight/imgui) — (açıklama yok) — C++ · 0 yıldız
+- [wroyca/imgui](https://github.com/wroyca/imgui) — build2 package repository for imgui. — Ruby · 0 yıldız
+- [wuzzpedia28/imgui](https://github.com/wuzzpedia28/imgui) — (açıklama yok) — — · 0 yıldız
+- [www2wwdcs/IMGUI](https://github.com/www2wwdcs/IMGUI) — (açıklama yok) — C++ · 0 yıldız
+- [XianchaoZhang/imgui](https://github.com/XianchaoZhang/imgui) — (açıklama yok) — C++ · 0 yıldız
+- [xiaochu670/imgui](https://github.com/xiaochu670/imgui) — (açıklama yok) — C++ · 0 yıldız
 - [Xireblud/Imgui](https://github.com/Xireblud/Imgui) — (açıklama yok) — — · 0 yıldız
+- [XoSoLin/imgui](https://github.com/XoSoLin/imgui) — 用于SoLin引擎子模块 — C++ · 0 yıldız
+- [xpippi/imgui](https://github.com/xpippi/imgui) — (açıklama yok) — C++ · 0 yıldız
+- [xunq-dev/imgui](https://github.com/xunq-dev/imgui) — some description — C · 0 yıldız
+- [xyl1t/imgui](https://github.com/xyl1t/imgui) — Immediate mode gui — C · 0 yıldız
+- [Xylee999/imgui](https://github.com/Xylee999/imgui) — js sum — — · 0 yıldız
+- [XYX0729/imgui](https://github.com/XYX0729/imgui) — (açıklama yok) — C++ · 0 yıldız
+- [yamato-t/imgui](https://github.com/yamato-t/imgui) — (açıklama yok) — C++ · 0 yıldız
+- [yousef-ibraheem/imgui](https://github.com/yousef-ibraheem/imgui) — (açıklama yok) — C++ · 0 yıldız
+- [YssanODL/imgui](https://github.com/YssanODL/imgui) — (açıklama yok) — C++ · 0 yıldız
+- [ZanderZ15/imgui](https://github.com/ZanderZ15/imgui) — (açıklama yok) — C++ · 0 yıldız
+- [zesttbz/ImGUI](https://github.com/zesttbz/ImGUI) — (açıklama yok) — C++ · 0 yıldız
+- [zhouzhiying2022/imgui](https://github.com/zhouzhiying2022/imgui) — (açıklama yok) — — · 0 yıldız
+- [Zollerboy1/ImGui](https://github.com/Zollerboy1/ImGui) — (açıklama yok) — Swift · 0 yıldız
 - [Zyexify/imgui](https://github.com/Zyexify/imgui) — imgui for tesla priv — Lua · 0 yıldız
 
 ## 2. Oyun Cheat / Hile Menüleri — REKABET SAHASI (oyun oyun döküldü)
 
-### CS / CS2 / CSGO — 4991 repo
+### CS / CS2 / CSGO — 5036 repo
 
 - [danielkrupinski/Osiris](https://github.com/danielkrupinski/Osiris) — Cross-platform game hack for Counter-Strike 2 with Panorama-based GUI. — C++ · 3937 yıldız
 - [a2x/cs2-dumper](https://github.com/a2x/cs2-dumper) — Counter-Strike: 2 Offset Dumper — Rust · 2508 yıldız
@@ -332,6 +514,7 @@
 - [nezu-cc/BakaWare4](https://github.com/nezu-cc/BakaWare4) — Counter-Strike 2 cheat — C++ · 84 yıldız
 - [user8738423/AnimeSoftware](https://github.com/user8738423/AnimeSoftware) — C# External griefing cheat for Counter-Strike: Global Offensive. — C# · 84 yıldız
 - [lua9520/source-engine-2018-cstrike15_src](https://github.com/lua9520/source-engine-2018-cstrike15_src) — Leaked CSGO Source Engine source code from ~2018. Thanks Tyler McVicker! (lib excluded) — — · 82 yıldız
+- [Marekc05/counter-strike-source-trainer-mod-menu](https://github.com/Marekc05/counter-strike-source-trainer-mod-menu) — Counter-Strike: Source Mods, Trainer & Configuration Toolkit — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui… — Go · 81 yıldız
 - [mert-batu/cs1.6-multitool](https://github.com/mert-batu/cs1.6-multitool) — Counter Strike 1.6 - External Python Multi Tool — Python · 80 yıldız
 - [UnrealKaraulov/UnrealDemoScanner](https://github.com/UnrealKaraulov/UnrealDemoScanner) — Demo files (.dem) cheat scan tool for CS 1.6/CS:Z — C · 80 yıldız
 - [mzdw89/csgo-external-esp](https://github.com/mzdw89/csgo-external-esp) — External CS:GO ESP — C++ · 77 yıldız
@@ -653,6 +836,7 @@
 - [gebroni1337/Internal-Chams-CS-2](https://github.com/gebroni1337/Internal-Chams-CS-2) — Base with chams and schema for the game CS2 Discord for help: never_ccc — C++ · 10 yıldız
 - [im-razvan/CS2_Aimbot](https://github.com/im-razvan/CS2_Aimbot) — External CS2 aimbot made in C++. — C++ · 10 yıldız
 - [imi-tat0r/unmatched_snippets](https://github.com/imi-tat0r/unmatched_snippets) — Code snippets from or in relation to unmatched and CSGO HvH in general — SourcePawn · 10 yıldız
+- [KkK1337/OpenGL-Wallhack](https://github.com/KkK1337/OpenGL-Wallhack) — CS 1.6 OpenGL Wallhack Simplebase by KkK1337 — C++ · 10 yıldız
 - [Kryx7z/Conglomerate-Cs2](https://github.com/Kryx7z/Conglomerate-Cs2) — Conglomerate is a free internal Cs2 cheat. — C++ · 10 yıldız
 - [Lit3r4lly/freeze-dumper](https://github.com/Lit3r4lly/freeze-dumper) — A tool made for making cheats working dynamically without updating offsets or netvars manually. — C · 10 yıldız
 - [manuroger112/FullExternal-CS2-No-Recoil](https://github.com/manuroger112/FullExternal-CS2-No-Recoil) — A simple full external CS2 Recoil Script — C++ · 10 yıldız
@@ -714,6 +898,7 @@
 - [lujiangz/trixware](https://github.com/lujiangz/trixware) — trixware csgo cheat ( translated to english) — C++ · 8 yıldız
 - [MartinBenes/Loader2](https://github.com/MartinBenes/Loader2) — Nova Hook is an open source C# cheat loader currently built for CS:GO — C# · 8 yıldız
 - [nsarka/cs-internal-hack](https://github.com/nsarka/cs-internal-hack) — Internal hack for Counterstrike 1.6 — C · 8 yıldız
+- [opalgeorgii/WallhackPluginCS2](https://github.com/opalgeorgii/WallhackPluginCS2) — A plugin that recreates the 1 vs 5 wallhack and invisible gamemodes for CS2 — C# · 8 yıldız
 - [oqyh/cs2-Reveal-Last-Alive-GoldKingZ](https://github.com/oqyh/cs2-Reveal-Last-Alive-GoldKingZ) — Reveal Last Player Alive By Glow/Chicken — C# · 8 yıldız
 - [pwnedboi/csgobase](https://github.com/pwnedboi/csgobase) — A simple base for a CS:GO cheat for macOS — C++ · 8 yıldız
 - [Shaxzy/Aimware-scripts](https://github.com/Shaxzy/Aimware-scripts) — Lua scripts for AIMWARE hack for Counter Strike: Global Offensive — Lua · 8 yıldız
@@ -910,6 +1095,7 @@
 - [affectioned/CS2_DMA_RADAR](https://github.com/affectioned/CS2_DMA_RADAR) — Read-only CS2 radar over FPGA DMA — offline modding & educational use only — C++ · 4 yıldız
 - [ALBAN-1776/AdvancedGlowCS2](https://github.com/ALBAN-1776/AdvancedGlowCS2) — Advanced ESP is a powerful server-side ESP plugin for Counter-Strike 2, built on CounterStrikeSharp. It provides real-time player… — C# · 4 yıldız
 - [Aleksei533/CSGO-MW2019-Weapons](https://github.com/Aleksei533/CSGO-MW2019-Weapons) — A full-fledged weapons pack from Call of Duty: Modern Warfare 2019 ported to Counter-Strike: Global Offensive. All weapons are… — — · 4 yıldız
+- [alikeser/CS2_Python_Wallhack](https://github.com/alikeser/CS2_Python_Wallhack) — Python dili ile yazılmış , CS2 oyunu için Wallhack özelliğidir. — Python · 4 yıldız
 - [Astrol99/AIO](https://github.com/Astrol99/AIO) — A C# CSGO cheat — C# · 4 yıldız
 - [B3n00n/CS2-IOCTL](https://github.com/B3n00n/CS2-IOCTL) — This IOCTL project demonstrates communication between user mode and kernel mode in Windows, for a CS2 ESP. — C++ · 4 yıldız
 - [baarsik/CounterStrikeExtended](https://github.com/baarsik/CounterStrikeExtended) — Extended Counter-Strike 1.6 build using GoldSrc-SDK repository as a base — C++ · 4 yıldız
@@ -1172,6 +1358,7 @@
 - [xxIslexx/aimbot](https://github.com/xxIslexx/aimbot) — CS2 Internal Aimbot — C++ · 3 yıldız
 - [Yanellix/cs2-simple-external](https://github.com/Yanellix/cs2-simple-external) — Simple cheat on cs2 written on python — Python · 3 yıldız
 - [Yang-zhiyuan/gamerwarev2.5](https://github.com/Yang-zhiyuan/gamerwarev2.5) — gamerware v2.5 latest source self leak (csgo hvh/legit cheat) — C++ · 3 yıldız
+- [yazzakm/locware-cs2](https://github.com/yazzakm/locware-cs2) — locware wallhack(boxes) for cs2 — C++ · 3 yıldız
 - [yehiabrkt46-arch/CS2-Market-Scrapers](https://github.com/yehiabrkt46-arch/CS2-Market-Scrapers) — Multi-market CS2 skin price aggregation system: Cloudflare/JWT/anti-bot bypass, 20-lane proxy pool, unified REST API. — — · 3 yıldız
 - [yHER0/RapidFire-Cheat-Detection](https://github.com/yHER0/RapidFire-Cheat-Detection) — Python tool for detecting rapid fire cheats in CS2. — Python · 3 yıldız
 - [zerrocxste/alternative-csgo-internal](https://github.com/zerrocxste/alternative-csgo-internal) — internal cheat — C++ · 3 yıldız · arşiv
@@ -1187,6 +1374,7 @@
 - [Adiru3/PSA-Source-Engine](https://github.com/Adiru3/PSA-Source-Engine) — PSA Source Engine - Perfect Sensitivity Finder — HTML · 2 yıldız
 - [adityaalle1/AimSense-with-Claude-vision-](https://github.com/adityaalle1/AimSense-with-Claude-vision-) — (You need an anthropic API key, and results are not accurate) AimSense AI is a browser-based FPS aim analyzer powered by Claude… — HTML · 2 yıldız
 - [ai-warre/Ai-SoftWare](https://github.com/ai-warre/Ai-SoftWare) — The Best and optimised neiron aimbot for any game — — · 2 yıldız
+- [alex-0ff/csgowallhack](https://github.com/alex-0ff/csgowallhack) — Undetected Csgo wallhack, glowhack and bunnyHoping — — · 2 yıldız · arşiv
 - [alsacchi/Linux-CSGO-Offset](https://github.com/alsacchi/Linux-CSGO-Offset) — Some Offset and LocalPlayer address of the linux (64bit) version of CSGO 1.37.0.8 — — · 2 yıldız
 - [amirhosseindk/RTG](https://github.com/amirhosseindk/RTG) — Road To Global is an user management & launcher for CSGO cheat based on C# — C# · 2 yıldız
 - [AndriiFil2006/CS2ExtHackwIMGUI](https://github.com/AndriiFil2006/CS2ExtHackwIMGUI) — CS2 External Hack with IMGUI. (ESP, BHop, TriggerBot, AntiFlash) — C++ · 2 yıldız
@@ -1288,6 +1476,7 @@
 - [Jan8192/csgo-external](https://github.com/Jan8192/csgo-external) — An external csgo cheat — C++ · 2 yıldız
 - [Jason4225/Karine-CS2-External](https://github.com/Jason4225/Karine-CS2-External) — A simple CS2 external base with a easy expandable sdk. — C++ · 2 yıldız
 - [Jasper1467/CSGO-Cheat](https://github.com/Jasper1467/CSGO-Cheat) — (açıklama yok) — C++ · 2 yıldız
+- [jjdredd/cs1.6wh](https://github.com/jjdredd/cs1.6wh) — Counter-Strike 1.6 wallhack in assembly (custom client) — Assembly · 2 yıldız
 - [JMHG-CHEATS/JMHG-CSGO-DRIVER](https://github.com/JMHG-CHEATS/JMHG-CSGO-DRIVER) — a csgo driver cheat that is still a work in progress — C · 2 yıldız
 - [joaovarelas/csgo-external-hack](https://github.com/joaovarelas/csgo-external-hack) — Counter-Strike: Global Offensive Memory Hack — C++ · 2 yıldız
 - [jonteohr/Warden-Menu](https://github.com/jonteohr/Warden-Menu) — Sourcemod plugin for Jailbreak servers. Giving wardens a special menu to execute games with specific game-rules. — SourcePawn · 2 yıldız
@@ -1327,6 +1516,7 @@
 - [M-Elliot/Base2Me](https://github.com/M-Elliot/Base2Me) — The Open Source External C# CS:GO Base — C# · 2 yıldız
 - [m1234d/CSGO-External-Hack](https://github.com/m1234d/CSGO-External-Hack) — An external hack with basic features like wallbot, aimbot, triggerbot, and bhop. — C++ · 2 yıldız
 - [MAcv1sh/CSGO2-External](https://github.com/MAcv1sh/CSGO2-External) — A C++-based cheat for Counter-Strike: Global Offensive 2 (CSGO2) featuring Aimbot, Wallhack, ESP, Triggerbot, No Recoil, and… — C++ · 2 yıldız
+- [Maksimus500/cs2glowwh](https://github.com/Maksimus500/cs2glowwh) — Cs2 glow wallhack — C++ · 2 yıldız
 - [MaqdadShow/CS2---AI-Aimbot-Hack](https://github.com/MaqdadShow/CS2---AI-Aimbot-Hack) — Educational purposes only!!!: AI aiming research and simulation — for single-player/simulated use only. I am not responsible for… — Python · 2 yıldız
 - [MatheusSw/GamersClub-Allow-handle](https://github.com/MatheusSw/GamersClub-Allow-handle) — With this you can open handles to Counter-Strike: Global Offensive with the GamersClub anti-cheat running. — C++ · 2 yıldız
 - [MathieuLussier/Csgo-Cheat-External](https://github.com/MathieuLussier/Csgo-Cheat-External) — Csgo-Cheat-External — C# · 2 yıldız
@@ -1366,6 +1556,7 @@
 - [PMArkive/sm-surf-trainer](https://github.com/PMArkive/sm-surf-trainer) — realtime feedback for surfing in css & csgo — — · 2 yıldız
 - [PoorlyDefinedBehaviour/csgo-external-bhop-glow-radar](https://github.com/PoorlyDefinedBehaviour/csgo-external-bhop-glow-radar) — csgo shenanigans — C++ · 2 yıldız
 - [prisect/uchf](https://github.com/prisect/uchf) — unefficient cs2 hack framework — C++ · 2 yıldız
+- [ps1337/csgo-wallhack-noflash-nosmoke](https://github.com/ps1337/csgo-wallhack-noflash-nosmoke) — yes — C++ · 2 yıldız
 - [psutarjo/CSGOAimbot](https://github.com/psutarjo/CSGOAimbot) — CSGO aimbot using view angles — C++ · 2 yıldız
 - [pTriangle/CSGORadar](https://github.com/pTriangle/CSGORadar) — A minimal Internal RadarHack for CS:GO. — C++ · 2 yıldız
 - [QAQmolingQAQ/CSGO-Steam-Auth-Bypass](https://github.com/QAQmolingQAQ/CSGO-Steam-Auth-Bypass) — Bypass CS:GO (Legacy) IP validation for servers behind NAT/FRP using SourceMod memory patching. — SourcePawn · 2 yıldız
@@ -1410,6 +1601,7 @@
 - [Starfie1d1272/rival-rating](https://github.com/Starfie1d1272/rival-rating) — RR (Rival Rating) absolute-scale scalar + PRISM 8-dimension style radar. Independent CS2 esports rating engine. Pure functions,… — TypeScript · 2 yıldız
 - [stokbrot/CSGO-Multihack](https://github.com/stokbrot/CSGO-Multihack) — basically soem stuff i have on my pc (Probably i didn't make those ) — Python · 2 yıldız
 - [SubwooferLullaby/scoreline](https://github.com/SubwooferLullaby/scoreline) — Live scores, told play by play: MLB, NFL, NBA, soccer, CS2 and climbing, every play on a small animated field. Free on the web,… — TypeScript · 2 yıldız
+- [superbhunte/cs2-wallhack-2026](https://github.com/superbhunte/cs2-wallhack-2026) — CS2 pure wallhack and radar — see all CT and T positions in real time. — — · 2 yıldız
 - [swim4159/aimware-cs2-aa-test](https://github.com/swim4159/aimware-cs2-aa-test) — some aa stuff 4 aimware cs2. luafully pasted using chat gpt btw — Lua · 2 yıldız
 - [SZaKi-SIS/KNET.DEV](https://github.com/SZaKi-SIS/KNET.DEV) — CS2 cheat — — · 2 yıldız
 - [szge/WhateverYouWant](https://github.com/szge/WhateverYouWant) — CS:GO cheat — C++ · 2 yıldız
@@ -1494,6 +1686,7 @@
 - [algertc/CSGO-quick-scope-reset](https://github.com/algertc/CSGO-quick-scope-reset) — This Script Quickly switches to another weapon then back to your AWP/SSG to reset your scope while you reload. This is much… — AutoHotkey · 1 yıldız
 - [ali4gbd/M-A-HOSSAIN](https://github.com/ali4gbd/M-A-HOSSAIN) — Web Developer & Graphics Designer. YouTube Content Creator & Blogger, Android Apps Developer. and Office Assist. in ICT and… — — · 1 yıldız
 - [alikeser/cs2-dumped-offsets](https://github.com/alikeser/cs2-dumped-offsets) — (açıklama yok) — — · 1 yıldız
+- [alikeser/CSGO_Python_Wallhack](https://github.com/alikeser/CSGO_Python_Wallhack) — Python dili ile yazılmış , CSGO oyunu için Wallhack özelliğidir. — Python · 1 yıldız
 - [alooftr/OxyPremiumSRC](https://github.com/alooftr/OxyPremiumSRC) — OxyPremium CSGO Cheats — C++ · 1 yıldız
 - [alstorxds/CS2-SIMPLE-KIERO-AIMBOT-ESP-](https://github.com/alstorxds/CS2-SIMPLE-KIERO-AIMBOT-ESP-) — CS2 SIMPLE KIERO (AIMBOT, ESP) — C++ · 1 yıldız
 - [Alyx-Network/HvH-Essentials](https://github.com/Alyx-Network/HvH-Essentials) — A plugin for server admins in Counter-Strike: Global Offensive which provides restrictions for some exploits and more utilities. — SourcePawn · 1 yıldız
@@ -1712,6 +1905,7 @@
 - [GooseDaHacka/Csgo-demo-cheats](https://github.com/GooseDaHacka/Csgo-demo-cheats) — basic csgo cheat library showing off basic memory editing automation — C++ · 1 yıldız
 - [GpuCustodianLose/Genesis-External-CS2](https://github.com/GpuCustodianLose/Genesis-External-CS2) — (açıklama yok) — — · 1 yıldız
 - [graySixS/HWID-ProChange](https://github.com/graySixS/HWID-ProChange) — Rich functionality, error-free use, best HWID Changing tool! — — · 1 yıldız
+- [GreengrayVR/CSGO-Wallhack](https://github.com/GreengrayVR/CSGO-Wallhack) — CSGO Wallhack in C# — C# · 1 yıldız
 - [gregoryc1059/deadlock](https://github.com/gregoryc1059/deadlock) — Top Deadlock Gameplay Enhancement Suite 2026: ESP & No Recoil — Java · 1 yıldız
 - [grinvolod13/yolo11-cs1.6-aimbot](https://github.com/grinvolod13/yolo11-cs1.6-aimbot) — Counter-Strike 1.6 Aimbot using Yolo11n object detection model — Jupyter Notebook · 1 yıldız
 - [guermatsidahmed/Counter-Strike-2-Hack-](https://github.com/guermatsidahmed/Counter-Strike-2-Hack-) — 1. Disable / remove antivirus (files are completely clean) — — · 1 yıldız
@@ -1749,6 +1943,7 @@
 - [hXR16F/Counter-Strike-1.6-Command-Menu](https://github.com/hXR16F/Counter-Strike-1.6-Command-Menu) — Advanced command menu for Counter Strike 1.6 with scripts/cheats and more. — — · 1 yıldız · arşiv
 - [i11usoryCat/cs2-aim-tools](https://github.com/i11usoryCat/cs2-aim-tools) — CS2 sensitivity calibrator and flick trainer (browser based, no game integration) — HTML · 1 yıldız
 - [ibaifarina/CSGO-Cheat](https://github.com/ibaifarina/CSGO-Cheat) — Basic CSGO ESP cheat. I will implement more functionality in the future. Under Development. — C++ · 1 yıldız · arşiv
+- [icheet/Simple-Wallhack-For-CS-1.6](https://github.com/icheet/Simple-Wallhack-For-CS-1.6) — A simple wallhack for cs 1.6 made with cshackcreator v2 demo by BloodSharp — — · 1 yıldız
 - [igormaozao/csgo-simple-wallhack](https://github.com/igormaozao/csgo-simple-wallhack) — Simple CS:GO wallhack with an auto updater — C# · 1 yıldız
 - [IhsanDevs/CS-Wallhack](https://github.com/IhsanDevs/CS-Wallhack) — A simple tool to activate the Wallhack cheat in the Counter Strike game. — — · 1 yıldız
 - [ikhsanprasetyo/cs2-kernel-esp](https://github.com/ikhsanprasetyo/cs2-kernel-esp) — Utilizes a kernel driver for memory reading and external DirectX overlay rendering, enabling visual overlays that can display… — — · 1 yıldız
@@ -1798,6 +1993,7 @@
 - [keithpriv/cs-go-onetap-v4](https://github.com/keithpriv/cs-go-onetap-v4) — cs:go onetap-v4 crack: https://dosya.co/s6xmcy12fz0e/onetap_v4.zip.html — — · 1 yıldız
 - [kennethf6057/left-4-dead-2](https://github.com/kennethf6057/left-4-dead-2) — Top Left 4 Dead 2 Gameplay Enhancement Suite 2026: ESP & No Recoil — Dart · 1 yıldız
 - [kennyhml/CS-Internal](https://github.com/kennyhml/CS-Internal) — An internal cheat for Counter-Strike: Global Offensive — C · 1 yıldız
+- [kernel-red/CSGO_Scoreboard_Wallhack](https://github.com/kernel-red/CSGO_Scoreboard_Wallhack) — Small CS:GO Wallhack - Moving your cursor to enemy's location when Scoreboard is opened — C++ · 1 yıldız
 - [KeyGen2009/CS2_AutoBunny_Internal_kg](https://github.com/KeyGen2009/CS2_AutoBunny_Internal_kg) — Simple Auto bhop internal for CS2 — C++ · 1 yıldız
 - [killerfrost22/csgo_hacks](https://github.com/killerfrost22/csgo_hacks) — title completes me: including Radar, Wall, Aimbot — Python · 1 yıldız · arşiv
 - [kingking888/-CSGO-Hack---Chinese-version](https://github.com/kingking888/-CSGO-Hack---Chinese-version) — CSGO辅助 Osiris海王 汉化版 中文版 / CSGO Hack - Osiris Chinese version — — · 1 yıldız
@@ -1866,6 +2062,7 @@
 - [Mengzui520/CS2-Cheat-study](https://github.com/Mengzui520/CS2-Cheat-study) — (açıklama yok) — C · 1 yıldız
 - [mervecument/ModMenu](https://github.com/mervecument/ModMenu) — konular: cheating, csgo, csgo-aimbot, csgo-cheat, csgo-cheats, csgo-hack — — · 1 yıldız
 - [mihaigsm2003/CS2-AntiCheat](https://github.com/mihaigsm2003/CS2-AntiCheat) — AntiCheat for CS2 — C++ · 1 yıldız
+- [miikaoskari/cs2kernel](https://github.com/miikaoskari/cs2kernel) — cs2 kernel level wallhack — C++ · 1 yıldız
 - [mikeeek/external-csgo-triggerbot](https://github.com/mikeeek/external-csgo-triggerbot) — simple triggerbot using read/write processmemory — C++ · 1 yıldız
 - [mileseverett/CS2AC](https://github.com/mileseverett/CS2AC) — Server-side anti-cheat for Counter-Strike 2 community servers, built for Metamod:Source. — — · 1 yıldız
 - [mindorcaquilt/Aimware-CS2](https://github.com/mindorcaquilt/Aimware-CS2) — Modular software suite for Counter-Strike 2. Features ESP visuals, ragebot, movement tools, radar overlay, spectator list, and… — — · 1 yıldız
@@ -1938,6 +2135,7 @@
 - [pwnengine/core-dump](https://github.com/pwnengine/core-dump) — csgo cheat — C · 1 yıldız
 - [pxwcern/cs2-skin-case-opening-site](https://github.com/pxwcern/cs2-skin-case-opening-site) — Fully builded with Hands. U can use this project as base. — TypeScript · 1 yıldız
 - [q3964889/njrok](https://github.com/q3964889/njrok) — private injector for cs2 — — · 1 yıldız
+- [qParanoia/OneByteWallhackCS2](https://github.com/qParanoia/OneByteWallhackCS2) — CS2 wallhack achieved by patching multiple bytes of game memory. Written in Python 3. — Python · 1 yıldız
 - [Qu1ckDr4w/ls-loader](https://github.com/Qu1ckDr4w/ls-loader) — Loader that injects a .dll file in to csgo.exe process. — — · 1 yıldız
 - [RabbiCU/Legit-Cheat-For-CS2](https://github.com/RabbiCU/Legit-Cheat-For-CS2) — If you can’t download / install program , you need to: — — · 1 yıldız
 - [rafalohaki/ACSGOMH](https://github.com/rafalohaki/ACSGOMH) — A CS:GO MultiHack — PureBasic · 1 yıldız
@@ -2042,6 +2240,7 @@
 - [superboxes/csgo-kernel-cheat](https://github.com/superboxes/csgo-kernel-cheat) — old cheat for csgo i made, im posting it since i cant be bothered to update it for cs2 and i dont play cs2 anyways — C · 1 yıldız
 - [superisuer/cs2-offsets](https://github.com/superisuer/cs2-offsets) — Regular offsets for Counter-Strike 2 in JSON. — — · 1 yıldız · arşiv
 - [sus12345s/Silent-Ware](https://github.com/sus12345s/Silent-Ware) — Open Sourced, Internal CS2 Cheat — C · 1 yıldız
+- [susindus/CS2-wallhack](https://github.com/susindus/CS2-wallhack) — CS2=wallhack — Batchfile · 1 yıldız
 - [SweatyHutJr/Anti-Aim](https://github.com/SweatyHutJr/Anti-Aim) — Internal Counter-Strike 2 Cheat including BHOP, ESP, Radar, Anti-Aim, Aimbot, and Triggerbot. Smoothing, and FOV Circle included.… — C++ · 1 yıldız
 - [swog/unchosen](https://github.com/swog/unchosen) — a csgo cheat — C++ · 1 yıldız · arşiv
 - [syndicate2k/AHK-Pixel-Aimbot](https://github.com/syndicate2k/AHK-Pixel-Aimbot) — Aim assist for Counter-Strike: Global Offensive — AutoHotkey · 1 yıldız
@@ -2597,6 +2796,7 @@
 - [chicobanza13comeback/poppersense](https://github.com/chicobanza13comeback/poppersense) — free cs2 cheat (this is wip) — C++ · 0 yıldız
 - [ChillyDoggins/CS2-DMA-Aimbot](https://github.com/ChillyDoggins/CS2-DMA-Aimbot) — CS2 DMA Aimbot that uses FPGA to read RAM from another PC - Written in Rust — Rust · 0 yıldız
 - [chinjiaqing/csgo-esp](https://github.com/chinjiaqing/csgo-esp) — 基于Nodejs的CSGO画框科技，csgo esp by Nodejs. — TypeScript · 0 yıldız
+- [Chopper1337/HassuckWH](https://github.com/Chopper1337/HassuckWH) — Simple CS2 wallhack for linux — — · 0 yıldız
 - [chrisbyigray7774/cs2-script-loader-2026](https://github.com/chrisbyigray7774/cs2-script-loader-2026) — Windows-oriented CS2 profile customizer and game-file editor for local profile editing, config creation, and assisted gameplay… — HTML · 0 yıldız
 - [chrisdepas/CSX-CSGOExternal](https://github.com/chrisdepas/CSX-CSGOExternal) — Counter Strike: Global Offensive External cheat — C++ · 0 yıldız
 - [Christianchurchpiperin3109/christianchurchpiperin3109.github.io](https://github.com/Christianchurchpiperin3109/christianchurchpiperin3109.github.io) — Bypass VAC on CS2 servers and load unsigned modules without ban risk using a kernel driver. — JavaScript · 0 yıldız
@@ -2682,7 +2882,15 @@
 - [Counter-Strike-2-Ha-ck/.github](https://github.com/Counter-Strike-2-Ha-ck/.github) — Counter-Strike 2 Hack Suite is a broad CS2 toolkit that combines aim, visuals, recoil control, and utility tweaks under one… — — · 0 yıldız
 - [Counter-Strike-2-Hac-k/.github](https://github.com/Counter-Strike-2-Hac-k/.github) — Counter-Strike 2 Hack Suite is a broad CS2 toolkit that combines aim, visuals, recoil control, and utility tweaks under one… — — · 0 yıldız
 - [Counter-Strike-2-heats/.github](https://github.com/Counter-Strike-2-heats/.github) — Counter-Strike 2 cheats with a cheat panel, aimbot, player ESP, item ESP, radar, and scripts. Triggerbot, recoil control, bomb… — — · 0 yıldız
+- [Counter-Strike-2-W-all-hack/.github](https://github.com/Counter-Strike-2-W-all-hack/.github) — Counter-Strike 2 Wallhack Scope is a see-through-walls visual layer for CS2 that outlines players through geometry, smoke, and… — — · 0 yıldız
+- [Counter-Strike-2-W-allhac-k/.github](https://github.com/Counter-Strike-2-W-allhac-k/.github) — Counter-Strike 2 Wallhack Scope is a see-through-walls visual layer for CS2 that outlines players through geometry, smoke, and… — — · 0 yıldız
+- [Counter-Strike-2-W-allhack/.github](https://github.com/Counter-Strike-2-W-allhack/.github) — Counter-Strike 2 Wallhack Scope is a see-through-walls visual layer for CS2 that outlines players through geometry, smoke, and… — — · 0 yıldız
+- [Counter-Strike-2-Wa-llha-ck/.github](https://github.com/Counter-Strike-2-Wa-llha-ck/.github) — Counter-Strike 2 Wallhack Scope is a see-through-walls visual layer for CS2 that outlines players through geometry, smoke, and… — — · 0 yıldız
+- [Counter-Strike-2-Wal-lh-ack/.github](https://github.com/Counter-Strike-2-Wal-lh-ack/.github) — Counter-Strike 2 Wallhack Scope is a see-through-walls visual layer for CS2 that outlines players through geometry, smoke, and… — — · 0 yıldız
+- [Counter-Strike-2-Wal-lhack/.github](https://github.com/Counter-Strike-2-Wal-lhack/.github) — Counter-Strike 2 Wallhack Scope — CS2 wallhack with player silhouettes through walls, smoke and props. Adjustable colors, range… — — · 0 yıldız
 - [Counter-Strike-2-Wall-hack/.github](https://github.com/Counter-Strike-2-Wall-hack/.github) — Counter-Strike 2 wallhack with player visibility overlays, box indicators, health displays, distance labels, skeleton visuals,… — — · 0 yıldız
+- [Counter-Strike-2-Wallh-ack/.github](https://github.com/Counter-Strike-2-Wallh-ack/.github) — Counter-Strike 2 Wallhack Scope is a see-through-walls visual layer for CS2 that outlines players through geometry, smoke, and… — — · 0 yıldız
+- [Counter-Strike-2-Wallha-ck/.github](https://github.com/Counter-Strike-2-Wallha-ck/.github) — Counter-Strike 2 Wallhack Scope — CS2 wallhack with player silhouettes through walls, smoke and props. Adjustable colors, range… — — · 0 yıldız
 - [Counter-Strike-2Cheat/.github](https://github.com/Counter-Strike-2Cheat/.github) — Counter-Strike 2 Cheats is a Windows desktop utility concept for organizing weapon references, map callouts, utility lineups,… — — · 0 yıldız
 - [Counter-Strike-2Cheats/.github](https://github.com/Counter-Strike-2Cheats/.github) — Counter-Strike 2 cheats and tools: aim settings, trigger options, player ESP in Counter-Strike 2 Cheats. — — · 0 yıldız
 - [Counter-Strike-2Cheats/Counter-Strike-2Cheats](https://github.com/Counter-Strike-2Cheats/Counter-Strike-2Cheats) — Counter-Strike 2 cheats and tools: aim settings, trigger options, player ESP in Counter-Strike 2 Cheats. — — · 0 yıldız
@@ -2784,6 +2992,7 @@
 - [cs-cheats-pw35/.github](https://github.com/cs-cheats-pw35/.github) — CS cheats aimbot with smooth tracking + triggerbot — Best CS/CS2 aim assist with aimbot with smooth tracking and triggerbot. — HTML · 0 yıldız
 - [cs-cheats-qc22/.github](https://github.com/cs-cheats-qc22/.github) — CS cheat: auto headshot & ESP for players — Best CS/CS2 mod menu with auto headshot and ESP for players. Safe & Undetected. — HTML · 0 yıldız
 - [cs-cheats-qe80/.github](https://github.com/cs-cheats-qe80/.github) — CS cheats skin changer + wallhack — Best CS/CS2 cheat with skin changer and wallhack. Safe & Undetected. — HTML · 0 yıldız
+- [cs-cheats-qk86/.github](https://github.com/cs-cheats-qk86/.github) — CS2 skin changer wallhack + auto headshot — Best CS/CS2 skin changer with wallhack and auto headshot. Safe & Undetected. — HTML · 0 yıldız
 - [cs-cheats-qq40/.github](https://github.com/cs-cheats-qq40/.github) — CS cheats: speed hack & bunny hop — Best CS/CS2 ESP with speed hack and bunny hop. Safe & Undetected. — HTML · 0 yıldız
 - [cs-cheats-qw91/.github](https://github.com/cs-cheats-qw91/.github) — CS2 mod menu ESP for enemies + auto reload — Best CS/CS2 cheats with ESP for enemies and auto reload. Safe & Undetected. — HTML · 0 yıldız
 - [cs-cheats-ra80/.github](https://github.com/cs-cheats-ra80/.github) — CS2 aim assist no recoil + aimbot with smooth tracking — Best CS/CS2 cheat with no recoil and aimbot with smooth tracking. Safe — HTML · 0 yıldız
@@ -2872,6 +3081,7 @@
 - [cs-skin-changer-kz33/.github](https://github.com/cs-skin-changer-kz33/.github) — CS skin changer fly hack + triggerbot — Best CS/CS2 skin swapper with fly hack and triggerbot. Safe & Undetected. — HTML · 0 yıldız
 - [cs-skin-changer-la39/.github](https://github.com/cs-skin-changer-la39/.github) — CS skin changer silent aim + no clip — Best CS/CS2 mod menu with silent aim and no clip. Safe & Undetected. — HTML · 0 yıldız
 - [cs-skin-changer-ll33/.github](https://github.com/cs-skin-changer-ll33/.github) — CS skin changer ESP for players + speed hack — Best CS/CS2 skin swapper with ESP for players and speed hack. Safe & Undetected. — HTML · 0 yıldız
+- [cs-skin-changer-lt60/.github](https://github.com/cs-skin-changer-lt60/.github) — CS skin changer: rapid fire & wallhack — Best CS/CS2 skin changer with rapid fire and wallhack. Safe & Undetected. — HTML · 0 yıldız
 - [cs-skin-changer-ng28/.github](https://github.com/cs-skin-changer-ng28/.github) — CS2 skin swapper auto headshot + no spread — Best CS/CS2 cheat with auto headshot and no spread. Safe & Undetected. — HTML · 0 yıldız
 - [cs-skin-changer-nh52/.github](https://github.com/cs-skin-changer-nh52/.github) — CS2 skin changer triggerbot + ESP for enemies — Best CS/CS2 ESP with triggerbot and ESP for enemies. Safe & Undetected. — HTML · 0 yıldız
 - [cs-skin-changer-ni39/.github](https://github.com/cs-skin-changer-ni39/.github) — CS skin changer bunny hop + speed hack — Best CS/CS2 cheats with bunny hop and speed hack. Safe & Undetected. — HTML · 0 yıldız
@@ -2918,6 +3128,7 @@
 - [cs2-aim-assist-gm29/.github](https://github.com/cs2-aim-assist-gm29/.github) — CS cheat no clip + triggerbot — Best CS/CS2 cheats with no clip and triggerbot. Safe & Undetected. — HTML · 0 yıldız
 - [cs2-aim-assist-ha39/.github](https://github.com/cs2-aim-assist-ha39/.github) — CS2 aim assist speed hack + auto reload — Best CS/CS2 cheats with speed hack and auto reload. Safe & Undetected. — HTML · 0 yıldız
 - [cs2-aim-assist-hm04/.github](https://github.com/cs2-aim-assist-hm04/.github) — CS2 aim assist: ESP for players & aimbot with smooth tracking — Best CS/CS2 ESP with ESP for players and aimbot with smooth — HTML · 0 yıldız
+- [cs2-aim-assist-hv51/.github](https://github.com/cs2-aim-assist-hv51/.github) — CS2 aim assist triggerbot + wallhack — Best CS/CS2 aim assist with triggerbot and wallhack. Safe & Undetected. — HTML · 0 yıldız
 - [cs2-aim-assist-if73/.github](https://github.com/cs2-aim-assist-if73/.github) — CS cheats: triggerbot & ESP for enemies — Best CS/CS2 ESP with triggerbot and ESP for enemies. Safe & Undetected. — HTML · 0 yıldız
 - [cs2-aim-assist-ig31/.github](https://github.com/cs2-aim-assist-ig31/.github) — CS2 skin changer wallhack + no spread — Best CS/CS2 ESP with wallhack and no spread. Safe & Undetected. — HTML · 0 yıldız
 - [cs2-aim-assist-in42/.github](https://github.com/cs2-aim-assist-in42/.github) — CS mod menu fly hack + no recoil — Best CS/CS2 cheat with fly hack and no recoil. Safe & Undetected. — HTML · 0 yıldız
@@ -3202,6 +3413,7 @@
 - [cs2-skin-changer-wn22/.github](https://github.com/cs2-skin-changer-wn22/.github) — CS cheat: auto headshot & no spread — Best CS/CS2 skin changer with auto headshot and no spread. Safe & Undetected. — HTML · 0 yıldız
 - [cs2-skin-changer-wv47/.github](https://github.com/cs2-skin-changer-wv47/.github) — CS2 skin changer fly hack + no recoil — Best CS/CS2 skin changer with fly hack and no recoil. Safe & Undetected. — HTML · 0 yıldız
 - [cs2-skin-changer-xp62/.github](https://github.com/cs2-skin-changer-xp62/.github) — CS cheats aimbot with smooth tracking + skin changer — Best CS/CS2 skin swapper with aimbot with smooth tracking and skin — HTML · 0 yıldız
+- [cs2-skin-changer-yv95/.github](https://github.com/cs2-skin-changer-yv95/.github) — CS2 skin changer auto headshot + wallhack — Best CS/CS2 skin changer with auto headshot and wallhack. Safe & Undetected. — HTML · 0 yıldız
 - [cs2-skin-changer-yy53/.github](https://github.com/cs2-skin-changer-yy53/.github) — CS2 ESP: no recoil & ESP for enemies — Best CS/CS2 skin changer with no recoil and ESP for enemies. Safe & Undetected. — HTML · 0 yıldız
 - [cs2-skin-changer-zu48/.github](https://github.com/cs2-skin-changer-zu48/.github) — CS skin changer no recoil + rapid fire — Best CS/CS2 cheats with no recoil and rapid fire. Safe & Undetected. — HTML · 0 yıldız
 - [CS2-Skin-Changers/.github](https://github.com/CS2-Skin-Changers/.github) — CS2 SkinChangers is a cosmetic swapper for Counter-Strike 2 letting you preview and apply weapon finishes, knives, gloves,… — — · 0 yıldız
@@ -3326,6 +3538,7 @@
 - [DeniTheBreaker/CS2-cheat](https://github.com/DeniTheBreaker/CS2-cheat) — CS not my mine — — · 0 yıldız
 - [DennisPohlmann/gameWE-plugin-counterstrikesharp](https://github.com/DennisPohlmann/gameWE-plugin-counterstrikesharp) — CounterStrikeSharp plugin for gameWE (HLstatsX/gameME style): sends weapon stats and events from Counter-Strike 2 servers to the… — C# · 0 yıldız
 - [DennisPohlmann/gameWE-plugin-sourcemod](https://github.com/DennisPohlmann/gameWE-plugin-sourcemod) — SourceMod plugin for gameWE (HLstatsX/gameME style): sends weapon stats and actions from CS:S, CS:GO and other Source servers to… — SourcePawn · 0 yıldız
+- [DentistDeliver/cs2-updated-mod](https://github.com/DentistDeliver/cs2-updated-mod) — CS2 one byte wallhack for Linux/ Windows written in Go UNDETECTED — — · 0 yıldız
 - [denzygame/CS2-Dumper](https://github.com/denzygame/CS2-Dumper) — An external offset/interface dumper for Counter-Strike 2, — — · 0 yıldız
 - [DeporS/cs2-insight](https://github.com/DeporS/cs2-insight) — Data engineering project that automatically fetches, tracks, and analyzes Counter-Strike 2 skin prices from an external API using… — Python · 0 yıldız
 - [depre99ed/Prism](https://github.com/depre99ed/Prism) — A visual DLL library and Windows loader for Counter-Strike 2. Version management, selective ZIP sharing and diagnostics. Based on… — C++ · 0 yıldız
@@ -3467,6 +3680,7 @@
 - [ExLoader-Cheat-for-CS2/.github](https://github.com/ExLoader-Cheat-for-CS2/.github) — ExLoader Cheat for CS2 is a loader-based CS2 cheat with a module list, profile slots, and an update check. Manage aim, ESP, and… — — · 0 yıldız
 - [Exodouding/Gamesense-Script](https://github.com/Exodouding/Gamesense-Script) — Script that adds download buttons for the latest CS2 & CS:GO gamesense.pub/skeet.cc loader — JavaScript · 0 yıldız
 - [exomiempark1/CounterStrike2-Cheat](https://github.com/exomiempark1/CounterStrike2-Cheat) — Top 10 Counter Strike 2 Hacks to Download for Windows in 2025 📥 — — · 0 yıldız
+- [exore13/Smoothie](https://github.com/exore13/Smoothie) — Wanted to get experience reading and writing memory on windows so out of curiosity I made a wallhack for Counter-Strike: Global… — C++ · 0 yıldız
 - [ExoticGamerrrYT/cs2-cheats](https://github.com/ExoticGamerrrYT/cs2-cheats) — A C++ solution with external cheating projects for CS2. — C++ · 0 yıldız
 - [EXPLOITWITHJVLOG/cs2](https://github.com/EXPLOITWITHJVLOG/cs2) — basic external triggerbot and aimassist that is broekn — Python · 0 yıldız
 - [ExtraJuiceMan/ChristWare](https://github.com/ExtraJuiceMan/ChristWare) — Experimental C# cheat for CounterStrike: Global Offensive using external memory modification. — C# · 0 yıldız
@@ -3870,6 +4084,7 @@
 - [jayce3372-art/offsets-cs2](https://github.com/jayce3372-art/offsets-cs2) — (açıklama yok) — C# · 0 yıldız
 - [jaycs1723658/AntiDLL-Modsharp](https://github.com/jaycs1723658/AntiDLL-Modsharp) — ModSharp/CS2 port of KillStr3aK/CS2-AntiDLL — detect injected cheat DLLs, punish via AdminManager — — · 0 yıldız
 - [jayexhx0/cs2-rage-src](https://github.com/jayexhx0/cs2-rage-src) — here are the cs2 rage internal cheats src code update them using ai — — · 0 yıldız
+- [jaysworldofcode/wallhack-cs2](https://github.com/jaysworldofcode/wallhack-cs2) — (açıklama yok) — C++ · 0 yıldız
 - [jdtdm09/artificial-intelligence](https://github.com/jdtdm09/artificial-intelligence) — Aimbot para CS2, desenvolvido em Python com YOLOv8, para deteção e ajuste automático da mira em ambiente offline. — Jupyter Notebook · 0 yıldız
 - [jdynbigproblem1992/cs2-hack](https://github.com/jdynbigproblem1992/cs2-hack) — (açıklama yok) — — · 0 yıldız
 - [JeffBosh/CS2-Offsets](https://github.com/JeffBosh/CS2-Offsets) — Offsets brought by www.Nulvex.one ! — C++ · 0 yıldız
@@ -3877,6 +4092,7 @@
 - [Jemss01/cs2-cheat-command](https://github.com/Jemss01/cs2-cheat-command) — just a notepad with cheat commands *NOT ACTUAL CHEATS* — — · 0 yıldız
 - [Jemss01/CS2-cheat-commands](https://github.com/Jemss01/CS2-cheat-commands) — a notepad that has cheats (NOT ACTUAL CHEATS) — — · 0 yıldız
 - [jenaze/cs2-universal-offsets](https://github.com/jenaze/cs2-universal-offsets) — CS2 universal offsets, includes signatures & offsets. Counter Strike 2 dumper. — Makefile · 0 yıldız
+- [Jeroenv2007/wallhack.py](https://github.com/Jeroenv2007/wallhack.py) — this is a wallhack script for the game CSGO. (disclamer!! I didn't used it in a game this is just for fun) — — · 0 yıldız
 - [Jesewe/OffsetFetcher](https://github.com/Jesewe/OffsetFetcher) — CS2 memory offset dumper — Python · 0 yıldız
 - [JHVIW/CS2_ESP](https://github.com/JHVIW/CS2_ESP) — CS2 External ESP is a straightforward external ESP (Extra Sensory Perception) tool for Counter-Strike 2. It utilizes a GDI… — C# · 0 yıldız
 - [jia54109147/CSGO2-AimBot-YOLOv8](https://github.com/jia54109147/CSGO2-AimBot-YOLOv8) — CSGO2 AimBOT — — · 0 yıldız
@@ -3916,6 +4132,7 @@
 - [jud3ns0hn/CS2-DMA-PROJECT](https://github.com/jud3ns0hn/CS2-DMA-PROJECT) — (Open)PrivateSource² — a reasonable CS2 Private Source DMA for your projects. — — · 0 yıldız
 - [juhus6webshot/enhgq](https://github.com/juhus6webshot/enhgq) — Download Free Counter Strike 2 Hack: Wallhack + Aimbot — JavaScript · 0 yıldız
 - [Juksern/csgo-external](https://github.com/Juksern/csgo-external) — external hank — C++ · 0 yıldız · arşiv
+- [juliannn009/Wallhack-csgo](https://github.com/juliannn009/Wallhack-csgo) — (açıklama yok) — C# · 0 yıldız
 - [Junbin507/Junbin507.github.io](https://github.com/Junbin507/Junbin507.github.io) — CS2 cheat life time!! — — · 0 yıldız
 - [Just-A-Guy11/cs2-dogan-esp](https://github.com/Just-A-Guy11/cs2-dogan-esp) — CS2 cheat Dogan: aimbot, ESP wallhack, bunny hop, triggerbot, third person — a C++ internal cheat for CS2 players building their… — HTML · 0 yıldız
 - [JusticeRox98577/CS2-AVR](https://github.com/JusticeRox98577/CS2-AVR) — A add in for counter strike 2 to stop sending fully hidden player locations to all players pc’s to help with the cheating crisis,… — — · 0 yıldız
@@ -4142,6 +4359,7 @@
 - [marceloeatworld/cs16](https://github.com/marceloeatworld/cs16) — CS 1.6 Docker server: ReGameDLL + Metamod + AMX Mod X, smart CZ bots, 42 maps, RTV, admin FX menu, self-contained build,… — Pawn · 0 yıldız
 - [marci1175/Csgo-injector](https://github.com/marci1175/Csgo-injector) — This a csgo cheat (.dll) injector! Its mainly developed for ryzeXTR (The best cheat ever known to mankind, esoteric pasted form… — Python · 0 yıldız · arşiv
 - [Mari-Brauer/Menu-CS-GO](https://github.com/Mari-Brauer/Menu-CS-GO) — Programação que simula o menu de armas do Counter Strike — — · 0 yıldız
+- [MarJoSong/cs2-wallhack](https://github.com/MarJoSong/cs2-wallhack) — (açıklama yok) — C++ · 0 yıldız
 - [markelmenderes/cs2-offsets-updated](https://github.com/markelmenderes/cs2-offsets-updated) — CS2 OFFSETS ( UPDATED EVERY TIME ) — — · 0 yıldız
 - [markelmenderes/cs2-offsets-updatedd](https://github.com/markelmenderes/cs2-offsets-updatedd) — (açıklama yok) — C++ · 0 yıldız
 - [MarkitoBelgrano96/Anti-AutoStrafe-GroundStrafe-hack-cs-1.6](https://github.com/MarkitoBelgrano96/Anti-AutoStrafe-GroundStrafe-hack-cs-1.6) — El fin de este repositorio es que si hay algun interesado en ayudarme a modificar este codigo que aclaro no es de mi auditoria.… — — · 0 yıldız
@@ -4270,6 +4488,7 @@
 - [mwaurawakati/cs-go](https://github.com/mwaurawakati/cs-go) — demoparser — Go · 0 yıldız
 - [Mykybo/csgo-aimbot-esp](https://github.com/Mykybo/csgo-aimbot-esp) — (açıklama yok) — C++ · 0 yıldız
 - [myskilltop/counter-strike_info](https://github.com/myskilltop/counter-strike_info) — MySkill Tournament Operator Knowledge Base — — · 0 yıldız
+- [mystery-mango/CSGO-wallhack-AHK-script](https://github.com/mystery-mango/CSGO-wallhack-AHK-script) — This is a beginners test — AutoHotkey · 0 yıldız
 - [n0dzzz/bloom](https://github.com/n0dzzz/bloom) — legit csgo cheat — C++ · 0 yıldız
 - [n0dzzz/Wiiner](https://github.com/n0dzzz/Wiiner) — CSGO Cheat — C++ · 0 yıldız
 - [n0th1ng0/Vision](https://github.com/n0th1ng0/Vision) — Vision Lite - Free basic cs2 cheat — — · 0 yıldız
@@ -4341,6 +4560,7 @@
 - [NotII/cs2-offsets](https://github.com/NotII/cs2-offsets) — Auto-dumped CS2 offsets, updated every patch (a2x/cs2-dumper) — C++ · 0 yıldız
 - [NotsOverflow/csgohack](https://github.com/NotsOverflow/csgohack) — simple csgo hack — C++ · 0 yıldız
 - [nowacksoftware/Nowack-Cs2](https://github.com/nowacksoftware/Nowack-Cs2) — "external cs 2 cheat" — — · 0 yıldız
+- [nowax381/csgoAHKWH](https://github.com/nowax381/csgoAHKWH) — CS:GO wallhack made with autohotkey — — · 0 yıldız
 - [noxa-raw/Batch-repo](https://github.com/noxa-raw/Batch-repo) — Cs2-Mott-External — Batchfile · 0 yıldız
 - [nPuBATHOCTb/CS2-FREE-INTERNAL](https://github.com/nPuBATHOCTb/CS2-FREE-INTERNAL) — (açıklama yok) — — · 0 yıldız
 - [nulledctf/CSGO-Fov-ImGui-External](https://github.com/nulledctf/CSGO-Fov-ImGui-External) — Fov Slider for CS2 using IMGui — C# · 0 yıldız
@@ -4419,6 +4639,7 @@
 - [pedros270/cs2-AnyX-premium-v4.11-craked](https://github.com/pedros270/cs2-AnyX-premium-v4.11-craked) — AnyX Premium Cracked: Aimbot with Smoothing/RCS, ESP (Wallhack), Chams, Triggerbot, and Backtrack for total combat dominance.… — — · 0 yıldız
 - [pekzarn/cs2_subtickbypass_singleconfig](https://github.com/pekzarn/cs2_subtickbypass_singleconfig) — Bypasses cs2 subtick after latest update without execing other configs — — · 0 yıldız
 - [PELover/CS2-Internal-Cheat](https://github.com/PELover/CS2-Internal-Cheat) — This repository was created to study overlay rendering, low-level programming, and reverse engineering. — C++ · 0 yıldız
+- [peter-white86/cs2-wallhack-2026](https://github.com/peter-white86/cs2-wallhack-2026) — CS2 2026 Wallhack — — · 0 yıldız
 - [Phant0m0567/cs2-client](https://github.com/Phant0m0567/cs2-client) — cs2 cheats test (made by ai) — — · 0 yıldız
 - [phiberber/aesir](https://github.com/phiberber/aesir) — CS:GO External Cheat — Kotlin · 0 yıldız
 - [Philip-afk-cmd/cs2-cheat](https://github.com/Philip-afk-cmd/cs2-cheat) — dll — C++ · 0 yıldız
@@ -4430,6 +4651,7 @@
 - [phzse/createMoveHook](https://github.com/phzse/createMoveHook) — Hooking CreateMove to create a bunnyhop cheat in CS2. — C · 0 yıldız
 - [Pi1lot/legacy-opencv-csgo-aimbot](https://github.com/Pi1lot/legacy-opencv-csgo-aimbot) — (açıklama yok) — Python · 0 yıldız · arşiv
 - [picunt7977-star/newerwin-csgo](https://github.com/picunt7977-star/newerwin-csgo) — newerwin — HvH для CS:GO legacy (Linux): рейджбот с резольвером по слоям анимации, билдер AA, дефенсив AA, DT — C++ · 0 yıldız
+- [pigidaartem44-svg/wallhack-WarThunder-Counter-Strike-2-Rust-Roblox-Rivals-](https://github.com/pigidaartem44-svg/wallhack-WarThunder-Counter-Strike-2-Rust-Roblox-Rivals-) — wallhack WarThunder Counter-Strike 2 Rust Roblox(Rivals) — — · 0 yıldız
 - [PingalHack/CS2-NTERNAL-RAGE-CHEATS-LOADER](https://github.com/PingalHack/CS2-NTERNAL-RAGE-CHEATS-LOADER) — (açıklama yok) — — · 0 yıldız
 - [pingthegod/fuck-csgo-hack](https://github.com/pingthegod/fuck-csgo-hack) — (açıklama yok) — — · 0 yıldız
 - [PinQcchio/config.json](https://github.com/PinQcchio/config.json) — csgo offset config.json — — · 0 yıldız
@@ -4520,6 +4742,7 @@
 - [RaidiantZ/RadiantZ-CS2-Updated-Offsets](https://github.com/RaidiantZ/RadiantZ-CS2-Updated-Offsets) — (açıklama yok) — C++ · 0 yıldız
 - [raight8/raightarded-internal](https://github.com/raight8/raightarded-internal) — placeholder for a cheat im making for cs2 — — · 0 yıldız
 - [Rail2013/External-soft-cs2](https://github.com/Rail2013/External-soft-cs2) — пон типо софт кс2 экст — — · 0 yıldız
+- [RainariesFire54079/cs2-resp-wallhack-2026](https://github.com/RainariesFire54079/cs2-resp-wallhack-2026) — Reveal every enemy position in CS2 with real-time ESP wallhack and 2D radar, showing health, armor, C4, and dropped weapons. — — · 0 yıldız
 - [Rainoveralembic/cs2-unlocker-menu](https://github.com/Rainoveralembic/cs2-unlocker-menu) — Collection of open-source tools for Counter-Strike 2 — ESP, wallhack, and cheat notes. For educational and single-player use only. — HTML · 0 yıldız
 - [Raksixoffical/NudeWare-Loader](https://github.com/Raksixoffical/NudeWare-Loader) — CS:GO hile loader'ı SimpleLoader Source — C# · 0 yıldız
 - [ramakrishnashanbhoge-ai/undetek](https://github.com/ramakrishnashanbhoge-ai/undetek) — Undetek is a cheat provider centered on staying undetected with stealthy aimbot and ESP features. It is a free tool for… — — · 0 yıldız
@@ -4875,6 +5098,7 @@
 - [TheAmazingShow/osiris-csgo-hack-features](https://github.com/TheAmazingShow/osiris-csgo-hack-features) — (açıklama yok) — — · 0 yıldız
 - [TheBeratG/csgo-esp](https://github.com/TheBeratG/csgo-esp) — cazz based esp — C · 0 yıldız
 - [TheCaballeros/CsGoHacks](https://github.com/TheCaballeros/CsGoHacks) — Hacks for CsGo — — · 0 yıldız
+- [theendstory879/SilentAimPro](https://github.com/theendstory879/SilentAimPro) — Counter Strike 2 Wallhack 2025 Latest Version for Windows — Python · 0 yıldız
 - [TheGeogeo/CSGO_Internal](https://github.com/TheGeogeo/CSGO_Internal) — CSGO Internal — C++ · 0 yıldız
 - [TheGraySpy/CSGO-hack-injector](https://github.com/TheGraySpy/CSGO-hack-injector) — CSGO hack+injector — — · 0 yıldız
 - [theila/iwnl](https://github.com/theila/iwnl) — 👾 CS:GO HvH and "legit" cheat — — · 0 yıldız
@@ -4925,6 +5149,7 @@
 - [Tracious112/Wiz-Reb0rn-CS2-Cheat](https://github.com/Tracious112/Wiz-Reb0rn-CS2-Cheat) — Wiz_Reb0rn CS2-Cheat Free cheat for cs2 with aimbot and visuals. Visiblecheck included. — — · 0 yıldız
 - [Traidnng/Csgo-Offsets-2026](https://github.com/Traidnng/Csgo-Offsets-2026) — Counter-Strike: Global Offensive (Legacy Sürümü) için düzenlenmiş ve güncel bellek offset'leri ile netvar'ları. Oyun güvenliği… — C++ · 0 yıldız
 - [Traidnng/Csgo-Python-Bhop-Hack](https://github.com/Traidnng/Csgo-Python-Bhop-Hack) — (açıklama yok) — Python · 0 yıldız
+- [Traidnng/Csgo-Python-Wallhack-Script](https://github.com/Traidnng/Csgo-Python-Wallhack-Script) — (açıklama yok) — Python · 0 yıldız
 - [translibrius/Echo](https://github.com/translibrius/Echo) — Echo - CS2 External [Kernel] — C++ · 0 yıldız
 - [Trcreator/CSGO-HACK-](https://github.com/Trcreator/CSGO-HACK-) — Made by filip — CSS · 0 yıldız
 - [TrezorTop/csgo-external-cheat](https://github.com/TrezorTop/csgo-external-cheat) — External cheat that reads and writes the game memory — C++ · 0 yıldız
@@ -4968,6 +5193,7 @@
 - [UnknownCr1ppl3/CS2-Internal](https://github.com/UnknownCr1ppl3/CS2-Internal) — (açıklama yok) — — · 0 yıldız
 - [UnknownCr1ppl3/Novax](https://github.com/UnknownCr1ppl3/Novax) — shitty cs2 paste i was working on that im done with — — · 0 yıldız
 - [unlown/blog](https://github.com/unlown/blog) — Hello, Welcome to my page, Here you can find CSGO Cheats & Hacks — — · 0 yıldız
+- [unluckyfreeze/cs2-wallhack-2026](https://github.com/unluckyfreeze/cs2-wallhack-2026) — CS2 wallhack — see all enemies through walls with health and weapon info. — — · 0 yıldız
 - [UnrealSkill-VIP/Resurrected](https://github.com/UnrealSkill-VIP/Resurrected) — Counter Strike Global Offensive External Cheat Base — — · 0 yıldız
 - [UnVel0o/CS2-Dump-hack](https://github.com/UnVel0o/CS2-Dump-hack) — (açıklama yok) — C++ · 0 yıldız
 - [usdjjsa/yeahnot](https://github.com/usdjjsa/yeahnot) — Yeahnot cs2 hack — — · 0 yıldız
@@ -5060,6 +5286,7 @@
 - [Waxbyz/WaxCheat_CS2](https://github.com/Waxbyz/WaxCheat_CS2) — Counter-strike 2 cheats. — C++ · 0 yıldız
 - [wdmegrv/bhop](https://github.com/wdmegrv/bhop) — A Bunnyhop hack for Counter Strike: Source written in Rust. — Rust · 0 yıldız
 - [wedas125/new-working-cs2-cheat](https://github.com/wedas125/new-working-cs2-cheat) — (açıklama yok) — — · 0 yıldız
+- [Welixa/Cs-2-Wallhack-Dll](https://github.com/Welixa/Cs-2-Wallhack-Dll) — Welixa Cs2 Wallhack Dll — — · 0 yıldız
 - [Wellbek/WellSkinz](https://github.com/Wellbek/WellSkinz) — External CSGO Skin- and Knifechanger (outdated) weekend project — C++ · 0 yıldız
 - [welsmokeloke/Counter-Strike-aimbot](https://github.com/welsmokeloke/Counter-Strike-aimbot) — (açıklama yok) — — · 0 yıldız
 - [wholivesinapineappleunderthesea/redapple](https://github.com/wholivesinapineappleunderthesea/redapple) — Semi-legit CS:GO External MacOS Cheat — C++ · 0 yıldız
@@ -5216,7 +5443,7 @@
 - [zzuro/internal-cs2-client](https://github.com/zzuro/internal-cs2-client) — This repository contains an internal CS2 client — — · 0 yıldız
 - [zzuro/internal-csgo-client](https://github.com/zzuro/internal-csgo-client) — This repository contains an internal CS:GO client — C++ · 0 yıldız
 
-### FiveM / GTA / RDR — 4046 repo
+### FiveM / GTA / RDR — 4049 repo
 
 - [YimMenu/YimMenuV2](https://github.com/YimMenu/YimMenuV2) — Experimental menu for GTA 5: Enhanced — C++ · 1871 yıldız
 - [YimMenu/YimMenu](https://github.com/YimMenu/YimMenu) — YimMenu, a GTA V menu protecting against a wide ranges of the public crashes and improving the overall experience. — — · 1554 yıldız · arşiv
@@ -5251,6 +5478,7 @@
 - [mrekk-pixel/fivem-hwid-spoofer](https://github.com/mrekk-pixel/fivem-hwid-spoofer) — FiveM tool that masks hardware identifiers for cleaner session resets. — HTML · 88 yıldız
 - [BlastHackNet/mod_sa](https://github.com/BlastHackNet/mod_sa) — Multi-purpose cheat tool for GTA San Andreas and SA-MP — C++ · 86 yıldız
 - [weird1337/Stanley](https://github.com/weird1337/Stanley) — open source ddos panel — JavaScript · 85 yıldız
+- [lucasr765/fivem-trainer-mod-menu](https://github.com/lucasr765/fivem-trainer-mod-menu) — FiveM Modding & Trainer Pack (2026) — Unity IL2CPP / Unreal Engine, Auto-updating AOB signature scan & DirectX 11 / 12 & Vulkan… — Go · 81 yıldız
 - [NotSomething0/Valkyrie](https://github.com/NotSomething0/Valkyrie) — Open source FiveM anticheat — Lua · 78 yıldız
 - [Complexicon/BunkerMoney](https://github.com/Complexicon/BunkerMoney) — Money Hack for GTA:Online (Deprecated) — C# · 72 yıldız · arşiv
 - [gennariarmando/menu-map](https://github.com/gennariarmando/menu-map) — Adds an interactive map to GTA III and VC — C++ · 72 yıldız
@@ -5527,6 +5755,7 @@
 - [dr-NHA/NHA_GTA_CT](https://github.com/dr-NHA/NHA_GTA_CT) — Cheat Table For GTA V — — · 6 yıldız
 - [DuskRavenVII/mta-event-guard](https://github.com/DuskRavenVII/mta-event-guard) — A lightweight anti-cheat module for Multi Theft Auto (MTA:SA) that secures client-server communication. It uses token-based… — Lua · 6 yıldız
 - [Exodouding/SHOUP](https://github.com/Exodouding/SHOUP) — SHOUP - Alexander Blade Script Hook V & Script Hook RDR2 Universal Online Patcher — — · 6 yıldız
+- [g1mm3/Skeleton](https://github.com/g1mm3/Skeleton) — Пример работы с DirectX, памятью и пулом пешеходов (PEDов) в GTA SA. Bones WallHack. — C++ · 6 yıldız
 - [Granikos/SMTPSimulator](https://github.com/Granikos/SMTPSimulator) — SMTP Simulator for testing MTAs in internal and/or external messaging infrastructures. — C# · 6 yıldız
 - [ImmercityRP/practiceHacks](https://github.com/ImmercityRP/practiceHacks) — FiveM Script to Practice Hacking Mini-Games — Lua · 6 yıldız
 - [ins1x/sampcac-docs](https://github.com/ins1x/sampcac-docs) — unofficial SA-MP Clientside Anticheat (SAMPCAC) scripts and documentation — Pawn · 6 yıldız · arşiv
@@ -6657,6 +6886,7 @@
 - [whoisLoku/astro-minimap](https://github.com/whoisLoku/astro-minimap) — A modern visual redesign for FiveM's minimap and pause menu map, featuring custom map textures and a clean dark-themed style… — Lua · 1 yıldız
 - [wiaseroot/FiveM-Anti-No-Clip-Script](https://github.com/wiaseroot/FiveM-Anti-No-Clip-Script) — fivem script that automatically detects players using noclip cheats on your servers warns them a configurable number of times… — Lua · 1 yıldız
 - [Wille9799/Iris360-Project](https://github.com/Wille9799/Iris360-Project) — This is the official upload of the Iris360 BL And Anti cheat system for fivem. Global List will be supported until 2027. — — · 1 yıldız
+- [XaskeL/mta-antiwallhack](https://github.com/XaskeL/mta-antiwallhack) — Anti WallHack for MTA-SA (mtasa.com); Easy and simple! This script have a lot userful settings for detect player! — Lua · 1 yıldız
 - [Xencommunity/Xen-Spoofer-I-Multi-game-spoofer-fivem-etc-](https://github.com/Xencommunity/Xen-Spoofer-I-Multi-game-spoofer-fivem-etc-) — Game spoofer that works for multible games such as fivem, fortnite and apex etc. The spoofer will get you unbanned. Step 1,… — — · 1 yıldız
 - [Xenonk1/ModelCustom](https://github.com/Xenonk1/ModelCustom) — Local custom player models for FiveM. Native ASI plugin, F4 menu and optional WebSocket peer discovery. — C++ · 1 yıldız
 - [xer0xde/AntiCheat-Fivem](https://github.com/xer0xde/AntiCheat-Fivem) — Very Old AC with Old Detections — Lua · 1 yıldız
@@ -9265,7 +9495,7 @@
 - [ZwonakaBlaQ/rdr2-advantage-toolkit](https://github.com/ZwonakaBlaQ/rdr2-advantage-toolkit) — Ultimate RDR 2 Cheats Guide: Unlock Secrets, Money, Weapons, and More — — · 0 yıldız
 - [Zyrooxx/FiveM-Spoofer](https://github.com/Zyrooxx/FiveM-Spoofer) — Spoof son FiveM — — · 0 yıldız
 
-### Fortnite — 1676 repo
+### Fortnite — 1689 repo
 
 - [sr2echa/Monotone-HWID-Spoofer](https://github.com/sr2echa/Monotone-HWID-Spoofer) — Custom Created Hardware ID Spoofer to Bypass Hardware or IP Bans — Batchfile · 412 yıldız
 - [DErDYAST1R/64KernelDriverCleaner](https://github.com/DErDYAST1R/64KernelDriverCleaner) — A Kernel Driver that can be used for a cheat or malware base to circumvent common cache & structure table checks.… — C++ · 236 yıldız
@@ -9278,6 +9508,7 @@
 - [d0do47/fortnite-external](https://github.com/d0do47/fortnite-external) — konular: battleye-bypass, eac-bypass, fortnite, fortnite-aimbot, fortnite-cheat, fortnite-driver — C++ · 110 yıldız
 - [Kazuto2007/Undetected-driver](https://github.com/Kazuto2007/Undetected-driver) — Fortnite cheat , Fortnite External , Kernel , Fortnite UD , undetected — C++ · 98 yıldız
 - [Griizz/Fortnite-Hack](https://github.com/Griizz/Fortnite-Hack) — THIS IS OUTDATED SINCE THE BATTLE EYE LAUNCH! Feel free to reuse any code you can recycle. I would not advise to inject this in… — C++ · 89 yıldız · arşiv
+- [LeoJones40485/fortnite-trainer-mod-menu](https://github.com/LeoJones40485/fortnite-trainer-mod-menu) — Fortnite Standalone Trainer & Mod Manager — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unity IL2CPP /… — Go · 81 yıldız
 - [SternI/FortniteOffsets](https://github.com/SternI/FortniteOffsets) — Latest Fortnite SDKs & Offsets Always Updated. — C++ · 80 yıldız
 - [masterpastaa/Face-Injector-V3](https://github.com/masterpastaa/Face-Injector-V3) — Modified version of face injector v2, added some things and alternative injection method. TAGS: fortnite cheat, fortnite injector — C · 75 yıldız
 - [CertifiedClown/FortniteRageCheatSource](https://github.com/CertifiedClown/FortniteRageCheatSource) — A Updated fortnite rage cheat source! — C++ · 74 yıldız · arşiv
@@ -10241,11 +10472,16 @@
 - [FORTNITE-RADAR-HACK/.github](https://github.com/FORTNITE-RADAR-HACK/.github) — Fortnite Radar Hack is a Windows reference utility for exploring map layouts, landmarks, named locations, and rotation routes.… — — · 0 yıldız
 - [Fortnite-Skinchanger-All-Skins/.github](https://github.com/Fortnite-Skinchanger-All-Skins/.github) — Fortnite Skinchanger is your complete guide to the client-side cosmetic tool ecosystem for Fortnite. Covering Galaxy Swapper,… — — · 0 yıldız
 - [Fortnite-Speed-Hack/.github](https://github.com/Fortnite-Speed-Hack/.github) — Fortnite Speed Hack Pro is a movement-focused toolkit featuring adjustable sprint multipliers, high jump, fly mode, and boat fly.… — — · 0 yıldız
+- [Fortnite-Wal-lh-ack/.github](https://github.com/Fortnite-Wal-lh-ack/.github) — Fortnite Wallhack is a see-through-walls layer for Fortnite that outlines players through builds, terrain, and cover. Control… — — · 0 yıldız
+- [Fortnite-Wall-h-ack/.github](https://github.com/Fortnite-Wall-h-ack/.github) — Fortnite Wallhack is a see-through-walls layer for Fortnite that outlines players through builds, terrain, and cover. Control… — — · 0 yıldız
 - [Fortnite-Wall-hack-Aimbot/.github](https://github.com/Fortnite-Wall-hack-Aimbot/.github) — Fortnite Wallhack is a fully loaded visual awareness panel for Fortnite, packing player ESP, skeleton tracking, chams, and loot… — — · 0 yıldız
+- [FORTNITE-WALL-HACK/.github](https://github.com/FORTNITE-WALL-HACK/.github) — Fortnite Wallhack is a Windows visual-awareness training reference focused on line of sight, cover analysis, building visibility,… — — · 0 yıldız
 - [Fortnite-WallHack-VisionESP/.github](https://github.com/Fortnite-WallHack-VisionESP/.github) — Fortnite WallHack VisionESP unlocks full visual awareness in-game. See enemies through walls, track loot, and gain the upper hand… — HTML · 0 yıldız
 - [Fortnite-WallHack-VisionESP/download](https://github.com/Fortnite-WallHack-VisionESP/download) — Fortnite WallHack VisionESP unlocks full visual awareness in-game. See enemies through walls, track loot, and gain the upper hand… — — · 0 yıldız
 - [Fortnite-WallHack-VisionESP/Fortnite-WallHack](https://github.com/Fortnite-WallHack-VisionESP/Fortnite-WallHack) — Fortnite WallHack VisionESP unlocks full visual awareness in-game. See enemies through walls, track loot, and gain the upper hand… — — · 0 yıldız
 - [Fortnite-WallhackCheat/.github](https://github.com/Fortnite-WallhackCheat/.github) — Fortnite Wallhack is a visual awareness toolkit featuring player glow, box ESP, skeleton overlays, and loot highlighting through… — — · 0 yıldız
+- [Fortnite-Wallhacks-2026/.github](https://github.com/Fortnite-Wallhacks-2026/.github) — Fortnite Wallhack is an informational gaming resource featuring map awareness guides, tactical positioning tips, weapon… — — · 0 yıldız
+- [Fortnite-Wallhacks-Pro/.github](https://github.com/Fortnite-Wallhacks-Pro/.github) — Fortnite Wallhack is a PC wallhack for Fortnite that reveals enemy positions through walls and obstacles. Track opponents,… — — · 0 yıldız
 - [FortniteBattleRoyalepreview/FortniteBattleRoyalepreview](https://github.com/FortniteBattleRoyalepreview/FortniteBattleRoyalepreview) — Fortnite Battle Royale Hack Generator Generate unlimited number of Fortnite Battle Royale V Bucks with our one of a kind… — — · 0 yıldız
 - [FortniteCheatMenu/.github](https://github.com/FortniteCheatMenu/.github) — Fortnite Cheat Menu — Fortnite cheat menu topic covering Aim tab, Visuals tab, Weapon controls. Game-specific details, typical… — — · 0 yıldız
 - [FortniteCheatPanel/.github](https://github.com/FortniteCheatPanel/.github) — Fortnite Cheat Panel is a Windows cheat suite for Fortnite that consolidates aimbot, player and loot ESP, building and edit… — — · 0 yıldız
@@ -10273,6 +10509,7 @@
 - [g-price2802/fortnite-hack-endgame-lab](https://github.com/g-price2802/fortnite-hack-endgame-lab) — Fortnite Hack Endgame Lab — a research-style analytics toolkit for studying endgame positioning, zone decisions, rotations and… — — · 0 yıldız
 - [gabriel-reyes08/Fortnite-Cheat-Screenshots](https://github.com/gabriel-reyes08/Fortnite-Cheat-Screenshots) — Preview gallery of the cheat: ESP, aimbot, radar, loot ESP and the in-game menu. 100% free. — — · 0 yıldız
 - [gabriel-reyes08/Fortnite-External-Cheat](https://github.com/gabriel-reyes08/Fortnite-External-Cheat) — External cheat for Fortnite with ESP and aimbot. Overlay based, no memory injection into the game. — C++ · 0 yıldız
+- [gabriel-reyes08/Fortnite-Wallhack](https://github.com/gabriel-reyes08/Fortnite-Wallhack) — Wallhack for Fortnite: see players through walls and obstacles. — — · 0 yıldız
 - [Galaxy-Swapper-2025/.github](https://github.com/Galaxy-Swapper-2025/.github) — Unlock exclusive Fortnite skins with Galaxy Swapper UltraSkins Injector – the ultimate tool for swapping skins safely and… — — · 0 yıldız
 - [geraldbutler-22/fortnite-hack-vault](https://github.com/geraldbutler-22/fortnite-hack-vault) — Fortnite Hack Vault — a gaming research and analytics hub for studying gameplay patterns, performance and competitive strategies. — — · 0 yıldız
 - [geraldcoleman307/fortnite-hack-scanner](https://github.com/geraldcoleman307/fortnite-hack-scanner) — Fortnite Hack Scanner — a research-style gameplay analytics toolkit for studying performance patterns, match statistics and… — — · 0 yıldız
@@ -10286,6 +10523,7 @@
 - [gisoverbang1869/Fortnite-ESP-Overlay-2025-Free-Download---Visual-Radar-Box-External](https://github.com/gisoverbang1869/Fortnite-ESP-Overlay-2025-Free-Download---Visual-Radar-Box-External) — Fortnite ESP Overlay 2025 Free Download - Visual radar, player/loot ESP, and external box overlay for Fortnite. Works undetected… — — · 0 yıldız
 - [GitHub7784/lone-DMA-test](https://github.com/GitHub7784/lone-DMA-test) — A dma test thats work with new fortnite anti-cheat. — — · 0 yıldız
 - [glambit1b75/Fortnite-External](https://github.com/glambit1b75/Fortnite-External) — (açıklama yok) — — · 0 yıldız
+- [GlitchFortnite/.github](https://github.com/GlitchFortnite/.github) — Welcome To WallHack, WallHack Is An OG Fortnite Private Server Created By Twisted0097 — — · 0 yıldız
 - [Glonge-Ares/-Fortnite-Cheat---Hyper-FN-Leak](https://github.com/Glonge-Ares/-Fortnite-Cheat---Hyper-FN-Leak) — Hyper FN Rage Leak — — · 0 yıldız
 - [gmh5225/fortnite-virtual-offsets](https://github.com/gmh5225/fortnite-virtual-offsets) — fortnite virtual table offsets — — · 0 yıldız
 - [gmh5225/fortnite-W2S-offset-Fortnite](https://github.com/gmh5225/fortnite-W2S-offset-Fortnite) — ProjectWorldToScreen offset for fortnite (uptaded to latest patch) — — · 0 yıldız
@@ -10459,6 +10697,8 @@
 - [layox13/Goblin_cheat-spoofer-fortnite](https://github.com/layox13/Goblin_cheat-spoofer-fortnite) — A free and secure Fortnite cheat a hwid spoofer equipped. The cheat is equipped with an aimbot and wallhack — — · 0 yıldız
 - [layox13/Goblin_cheat-spoofer_fortnite](https://github.com/layox13/Goblin_cheat-spoofer_fortnite) — A free and secure Fortnite cheat a hwid spoofer equipped. The cheat is equipped with an aimbot and wallhack — — · 0 yıldız
 - [leadingterrap/Fortnite-Internal-Cheat](https://github.com/leadingterrap/Fortnite-Internal-Cheat) — konular: easy-anticheat-bypass, fortnite-aimbot, fortnite-aimbot-2026, fortnite-bhop, fortnite-cheat, fortnite-esp — — · 0 yıldız
+- [Lean-Company/.github](https://github.com/Lean-Company/.github) — Wallhack is a visual optimization mod for Fortnite focused on improving interface contrast and overall screen clarity. By… — — · 0 yıldız
+- [Lean-Company/Fortnite-Wallhck-Mod](https://github.com/Lean-Company/Fortnite-Wallhck-Mod) — Wallhack is a visual tuning mod for Fortnite that focuses on clarity, contrast, and smoother on-screen motion. By refining color… — — · 0 yıldız
 - [LearnProgramming67/Fortnite-offsets](https://github.com/LearnProgramming67/Fortnite-offsets) — Join our Discord Today https://discord.gg/E83gVQ2mwm — — · 0 yıldız
 - [legendarylolo318-cloud/lootline](https://github.com/legendarylolo318-cloud/lootline) — Fortnite chest tracker: audio chest detection, P2P party, odds and luck stats. Anti-cheat safe (never touches the game process). — Rust · 0 yıldız
 - [Leifern69/fortnite-external](https://github.com/Leifern69/fortnite-external) — (açıklama yok) — — · 0 yıldız
@@ -10586,6 +10826,7 @@
 - [Nasyoooo/Aurora-Spoofer-for-Fortnite-v1-0](https://github.com/Nasyoooo/Aurora-Spoofer-for-Fortnite-v1-0) — (açıklama yok) — — · 0 yıldız
 - [Nasyoooo/Aurora-Spoofer-for-Fortnite-v1.0](https://github.com/Nasyoooo/Aurora-Spoofer-for-Fortnite-v1.0) — (açıklama yok) — — · 0 yıldız
 - [nataliel5654/Eulen-Fortnite-Cheat](https://github.com/nataliel5654/Eulen-Fortnite-Cheat) — Free Eulen external: ESP, aimbot and radar with a clean overlay. — C++ · 0 yıldız
+- [nataliel5654/Fortnite-Wallhack](https://github.com/nataliel5654/Fortnite-Wallhack) — Wallhack for Fortnite: see players through walls and obstacles. — C++ · 0 yıldız
 - [natasarisa/fortnite-esp-visualizer](https://github.com/natasarisa/fortnite-esp-visualizer) — Unlock Advanced Fortnite ESP: Dominate Matches with Pro-Level Game Awareness — — · 0 yıldız
 - [NatGeoWildHD/Fortnite-mod-menu](https://github.com/NatGeoWildHD/Fortnite-mod-menu) — konular: fortnite, fortnite-free-legit, fortnite-mod-menu, fortnite-skin-changer, fortnite-soft, fortnite-spoofer — — · 0 yıldız
 - [Nathanilclathrate809/fortnite-executor-script-hub](https://github.com/Nathanilclathrate809/fortnite-executor-script-hub) — Automate Fortnite XP farming using browser-based script routines for PC and mobile web interfaces. — HTML · 0 yıldız
@@ -10787,6 +11028,7 @@
 - [Spoofer-Tool-Fortnite/.github](https://github.com/Spoofer-Tool-Fortnite/.github) — Download Fortnite Spoofer for safe and effective hardware ID spoofing. Avoid bans, protect multiple accounts, and enjoy smooth… — CSS · 0 yıldız
 - [Spoofer-Tool-Fortnite/Fortnite-Spoofer](https://github.com/Spoofer-Tool-Fortnite/Fortnite-Spoofer) — Download Fortnite Spoofer for safe and effective hardware ID spoofing. Avoid bans, protect multiple accounts, and enjoy smooth… — — · 0 yıldız
 - [SpooferTimer/Free-Spoofer](https://github.com/SpooferTimer/Free-Spoofer) — Free SpooferT is a free spoofer what me a hispanic guy create it to spoofer games like warzone or fortnite so put a star to… — — · 0 yıldız
+- [sross4002/Fortnite-Wallhack](https://github.com/sross4002/Fortnite-Wallhack) — Wallhack for Fortnite: see players through walls and obstacles. — C++ · 0 yıldız
 - [sross4002/Krypt-Fortnite-Cheat](https://github.com/sross4002/Krypt-Fortnite-Cheat) — Free Krypt-style external: ESP and soft aim, overlay only. — C++ · 0 yıldız
 - [srryx/Fortnite-AI-Aimbot](https://github.com/srryx/Fortnite-AI-Aimbot) — Leaked Clarity V1 AI Aimbot — Python · 0 yıldız
 - [staxar108/aimbot-fortnite](https://github.com/staxar108/aimbot-fortnite) — (açıklama yok) — — · 0 yıldız
@@ -10834,6 +11076,7 @@
 - [tjthegod/tj](https://github.com/tjthegod/tj) — Hack fortnite accounts — — · 0 yıldız
 - [TOGPLAY/Fortnite-Cheat](https://github.com/TOGPLAY/Fortnite-Cheat) — Hi this is a fortnite cheat that has the following options kill all, aimbot, aimbot fair, aimbot unfair, esp, and more! — — · 0 yıldız
 - [tommytothet/cheat-dump-fortnite](https://github.com/tommytothet/cheat-dump-fortnite) — Fortnite Cheat Dump. working source codes updated by me — — · 0 yıldız
+- [tomokuco49-cmyk/Fortnite-Wallhack](https://github.com/tomokuco49-cmyk/Fortnite-Wallhack) — (açıklama yok) — — · 0 yıldız
 - [torete76/Fortnite-External-Evo.gj-Updated](https://github.com/torete76/Fortnite-External-Evo.gj-Updated) — (açıklama yok) — — · 0 yıldız
 - [toysolhuh/HWID-Spoofer-Fortnite](https://github.com/toysolhuh/HWID-Spoofer-Fortnite) — Free Spoofer For Fortnite Or Any Game — — · 0 yıldız
 - [Trail-Blaze/fortnite-offsets](https://github.com/Trail-Blaze/fortnite-offsets) — NOT updated oftenly. Only when im bored — — · 0 yıldız
@@ -10944,7 +11187,7 @@
 - [zninjazpuku1992/fortnite-hack](https://github.com/zninjazpuku1992/fortnite-hack) — (açıklama yok) — — · 0 yıldız
 - [zy1ghost/fortnite-spoofer-free](https://github.com/zy1ghost/fortnite-spoofer-free) — hwid ban spoofer — — · 0 yıldız
 
-### Valorant — 1478 repo
+### Valorant — 1504 repo
 
 - [cMiraka/Shadow-Regions-Research](https://github.com/cMiraka/Shadow-Regions-Research) — External Base for researching Shadow Regions in Valorant — C++ · 313 yıldız
 - [10HEAD/ValorantOffsets](https://github.com/10HEAD/ValorantOffsets) — The latest VALORANT offsets that are always up-to-date — C++ · 192 yıldız
@@ -10954,6 +11197,7 @@
 - [Liligeometry/valorant-falan](https://github.com/Liligeometry/valorant-falan) — Valorant Falan delivers in-match tactical readouts for confident, informed play. — HTML · 151 yıldız
 - [unkwsr/open-aim](https://github.com/unkwsr/open-aim) — VALORANT aim trainer with real maps, real gun recoil and movement accuracy. Practice the actual game, not just clicking dots — JavaScript · 151 yıldız
 - [Baseult/Coloraimbot-CSharp](https://github.com/Baseult/Coloraimbot-CSharp) — A simple Coloraimbot for any Game coded in C# - with additional features — C# · 121 yıldız
+- [ductithih-crypto/valorant-hwid-smbios-utility-2026](https://github.com/ductithih-crypto/valorant-hwid-smbios-utility-2026) — A compact utility that manages HWID and SMBIOS data for Valorant players. — HTML · 118 yıldız
 - [iamennui/ValorantArduinoColorbot](https://github.com/iamennui/ValorantArduinoColorbot) — Performance optimized Valorant Colorbot — Python · 95 yıldız
 - [Kinuzo/ardoras](https://github.com/Kinuzo/ardoras) — Color based aimbot for valorant using arduino Leonardo + USBHOSTSHIELD — Python · 95 yıldız
 - [ajitesh24/mini-Project](https://github.com/ajitesh24/mini-Project) — Best Multi-hack for Valorant — — · 94 yıldız
@@ -11424,6 +11668,7 @@
 - [fevzisafak2020-max/meth](https://github.com/fevzisafak2020-max/meth) — valorant hile — — · 0 yıldız
 - [fietsenrekk/valorant-aim-trainer](https://github.com/fietsenrekk/valorant-aim-trainer) — RANGE+ - a VALORANT-tuned 3D browser aim trainer (103 FOV, 1:1 sens, Vandal ballistics) — HTML · 0 yıldız
 - [FighterWrench/valorant-external-menu](https://github.com/FighterWrench/valorant-external-menu) — Collection of open-source tools for Valorant — ESP, wallhack, and cheat notes. For educational and single-player use only. — HTML · 0 yıldız
+- [Finnyesss/Valorant-wallhack](https://github.com/Finnyesss/Valorant-wallhack) — Valorant wallhack — — · 0 yıldız
 - [fitragol777/val](https://github.com/fitragol777/val) — valorant hack — — · 0 yıldız
 - [FlagHacks/valorant-offsets](https://github.com/FlagHacks/valorant-offsets) — (açıklama yok) — C++ · 0 yıldız
 - [flamewalker2669/NovaGlow](https://github.com/flamewalker2669/NovaGlow) — Valorant Skin Hack 2025 - Download Custom Skins for Windows — Java · 0 yıldız
@@ -11606,6 +11851,7 @@
 - [ovsmqpdacqig/valorant-trainer](https://github.com/ovsmqpdacqig/valorant-trainer) — VALORANT trainer — free 2026 — — · 0 yıldız
 - [ownouwa/Valorant-Timer](https://github.com/ownouwa/Valorant-Timer) — It's not about hacking, it's just a timer assistant for defusing the spike. — Python · 0 yıldız
 - [ozsoygokhan253-alt/uwupeek-aim](https://github.com/ozsoygokhan253-alt/uwupeek-aim) — uwuPeek Aim Merkezi - Valorant aim trainer — HTML · 0 yıldız
+- [p-moreno1639/valorant-wallhack](https://github.com/p-moreno1639/valorant-wallhack) — Valorant 2026 Wallhack — — · 0 yıldız
 - [palepreceden/Valorant-Vanguard-Bypass](https://github.com/palepreceden/Valorant-Vanguard-Bypass) — konular: valorant-aimbot, valorant-aimbot-2026, valorant-bhop, valorant-cheat, valorant-esp, valorant-esp-2026 — — · 0 yıldız
 - [panefell/valorant-hack](https://github.com/panefell/valorant-hack) — Its a FREE Valorant External! — — · 0 yıldız
 - [PatrickMunar/Valorant-UI-with-React](https://github.com/PatrickMunar/Valorant-UI-with-React) — Learning React.js by recreating the Valorant main menu UI — JavaScript · 0 yıldız
@@ -11760,8 +12006,10 @@
 - [Valorant-AIM-ESP/.github](https://github.com/Valorant-AIM-ESP/.github) — Valorant AIM + ESP is a Windows cheat panel for Valorant that combines precision aimbot with a full ESP suite, covering agent,… — — · 0 yıldız
 - [valorant-aim-fc76/.github](https://github.com/valorant-aim-fc76/.github) — Valorant Skin Swapper: ESP for spikes & radar hack — Best Valorant cheats with ESP for spikes and radar hack. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-aim-fn93/.github](https://github.com/valorant-aim-fn93/.github) — Valorant Aim speed hack + triggerbot — Best Valorant radar with speed hack and triggerbot. Safe & Undetected. — HTML · 0 yıldız
+- [valorant-aim-ge24/.github](https://github.com/valorant-aim-ge24/.github) — Valorant Aim wallhack + infinite ammo — Best Valorant triggerbot with wallhack and infinite ammo. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-aim-gh93/.github](https://github.com/valorant-aim-gh93/.github) — Valorant Triggerbot ESP for abilities + ESP for players — Best Valorant triggerbot with ESP for abilities and ESP for players. — HTML · 0 yıldız
 - [valorant-aim-gi80/.github](https://github.com/valorant-aim-gi80/.github) — Valorant Cheats ESP for spikes + no spread — Best Valorant mod menu with ESP for spikes and no spread. Safe & Undetected. — HTML · 0 yıldız
+- [valorant-aim-gn47/.github](https://github.com/valorant-aim-gn47/.github) — Valorant AutoShot wallhack + skin swapper — Best Valorant aim with wallhack and skin swapper. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-aim-ha29/.github](https://github.com/valorant-aim-ha29/.github) — Valorant AutoShot ESP for spikes + ESP for players — Best Valorant aim with ESP for spikes and ESP for players. Safe & — HTML · 0 yıldız
 - [valorant-aim-he72/.github](https://github.com/valorant-aim-he72/.github) — Valorant Cheats silent aim + wallhack — Best Valorant triggerbot with silent aim and wallhack. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-aim-hu27/.github](https://github.com/valorant-aim-hu27/.github) — Valorant Aim: triggerbot & aimbot with smooth tracking — Best Valorant skin changer with triggerbot and aimbot with smooth — HTML · 0 yıldız
@@ -11840,8 +12088,10 @@
 - [valorant-autoshot-gp72/.github](https://github.com/valorant-autoshot-gp72/.github) — Valorant AutoShot: ESP for spikes & no clip — Best Valorant skin swapper with ESP for spikes and no clip. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-autoshot-gz44/.github](https://github.com/valorant-autoshot-gz44/.github) — Valorant Skin Swapper no spread + aimbot with smooth tracking — Best Valorant skin changer with no spread and aimbot with — HTML · 0 yıldız
 - [valorant-autoshot-ha89/.github](https://github.com/valorant-autoshot-ha89/.github) — Valorant AutoShot: god mode & speed hack — Best Valorant skin swapper with god mode and speed hack. Safe & Undetected. — HTML · 0 yıldız
+- [valorant-autoshot-hg10/.github](https://github.com/valorant-autoshot-hg10/.github) — Valorant AutoShot wallhack + silent aim — Best Valorant triggerbot with wallhack and silent aim. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-autoshot-io81/.github](https://github.com/valorant-autoshot-io81/.github) — Valorant Triggerbot: fly hack & god mode — Best Valorant radar with fly hack and god mode. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-autoshot-iq65/.github](https://github.com/valorant-autoshot-iq65/.github) — Valorant AutoShot skin changer + ESP for players — Best Valorant triggerbot with skin changer and ESP for players. Safe & — HTML · 0 yıldız
+- [valorant-autoshot-ix37/.github](https://github.com/valorant-autoshot-ix37/.github) — Valorant AutoShot wallhack + triggerbot — Best Valorant radar with wallhack and triggerbot. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-autoshot-jk66/.github](https://github.com/valorant-autoshot-jk66/.github) — Valorant Skin Changer: ESP for spikes & auto reload — Best Valorant triggerbot with ESP for spikes and auto reload. Safe & — HTML · 0 yıldız
 - [valorant-autoshot-kr77/.github](https://github.com/valorant-autoshot-kr77/.github) — Valorant Cheats god mode + ESP for abilities — Best Valorant skin changer with god mode and ESP for abilities. Safe & — HTML · 0 yıldız
 - [valorant-autoshot-le63/.github](https://github.com/valorant-autoshot-le63/.github) — Valorant Aim: speed hack & god mode — Best Valorant colorbot with speed hack and god mode. Safe & Undetected. — HTML · 0 yıldız
@@ -11860,6 +12110,7 @@
 - [valorant-autoshot-rf23/.github](https://github.com/valorant-autoshot-rf23/.github) — Valorant AutoShot: speed hack & no spread — Best Valorant triggerbot with speed hack and no spread. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-autoshot-sa17/.github](https://github.com/valorant-autoshot-sa17/.github) — Valorant Triggerbot skin changer + radar hack — Best Valorant triggerbot with skin changer and radar hack. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-autoshot-sc35/.github](https://github.com/valorant-autoshot-sc35/.github) — Valorant AutoShot: no clip & radar hack — Best Valorant mod menu with no clip and radar hack. Safe & Undetected. — HTML · 0 yıldız
+- [valorant-autoshot-se27/.github](https://github.com/valorant-autoshot-se27/.github) — Valorant Skin Changer: wallhack & no clip — Best Valorant aim with wallhack and no clip. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-autoshot-sh30/.github](https://github.com/valorant-autoshot-sh30/.github) — Valorant Cheats: speed hack & silent aim — Best Valorant triggerbot with speed hack and silent aim. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-autoshot-sn72/.github](https://github.com/valorant-autoshot-sn72/.github) — Valorant Cheat: speed hack & fly hack — Best Valorant skin changer with speed hack and fly hack. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-autoshot-sq39/.github](https://github.com/valorant-autoshot-sq39/.github) — Valorant Skin Changer: auto reload & ESP for abilities — Best Valorant cheats with auto reload and ESP for abilities. Safe & — HTML · 0 yıldız
@@ -11923,6 +12174,7 @@
 - [valorant-cheat-qg35/.github](https://github.com/valorant-cheat-qg35/.github) — Valorant AutoShot wallhack + aimbot with smooth tracking — Best Valorant aim with wallhack and aimbot with smooth tracking. — HTML · 0 yıldız
 - [valorant-cheat-re98/.github](https://github.com/valorant-cheat-re98/.github) — Valorant Mod Menu: bunny hop & ESP for spikes — Best Valorant colorbot with bunny hop and ESP for spikes. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-cheat-rr50/.github](https://github.com/valorant-cheat-rr50/.github) — Valorant Cheat aimbot with smooth tracking + no recoil — Best Valorant mod menu with aimbot with smooth tracking and no recoil. — HTML · 0 yıldız
+- [valorant-cheat-rv42/.github](https://github.com/valorant-cheat-rv42/.github) — Valorant Triggerbot wallhack + rapid fire — Best Valorant skin changer with wallhack and rapid fire. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-cheat-si71/.github](https://github.com/valorant-cheat-si71/.github) — Valorant Cheats: skin swapper & ESP for players — Best Valorant aim with skin swapper and ESP for players. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-cheat-ti49/.github](https://github.com/valorant-cheat-ti49/.github) — Valorant Cheat: radar hack & bunny hop — Best Valorant aim with radar hack and bunny hop. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-cheat-tu75/.github](https://github.com/valorant-cheat-tu75/.github) — Valorant Cheat infinite ammo + ESP for players — Best Valorant skin swapper with infinite ammo and ESP for players. Safe & — HTML · 0 yıldız
@@ -11989,6 +12241,7 @@
 - [valorant-cheats-qi90/.github](https://github.com/valorant-cheats-qi90/.github) — Valorant Radar bunny hop + fly hack — Best Valorant mod menu with bunny hop and fly hack. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-cheats-rr92/.github](https://github.com/valorant-cheats-rr92/.github) — Valorant Skin Changer fly hack + auto reload — Best Valorant colorbot with fly hack and auto reload. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-cheats-ry59/.github](https://github.com/valorant-cheats-ry59/.github) — Valorant Cheats: triggerbot & ESP for abilities — Best Valorant colorbot with triggerbot and ESP for abilities. Safe & Undetected. — HTML · 0 yıldız
+- [valorant-cheats-ss35/.github](https://github.com/valorant-cheats-ss35/.github) — Valorant Skin Swapper skin swapper + wallhack — Best Valorant skin changer with skin swapper and wallhack. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-cheats-tk40/.github](https://github.com/valorant-cheats-tk40/.github) — Valorant Cheats: fly hack & aimbot with smooth tracking — Best Valorant radar with fly hack and aimbot with smooth tracking. Safe — HTML · 0 yıldız
 - [valorant-cheats-to68/.github](https://github.com/valorant-cheats-to68/.github) — Valorant AutoShot ESP for spikes + silent aim — Best Valorant skin swapper with ESP for spikes and silent aim. Safe & — HTML · 0 yıldız
 - [valorant-cheats-uy18/.github](https://github.com/valorant-cheats-uy18/.github) — Valorant Cheats bunny hop + ESP for abilities — Best Valorant colorbot with bunny hop and ESP for abilities. Safe & Undetected. — HTML · 0 yıldız
@@ -12016,12 +12269,14 @@
 - [valorant-colorbot-dn65/.github](https://github.com/valorant-colorbot-dn65/.github) — Valorant ColorBot: fly hack & god mode — Best Valorant cheat with fly hack and god mode. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-colorbot-ed74/.github](https://github.com/valorant-colorbot-ed74/.github) — Valorant Cheat: rapid fire & infinite ammo — Best Valorant colorbot with rapid fire and infinite ammo. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-colorbot-ff32/.github](https://github.com/valorant-colorbot-ff32/.github) — Valorant ColorBot: no recoil & fly hack — Best Valorant radar with no recoil and fly hack. Safe & Undetected. — HTML · 0 yıldız
+- [valorant-colorbot-fm02/.github](https://github.com/valorant-colorbot-fm02/.github) — Valorant AutoShot: rapid fire & wallhack — Best Valorant autoshot with rapid fire and wallhack. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-colorbot-gm63/.github](https://github.com/valorant-colorbot-gm63/.github) — Valorant ColorBot bunny hop + ESP for spikes — Best Valorant mod menu with bunny hop and ESP for spikes. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-colorbot-hd60/.github](https://github.com/valorant-colorbot-hd60/.github) — Valorant ColorBot silent aim + no spread — Best Valorant mod menu with silent aim and no spread. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-colorbot-hp89/.github](https://github.com/valorant-colorbot-hp89/.github) — Valorant Cheat skin swapper + fly hack — Best Valorant colorbot with skin swapper and fly hack. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-colorbot-id52/.github](https://github.com/valorant-colorbot-id52/.github) — Valorant Skin Swapper triggerbot + auto reload — Best Valorant cheat with triggerbot and auto reload. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-colorbot-is49/.github](https://github.com/valorant-colorbot-is49/.github) — Valorant ColorBot auto headshot + ESP for players — Best Valorant mod menu with auto headshot and ESP for players. Safe & — HTML · 0 yıldız
 - [valorant-colorbot-ix58/.github](https://github.com/valorant-colorbot-ix58/.github) — Valorant ColorBot skin swapper + triggerbot — Best Valorant cheat with skin swapper and triggerbot. Safe & Undetected. — HTML · 0 yıldız
+- [valorant-colorbot-jj45/.github](https://github.com/valorant-colorbot-jj45/.github) — Valorant Aim: wallhack & bunny hop — Best Valorant autoshot with wallhack and bunny hop. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-colorbot-kv43/.github](https://github.com/valorant-colorbot-kv43/.github) — Valorant Skin Changer triggerbot + ESP for abilities — Best Valorant skin changer with triggerbot and ESP for abilities. Safe & — HTML · 0 yıldız
 - [valorant-colorbot-lt18/.github](https://github.com/valorant-colorbot-lt18/.github) — Valorant Skin Changer aimbot with smooth tracking + god mode — Best Valorant aim with aimbot with smooth tracking and god mode. — HTML · 0 yıldız
 - [valorant-colorbot-mf51/.github](https://github.com/valorant-colorbot-mf51/.github) — Valorant AutoShot: skin swapper & radar hack — Best Valorant colorbot with skin swapper and radar hack. Safe & Undetected. — HTML · 0 yıldız
@@ -12052,16 +12307,19 @@
 - [valorant-colorbot-wk23/.github](https://github.com/valorant-colorbot-wk23/.github) — Valorant Aim: speed hack & ESP for abilities — Best Valorant skin swapper with speed hack and ESP for abilities. Safe & — HTML · 0 yıldız
 - [valorant-colorbot-wr21/.github](https://github.com/valorant-colorbot-wr21/.github) — Valorant ColorBot: ESP for abilities & aimbot with smooth tracking — Best Valorant skin swapper with ESP for abilities and aimbot — HTML · 0 yıldız
 - [valorant-colorbot-xd24/.github](https://github.com/valorant-colorbot-xd24/.github) — Valorant Skin Swapper: ESP for players & skin changer — Best Valorant mod menu with ESP for players and skin changer. Safe & — HTML · 0 yıldız
+- [valorant-colorbot-xz34/.github](https://github.com/valorant-colorbot-xz34/.github) — Valorant ColorBot wallhack + bunny hop — Best Valorant autoshot with wallhack and bunny hop. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-colorbot-yb66/.github](https://github.com/valorant-colorbot-yb66/.github) — Valorant Cheat auto reload + ESP for spikes — Best Valorant mod menu with auto reload and ESP for spikes. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-colorbot-yf06/.github](https://github.com/valorant-colorbot-yf06/.github) — Valorant Mod Menu ESP for players + skin changer — Best Valorant colorbot with ESP for players and skin changer. Safe & — HTML · 0 yıldız
 - [valorant-colorbot-yp52/.github](https://github.com/valorant-colorbot-yp52/.github) — Valorant Triggerbot ESP for abilities + fly hack — Best Valorant radar with ESP for abilities and fly hack. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-colorbot-yp74/.github](https://github.com/valorant-colorbot-yp74/.github) — Valorant ColorBot: speed hack & wallhack — Best Valorant mod menu with speed hack and wallhack. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-colorbot-yw31/.github](https://github.com/valorant-colorbot-yw31/.github) — Valorant ColorBot speed hack + bunny hop — Best Valorant colorbot with speed hack and bunny hop. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-colorbot-zb71/.github](https://github.com/valorant-colorbot-zb71/.github) — Valorant Mod Menu: speed hack & skin swapper — Best Valorant radar with speed hack and skin swapper. Safe & Undetected. — HTML · 0 yıldız
+- [valorant-colorbot-zp51/.github](https://github.com/valorant-colorbot-zp51/.github) — Valorant Radar no spread + wallhack — Best Valorant skin changer with no spread and wallhack. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-colorbot-zp98/.github](https://github.com/valorant-colorbot-zp98/.github) — Valorant Triggerbot skin swapper + radar hack — Best Valorant mod menu with skin swapper and radar hack. Safe & Undetected. — HTML · 0 yıldız
 - [Valorant-E-SP/.github](https://github.com/Valorant-E-SP/.github) — Valorant ESP Radar — Valorant ESP with player boxes, skeletons, health, weapons, agents and distance. Spike tracking and clean… — — · 0 yıldız
 - [Valorant-ESP-Hack/.github](https://github.com/Valorant-ESP-Hack/.github) — Valorant ESP Hack — free wallhack for Valorant: player, ability and spike ESP, sound rings and radar. Windows panel, no aim… — — · 0 yıldız
 - [valorant-esp-tool-lite-version/valorant-esp-tool-lite-version](https://github.com/valorant-esp-tool-lite-version/valorant-esp-tool-lite-version) — Valorant ESP Tool Lite Version offers gamers an efficient way to enhance their gameplay with essential features like enemy… — — · 0 yıldız
+- [Valorant-ESPHack/.github](https://github.com/Valorant-ESPHack/.github) — Valorant ESP Overlay is a visual awareness toolkit featuring player boxes, skeletons, health bars, spike timers, and raytrace… — — · 0 yıldız
 - [Valorant-Eternal-Hack/.github](https://github.com/Valorant-Eternal-Hack/.github) — Valorant Eternal Hack is a free Windows cheat panel for Valorant: aimbot with smoothing and first-bullet priority, player and… — — · 0 yıldız
 - [Valorant-Eternal/.github](https://github.com/Valorant-Eternal/.github) — Valorant Eternal Cheats Panel is a Windows desktop panel for organizing aim and visual settings. Explore configurable aimbot… — — · 0 yıldız
 - [Valorant-External-Hack/.github](https://github.com/Valorant-External-Hack/.github) — 🎯 VALORANT External Hack — A third-party tool concept for VALORANT, featuring a configurable interface, visual options, and… — — · 0 yıldız
@@ -12095,6 +12353,7 @@
 - [valorant-mod-menu-gl74/.github](https://github.com/valorant-mod-menu-gl74/.github) — Valorant Skin Swapper ESP for abilities + no recoil — Best Valorant mod menu with ESP for abilities and no recoil. Safe & — HTML · 0 yıldız
 - [valorant-mod-menu-hc27/.github](https://github.com/valorant-mod-menu-hc27/.github) — Valorant Aim: no spread & speed hack — Best Valorant radar with no spread and speed hack. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-mod-menu-ih84/.github](https://github.com/valorant-mod-menu-ih84/.github) — Valorant Mod Menu no clip + infinite ammo — Best Valorant radar with no clip and infinite ammo. Safe & Undetected. — HTML · 0 yıldız
+- [valorant-mod-menu-iv81/.github](https://github.com/valorant-mod-menu-iv81/.github) — Valorant AutoShot: auto reload & wallhack — Best Valorant colorbot with auto reload and wallhack. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-mod-menu-jl94/.github](https://github.com/valorant-mod-menu-jl94/.github) — Valorant Mod Menu: ESP for players & wallhack — Best Valorant cheats with ESP for players and wallhack. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-mod-menu-jv44/.github](https://github.com/valorant-mod-menu-jv44/.github) — Valorant Skin Changer speed hack + auto headshot — Best Valorant cheats with speed hack and auto headshot. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-mod-menu-kc73/.github](https://github.com/valorant-mod-menu-kc73/.github) — Valorant Skin Changer ESP for players + bunny hop — Best Valorant cheat with ESP for players and bunny hop. Safe & Undetected. — HTML · 0 yıldız
@@ -12147,12 +12406,14 @@
 - [valorant-radar-ce40/.github](https://github.com/valorant-radar-ce40/.github) — Valorant Cheats: speed hack & auto headshot — Best Valorant aim with speed hack and auto headshot. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-radar-cj59/.github](https://github.com/valorant-radar-cj59/.github) — Valorant Radar silent aim + ESP for abilities — Best Valorant colorbot with silent aim and ESP for abilities. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-radar-cl63/.github](https://github.com/valorant-radar-cl63/.github) — Valorant AutoShot: no recoil & radar hack — Best Valorant skin swapper with no recoil and radar hack. Safe & Undetected. — HTML · 0 yıldız
+- [valorant-radar-dv80/.github](https://github.com/valorant-radar-dv80/.github) — Valorant Aim: wallhack & skin swapper — Best Valorant skin changer with wallhack and skin swapper. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-radar-dw17/.github](https://github.com/valorant-radar-dw17/.github) — Valorant Radar radar hack + skin changer — Best Valorant cheat with radar hack and skin changer. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-radar-er17/.github](https://github.com/valorant-radar-er17/.github) — Valorant Cheats: speed hack & bunny hop — Best Valorant mod menu with speed hack and bunny hop. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-radar-eu44/.github](https://github.com/valorant-radar-eu44/.github) — Valorant Aim: aimbot with smooth tracking & no spread — Best Valorant mod menu with aimbot with smooth tracking and no spread. — HTML · 0 yıldız
 - [valorant-radar-ex25/.github](https://github.com/valorant-radar-ex25/.github) — Valorant AutoShot no recoil + ESP for players — Best Valorant radar with no recoil and ESP for players. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-radar-fa27/.github](https://github.com/valorant-radar-fa27/.github) — Valorant ColorBot: silent aim & fly hack — Best Valorant cheats with silent aim and fly hack. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-radar-fc68/.github](https://github.com/valorant-radar-fc68/.github) — Valorant Radar skin swapper + radar hack — Best Valorant colorbot with skin swapper and radar hack. Safe & Undetected. — HTML · 0 yıldız
+- [valorant-radar-fj16/.github](https://github.com/valorant-radar-fj16/.github) — Valorant Radar wallhack + triggerbot — Best Valorant radar with wallhack and triggerbot. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-radar-fq87/.github](https://github.com/valorant-radar-fq87/.github) — Valorant ColorBot auto headshot + radar hack — Best Valorant triggerbot with auto headshot and radar hack. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-radar-fq89/.github](https://github.com/valorant-radar-fq89/.github) — Valorant Triggerbot: silent aim & ESP for players — Best Valorant autoshot with silent aim and ESP for players. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-radar-ft44/.github](https://github.com/valorant-radar-ft44/.github) — Valorant Triggerbot: aimbot with smooth tracking & silent aim — Best Valorant radar with aimbot with smooth tracking and silent — HTML · 0 yıldız
@@ -12207,10 +12468,12 @@
 - [valorant-skin-chan-ef83/.github](https://github.com/valorant-skin-chan-ef83/.github) — Valorant Skin Changer: ESP for spikes & silent aim — Best Valorant aim with ESP for spikes and silent aim. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-skin-chan-fd38/.github](https://github.com/valorant-skin-chan-fd38/.github) — Valorant Skin Swapper skin swapper + speed hack — Best Valorant autoshot with skin swapper and speed hack. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-skin-chan-fp80/.github](https://github.com/valorant-skin-chan-fp80/.github) — Valorant Triggerbot: fly hack & speed hack — Best Valorant radar with fly hack and speed hack. Safe & Undetected. — HTML · 0 yıldız
+- [valorant-skin-chan-fw00/.github](https://github.com/valorant-skin-chan-fw00/.github) — Valorant ColorBot: wallhack & infinite ammo — Best Valorant aim with wallhack and infinite ammo. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-skin-chan-gh60/.github](https://github.com/valorant-skin-chan-gh60/.github) — Valorant Mod Menu: speed hack & radar hack — Best Valorant skin swapper with speed hack and radar hack. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-skin-chan-gv98/.github](https://github.com/valorant-skin-chan-gv98/.github) — Valorant Cheats rapid fire + infinite ammo — Best Valorant radar with rapid fire and infinite ammo. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-skin-chan-hc63/.github](https://github.com/valorant-skin-chan-hc63/.github) — Valorant Mod Menu radar hack + god mode — Best Valorant colorbot with radar hack and god mode. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-skin-chan-hh37/.github](https://github.com/valorant-skin-chan-hh37/.github) — Valorant AutoShot auto headshot + speed hack — Best Valorant triggerbot with auto headshot and speed hack. Safe & Undetected. — HTML · 0 yıldız
+- [valorant-skin-chan-ir34/.github](https://github.com/valorant-skin-chan-ir34/.github) — Valorant Skin Changer wallhack + god mode — Best Valorant skin swapper with wallhack and god mode. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-skin-chan-is35/.github](https://github.com/valorant-skin-chan-is35/.github) — Valorant Aim ESP for abilities + aimbot with smooth tracking — Best Valorant mod menu with ESP for abilities and aimbot with — HTML · 0 yıldız
 - [valorant-skin-chan-iv16/.github](https://github.com/valorant-skin-chan-iv16/.github) — Valorant Skin Changer: aimbot with smooth tracking & skin swapper — Best Valorant colorbot with aimbot with smooth tracking and — HTML · 0 yıldız
 - [valorant-skin-chan-jb09/.github](https://github.com/valorant-skin-chan-jb09/.github) — Valorant Triggerbot: wallhack & bunny hop — Best Valorant cheat with wallhack and bunny hop. Safe & Undetected. — HTML · 0 yıldız
@@ -12233,10 +12496,12 @@
 - [valorant-skin-chan-of84/.github](https://github.com/valorant-skin-chan-of84/.github) — Valorant Mod Menu: skin changer & ESP for spikes — Best Valorant cheat with skin changer and ESP for spikes. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-skin-chan-ox94/.github](https://github.com/valorant-skin-chan-ox94/.github) — Valorant Radar: aimbot with smooth tracking & wallhack — Best Valorant skin swapper with aimbot with smooth tracking and — HTML · 0 yıldız
 - [valorant-skin-chan-pj41/.github](https://github.com/valorant-skin-chan-pj41/.github) — Valorant Skin Changer fly hack + rapid fire — Best Valorant cheats with fly hack and rapid fire. Safe & Undetected. — HTML · 0 yıldız
+- [valorant-skin-chan-pj70/.github](https://github.com/valorant-skin-chan-pj70/.github) — Valorant Aim rapid fire + wallhack — Best Valorant aim with rapid fire and wallhack. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-skin-chan-qd89/.github](https://github.com/valorant-skin-chan-qd89/.github) — Valorant Cheats no recoil + radar hack — Best Valorant aim with no recoil and radar hack. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-skin-chan-qf96/.github](https://github.com/valorant-skin-chan-qf96/.github) — Valorant Cheat: aimbot with smooth tracking & no clip — Best Valorant mod menu with aimbot with smooth tracking and no clip. Safe — HTML · 0 yıldız
 - [valorant-skin-chan-qj42/.github](https://github.com/valorant-skin-chan-qj42/.github) — Valorant Skin Swapper ESP for players + aimbot with smooth tracking — Best Valorant skin swapper with ESP for players and — HTML · 0 yıldız
 - [valorant-skin-chan-qm29/.github](https://github.com/valorant-skin-chan-qm29/.github) — Valorant Mod Menu: radar hack & auto headshot — Best Valorant radar with radar hack and auto headshot. Safe & Undetected. — HTML · 0 yıldız
+- [valorant-skin-chan-qq28/.github](https://github.com/valorant-skin-chan-qq28/.github) — Valorant Skin Changer: wallhack & no clip — Best Valorant skin swapper with wallhack and no clip. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-skin-chan-qw02/.github](https://github.com/valorant-skin-chan-qw02/.github) — Valorant Cheat radar hack + triggerbot — Best Valorant autoshot with radar hack and triggerbot. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-skin-chan-ro73/.github](https://github.com/valorant-skin-chan-ro73/.github) — Valorant Skin Changer: aimbot with smooth tracking & auto headshot — Best Valorant radar with aimbot with smooth tracking and — HTML · 0 yıldız
 - [valorant-skin-chan-rt90/.github](https://github.com/valorant-skin-chan-rt90/.github) — Valorant Mod Menu no clip + auto headshot — Best Valorant colorbot with no clip and auto headshot. Safe & Undetected. — HTML · 0 yıldız
@@ -12263,6 +12528,7 @@
 - [valorant-skin-chan-yc94/.github](https://github.com/valorant-skin-chan-yc94/.github) — Valorant Mod Menu: no spread & ESP for spikes — Best Valorant colorbot with no spread and ESP for spikes. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-skin-chan-yi87/.github](https://github.com/valorant-skin-chan-yi87/.github) — Valorant Skin Changer: silent aim & skin changer — Best Valorant mod menu with silent aim and skin changer. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-skin-chan-yy87/.github](https://github.com/valorant-skin-chan-yy87/.github) — Valorant Mod Menu: wallhack & infinite ammo — Best Valorant autoshot with wallhack and infinite ammo. Safe & Undetected. — HTML · 0 yıldız
+- [valorant-skin-chan-zc16/.github](https://github.com/valorant-skin-chan-zc16/.github) — Valorant ColorBot: infinite ammo & wallhack — Best Valorant aim with infinite ammo and wallhack. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-skin-chan-zx15/.github](https://github.com/valorant-skin-chan-zx15/.github) — Valorant Cheats: skin swapper & ESP for players — Best Valorant colorbot with skin swapper and ESP for players. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-skin-swap-ab49/.github](https://github.com/valorant-skin-swap-ab49/.github) — Valorant AutoShot: silent aim & no spread — Best Valorant cheat with silent aim and no spread. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-skin-swap-bc02/.github](https://github.com/valorant-skin-swap-bc02/.github) — Valorant ColorBot fly hack + skin swapper — Best Valorant colorbot with fly hack and skin swapper. Safe & Undetected. — HTML · 0 yıldız
@@ -12271,6 +12537,7 @@
 - [valorant-skin-swap-ck78/.github](https://github.com/valorant-skin-swap-ck78/.github) — Valorant Skin Swapper radar hack + no spread — Best Valorant colorbot with radar hack and no spread. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-skin-swap-cr25/.github](https://github.com/valorant-skin-swap-cr25/.github) — Valorant Skin Swapper auto headshot + infinite ammo — Best Valorant mod menu with auto headshot and infinite ammo. Safe & — HTML · 0 yıldız
 - [valorant-skin-swap-de17/.github](https://github.com/valorant-skin-swap-de17/.github) — Valorant Skin Swapper no clip + radar hack — Best Valorant radar with no clip and radar hack. Safe & Undetected. — HTML · 0 yıldız
+- [valorant-skin-swap-dp18/.github](https://github.com/valorant-skin-swap-dp18/.github) — Valorant Skin Swapper wallhack + silent aim — Best Valorant autoshot with wallhack and silent aim. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-skin-swap-eq98/.github](https://github.com/valorant-skin-swap-eq98/.github) — Valorant Cheats: no clip & aimbot with smooth tracking — Best Valorant mod menu with no clip and aimbot with smooth tracking. — HTML · 0 yıldız
 - [valorant-skin-swap-ex31/.github](https://github.com/valorant-skin-swap-ex31/.github) — Valorant Triggerbot aimbot with smooth tracking + skin changer — Best Valorant aim with aimbot with smooth tracking and skin — HTML · 0 yıldız
 - [valorant-skin-swap-ey57/.github](https://github.com/valorant-skin-swap-ey57/.github) — Valorant Cheat: skin swapper & auto headshot — Best Valorant autoshot with skin swapper and auto headshot. Safe & Undetected. — HTML · 0 yıldız
@@ -12352,6 +12619,7 @@
 - [valorant-triggerbo-qc25/.github](https://github.com/valorant-triggerbo-qc25/.github) — Valorant Cheats no spread + god mode — Best Valorant radar with no spread and god mode. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-triggerbo-rv79/.github](https://github.com/valorant-triggerbo-rv79/.github) — Valorant Triggerbot skin swapper + radar hack — Best Valorant autoshot with skin swapper and radar hack. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-triggerbo-sc74/.github](https://github.com/valorant-triggerbo-sc74/.github) — Valorant Triggerbot ESP for players + aimbot with smooth tracking — Best Valorant aim with ESP for players and aimbot with — HTML · 0 yıldız
+- [valorant-triggerbo-sv09/.github](https://github.com/valorant-triggerbo-sv09/.github) — Valorant Triggerbot bunny hop + wallhack — Best Valorant aim with bunny hop and wallhack. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-triggerbo-tb23/.github](https://github.com/valorant-triggerbo-tb23/.github) — Valorant Radar: auto headshot & ESP for spikes — Best Valorant radar with auto headshot and ESP for spikes. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-triggerbo-tx83/.github](https://github.com/valorant-triggerbo-tx83/.github) — Valorant Triggerbot: god mode & fly hack — Best Valorant cheat with god mode and fly hack. Safe & Undetected. — HTML · 0 yıldız
 - [valorant-triggerbo-ul17/.github](https://github.com/valorant-triggerbo-ul17/.github) — Valorant Skin Changer: auto headshot & radar hack — Best Valorant cheat with auto headshot and radar hack. Safe & Undetected. — HTML · 0 yıldız
@@ -12372,6 +12640,7 @@
 - [Valorant-WallAim-Training-Community/.github](https://github.com/Valorant-WallAim-Training-Community/.github) — Valorant WallAim Training Pack is a community-driven collection of tools and configurations to optimize training software with… — — · 0 yıldız
 - [Valorant-WallAim-Training-Community/Valorant-WallAim-Training-Pack](https://github.com/Valorant-WallAim-Training-Community/Valorant-WallAim-Training-Pack) — Valorant WallAim Training Pack is a community-driven collection of tools and configurations to optimize training software with… — — · 0 yıldız
 - [VALORANT-wallhack-aim/.github](https://github.com/VALORANT-wallhack-aim/.github) — Valorant Wallhack & Aim Pro — ESP overlay, aimbot, and recoil control tools for clearer awareness and sharper ranked Valorant… — — · 0 yıldız
+- [VALORANT-WALLHACKS/.github](https://github.com/VALORANT-WALLHACKS/.github) — VALORANT WALLHACK covers wallhack-style visual settings, wall visibility terminology, outline customization, color controls, and… — — · 0 yıldız
 - [VALORANTCheat-Panel/.github](https://github.com/VALORANTCheat-Panel/.github) — VALORANT Cheat Panel — Windows desktop project featuring Aimbot, Wallhack, Player ESP, Triggerbot, No Recoil, Spike ESP, tactical… — — · 0 yıldız
 - [VALORANTCheat-Panels/.github](https://github.com/VALORANTCheat-Panels/.github) — VALORANT Cheat Panel is a Windows desktop overlay for VALORANT that combines agent ESP, skeleton tracking, health readouts and a… — — · 0 yıldız
 - [ValorantCheatPanel/.github](https://github.com/ValorantCheatPanel/.github) — Valorant Cheat Panel is a Windows cheat suite for Valorant that consolidates aimbot, agent and role ESP, triggerbot, recoil… — — · 0 yıldız
@@ -12425,7 +12694,7 @@
 - [zohenixxx/Valorant-spoofer--link-discord-in-pefil](https://github.com/zohenixxx/Valorant-spoofer--link-discord-in-pefil) — valorant spoofer — — · 0 yıldız
 - [zseikjdfujhbzseh/Valorant-Mott-External](https://github.com/zseikjdfujhbzseh/Valorant-Mott-External) — (açıklama yok) — — · 0 yıldız
 
-### Apex Legends — 179 repo
+### Apex Legends — 186 repo
 
 - [MisterY52/apex_dma_kvm_pub](https://github.com/MisterY52/apex_dma_kvm_pub) — Apex Legends QEMU/KVM hack — C++ · 461 yıldız
 - [ethanedits/Apex-Legends-SDK](https://github.com/ethanedits/Apex-Legends-SDK) — Open Source Cheat for Apex Legends, designed for ease of use. Made to understand reversing of Apex Legends and respawn's modified… — C · 158 yıldız
@@ -12527,6 +12796,13 @@
 - [Apex-Legends-HackCheat/.github](https://github.com/Apex-Legends-HackCheat/.github) — Apex Legends Hack Toolkit is a fully loaded combat suite featuring aimbot, ESP, triggerbot, recoil control, and radar overlays.… — — · 0 yıldız
 - [APEX-LEGENDS-RADAR-HACK/.github](https://github.com/APEX-LEGENDS-RADAR-HACK/.github) — APEX Legends Radar Hack is a radar-reference package covering minimap terminology, player-marker concepts, map layouts, range… — — · 0 yıldız
 - [APEX-LEGENDS-SPEED-HACK/.github](https://github.com/APEX-LEGENDS-SPEED-HACK/.github) — APEX Legends Speed Hack is a movement reference covering sprint settings, slide mechanics, jump timing, strafing, holster speed,… — — · 0 yıldız
+- [Apex-Legends-W-all-hack/.github](https://github.com/Apex-Legends-W-all-hack/.github) — Apex Legends Wallhack Scope is a see-through-walls layer for Apex that outlines players through cover, buildings, and smoke.… — — · 0 yıldız
+- [Apex-Legends-W-allh-ack/.github](https://github.com/Apex-Legends-W-allh-ack/.github) — Apex Legends Wallhack Scope is a see-through-walls layer for Apex that outlines players through cover, buildings, and smoke.… — — · 0 yıldız
+- [Apex-Legends-Wa-llhac-k/.github](https://github.com/Apex-Legends-Wa-llhac-k/.github) — Apex Legends Wallhack Scope is a see-through-walls layer for Apex that outlines players through cover, buildings, and smoke.… — — · 0 yıldız
+- [Apex-Legends-Wall-hack/.github](https://github.com/Apex-Legends-Wall-hack/.github) — Apex Legends Wallhack Scope is a see-through-walls layer for Apex that outlines players through cover, buildings, and smoke.… — — · 0 yıldız
+- [APEX-LEGENDS-WALL-HACKS/.github](https://github.com/APEX-LEGENDS-WALL-HACKS/.github) — APEX Legends Wallhack is a visual-reference package covering wallhack terminology, player outline concepts, color customization,… — — · 0 yıldız
+- [Apex-Legends-Wallh-ack/.github](https://github.com/Apex-Legends-Wallh-ack/.github) — Apex Legends Wallhack Scope is a see-through-walls layer for Apex that outlines players through cover, buildings, and smoke.… — — · 0 yıldız
+- [Apex-Legends-Wallhack-Scope/.github](https://github.com/Apex-Legends-Wallhack-Scope/.github) — Apex Legends Wallhack Scope is a see-through-walls layer for Apex that outlines players through cover, buildings, and smoke.… — — · 0 yıldız
 - [Apex-Legends-WallhackCheat/.github](https://github.com/Apex-Legends-WallhackCheat/.github) — Apex Legends Wallhack Elite is a visual awareness toolkit featuring player boxes, skeletons, health and shield bars, loot ESP,… — — · 0 yıldız
 - [ApexLegends-E-S-P/.github](https://github.com/ApexLegends-E-S-P/.github) — Apex Legends ESP Radar is a battle royale overlay for Apex that shows player boxes, skeletons, shields, health, legends, weapons,… — — · 0 yıldız
 - [ApexLegends-SkinSwapper/.github](https://github.com/ApexLegends-SkinSwapper/.github) — Apex Legends SkinSwapper is a cosmetic tool for swapping legend skins, weapon finishes, heirlooms, universal melee, banner… — — · 0 yıldız
@@ -12607,7 +12883,7 @@
 - [ziwoo3244/apex-recoil-trainer](https://github.com/ziwoo3244/apex-recoil-trainer) — Recoil practice tools for Apex Legends that run in your browser — JavaScript · 0 yıldız
 - [zorerkek/apexlegends-external](https://github.com/zorerkek/apexlegends-external) — (açıklama yok) — — · 0 yıldız
 
-### Tarkov / EFT — 317 repo
+### Tarkov / EFT — 321 repo
 
 - [sailro/EscapeFromTarkov-Trainer](https://github.com/sailro/EscapeFromTarkov-Trainer) — Escape from Tarkov (EFT) Trainer - Internal — C# · 737 yıldız · arşiv
 - [M3351AN/SPT-Fuyu](https://github.com/M3351AN/SPT-Fuyu) — Bypass EFT install validate of SPT Aki — Rust · 127 yıldız
@@ -12896,6 +13172,9 @@
 - [Tarkov-Ha-c-k/.github](https://github.com/Tarkov-Ha-c-k/.github) — Tarkov Hack Suite is an extended Escape from Tarkov toolkit with aim, visuals, loot filters, recoil control, and stash tools… — — · 0 yıldız
 - [Tarkov-Hack/.github](https://github.com/Tarkov-Hack/.github) — Tarkov Raid Toolkit Pro is an all-in-one EFT companion featuring player and loot ESP, recoil control, silent aim, and raid intel… — — · 0 yıldız
 - [Tarkov-HackCheat/.github](https://github.com/Tarkov-HackCheat/.github) — Tarkov Hack is an Escape from Tarkov gaming utility concept featuring tactical map references, weapon analytics, loot tracking,… — — · 0 yıldız
+- [Tarkov-W-all-hack/.github](https://github.com/Tarkov-W-all-hack/.github) — Tarkov Wallhack Scope is a see-through layer for Escape from Tarkov that outlines PMCs and scavs through walls, terrain, and… — — · 0 yıldız
+- [Tarkov-Wallh-ack/.github](https://github.com/Tarkov-Wallh-ack/.github) — Tarkov Wallhack Scope is a see-through layer for Escape from Tarkov that outlines PMCs and scavs through walls, terrain, and… — — · 0 yıldız
+- [Tarkov-Wallhack/.github](https://github.com/Tarkov-Wallhack/.github) — Tarkov Wallhack is an Escape from Tarkov gaming utility concept focused on visual map references, environmental awareness, loot… — — · 0 yıldız
 - [tarosimpleking48/arena-hack-pro-tools](https://github.com/tarosimpleking48/arena-hack-pro-tools) — 2025 Arena Breakout Hacks: Unlimited Resources for Windows PC 💻 — — · 0 yıldız
 - [teletubbies15/NovaSurge](https://github.com/teletubbies15/NovaSurge) — Get Arena Breakout Infinite Hack 2025 - Unlimited Coins & No Ban Guaranteed — C · 0 yıldız
 - [TheMarkedStrelok/DMA-EFT](https://github.com/TheMarkedStrelok/DMA-EFT) — (açıklama yok) — — · 0 yıldız
@@ -12910,6 +13189,7 @@
 - [uefishell/tarkov-external](https://github.com/uefishell/tarkov-external) — (açıklama yok) — — · 0 yıldız
 - [uefishell/tarkov-internal](https://github.com/uefishell/tarkov-internal) — found that laying around on my drive — — · 0 yıldız
 - [uigwvofjofsl/escape-from-tarkov-trainer](https://github.com/uigwvofjofsl/escape-from-tarkov-trainer) — Escape from Tarkov trainer — free 2026 — — · 0 yıldız
+- [unawareoven/tarkov-wallhack-2026](https://github.com/unawareoven/tarkov-wallhack-2026) — (açıklama yok) — — · 0 yıldız
 - [unfitundert/tarkov-speed-hack-2026](https://github.com/unfitundert/tarkov-speed-hack-2026) — (açıklama yok) — — · 0 yıldız
 - [Upgradeyalabel/arena-breakout-overlay-menu](https://github.com/Upgradeyalabel/arena-breakout-overlay-menu) — Collection of open-source tools for Arena Breakout Infinite — ESP, wallhack, and cheat notes. For educational and single-player… — HTML · 0 yıldız
 - [urbanpunctuat/tarkov-full-hack-pack-2026](https://github.com/urbanpunctuat/tarkov-full-hack-pack-2026) — (açıklama yok) — — · 0 yıldız
@@ -12927,7 +13207,7 @@
 - [zippolittlechild3/TarkovExtra](https://github.com/zippolittlechild3/TarkovExtra) — Escape From Tarkov Hacks Free Download 2025 — — · 0 yıldız
 - [zxsrxt-kebab-case/eft-external](https://github.com/zxsrxt-kebab-case/eft-external) — (açıklama yok) — — · 0 yıldız
 
-### Rust (oyun) — 3242 repo
+### Rust (oyun) — 3250 repo
 
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) — Code-first platform for workflows, apps and AI agents, on the fastest self-hostable orchestrator (benchmarked against Airflow,… — Rust · 18750 yıldız
 - [kucherenko/jscpd](https://github.com/kucherenko/jscpd) — Copy/paste detector for source code. 220+ languages, Rust engine, SARIF/HTML/badge reporters, GitHub Action, MCP server for AI… — Rust · 6632 yıldız
@@ -13014,6 +13294,7 @@
 - [bitwarden/sdk-internal](https://github.com/bitwarden/sdk-internal) — Bitwarden internal SDK. — Rust · 120 yıldız
 - [gal064/muxflow](https://github.com/gal064/muxflow) — Remote-first tmux IDE for coding agents. Agent notifications on desk and phone, voice replies, screenshot paste over SSH,… — Rust · 120 yıldız
 - [vurvdev/Autorun-rs](https://github.com/vurvdev/Autorun-rs) — Modern scripthook with lua execution and filesteal. Replacement for gluasteal and most lua executors — Rust · 120 yıldız · arşiv
+- [amima5867/rust-recoil-script-download](https://github.com/amima5867/rust-recoil-script-download) — Rust Recoil Script access delivers in-game recoil control data and live readouts. — HTML · 118 yıldız
 - [DeathShotXD/0xM0nCrush](https://github.com/DeathShotXD/0xM0nCrush) — Kernel-mode process terminator using a signed BYOVD driver. Works on all Windows 10/11. No offsets, no PDB. Rust. — Rust · 117 yıldız
 - [itehax/rust-scraping](https://github.com/itehax/rust-scraping) — Web scraping using rust ! — Rust · 116 yıldız
 - [tigercraft4/goose](https://github.com/tigercraft4/goose) — Self-hosted WHOOP biometric platform — iOS (SwiftUI + Rust) + Android, BLE data capture, zero external dependencies. — Rust · 113 yıldız · arşiv
@@ -13737,6 +14018,7 @@
 - [bballer03/Mnemosyne](https://github.com/bballer03/Mnemosyne) — Mnemosyne is a high-performance, Rust-based heap-dump analysis engine with AI-driven diagnostics. It uncovers memory leaks,… — Rust · 2 yıldız
 - [beep-in-wonderland/WeSAD](https://github.com/beep-in-wonderland/WeSAD) — WEbhook Status and Alerting Daemon. Configurable Rust framework for integrating external data with embedded Discord messages via… — Rust · 2 yıldız
 - [bjoernQ/esp-hal-get-started](https://github.com/bjoernQ/esp-hal-get-started) — mdBook: Getting Started with bare-metal Rust on ESP32 — — · 2 yıldız
+- [block65/wallhack](https://github.com/block65/wallhack) — Layer 3 tunneling over QUIC and WebSockets, built for network pivoting in penetration testing scenarios. — Rust · 2 yıldız
 - [bnewbold/exuberant-hacks](https://github.com/bnewbold/exuberant-hacks) — XScreensaver hacks written in Rust — Rust · 2 yıldız
 - [btsouth/matteshot](https://github.com/btsouth/matteshot) — Beautiful screenshots and screen recordings for Windows. Press PrtScn, pick a look, paste. — Rust · 2 yıldız
 - [bvtuhan/AC-ESP](https://github.com/bvtuhan/AC-ESP) — Simple Assault Cube ESP written in Rust — Rust · 2 yıldız
@@ -14919,6 +15201,7 @@
 - [djeramillion/VoidSector](https://github.com/djeramillion/VoidSector) — Premium Cheat on Rust 2025: Best TriggerBot & Aimbot ESP Download Hack for Windows — Java · 0 yıldız
 - [djrenren/libtest](https://github.com/djrenren/libtest) — An extraction of Rust's internal libtest — Rust · 0 yıldız
 - [dnswlt/rusty](https://github.com/dnswlt/rusty) — Random Rust hacks. — Rust · 0 yıldız
+- [dobr2011/rust-wallhack](https://github.com/dobr2011/rust-wallhack) — (açıklama yok) — — · 0 yıldız
 - [dolr-ai/yral-rishi-agent](https://github.com/dolr-ai/yral-rishi-agent) — Greenfield build plan for the YRAL AI agent platform (yral-rishi-agent-*). Internal strategy + architecture doc — succeeds… — Python · 0 yıldız
 - [domhel/rust-serial-esp](https://github.com/domhel/rust-serial-esp) — Connect to ESP8266 with serial and listen to it. — Rust · 0 yıldız
 - [dongsub-joung/mahouka_Tatsuya-project](https://github.com/dongsub-joung/mahouka_Tatsuya-project) — hacking tools written in rust — Rust · 0 yıldız
@@ -14942,6 +15225,7 @@
 - [dxxxxy/VanitySniper](https://github.com/dxxxxy/VanitySniper) — A really simple and efficient Vanity URL for Discord. — Rust · 0 yıldız
 - [dzcdybcw/.github](https://github.com/dzcdybcw/.github) — 2025 Rust Hack Tools: Windows Guide 💻 — — · 0 yıldız
 - [E-x-plory-2026-PCB-Tester/ict-firmware](https://github.com/E-x-plory-2026-PCB-Tester/ict-firmware) — ESP32 + 2x CD74HC4067 in-circuit-test fixture firmware for ICT-SCAN PRO, with a host fault simulator (Rust, esp-hal, no_std) — Rust · 0 yıldız
+- [eatmeundesputed0/iron_inferno](https://github.com/eatmeundesputed0/iron_inferno) — 🔥Rust Wallhack 2025: Free Download Undetected Cheats for Windows — Python · 0 yıldız
 - [ecbrodie/rusty_pomo](https://github.com/ecbrodie/rusty_pomo) — A hack day project to build a Pomodoro Timer in Rust, so that I can learn the Rust language. — Rust · 0 yıldız
 - [Eclipse-Dominator/umuw-cli](https://github.com/Eclipse-Dominator/umuw-cli) — A thin wrapper around umu-run for running non-Steam Windows software on Linux: per-launcher Wine prefixes and declarative TOML… — Rust · 0 yıldız
 - [edarbieto/dropdl](https://github.com/edarbieto/dropdl) — Minimal desktop app for Windows and macOS: paste a link, get MP4 or M4A/MP3 via yt-dlp. Installs and updates its own tools; one… — Rust · 0 yıldız
@@ -15003,6 +15287,7 @@
 - [finalyards-org/esp-idf.embassy](https://github.com/finalyards-org/esp-idf.embassy) — [WIP]: Minimal Rust project that uses both ESP-IDF and Embassy — Rust · 0 yıldız
 - [finchwork-dev/agents-md-examples](https://github.com/finchwork-dev/agents-md-examples) — Free copy-paste AGENTS.md files by stack (Python, TypeScript, Go, Rust, Next.js) for Codex, Claude Code, Cursor, Copilot. Made by… — — · 0 yıldız
 - [FinexSSS/HyperCopy](https://github.com/FinexSSS/HyperCopy) — Fast Windows file copier in Rust: per-file I/O strategies (unbuffered IOCP for large files), Explorer 'Paste with HyperCopy',… — Rust · 0 yıldız
+- [fireboychester2/CopperCloak](https://github.com/fireboychester2/CopperCloak) — Rust Wallhack 2025 - Free Download & Easy Installation — C · 0 yıldız
 - [firefly-zero/firefly-sudo](https://github.com/firefly-zero/firefly-sudo) — 🦸 Rust SDK for accessing the internal Firefly Zero API — Rust · 0 yıldız
 - [Firwanaa/clip-stash-rust](https://github.com/Firwanaa/clip-stash-rust) — Web based service which allows users to share and paste clipboard content (clips). — Rust · 0 yıldız
 - [Fisheiyy/semi-fixed-neko-rust-internal](https://github.com/Fisheiyy/semi-fixed-neko-rust-internal) — (açıklama yok) — C++ · 0 yıldız · arşiv
@@ -15071,6 +15356,7 @@
 - [Gritaks/Gritaks-Scanner](https://github.com/Gritaks/Gritaks-Scanner) — Scans PC for Rust Cheats — — · 0 yıldız
 - [guibg/chess-daily-trainer](https://github.com/guibg/chess-daily-trainer) — Evidence-based daily chess training app — Rust + egui desktop. Tactics, calculation, endgames and spaced repetition. — Rust · 0 yıldız
 - [gurugsv7/localdrop](https://github.com/gurugsv7/localdrop) — Local-first Android to Windows clipboard bridge. Rust core, native Kotlin, Tauri 2. Share on your phone; paste on your laptop. — Rust · 0 yıldız
+- [gusarvandamus6/Rust-Base-ESP-v1](https://github.com/gusarvandamus6/Rust-Base-ESP-v1) — Wallhack for base structures and deployables in Rust. Ideal for scouting and raids. — — · 0 yıldız
 - [gustavczar/dragonwilds-trainer](https://github.com/gustavczar/dragonwilds-trainer) — Open source single-player trainer for RuneScape: Dragonwilds. In-game Esc panel, English & Português, written in Rust. — Rust · 0 yıldız
 - [GustavoXM9wd/Rust-Hack](https://github.com/GustavoXM9wd/Rust-Hack) — (açıklama yok) — — · 0 yıldız
 - [gustawdaniel/linear-sort-maximum-inequality-rust-node](https://github.com/gustawdaniel/linear-sort-maximum-inequality-rust-node) — Hack Earth problem with solution. — Rust · 0 yıldız
@@ -15129,6 +15415,7 @@
 - [hwollwage/rust_esp_std](https://github.com/hwollwage/rust_esp_std) — Rust ESP embedded system w/ std, no_std (bare metal) said makes you gay — Rust · 0 yıldız
 - [hxyulin/embedded-build-tools](https://github.com/hxyulin/embedded-build-tools) — Reusable building blocks for bare-metal Rust kernel build pipelines: bootable disk-image assembly (FAT32/ESP/MBR), QEMU… — Rust · 0 yıldız
 - [hypn4/rust-internal](https://github.com/hypn4/rust-internal) — (açıklama yok) — — · 0 yıldız
+- [iainbrux/keyboard-cli](https://github.com/iainbrux/keyboard-cli) — Rust CLI for the Wallhack K-001 keyboard (Sparklink Playjoy HID protocol) — Rust · 0 yıldız
 - [iamraihan/clipboard-history](https://github.com/iamraihan/clipboard-history) — Free, open-source clipboard manager for Linux, macOS & Windows. Press Super+V to search and re-paste anything you copied. Built… — Rust · 0 yıldız
 - [icguner/SplitHello](https://github.com/icguner/SplitHello) — Türkiye'deki erişim engellerini otomatik aşan, reklam ve izleyicileri engelleyen Windows uygulaması. DPI/SNI bypass, DNS over… — Rust · 0 yıldız
 - [IDAPROXYZ/Rust-Cheat-Source](https://github.com/IDAPROXYZ/Rust-Cheat-Source) — Im selling the source to Rust Disarray! SinisterSoul#6800 — — · 0 yıldız
@@ -15990,6 +16277,7 @@
 - [TheOnlyFusionCube/rust-rewrite-skill](https://github.com/TheOnlyFusionCube/rust-rewrite-skill) — RIIR-style harness + skill for reliable C→Rust and Python→Rust ports on mid-tier LLMs. Staged milestones, frozen-test anti-cheat,… — Python · 0 yıldız
 - [TheoOliveira/devcaminhante-paste](https://github.com/TheoOliveira/devcaminhante-paste) — simple tutorial that recreates pastebin using rust — Rust · 0 yıldız
 - [theprinceraj/paste-smart](https://github.com/theprinceraj/paste-smart) — A lightweight Windows clipboard utility built with Tauri 2, React, and TypeScript. Uses Jev AI to automatically select and paste… — TypeScript · 0 yıldız
+- [theremila/ROR2-Internal](https://github.com/theremila/ROR2-Internal) — Internal mod for Risk of Rain 2 written in Rust with DX11 ImGui overlay — Rust · 0 yıldız
 - [TheTaxPerson/TestDrive](https://github.com/TheTaxPerson/TestDrive) — Greek driving-licence theory exam trainer, rebuilt in Rust — Rust · 0 yıldız
 - [thevickypedia/rust-releaser](https://github.com/thevickypedia/rust-releaser) — Internal GHA to build, test and upload artifact for a rust release — — · 0 yıldız
 - [TheVoid-0/esp32-rust-template](https://github.com/TheVoid-0/esp32-rust-template) — Repositório clonado de https://github.com/ctron/rust-esp-template para testar a linguagem RUST na arquitetura da ESP, veja também… — Rust · 0 yıldız
@@ -16172,7 +16460,7 @@
 - [zxsrxt-kebab-case/alkad-external](https://github.com/zxsrxt-kebab-case/alkad-external) — rust alkad external cheat with kernel driver — C++ · 0 yıldız
 - [zz6zz666/typingbot-rs](https://github.com/zz6zz666/typingbot-rs) — Native Rust rewrite of TypingBot - an auto typing bot that bypasses paste restrictions. Material 3 UI (egui/eframe), dark mode,… — Rust · 0 yıldız
 
-### PUBG — 652 repo
+### PUBG — 653 repo
 
 - [jussihi/PUBG-map-hack](https://github.com/jussihi/PUBG-map-hack) — Map hack solution for PUBG — C++ · 794 yıldız
 - [atiksoftware/pubg_mobile_memory_hacking_examples](https://github.com/atiksoftware/pubg_mobile_memory_hacking_examples) — Pubg Mobile Emulator Gameloop Memory Hacking C++ code examples. Ex: Name, Coord, Bones, Weapons, Items, Box, Drop etc. — C++ · 574 yıldız
@@ -16654,6 +16942,7 @@
 - [MaxDevilz/Govind-sharma](https://github.com/MaxDevilz/Govind-sharma) — Pubg hack — — · 0 yıldız
 - [mdbrelo/pubg_extern](https://github.com/mdbrelo/pubg_extern) — PUBG External Tool — C# · 0 yıldız
 - [Meshafoundry/PUBG-Loot-ESP-Tiers](https://github.com/Meshafoundry/PUBG-Loot-ESP-Tiers) — Download: soon — — · 0 yıldız
+- [Meteornusever/PUBG-Wallhack-Outline](https://github.com/Meteornusever/PUBG-Wallhack-Outline) — Download: soon — — · 0 yıldız
 - [Minhaj4373/Pubg-hack](https://github.com/Minhaj4373/Pubg-hack) — (açıklama yok) — — · 0 yıldız
 - [minhdevs/update](https://github.com/minhdevs/update) — Tool hỗ trợ bắn súng cối (mortar) nhanh và macro — — · 0 yıldız
 - [MinizJs/Pubg-hack](https://github.com/MinizJs/Pubg-hack) — (açıklama yok) — — · 0 yıldız
@@ -16827,12 +17116,13 @@
 - [zomopkak/chinazombie](https://github.com/zomopkak/chinazombie) — hack pubg — — · 0 yıldız
 - [zxm08/pubg](https://github.com/zxm08/pubg) — Pubg mod menu — — · 0 yıldız
 
-### DayZ / Arma — 532 repo
+### DayZ / Arma — 533 repo
 
 - [CBATeam/CBA_A3](https://github.com/CBATeam/CBA_A3) — Community Base Addons for Arma 3 — SQF · 406 yıldız
 - [Anonymoussgc/dayz-selora](https://github.com/Anonymoussgc/dayz-selora) — Dayz Selora delivers live intel and status cues that keep you sharp in every firefight. — TypeScript · 193 yıldız
 - [imRishikesavan/dayz-selora](https://github.com/imRishikesavan/dayz-selora) — Dayz Selora delivers live intel and status cues that keep you sharp in every firefight. — TypeScript · 193 yıldız
 - [lifehacksold-ops/tool-arma3-esp](https://github.com/lifehacksold-ops/tool-arma3-esp) — Real-time target spotting for Arma 3 - clear on-screen markers keep you aware. — HTML · 153 yıldız
+- [loributt02/arma-3-trainer-mod-menu](https://github.com/loributt02/arma-3-trainer-mod-menu) — Arma 3 Mods, Trainer & Configuration Toolkit — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui (Unity IL2CPP /… — Go · 81 yıldız
 - [mahdi-usask/Wind-Speed-Forecasting-for-wind-power-generation-plant.-Neural-Network-ML-based-prediction-algo.-](https://github.com/mahdi-usask/Wind-Speed-Forecasting-for-wind-power-generation-plant.-Neural-Network-ML-based-prediction-algo.-) — For largescale wind power penetration Wind speed prediction is a basic requirement of wind energy generation. There are many… — Jupyter Notebook · 51 yıldız
 - [Braini01/bis-file-formats](https://github.com/Braini01/bis-file-formats) — c# .net standard code base for reading ArmA/BIS file formats — C# · 49 yıldız
 - [scalespeeder/DayZ-Chernarus-Custom-Miltary-Base-At-Krona-Castle-Json-XML-Files-Download](https://github.com/scalespeeder/DayZ-Chernarus-Custom-Miltary-Base-At-Krona-Castle-Json-XML-Files-Download) — A collection of files that will give you a custom military base at Krona Castle, in Chernarus, for PC, PlayStation & Xbox. — — · 38 yıldız
@@ -17362,10 +17652,12 @@
 - [Yzeflixy/dayz-enhanced-toolset](https://github.com/Yzeflixy/dayz-enhanced-toolset) — Ultimate DayZ Cheats and Hacks Guide: Dominate Survival with Pro Strategies — — · 0 yıldız
 - [ZaxMith/dayz-esp-aim-enhancer](https://github.com/ZaxMith/dayz-esp-aim-enhancer) — DayZ ESP and Aimbot Tools 🚀 Enhance Your Gameplay with Custom Features — — · 0 yıldız
 
-### R6 / Siege / DbD — 608 repo
+### R6 / Siege / DbD — 613 repo
 
 - [IntelSDM/DMAByDaylight](https://github.com/IntelSDM/DMAByDaylight) — DMA Dead By Daylight ESP — C++ · 115 yıldız
 - [clauadv/dbd_internal](https://github.com/clauadv/dbd_internal) — internal cheat for dead by daylight — C++ · 94 yıldız · arşiv
+- [ablanchard793/dead-by-daylight-trainer-mod-menu](https://github.com/ablanchard793/dead-by-daylight-trainer-mod-menu) — Dead by Daylight Mod Menu & Trainer Suite — Unity IL2CPP / Unreal Engine Runtime, Auto-updating AOB signature scan & DirectX 11 /… — Go · 92 yıldız
+- [lee4167/tom-clancy-s-rainbow-six-siege-trainer-mod-menu](https://github.com/lee4167/tom-clancy-s-rainbow-six-siege-trainer-mod-menu) — Tom Clancy's Rainbow Six Siege Windows 10/11 Mod Menu & Trainer — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan… — Go · 81 yıldız
 - [lifusdev/lifusbounce](https://github.com/lifusdev/lifusbounce) — Rainbow six siege external (no wpm) + driver with DSE bypass — C++ · 77 yıldız
 - [HadockKali/battleye-user-mode-bypass](https://github.com/HadockKali/battleye-user-mode-bypass) — BattlEye compatible injector, done completely from user-mode. — C++ · 52 yıldız
 - [benayanathanael/Zontix-R6-Helper](https://github.com/benayanathanael/Zontix-R6-Helper) — Zontix it's a helpful menu with aim, wh, norecoil, and many, others fucntions for free! — — · 48 yıldız
@@ -17838,6 +18130,9 @@
 - [R6-Siege-Hack/.github](https://github.com/R6-Siege-Hack/.github) — R6 Siege Hack is a Rainbow Six Siege gaming utility concept featuring tactical map references, operator guides, weapon… — — · 0 yıldız
 - [R6-Siege-Hacks-2026/.github](https://github.com/R6-Siege-Hacks-2026/.github) — R6 Siege Hack for Windows featuring aimbot, wallhack, player ESP, and no recoil for Tom Clancy's Rainbow Six Siege. — — · 0 yıldız
 - [R6-Siege-Hacks-Free/.github](https://github.com/R6-Siege-Hacks-Free/.github) — R6 Siege Hacks for Windows featuring operator ESP, gadget ESP, enemy radar, objective markers, recoil control, and tactical… — — · 0 yıldız
+- [R6-Siege-Wall-hack/.github](https://github.com/R6-Siege-Wall-hack/.github) — R6 Siege Wallhack Scope is a see-through layer for Rainbow Six Siege that outlines attackers and defenders through walls, floors,… — — · 0 yıldız
+- [R6-Siege-Wallhack-2026/.github](https://github.com/R6-Siege-Wallhack-2026/.github) — R6 Siege Wallhack is a Windows tool for viewing player positions and map information in Rainbow Six Siege, with configurable… — — · 0 yıldız
+- [R6-Siege-Wallhack/.github](https://github.com/R6-Siege-Wallhack/.github) — R6 Siege Wallhack is a Rainbow Six Siege gaming utility concept focused on tactical map visualization, operator information,… — — · 0 yıldız
 - [R6-Siege-Wallhacks/.github](https://github.com/R6-Siege-Wallhacks/.github) — R6 Siege Wallhack for Windows with operator ESP, player outlines, distance indicators, visibility filters, and configurable… — — · 0 yıldız
 - [R6S-Aimbot-ESP-Toolkit/.github](https://github.com/R6S-Aimbot-ESP-Toolkit/.github) — R6S Aimbot ESP Pack pairs precision aim assistance with a full visual overlay for Rainbow Six Siege, featuring bone targeting,… — — · 0 yıldız
 - [R6S-Cheat-Panel-Go/.github](https://github.com/R6S-Cheat-Panel-Go/.github) — Rainbow Six Siege Cheats is your complete guide to the cheat ecosystem for Ubisoft's tactical shooter, covering kernel ESP,… — — · 0 yıldız
@@ -17973,7 +18268,7 @@
 - [ZamnMan/R6-bypass](https://github.com/ZamnMan/R6-bypass) — Ksksksk,sizjwi — — · 0 yıldız
 - [ZENOCHEATS/Crusader](https://github.com/ZENOCHEATS/Crusader) — Crusader is a Rainbow Six Siege cheat that mainly gives players an advantage through features like ESP/wallhacks and aimbot. ESP… — — · 0 yıldız
 
-### CoD / Warzone / BF / Overwatch — 1597 repo
+### CoD / Warzone / BF / Overwatch — 1615 repo
 
 - [RiotVanguard/Vanguard](https://github.com/RiotVanguard/Vanguard) — Official Vanguard Anti-Cheat source code. — C · 605 yıldız
 - [redscientistlabs/RTCV](https://github.com/redscientistlabs/RTCV) — Real-Time Corruptor, Vanguard, CorruptCore, NetCore2 https://redscientist.com/rtc — C# · 401 yıldız
@@ -17992,6 +18287,15 @@
 - [SmokeDoggy044/CoD2-BRO-Native-Loader](https://github.com/SmokeDoggy044/CoD2-BRO-Native-Loader) — Call of Duty 2: Big Red One - Custom Engine: our own engine implementation of the Xbox game, built from source for Linux and… — C++ · 117 yıldız
 - [ethanedits/Warzone-Project](https://github.com/ethanedits/Warzone-Project) — Kernel Warzone Cheat. Includes ESP, Aimbot, Bone ESP, and Menu — C++ · 112 yıldız
 - [70RMUND/Tormund-BFV-Radar](https://github.com/70RMUND/Tormund-BFV-Radar) — External Radar Mod for Battlefield V — Python · 95 yıldız
+- [ale3514/overwatch-trainer-mod-menu](https://github.com/ale3514/overwatch-trainer-mod-menu) — Overwatch (2026) Windows x64 Trainer, Mod Loader, Auto-updating AOB signature scan & DirectX 11 / 12 & Vulkan ImGui Utility — Go · 92 yıldız
+- [Alessio87221/battlefield-v-trainer-mod-menu](https://github.com/Alessio87221/battlefield-v-trainer-mod-menu) — Battlefield V Desktop Trainer, Mods & Unlocker — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui (Unity IL2CPP /… — Go · 92 yıldız
+- [Alexanders342/modern-warfare-iii](https://github.com/Alexanders342/modern-warfare-iii) — Modern Warfare III Mod Menu & Trainer Suite — Unity IL2CPP / Unreal Engine Runtime, Auto-updating AOB signature scan & DirectX 11… — Go · 92 yıldız
+- [brahima086/overwatch-2-trainer-mod-menu](https://github.com/brahima086/overwatch-2-trainer-mod-menu) — Overwatch 2 Mod Menu & Trainer Suite — Unity IL2CPP / Unreal Engine Runtime, Auto-updating AOB signature scan & DirectX 11 / 12 &… — Go · 92 yıldız
+- [dmoore9152/call-of-duty-black-ops-iii-trainer-mod-menu](https://github.com/dmoore9152/call-of-duty-black-ops-iii-trainer-mod-menu) — Call of Duty: Black Ops III Mods, Trainer & Configuration Toolkit — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan… — Go · 92 yıldız
+- [leclerc82004/call-of-duty-trainer-mod-menu](https://github.com/leclerc82004/call-of-duty-trainer-mod-menu) — Call of Duty Standalone Trainer & Mod Manager — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unity IL2CPP /… — Go · 81 yıldız
+- [lReed39/warzone-trainer-mod-menu](https://github.com/lReed39/warzone-trainer-mod-menu) — Warzone (2026) Windows x64 Trainer, Mod Loader, Auto-updating AOB signature scan & DirectX 11 / 12 & Vulkan ImGui Utility — Go · 81 yıldız
+- [lucasc85283/battlefield-2042-trainer-mod-menu](https://github.com/lucasc85283/battlefield-2042-trainer-mod-menu) — Battlefield 2042 Standalone Trainer & Mod Manager — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unity… — Go · 81 yıldız
+- [mbonnet10399/battlefield-4-trainer-mod-menu](https://github.com/mbonnet10399/battlefield-4-trainer-mod-menu) — Battlefield 4 Trainer & Mod Menu (2026) — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unity IL2CPP /… — Go · 81 yıldız
 - [Malalicious/Serenity](https://github.com/Malalicious/Serenity) — Overwatch pixel aimbot — C# · 77 yıldız
 - [shit-ware/IW4](https://github.com/shit-ware/IW4) — Raw MW2 .GSC files and .MENU files. No FastFiles. — GSC · 77 yıldız
 - [exex4/xx4-bfv-aimassist](https://github.com/exex4/xx4-bfv-aimassist) — A python based external aim assist for Battlefield V — Python · 75 yıldız
@@ -18632,6 +18936,7 @@
 - [blackstar7945/BF1-Unlock-All-Hack](https://github.com/blackstar7945/BF1-Unlock-All-Hack) — Battlefield 1 Multihack Download 2025 - Free Premium Cheats for Windows — C# · 0 yıldız
 - [blossombutt8293/Battlefield4-Cheat](https://github.com/blossombutt8293/Battlefield4-Cheat) — Get Best Battlefield 4 Hack: Secure 2025 Download for Windows PC🌟 — — · 0 yıldız
 - [bludmoon2252/Battlefield-4-Hack-Tools](https://github.com/bludmoon2252/Battlefield-4-Hack-Tools) — Battlefield 4 Hack 2025 Download - Unlimited Ammo, No Recoil, and God Mode for Windows — C# · 0 yıldız
+- [booboogarnet282/OverWatch2Storm](https://github.com/booboogarnet282/OverWatch2Storm) — OverWatch 2 Wallhack 2025 - See Enemies Through Walls & No Fog — C++ · 0 yıldız
 - [bossdlyavseh6326/VictoryVanguard](https://github.com/bossdlyavseh6326/VictoryVanguard) — Call Of Duty Warzone 3 Hack Download Free 2025 — Python · 0 yıldız
 - [bottes3798/shtdkfcbz](https://github.com/bottes3798/shtdkfcbz) — 2025 CoD Vanguard Hack🚀Windows ESP & Wallhack JS — — · 0 yıldız
 - [Boundaryiline/overwatch-2-quick-guide](https://github.com/Boundaryiline/overwatch-2-quick-guide) — Overwatch 2 Cheat A specialized gameplay utility featuring customizable vector adjustments, real-time wireframe overlays, and… — Rust · 0 yıldız
@@ -18788,6 +19093,7 @@
 - [Chemrakh/cod-visionary-mod-menu](https://github.com/Chemrakh/cod-visionary-mod-menu) — Unlock Epic Call of Duty Mod Menu for Game-Changing Features 🚀🎮 — — · 0 yıldız
 - [chewlulu5/BattleProEnhancer](https://github.com/chewlulu5/BattleProEnhancer) — Battlefield 1 Hack Download Free 2025 - Latest Working Cheats for Windows — C · 0 yıldız
 - [chewlulu5/WarfareTactician](https://github.com/chewlulu5/WarfareTactician) — Battlefield 1 Hack Menu 2025 - Download Free for Windows 10/11 — C · 0 yıldız
+- [chicken658/cod-extrax](https://github.com/chicken658/cod-extrax) — Call Of Duty Black Ops 6 Wallhack Download 2025 No Virus — — · 0 yıldız
 - [chillcuzcodeso/Warzone-ESP-august-2026-](https://github.com/chillcuzcodeso/Warzone-ESP-august-2026-) — Warzone ESP – Minimal & Efficient Overlay. Lightweight, high-performance overlay for Call of Duty: Warzone. Features box ESP,… — — · 0 yıldız
 - [chou1hub/warzone-Triggerbot-esp-source](https://github.com/chou1hub/warzone-Triggerbot-esp-source) — warzone-Triggerbot-esp-source — — · 0 yıldız
 - [chroudro/bo3-tactical-enhancements](https://github.com/chroudro/bo3-tactical-enhancements) — Cod Bo3 Cheats and Hacks Ultimate Guide for Top In-Game Power 🚀🎮 — — · 0 yıldız
@@ -18858,6 +19164,7 @@
 - [dominator632/BF4NovaCore](https://github.com/dominator632/BF4NovaCore) — Battlefield 4 Hack 2025 - Download Latest BF4 Cheats for Windows 10/11 — C++ · 0 yıldız
 - [donutranger/BF-RPM-Drawer](https://github.com/donutranger/BF-RPM-Drawer) — Read Process Memory (Drawer) to obtain memory offsets of Battlefield. — C# · 0 yıldız · arşiv
 - [doreathaelite8/Battlefield3InfernoRage](https://github.com/doreathaelite8/Battlefield3InfernoRage) — Battlefield 3 Hack 2025 - One-Click Download & Activation — C# · 0 yıldız
+- [DOTA-2-WALLHACK/.github](https://github.com/DOTA-2-WALLHACK/.github) — Dota 2 Wallhack is a map-visibility reference for Dota 2, covering hero vision, ward placement, observer range, fog of war… — — · 0 yıldız
 - [Drew-Alleman/Plutonium-Vsat-Hack](https://github.com/Drew-Alleman/Plutonium-Vsat-Hack) — Plutonium Black Ops II Constant VSAT hack — C++ · 0 yıldız
 - [drizzydom/Windows-Game-Edition-Unofficial](https://github.com/drizzydom/Windows-Game-Edition-Unofficial) — Script and GUI that intends to allow users to automatically disable tons of Windows processes that involve overhead to provide a… — PowerShell · 0 yıldız
 - [dubermanmanakxo40/BF4-Hack-Tool](https://github.com/dubermanmanakxo40/BF4-Hack-Tool) — Ultimate Battlefield 4 Mods Hack: Windows Download 2025 Update ⚡ — Go · 0 yıldız
@@ -19197,6 +19504,7 @@
 - [Mordhau-Cheats-Free/.github](https://github.com/Mordhau-Cheats-Free/.github) — Mordhau Cheats for PC featuring Player ESP, Enemy ESP, Health ESP, Distance ESP, Aimbot, No Recoil, and combat radar. Track… — — · 0 yıldız
 - [MorkBorlog/BF4_PublicHack](https://github.com/MorkBorlog/BF4_PublicHack) — Ein von mir programmierter Cheate / Hack für Battlefield 4. — C# · 0 yıldız
 - [Morrrtem/warzone-esp](https://github.com/Morrrtem/warzone-esp) — (açıklama yok) — — · 0 yıldız
+- [mrboom7363/GhostHavoc](https://github.com/mrboom7363/GhostHavoc) — Battlefield 2042 Wallhack 2025 Latest Version — C++ · 0 yıldız
 - [MrPulsess/Warzone-Menu](https://github.com/MrPulsess/Warzone-Menu) — (açıklama yok) — — · 0 yıldız
 - [MrRa1n/MW2-Trainer-PC](https://github.com/MrRa1n/MW2-Trainer-PC) — This is a trainer for editing player stats in the PC version of MW2. This has been updated to work on version 1.2.211 — C# · 0 yıldız
 - [MudPupaJack26/battlefield-client](https://github.com/MudPupaJack26/battlefield-client) — Collection of open-source tools for Battlefield — ESP, wallhack, and cheat notes. For educational and single-player use only. — HTML · 0 yıldız
@@ -19255,6 +19563,7 @@
 - [Overwatch-2-Cheat-Aim/.github](https://github.com/Overwatch-2-Cheat-Aim/.github) — Overwatch 2 Cheats is a Windows utility combining aim assist, recoil profiles, player ESP, radar overlay, sound ESP, weapon ESP,… — — · 0 yıldız
 - [Overwatch-2-Cheat-Panel-Menu/.github](https://github.com/Overwatch-2-Cheat-Panel-Menu/.github) — Overwatch 2 Cheats is your complete guide to the trainer, ESP, and aimbot ecosystem for Blizzard's hero shooter. From MoggyDay's… — — · 0 yıldız
 - [Overwatch-2-Cheat-Panel-Windowsdownload/.github](https://github.com/Overwatch-2-Cheat-Panel-Windowsdownload/.github) — Overwatch 2 Cheat Panel — Overwatch 2 cheat panel topic covering Hero target options, Aim assistance, Player ESP. Game-specific… — — · 0 yıldız
+- [Overwatch-2-CheatHack/.github](https://github.com/Overwatch-2-CheatHack/.github) — Overwatch 2 Wallhack is a gaming utility concept featuring tactical map references, hero databases, ability guides, objective… — — · 0 yıldız
 - [Overwatch-2-CheatPanel/.github](https://github.com/Overwatch-2-CheatPanel/.github) — # Overwatch 2 Cheat Panel An unofficial Overwatch 2 project concept featuring a futuristic hero-shooter interface, customizable… — — · 0 yıldız
 - [Overwatch-2-CheatPanel/Overwatch-2-CheatPanel](https://github.com/Overwatch-2-CheatPanel/Overwatch-2-CheatPanel) — # Overwatch 2 Cheat Panel An unofficial Overwatch 2 project concept featuring a futuristic hero-shooter interface, customizable… — — · 0 yıldız
 - [Overwatch-2-Cheats-Hacks/.github](https://github.com/Overwatch-2-Cheats-Hacks/.github) — Overwatch 2 Cheats is a cheat panel for Overwatch 2 with aimbot, ESP, radar and recoil control. Built around role-based hero… — — · 0 yıldız
@@ -19274,6 +19583,7 @@
 - [Overwatch-2-Wallhac-k/.github](https://github.com/Overwatch-2-Wallhac-k/.github) — Overwatch 2 Wallhack outlines heroes through walls and cover with role-based colors. Control silhouette style, range, and team… — — · 0 yıldız
 - [Overwatch-2-WallHack-AimBot/.github](https://github.com/Overwatch-2-WallHack-AimBot/.github) — 🎯 Overwatch 2 Wallhack & Aimbot — A cheat-menu concept featuring aim-assistance options, enhanced visual information, and… — — · 0 yıldız
 - [Overwatch-2-WallHack-AimBot/Overwatch-2-cheats](https://github.com/Overwatch-2-WallHack-AimBot/Overwatch-2-cheats) — 🎯 Overwatch 2 Wallhack & Aimbot — A cheat-menu concept featuring aim-assistance options, enhanced visual information, and… — — · 0 yıldız
+- [Overwatch-2-Wallhack/.github](https://github.com/Overwatch-2-Wallhack/.github) — Overwatch 2 Wallhack is a gaming utility concept featuring tactical map references, hero databases, ability guides, objective… — — · 0 yıldız
 - [Overwatch-2Cheat/.github](https://github.com/Overwatch-2Cheat/.github) — Overwatch 2 Cheats is a Windows desktop utility concept for organizing hero references, ability notes, team compositions, map… — — · 0 yıldız
 - [Overwatch-Panel/.github](https://github.com/Overwatch-Panel/.github) — Overwatch Panel is a Windows cheat overlay for Overwatch 2 featuring aimbot, hero ESP, wallhack, triggerbot, cooldown tracking,… — — · 0 yıldız
 - [Overwatch2-CheatPanel/.github](https://github.com/Overwatch2-CheatPanel/.github) — Overwatch 2 Cheat Panel for Windows with Aimbot, Hero ESP, Triggerbot and game-specific modules. — — · 0 yıldız
@@ -19516,6 +19826,9 @@
 - [Warzone-Ha-ck/.github](https://github.com/Warzone-Ha-ck/.github) — Warzone Hack Suite is an extended Warzone toolkit with aim, visuals, recoil control, unlock presets, and movement tools under one… — — · 0 yıldız
 - [Warzone-Hack-s/.github](https://github.com/Warzone-Hack-s/.github) — Warzone Hack Suite is an extended Warzone toolkit with aim, visuals, recoil control, unlock presets, and movement tools under one… — — · 0 yıldız
 - [Warzone-HackCheat/.github](https://github.com/Warzone-HackCheat/.github) — Warzone Hack is a Call of Duty: Warzone gaming utility concept focused on gameplay customization, tactical interfaces,… — — · 0 yıldız
+- [Warzone-Wal-lh-ack/.github](https://github.com/Warzone-Wal-lh-ack/.github) — Warzone Wallhack Scope is a see-through-walls layer for Warzone that outlines players through buildings, cover, and smoke.… — — · 0 yıldız
+- [Warzone-Wall-hac-k/.github](https://github.com/Warzone-Wall-hac-k/.github) — Warzone Wallhack Scope is a see-through-walls layer for Warzone that outlines players through buildings, cover, and smoke.… — — · 0 yıldız
+- [Warzone-Wall-hack/.github](https://github.com/Warzone-Wall-hack/.github) — Warzone Wallhack Scope is a see-through-walls layer for Warzone that outlines players through buildings, cover, and smoke.… — — · 0 yıldız
 - [Warzone-Wallhack/.github](https://github.com/Warzone-Wallhack/.github) — Warzone Wallhack Elite is a visual awareness toolkit featuring player boxes, skeletons, health and armor bars, loot ESP, and… — — · 0 yıldız
 - [wasd817/bo3-custom-menu-enhanced](https://github.com/wasd817/bo3-custom-menu-enhanced) — Unlock Epic Cod BO3 Mod Menu Enhancements 🚀 Custom Mods and Features for Gamers — — · 0 yıldız
 - [webvanguardai/apex-training](https://github.com/webvanguardai/apex-training) — APEX Training — Elite Personal Trainer Dubai Demo by Web Vanguard — TypeScript · 0 yıldız
@@ -19573,7 +19886,7 @@
 - [zykaohpz/.github](https://github.com/zykaohpz/.github) — Battlefield 4 Hack Windows 2025 🔥 Python & C++ Tricks — — · 0 yıldız
 - [ZyuRao/Battlefield-Simulator](https://github.com/ZyuRao/Battlefield-Simulator) — A turn-based strategy battlefield simulator for course project. Features: agent-based AI decisions, terrain, obstacles, base &… — C++ · 0 yıldız
 
-### Roblox / Minecraft / Terraria — 11671 repo
+### Roblox / Minecraft / Terraria — 11689 repo
 
 - [MinecraftForge/MinecraftForge](https://github.com/MinecraftForge/MinecraftForge) — Modifications to the Minecraft base files to assist in compatibility between mods. New Discord:… — Java · 7873 yıldız
 - [Pryaxis/TShock](https://github.com/Pryaxis/TShock) — ☕️⚡️TShock provides Terraria servers with server-side characters, anti-cheat, and community management tools. — C# · 2918 yıldız
@@ -19653,7 +19966,11 @@
 - [HawkAnticheat/Hawk](https://github.com/HawkAnticheat/Hawk) — An anticheat written for legacy versions of Spigot — Java · 126 yıldız
 - [DimensionalDevelopment/Rift](https://github.com/DimensionalDevelopment/Rift) — A lightweight mod loader and API for Minecraft 1.13 — Java · 124 yıldız · arşiv
 - [Exunys/Aimbot-Script](https://github.com/Exunys/Aimbot-Script) — ROBLOX Universal Aimbot Script — Lua · 122 yıldız · arşiv
+- [funklean2023-byte/bloxstrap-roblox-fflags-2026](https://github.com/funklean2023-byte/bloxstrap-roblox-fflags-2026) — Configurable FastFlags profiles and client launch settings for Bloxstrap. — HTML · 118 yıldız
+- [gfixdigital/solara-executor-v3-ralemar](https://github.com/gfixdigital/solara-executor-v3-ralemar) — Play with live info panels and in-game helpers from Solara Executor V3 Ralemar. — HTML · 118 yıldız
 - [prometheusreengineering/minecraft-essential](https://github.com/prometheusreengineering/minecraft-essential) — The Prometheus' patch for Essential Mod. — Java · 118 yıldız
+- [zebua25/wave-executor](https://github.com/zebua25/wave-executor) — Play smarter with Wave Executor, your edge for in-game insight. — HTML · 118 yıldız
+- [zeidan2026/solara-roblox-executor-2026](https://github.com/zeidan2026/solara-roblox-executor-2026) — Run Solara scripts in Roblox with the Solara Roblox Executor . — HTML · 118 yıldız
 - [rao/mc-name-sniper](https://github.com/rao/mc-name-sniper) — A sniper to snipe highly wanted Minecraft usernames, very quickly. Uses the multi-threaded feature in Elixir to bypass… — Elixir · 117 yıldız
 - [opencollab-incubator/Boar](https://github.com/opencollab-incubator/Boar) — FOSS Minecraft: Bedrock Edition predictive anticheat — Java · 116 yıldız
 - [N1nt4nd0/Xenobyte](https://github.com/N1nt4nd0/Xenobyte) — Xenobyte - hack pack for Minecraft 1.7.10 Forge — Java · 115 yıldız
@@ -19682,6 +19999,7 @@
 - [jonkenolot5y/roblox-arsenal-multi](https://github.com/jonkenolot5y/roblox-arsenal-multi) — Roblox Arsenal Multi is a cheat tool for Roblox Arsenal that is designed to be undetectable and offers a variety of features to… — Rust · 82 yıldız
 - [shxp3/CrossSine](https://github.com/shxp3/CrossSine) — Minecraft 1.8.9 Forge Hack Client — Kotlin · 82 yıldız
 - [ic3w0lf22/Unnamed-ESP](https://github.com/ic3w0lf22/Unnamed-ESP) — Player ESP for Roblox, fully undetectable, uses Synapse's built in drawing API — Lua · 81 yıldız
+- [MarthaRonto21121/roblox-bedwars-trainer-mod-menu](https://github.com/MarthaRonto21121/roblox-bedwars-trainer-mod-menu) — Roblox BedWars (2026) Windows x64 Trainer, Mod Loader, Auto-updating AOB signature scan & DirectX 11 / 12 & Vulkan ImGui Utility — Go · 81 yıldız
 - [Vagdedes/Spartan-AntiCheat-Rewritten](https://github.com/Vagdedes/Spartan-AntiCheat-Rewritten) — The longest living Minecraft paid anti cheat! — Java · 81 yıldız
 - [Exunys/AirHub-V2](https://github.com/Exunys/AirHub-V2) — ROBLOX Universal Targeting, Visualization (ESP) & Crosshair GUI — Lua · 80 yıldız
 - [kireikosasha/MX-Project](https://github.com/kireikosasha/MX-Project) — Complex minecraft anticheat for detection of aim hacks (1.8-1.21) — Python · 80 yıldız
@@ -19902,6 +20220,7 @@
 - [BornPaster/roblox-external](https://github.com/BornPaster/roblox-external) — basic python roblox external base with working world to screen. — Python · 23 yıldız
 - [CrucibleMC/Grimoire-legacy](https://github.com/CrucibleMC/Grimoire-legacy) — General-purpose Mixin loader framework, which allows to properly implement mixins on 1.7.10/1.12.2 versions of Minecraft. For… — Java · 23 yıldız · arşiv
 - [Darkhax-Minecraft/Open-Loader](https://github.com/Darkhax-Minecraft/Open-Loader) — An open source resource and data loader for Minecraft. — Java · 23 yıldız
+- [dragon11vortex/Roblox-wallhack](https://github.com/dragon11vortex/Roblox-wallhack) — konular: roblox, robloxscripts — — · 23 yıldız
 - [FencingF/FencingFPlusTwo](https://github.com/FencingF/FencingFPlusTwo) — FencingF+2 official release. Wasn't planning to do this but oh well :/ its just minecraft block game hacks. — Java · 23 yıldız
 - [FxMorin/VanillaMinecraftShaders](https://github.com/FxMorin/VanillaMinecraftShaders) — Vanilla Minecraft Resource Pack showing all the shaders and how there written. Use this as a base to create your shaders from — GLSL · 23 yıldız
 - [ignYoqzii/StarZLauncher](https://github.com/ignYoqzii/StarZLauncher) — A Powerful and User-Friendly Minecraft Launcher/Injector for Windows (Bedrock Edition) - DISCONTINUED — C# · 23 yıldız · arşiv
@@ -23451,6 +23770,7 @@
 - [amenkardes-creator/minecraft-clone](https://github.com/amenkardes-creator/minecraft-clone) — good,fake minecraft for people with no money,supports online,supports everything like minecraft,come and play dont miss the… — — · 0 yıldız
 - [AmethystHUB-Ame/AmethystHUB-Universal-Menu](https://github.com/AmethystHUB-Ame/AmethystHUB-Universal-Menu) — Universal script for Roblox by AmethystHUB — Lua · 0 yıldız
 - [amgelo581/roblox-death-note-system](https://github.com/amgelo581/roblox-death-note-system) — Sistema Death Note para Roblox com menu flutuante, ataque cardíaco e animações de morte — Lua · 0 yıldız
+- [amireddine-dev/Wallhack-roblox](https://github.com/amireddine-dev/Wallhack-roblox) — (açıklama yok) — — · 0 yıldız
 - [Amirhan-Taipovjan-Greatest-I/Minecraft-Vanilla-Notebook](https://github.com/Amirhan-Taipovjan-Greatest-I/Minecraft-Vanilla-Notebook) — A more vanilla-styled mod which lets you access your notes in a simple book in the pause menu. — — · 0 yıldız
 - [amirleglad/Roblox-hack-fly-noclip-etc...](https://github.com/amirleglad/Roblox-hack-fly-noclip-etc...) — (açıklama yok) — — · 0 yıldız
 - [amirmhmdglstan-stack/Roblox-studio-knowledge-base-libraries-for-LLM](https://github.com/amirmhmdglstan-stack/Roblox-studio-knowledge-base-libraries-for-LLM) — (açıklama yok) — — · 0 yıldız
@@ -23894,6 +24214,7 @@
 - [Billytone/HACK-MINECRAFT-](https://github.com/Billytone/HACK-MINECRAFT-) — (açıklama yok) — — · 0 yıldız
 - [bimbatop534-code/roblox-esp](https://github.com/bimbatop534-code/roblox-esp) — (açıklama yok) — Lua · 0 yıldız
 - [BingGan-hack/Code](https://github.com/BingGan-hack/Code) — MineCraft Hack Client — — · 0 yıldız
+- [bingowebshot2/minecraftvape](https://github.com/bingowebshot2/minecraftvape) — Download Vape V4 Wallhack for Minecraft Free — — · 0 yıldız
 - [BinHexOct/Rize](https://github.com/BinHexOct/Rize) — Minecraft Rize Hack - move it to the "C:\Users\username\AppData\Roaming\.minecraft\versions" folder and you are ready to go! — — · 0 yıldız
 - [Binklac/MCPAC5](https://github.com/Binklac/MCPAC5) — Minecraft Protect Anti-cheat 5 Framework — — · 0 yıldız
 - [BinScropoV/Minecraft-Cheat-Script-](https://github.com/BinScropoV/Minecraft-Cheat-Script-) — Minecraft Cheat Script / speed hack / jumpboast/ — — · 0 yıldız
@@ -24074,6 +24395,7 @@
 - [brommarcussanti/qpzotfbd](https://github.com/brommarcussanti/qpzotfbd) — Roblox ShimpGame Free Hack: Download Cheat with Wallhack, Aimbot — JavaScript · 0 yıldız
 - [bromyzbagoc0/Dodge-Perfect-PC-Minecraft](https://github.com/bromyzbagoc0/Dodge-Perfect-PC-Minecraft) — Unlimited Souls Trainer PC, Ice Blast PC Dungeons, Dodge Perfect PC Minecraft, Super Damage Minecraft Dungeons, Aimbot MC Game,… — — · 0 yıldız
 - [bronxron3-max/Ronx-menu-for-Dying-Days-Roblox](https://github.com/bronxron3-max/Ronx-menu-for-Dying-Days-Roblox) — Big had zombi — — · 0 yıldız
+- [BronyPlay/LWH](https://github.com/BronyPlay/LWH) — Simply WallHack plugin for Minecraft Paper 1.12.2 — Java · 0 yıldız
 - [Bronze-solos/VersionMC](https://github.com/Bronze-solos/VersionMC) — A brand new Minecraft Client has emerged from the bundle. Get VersionMC Client now for free. It is a Legit client and does NOT… — — · 0 yıldız
 - [brookhaven-rp-bm58/.github](https://github.com/brookhaven-rp-bm58/.github) — Natural Adventure Survival roblox mod menu fast + best — Top Natural Adventure Survival roblox mod menu with fast and best. — HTML · 0 yıldız
 - [brookhaven-rp-hp87/.github](https://github.com/brookhaven-rp-hp87/.github) — Jump Showdown roblox mod menu secure + best — Top Jump Showdown roblox mod menu with secure and best. Verified, secure, and — HTML · 0 yıldız
@@ -24597,6 +24919,7 @@
 - [dafaremixeruhuy-ctr/Bypass-Audio-For-Roblox-Studio-](https://github.com/dafaremixeruhuy-ctr/Bypass-Audio-For-Roblox-Studio-) — (açıklama yok) — HTML · 0 yıldız
 - [DaFuqs/DontBurnMyStuff](https://github.com/DaFuqs/DontBurnMyStuff) — A Minecraft mod for the fabric mod loader that aims to make the Fire Protection enchantment a bit more useful. — Java · 0 yıldız · arşiv
 - [dagger-13/kpazy](https://github.com/dagger-13/kpazy) — Roblox BrookHaven God Mode with Free Aimbot Hack Download — Python · 0 yıldız
+- [DaggerNippers/Earthquake-Free-Utilities](https://github.com/DaggerNippers/Earthquake-Free-Utilities) — 🪐🌟 Earthquake Roblox Script - ESP, Godmode, Auto-Run, No Clip, Wallhack. Survive everything roblox. — Lua · 0 yıldız
 - [DaGreat-Hacker/Minecraft-Hardcore-No-Totem](https://github.com/DaGreat-Hacker/Minecraft-Hardcore-No-Totem) — A paper 1.21+ Minecraft server plugin for hardcore servers so totems are completely banned since they are basically cheating — — · 0 yıldız
 - [Daisy061/roblox-Squid-Game-hack](https://github.com/Daisy061/roblox-Squid-Game-hack) — (açıklama yok) — — · 0 yıldız
 - [DaiViet-vn2/Roblox-Anti-Cheat-Dai-Viet](https://github.com/DaiViet-vn2/Roblox-Anti-Cheat-Dai-Viet) — A lua code to detect fly, tp, speed,... hacks in your game — Lua · 0 yıldız
@@ -24726,6 +25049,7 @@
 - [Death680930/Death-Menu](https://github.com/Death680930/Death-Menu) — A Roblox Hacked Menu — — · 0 yıldız
 - [Deathbringer98/Minecraft-Hack-Package](https://github.com/Deathbringer98/Minecraft-Hack-Package) — A Minecraft hack package comments explaining code — Java · 0 yıldız
 - [deathscout/hacks-bro](https://github.com/deathscout/hacks-bro) — roblox? hacks? ur in for a treat — — · 0 yıldız
+- [debugasync/FogWar](https://github.com/debugasync/FogWar) — server-authoritative visibility replication for roblox shooters. clients only receive positions they can actually see, so… — Luau · 0 yıldız
 - [DebuggedHVH/DEX-Explorer-Open-Source](https://github.com/DebuggedHVH/DEX-Explorer-Open-Source) — This is a improved version of Dex++ explorer to be able to bypass anticheats and be ready for Roblox Hypirion Anticheat updates — — · 0 yıldız
 - [decrypted-ops/ROBLOX-EXTERNAL](https://github.com/decrypted-ops/ROBLOX-EXTERNAL) — working roblox aim assist & triggerbot — — · 0 yıldız
 - [dedding19bj/fisch](https://github.com/dedding19bj/fisch) — Fisch Roblox Script - Powerful Roblox Hack Script 🕹️🔥 — — · 0 yıldız
@@ -25090,6 +25414,7 @@
 - [ElapsedDev/WorldMenu](https://github.com/ElapsedDev/WorldMenu) — A Paper plugin for interactive in-world Minecraft menus, featuring angled submenus, customizable assets, YAML configuration, and… — Java · 0 yıldız
 - [elCohete/Minecraft-CRASH-when-i-enter-to-the-server-or-i-die-sometimes-Description-Exception-ticking-world-](https://github.com/elCohete/Minecraft-CRASH-when-i-enter-to-the-server-or-i-die-sometimes-Description-Exception-ticking-world-) — ---- Minecraft Crash Report ---- WARNING: coremods are present: SpartanWeaponry-MixinLoader (SpartanWeaponry-1.12.2-1.4.0.jar)… — — · 0 yıldız
 - [Electronisss/Krit.Win](https://github.com/Electronisss/Krit.Win) — Very easy ESP for Roblox. — — · 0 yıldız
+- [ElectronSpirit/Ice-Scream-Farming-Helper](https://github.com/ElectronSpirit/Ice-Scream-Farming-Helper) — 🧩🎉 Ice Scream Roblox Script - ESP, Godmode, Auto-Run, No Clip, Wallhack. Survive everything roblox. — Lua · 0 yıldız
 - [elektrik5326/Burmalda-Client](https://github.com/elektrik5326/Burmalda-Client) — The Client for Minecraft cheat — Java · 0 yıldız
 - [elernete10075/Fatality.lua](https://github.com/elernete10075/Fatality.lua) — Lua for Mirage HVH roblox — — · 0 yıldız
 - [EleshOK/TheLostFrontESP-AIM](https://github.com/EleshOK/TheLostFrontESP-AIM) — Lost Front ESP + Silent Aim — best free script for Roblox. 🔥 Features: • ESP Boxes, Names, Distance • ESP Skeleton & Health Bars… — Lua · 0 yıldız
@@ -25422,6 +25747,7 @@
 - [Femfus/menu-lib](https://github.com/Femfus/menu-lib) — Easy to use Menu lib for roblox script development — Lua · 0 yıldız
 - [Femfus/roblox-menu-libs](https://github.com/Femfus/roblox-menu-libs) — (açıklama yok) — Luau · 0 yıldız
 - [FEN-N3C/StructraHub](https://github.com/FEN-N3C/StructraHub) — A Roblox aimbot script with several configs to enhance your experience. — Lua · 0 yıldız
+- [fenceinspectoratrium/Build-Your-Own-Pc-Free-Utilities](https://github.com/fenceinspectoratrium/Build-Your-Own-Pc-Free-Utilities) — 💪🎉 Build Your Own Pc Roblox Script - ESP, Godmode, Auto-Run, No Clip, Wallhack. Survive everything roblox. — Lua · 0 yıldız
 - [FencePrincipal/Mythic-Legends-V4-Utilities](https://github.com/FencePrincipal/Mythic-Legends-V4-Utilities) — 🔫👑 Mythic Legends Script - Auto Farm, Aimbot, ESP, Fly, Speed Hack. download for roblox. — Lua · 0 yıldız
 - [fenix31415/autoTab](https://github.com/fenix31415/autoTab) — A hack for minecraft servers — Java · 0 yıldız
 - [FerhatHub12/PembeHack-V1.0](https://github.com/FerhatHub12/PembeHack-V1.0) — PembeHack Free No Keyless Roblox Hack — — · 0 yıldız
@@ -25994,6 +26320,7 @@
 - [hdguogfhdhsd-prog/RobloxSpoof](https://github.com/hdguogfhdhsd-prog/RobloxSpoof) — Roblox Spoofer — — · 0 yıldız
 - [hdjadhasj/aimbot](https://github.com/hdjadhasj/aimbot) — this is roblox aimbot — — · 0 yıldız
 - [headshotharp/Minecraft-Plugin-Base](https://github.com/headshotharp/Minecraft-Plugin-Base) — Plugin Base for Minecraft Plugins — Java · 0 yıldız
+- [headtager/whcheat](https://github.com/headtager/whcheat) — Wallhack for Roblox — — · 0 yıldız
 - [Headxdevv/headcraft-roblox-connection](https://github.com/Headxdevv/headcraft-roblox-connection) — Server-authoritative admin, moderation and anti-cheat framework for Roblox with a Cmdr-style console and Headcraft backend… — Luau · 0 yıldız
 - [healty4678/cheat-roblox](https://github.com/healty4678/cheat-roblox) — here is a roblox injection. you can be in god mod farm glitch — — · 0 yıldız
 - [heartknows/roblox-external](https://github.com/heartknows/roblox-external) — (açıklama yok) — Rust · 0 yıldız
@@ -27245,6 +27572,7 @@
 - [LovrtuaftZ/Blender-ReplayMod-Camera-Bridge](https://github.com/LovrtuaftZ/Blender-ReplayMod-Camera-Bridge) — A Blender addon that exports camera animations into Minecraft Replay Mod path format, supporting custom scaling, rotation, and… — Python · 0 yıldız
 - [lowerapprenticespark/Into-The-Fog-Mega](https://github.com/lowerapprenticespark/Into-The-Fog-Mega) — 💊🔫 Into The Fog Script - Aimbot, ESP, Speed Hack, Auto-Dodge. Dominate every fight roblox. — Lua · 0 yıldız
 - [lowreale/roblox-esp](https://github.com/lowreale/roblox-esp) — hd — — · 0 yıldız
+- [loxnesdog29/minecraftvape](https://github.com/loxnesdog29/minecraftvape) — Download Vape V4 Wallhack for Minecraft Free — — · 0 yıldız
 - [LPlusBonk/VisorDiegetic](https://github.com/LPlusBonk/VisorDiegetic) — An addon for Visor, the OpenXR VR mod platform for Minecraft. It replaces the hotbar, the inventory, block menus, and item… — Java · 0 yıldız
 - [lpsmods/camera-view](https://github.com/lpsmods/camera-view) — This datapack allows to to jump into spectator mode then back without cheats — — · 0 yıldız
 - [lrxxh/ModsAnalyzer](https://github.com/lrxxh/ModsAnalyzer) — This is a Mod Analyzer. This application first gets the Minecraft info, then analyzes all the mods inside the mods folder, and if… — — · 0 yıldız
@@ -27825,6 +28153,7 @@
 - [MullerVGS/minecraft-server](https://github.com/MullerVGS/minecraft-server) — Docker Compose for a Minecraft Java server for friends: vanilla, Paper, mod loader or modpack, with daily backups — — · 0 yıldız
 - [multiserversgg/MINECRAFT-SERVER-ALLOWS-HACK](https://github.com/multiserversgg/MINECRAFT-SERVER-ALLOWS-HACK) — (açıklama yok) — — · 0 yıldız
 - [munchyree/Munchy-gui-v0.1](https://github.com/munchyree/Munchy-gui-v0.1) — Hack for roblox — — · 0 yıldız
+- [Muneeed/BestWallhack](https://github.com/Muneeed/BestWallhack) — The best wallhack you can ever see/ works in every roblox game — — · 0 yıldız
 - [Mur4t0/Mur4-Offsets-Roblox-introduction](https://github.com/Mur4t0/Mur4-Offsets-Roblox-introduction) — (açıklama yok) — — · 0 yıldız
 - [muradholmatov307-dev/zapre-1.9.3-bypass-roblox](https://github.com/muradholmatov307-dev/zapre-1.9.3-bypass-roblox) — (açıklama yok) — — · 0 yıldız
 - [muragotat/External-Roblox](https://github.com/muragotat/External-Roblox) — (açıklama yok) — — · 0 yıldız
@@ -28293,6 +28622,7 @@
 - [OperaGXE/Dead-By-roblox-hack](https://github.com/OperaGXE/Dead-By-roblox-hack) — pro dead by roblox hack — — · 0 yıldız
 - [OPerator828/minecraft-custom-menu-mod](https://github.com/OPerator828/minecraft-custom-menu-mod) — (açıklama yok) — — · 0 yıldız
 - [opidora254/Toxin-Bedrock-Client](https://github.com/opidora254/Toxin-Bedrock-Client) — Aggressive Minecraft Bedrock cheat with auto combo, scaffold and nofall. — — · 0 yıldız
+- [opkidam-eng/script-aim-bot-wallhack](https://github.com/opkidam-eng/script-aim-bot-wallhack) — aim bot and wallhack for roblox — — · 0 yıldız
 - [opsec4ever/meimeiclientweb](https://github.com/opsec4ever/meimeiclientweb) — ai minecraft donutsmp cheats with mei mei client for larping — JavaScript · 0 yıldız
 - [Opyyrrd/minecraft-hacks](https://github.com/Opyyrrd/minecraft-hacks) — (açıklama yok) — — · 0 yıldız
 - [oqropirizeandria-design/Brainrot-charger-](https://github.com/oqropirizeandria-design/Brainrot-charger-) — Roblox script hub with key system, loader, and updates. Includes loadstring execution, GUI, and secure script delivery. — — · 0 yıldız
@@ -28354,6 +28684,7 @@
 - [paezrafa2794-alt/NETBLOCK-HACKING-MINECRAFT-SIMULATOR](https://github.com/paezrafa2794-alt/NETBLOCK-HACKING-MINECRAFT-SIMULATOR) — NETBLOCK HACKING MINECRAFT SIMULATOR — HTML · 0 yıldız
 - [pagee1/MineCD-Cracked-MC](https://github.com/pagee1/MineCD-Cracked-MC) — Cracked minecraft open source launcher 100% made with python. Some New versions coming soon — — · 0 yıldız
 - [pahidreynaldo9-boop/GunEngineShared](https://github.com/pahidreynaldo9-boop/GunEngineShared) — Roblox GunShop GUI bypass script - VoidX Edition with GunStoreFolder support — — · 0 yıldız
+- [pakk-user/wallhack-roblox](https://github.com/pakk-user/wallhack-roblox) — (açıklama yok) — Lua · 0 yıldız
 - [palexx7106-commits/esp-script-roblox](https://github.com/palexx7106-commits/esp-script-roblox) — (açıklama yok) — — · 0 yıldız
 - [PalitOHio/ESP-roblox-Script](https://github.com/PalitOHio/ESP-roblox-Script) — ESP free script for Roblox — — · 0 yıldız
 - [palkane/LumaMenu](https://github.com/palkane/LumaMenu) — Entity-rendered Minecraft 26.3 menus with transparent Dialog input; no client mods — Java · 0 yıldız
@@ -31247,8 +31578,9 @@
 - [ZzZDeveloperZzZ/play-button-code](https://github.com/ZzZDeveloperZzZ/play-button-code) — This code you can use it to add play button (menu starter) (only for Roblox Studio) — Lua · 0 yıldız
 - [zZzVamp/Roblox-Hack](https://github.com/zZzVamp/Roblox-Hack) — Flying — — · 0 yıldız
 
-### Türk sahnesi (Zula / Wolfteam / Metin2 / KO / Silkroad) — 118 repo
+### Türk sahnesi (Zula / Wolfteam / Metin2 / KO / Silkroad) — 120 repo
 
+- [MebugoPep95/sudden-attack-trainer-mod-menu](https://github.com/MebugoPep95/sudden-attack-trainer-mod-menu) — Sudden Attack Windows 10/11 Mod Menu & Trainer — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unlocker — Go · 81 yıldız
 - [davidjimenez60/metin-2-mod](https://github.com/davidjimenez60/metin-2-mod) — Metin 2 Mod mEnu unlocker — — · 51 yıldız
 - [SkidBit/Metin-2-Bot-Rubinum2-Pserver](https://github.com/SkidBit/Metin-2-Bot-Rubinum2-Pserver) — Autonomous inmemory farmbot for the Metin 2 private server Rubinum 2. — C++ · 32 yıldız
 - [metecicek/Metin2-Farm-Bot](https://github.com/metecicek/Metin2-Farm-Bot) — Metin2 Farm Botu 2026 — Python · 21 yıldız
@@ -31339,6 +31671,7 @@
 - [loxnesscreamer/v7-Metin2-Speed-Hack](https://github.com/loxnesscreamer/v7-Metin2-Speed-Hack) — New Metin2 Hacks 2025 - Download Best Bots for Windows — — · 0 yıldız
 - [luisfelipe18/GamesoftACS](https://github.com/luisfelipe18/GamesoftACS) — This is the Anti Cheat System for Knight Online Gamesoft vversion — — · 0 yıldız
 - [LunaValerie/Metin2-hack-mobber-cheat](https://github.com/LunaValerie/Metin2-hack-mobber-cheat) — C# Mobber Cheat Metin2 pvp — C# · 0 yıldız
+- [m4tuzalix/metin2-wallhack-autoattack](https://github.com/m4tuzalix/metin2-wallhack-autoattack) — (açıklama yok) — C++ · 0 yıldız
 - [malanradvandamus/zula-hack-tricks](https://github.com/malanradvandamus/zula-hack-tricks) — How to Download Zula Hack 2025 for Windows - Step-by-Step Guide — C++ · 0 yıldız
 - [MetafitaNN/zula-hile](https://github.com/MetafitaNN/zula-hile) — zula smokecheats crecked kendi şahsıma aittir — — · 0 yıldız
 - [Metin2-Cheats/.github](https://github.com/Metin2-Cheats/.github) — Metin2 Cheats is a Windows utility combining loot and map ESP, boss and dungeon tracking, class overlays plus PvP radar with… — — · 0 yıldız
@@ -31368,7 +31701,7 @@
 - [zeenden576/Metin2-Modder](https://github.com/zeenden576/Metin2-Modder) — Premium Metin 2 Hack Tool: Download Now for Windows in 2025 Edition 🚀 — — · 0 yıldız
 - [Zula-Cheats-Panel/.github](https://github.com/Zula-Cheats-Panel/.github) — Zula Cheats Panel is a Windows desktop panel for organizing player and gameplay information controls. Explore player ESP, health… — — · 0 yıldız
 
-### DMA / Donanım sahnesi — 1108 repo
+### DMA / Donanım sahnesi — 1109 repo
 
 - [carmaa/inception](https://github.com/carmaa/inception) — Inception is a physical memory manipulation and hacking tool exploiting PCI-based DMA. The tool can attack over FireWire,… — Python · 1605 yıldız
 - [Metick/DMALibrary](https://github.com/Metick/DMALibrary) — Simple but extensive library for DMA users, made for gamehacking — C · 719 yıldız
@@ -31854,6 +32187,7 @@
 - [deadlock-script-mh90/.github](https://github.com/deadlock-script-mh90/.github) — Deadlock cheats no recoil + triggerbot — Best Deadlock radar with no recoil and triggerbot. Safe & Undetected. — HTML · 0 yıldız
 - [deadlock-script-pq24/.github](https://github.com/deadlock-script-pq24/.github) — Deadlock cheats: headshot multiplier & no recoil — Best Deadlock radar with headshot multiplier and no recoil. Safe & Undetected. — HTML · 0 yıldız
 - [deadlock-script-tr71/.github](https://github.com/deadlock-script-tr71/.github) — Deadlock aim: silent aim & radar hack — Best Deadlock radar with silent aim and radar hack. Safe & Undetected. — HTML · 0 yıldız
+- [deadlock-triggerbo-ai36/.github](https://github.com/deadlock-triggerbo-ai36/.github) — Deadlock aim wh: wallhack & no spread — Best Deadlock radar with wallhack and no spread. Safe & Undetected. — HTML · 0 yıldız
 - [deadlock-triggerbo-bm98/.github](https://github.com/deadlock-triggerbo-bm98/.github) — Deadlock triggerbot headshot multiplier + health ESP — Best Deadlock radar with headshot multiplier and health ESP. Safe & — HTML · 0 yıldız
 - [deadlock-triggerbo-br92/.github](https://github.com/deadlock-triggerbo-br92/.github) — Deadlock esp aimbot with smooth tracking + radar hack — Best Deadlock ESP with aimbot with smooth tracking and radar hack. Safe — HTML · 0 yıldız
 - [deadlock-triggerbo-hd43/.github](https://github.com/deadlock-triggerbo-hd43/.github) — Deadlock triggerbot no recoil + aimbot with smooth tracking — Best Deadlock radar with no recoil and aimbot with smooth — HTML · 0 yıldız
@@ -32479,7 +32813,7 @@
 - [ziziskmrnegotive/Unturned-Radar](https://github.com/ziziskmrnegotive/Unturned-Radar) — Free Unturned Hack Download 2025: Auto Aim & No Recoil for Windows — Go · 0 yıldız
 - [zoravine/crossfire-haks](https://github.com/zoravine/crossfire-haks) — CrossFire Cheat showcase covering Hack, Mod Menu, Aimbot, ESP, Wallhack, Radar, No Recoil and Triggerbot. — HTML · 0 yıldız
 
-### HvH / paste sahnesi (neverlose / onetap / fatality / skeet / gamesense) — 844 repo
+### HvH / paste sahnesi (neverlose / onetap / fatality / skeet / gamesense) — 845 repo
 
 - [bookworm52/EthicalHackingFromScratch](https://github.com/bookworm52/EthicalHackingFromScratch) — Welcome to my comprehensive course on python programming and ethical hacking. The course assumes you have NO prior knowledge in… — — · 120 yıldız
 - [CNTRUN/Termux-command](https://github.com/CNTRUN/Termux-command) — char const* const commands[] = { "aapt", " aapt", " zipalign", "abduco", " abduco", "abook", " abook", "alpine", " alpine", "… — — · 120 yıldız
@@ -32923,6 +33257,7 @@
 - [Hunt-Showdown-1896-Cheats-Panel/.github](https://github.com/Hunt-Showdown-1896-Cheats-Panel/.github) — Hunt: Showdown 1896 Cheats Panel is a Windows desktop tool for hunter and threat awareness, bounty and extraction markers, loot… — — · 0 yıldız
 - [Hunt-Showdown-Chea-ts/.github](https://github.com/Hunt-Showdown-Chea-ts/.github) — Hunt Showdown Cheat reference covering combat mechanics, weapon handling, hunter awareness, bounty objectives, extraction… — — · 0 yıldız
 - [Hunt-Showdown-Hacks/.github](https://github.com/Hunt-Showdown-Hacks/.github) — Hunt Showdown Hack reference covering gameplay configuration, combat mechanics, weapon characteristics, hunter awareness, bounty… — — · 0 yıldız
+- [Hunt-Showdown-Wall-hack/.github](https://github.com/Hunt-Showdown-Wall-hack/.github) — Hunt Showdown Wallhack reference covering hunter outline terminology, visibility concepts, visual markers, color customization,… — — · 0 yıldız
 - [hv46256/jgg](https://github.com/hv46256/jgg) — hvh — — · 0 yıldız
 - [hvh-guide/hvh-guide](https://github.com/hvh-guide/hvh-guide) — (açıklama yok) — TypeScript · 0 yıldız
 - [hvh-server/1x1-arena-hvh](https://github.com/hvh-server/1x1-arena-hvh) — 1x1 HVH and arena duels — 1v1 hvh, хвх арена, хвх дуэли on WOK HVH — — · 0 yıldız
@@ -33326,7 +33661,7 @@
 - [zkekwow/skeet-robloxscipt](https://github.com/zkekwow/skeet-robloxscipt) — script for legit or hvh people (USE ONLY IN PLAYS WHERE THERE ARE SHOOTER ELEMENTS!!!!) — — · 0 yıldız
 - [Zuzie-isHere/HvH-Essentials](https://github.com/Zuzie-isHere/HvH-Essentials) — here i will post my plugins for hvh boosted and maybe for mm hvh — SourcePawn · 0 yıldız
 
-### Diğer oyunlar (Hunt / TF2 / L4D / Quake / Halo / mobil sahneler) — 6888 repo
+### Diğer oyunlar (Hunt / TF2 / L4D / Quake / Halo / mobil sahneler) — 6933 repo
 
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) — There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting… — TypeScript · 79387 yıldız
 - [deeplethe/utopia](https://github.com/deeplethe/utopia) — World's first open-source enterprise world model. — Rust · 8717 yıldız
@@ -33441,6 +33776,8 @@
 - [Vortexryodoor/tf2-crit-helper](https://github.com/Vortexryodoor/tf2-crit-helper) — 🎯 Team Fortress 2 Hack 2026 - undetected cheat. Aimbot, Player ESP, Crit Hack, Bhop, Anti-Aim, Infinite Über, Infinite Cloak,… — C++ · 96 yıldız
 - [leyankrishantha/free-fore-headshot-hack](https://github.com/leyankrishantha/free-fore-headshot-hack) — Free fire main headshot hack script aimbot99% aimlock99% best hack auto aim enemy`s head support with leyan free fire main script — — · 93 yıldız
 - [tryAGI/Tiktoken](https://github.com/tryAGI/Tiktoken) — High-performance .NET BPE tokenizer — up to 618 MiB/s, competitive with Rust. Zero-allocation counting, multilingual cache,… — C# · 93 yıldız
+- [AlexanderSyed64/squad-trainer-mod-menu](https://github.com/AlexanderSyed64/squad-trainer-mod-menu) — Squad Mod Menu & Trainer Suite — Unity IL2CPP / Unreal Engine Runtime, Auto-updating AOB signature scan & DirectX 11 / 12 &… — Go · 92 yıldız
+- [DaniellePeters59/crossfire-trainer-mod-menu](https://github.com/DaniellePeters59/crossfire-trainer-mod-menu) — CrossFire Trainer & Mod Menu (2026) — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unity IL2CPP / Unreal… — Go · 92 yıldız
 - [rubickCenter/rubick-base](https://github.com/rubickCenter/rubick-base) — desktop automation, screen capture, input listen/simulation, asar compress, color picker for nodejs and electron based on rust.… — Rust · 92 yıldız · arşiv
 - [vasi/positioned-io](https://github.com/vasi/positioned-io) — Read and write from offsets in Rust. — Rust · 92 yıldız
 - [msavox/cleecode](https://github.com/msavox/cleecode) — CleeCode: a terminal IDE written in Rust — micro-style editor, file tree, integrated terminals, syntax highlighting, classic… — Rust · 91 yıldız
@@ -33451,6 +33788,12 @@
 - [rust-lang-ja/atcoder-rust-base](https://github.com/rust-lang-ja/atcoder-rust-base) — A Cargo package template for AtCoder competitions / AtCoder競技向けのCargoパッケージテンプレート — — · 86 yıldız
 - [RahulS-Dev/Deadlox-VIP-Injector](https://github.com/RahulS-Dev/Deadlox-VIP-Injector) — Free Fire/MAX Panel/Injector — — · 84 yıldız
 - [Halloweedev/usagepal](https://github.com/Halloweedev/usagepal) — Track all your AI coding subscriptions from your menu bar. Open-source fork of OpenUsage. macOS, Rust + Tauri. — TypeScript · 81 yıldız
+- [lDinh69/dota-2-trainer-mod-menu](https://github.com/lDinh69/dota-2-trainer-mod-menu) — Dota 2 Standalone Trainer & Mod Manager — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unity IL2CPP /… — Go · 81 yıldız
+- [le827/team-fortress-2-trainer-mod-menu](https://github.com/le827/team-fortress-2-trainer-mod-menu) — Team Fortress 2 Modding & Trainer Pack (2026) — Unity IL2CPP / Unreal Engine, Auto-updating AOB signature scan & DirectX 11 / 12… — Go · 81 yıldız
+- [lsanders60925/halo-infinite-trainer-mod-menu](https://github.com/lsanders60925/halo-infinite-trainer-mod-menu) — Halo Infinite Windows 10/11 Mod Menu & Trainer — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unlocker — Go · 81 yıldız
+- [marco7529/point-blank-trainer-mod-menu](https://github.com/marco7529/point-blank-trainer-mod-menu) — Point Blank (2026) Windows x64 Trainer, Mod Loader, Auto-updating AOB signature scan & DirectX 11 / 12 & Vulkan ImGui Utility — Go · 81 yıldız
+- [MehmetChavez67098/marvel-rivals-cheat-trainer-mod-menu](https://github.com/MehmetChavez67098/marvel-rivals-cheat-trainer-mod-menu) — marvel rivals Mod Trainer & Mod Menu (2026) — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unity IL2CPP /… — Go · 81 yıldız
+- [mehmetlemoine/insurgency-sandstorm-trainer-mod-menu](https://github.com/mehmetlemoine/insurgency-sandstorm-trainer-mod-menu) — Insurgency: Sandstorm Mods, Trainer & Configuration Toolkit — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui… — Go · 81 yıldız
 - [TheCruZ/Direct-EFI-Apex-Cheat](https://github.com/TheCruZ/Direct-EFI-Apex-Cheat) — (açıklama yok) — C++ · 81 yıldız · arşiv
 - [Sigmmma/c20](https://github.com/Sigmmma/c20) — A living knowledge base for the Halo CE modding community — YAML · 78 yıldız
 - [HuskyHacks/RustyProcessInjectors](https://github.com/HuskyHacks/RustyProcessInjectors) — Just some Rust process injector POCs, nothing weird. — Rust · 77 yıldız · arşiv
@@ -33892,6 +34235,7 @@
 - [ionite34/base2048](https://github.com/ionite34/base2048) — Binary encoding with base-2048 in Python with Rust — Rust · 8 yıldız
 - [Jcw87/gmod-doom-maps](https://github.com/Jcw87/gmod-doom-maps) — gmDoom Maps (Garry's Mod Doom Map Loader) — Lua · 8 yıldız
 - [JessaTehCrow/crowsploit](https://github.com/JessaTehCrow/crowsploit) — A hack tool for the game greyhack aimed to be the gmod of tools. — HTML · 8 yıldız
+- [KANKOSHEV/Warface-wallhack-minimalistic](https://github.com/KANKOSHEV/Warface-wallhack-minimalistic) — - No CRT and no IMPORTS - Without hook endscene and present - Without strings - Minimal code — C++ · 8 yıldız
 - [kiminmonaco/ClaudeBar](https://github.com/kiminmonaco/ClaudeBar) — 🔍 Monitor AI coding assistant usage with ClaudeBar, a macOS menu bar app that helps you track quotas for Claude, Codex, GitHub… — Swift · 8 yıldız
 - [kimjongbing/dll_injector_uwp](https://github.com/kimjongbing/dll_injector_uwp) — Simple DLL injector coded in Rust and C++, compatible with UWP processes — C++ · 8 yıldız
 - [kiraleos/rvemu](https://github.com/kiraleos/rvemu) — A RISC-V emulator, specifically the RV32I base integer instruction set. — Rust · 8 yıldız
@@ -34278,6 +34622,7 @@
 - [atomic-package/apb-cli](https://github.com/atomic-package/apb-cli) — Command line tool for developing APB CSS (Atomic Parts Base CSS) — TypeScript · 3 yıldız
 - [Autarch-s/oopex](https://github.com/Autarch-s/oopex) — hwid spoofer/loader for apex — — · 3 yıldız
 - [badhope/WindowsTools](https://github.com/badhope/WindowsTools) — Windows desktop toolkit for power users and sysadmins. Tauri 2 + Vue 3.5, wt-service runs as SYSTEM for the high-privilege ops… — Rust · 3 yıldız
+- [beastllama/dgx-spark-qwen38-flash-next-recipe](https://github.com/beastllama/dgx-spark-qwen38-flash-next-recipe) — Recipe + field notes: Qwen3.8-Flash-Next NVFP4 on 2x DGX Spark (GB10), SGLang TP=2. Config delta on MiaAI-Lab's base stack, the… — Python · 3 yıldız
 - [BinaryMuse/dataloaderb](https://github.com/BinaryMuse/dataloaderb) — Easily create, run, and extend Apex Data Loader processes on Windows via Ruby — Ruby · 3 yıldız
 - [Bishalchetry/Bishalchetry](https://github.com/Bishalchetry/Bishalchetry) — Free fire I'd hack — — · 3 yıldız
 - [bjanderson70/sf-salesforce-limits-eo](https://github.com/bjanderson70/sf-salesforce-limits-eo) — Via Apex Connector, expose the Salesforce Limits (REST API) as an external object which will allow non-coders to monitor limits — Apex · 3 yıldız
@@ -34604,6 +34949,7 @@
 - [LabGuy94/OxideDumper](https://github.com/LabGuy94/OxideDumper) — Automatically dumped offsets for Rust using Github Actions, and Python using il2cppdumper and regex. — C++ · 2 yıldız
 - [leeechsh/MihoBar](https://github.com/leeechsh/MihoBar) — A lightweight native macOS menu bar client for mihomo, written in Rust on NSH — Rust · 2 yıldız
 - [LeeFoulger/gameShieldDll](https://github.com/LeeFoulger/gameShieldDll) — A multi-version Halo Online loader — C++ · 2 yıldız
+- [leeveel/SimpleActor](https://github.com/leeveel/SimpleActor) — A simple actor base on TPL DataFlow that with call chain reentrancy default and can detect multi-callchain deadlock! — C# · 2 yıldız
 - [LennyPenny/MLL](https://github.com/LennyPenny/MLL) — gmod Menu Lua Loader (MLL) — Lua · 2 yıldız
 - [LimeChain/wasm-injector](https://github.com/LimeChain/wasm-injector) — Rust-based command line utility to manipulate Substrate runtimes — Rust · 2 yıldız
 - [liwidale/notyet](https://github.com/liwidale/notyet) — Native macOS menu bar app that keeps your Mac awake, even with the lid closed, while AI coding agents work and lets it sleep when… — Swift · 2 yıldız
@@ -34893,6 +35239,7 @@
 - [BRA1L0R/xdp-loader](https://github.com/BRA1L0R/xdp-loader) — Configurable XDP loader in Rust. Supports jump table dispatching and program pinning. — Rust · 1 yıldız
 - [BRATXY-STORE/BRATXY-Mod](https://github.com/BRATXY-STORE/BRATXY-Mod) — The Mod Menu For Free Fire Max — HTML · 1 yıldız
 - [Bravine13/squad-enhanced-tactics](https://github.com/Bravine13/squad-enhanced-tactics) — Ultimate Squad Cheats Guide: Dominate Every Match with Proven Tips and Hacks — — · 1 yıldız
+- [bre-chalicez65/warface-wallhack-mod](https://github.com/bre-chalicez65/warface-wallhack-mod) — (açıklama yok) — — · 1 yıldız
 - [brendandebeasi/tabby-zj](https://github.com/brendandebeasi/tabby-zj) — Tabby sidebar plugin for Zellij — grouped tab/pane tree, context menus, widgets, indicators — Rust · 1 yıldız
 - [brian-Lab-0/Signaling-Server-Minimal](https://github.com/brian-Lab-0/Signaling-Server-Minimal) — Base Signaling server in Rust — Rust · 1 yıldız
 - [brian3368/EmberFang](https://github.com/brian3368/EmberFang) — CrossFire Anti-Ban Hack 2025 - Free Download & Safe Cheats — Go · 1 yıldız
@@ -34944,6 +35291,7 @@
 - [coredev-uk/ProtonMenu](https://github.com/coredev-uk/ProtonMenu) — Garry's Mod LUA cheat. — Lua · 1 yıldız
 - [corgan2222/context-manager](https://github.com/corgan2222/context-manager) — Windows context menu manager. Shows every right-click entry, where it sits in the registry and which program owns it; hides,… — Rust · 1 yıldız
 - [cotizcesar/galaxycraft](https://github.com/cotizcesar/galaxycraft) — GalaxyCraft: a Rust reimplementation of StarCraft 1.23 gameplay and menus. Reads the player's own installation; contains no game… — Rust · 1 yıldız
+- [crema/locksmith](https://github.com/crema/locksmith) — mysql record lock base deadlock detector — Ruby · 1 yıldız
 - [crownedgrouse/preach](https://github.com/crownedgrouse/preach) — [WIP] Phi base Random Encoder Aimed for Cryptography Hardening — Rust · 1 yıldız
 - [cubetiqlabs/scrme](https://github.com/cubetiqlabs/scrme) — Tiny, fast screenshot app for the menu bar. Press a shortcut, drag an area, and it's on your clipboard. — Rust · 1 yıldız
 - [curso-polkadot-sdk/rust-template](https://github.com/curso-polkadot-sdk/rust-template) — Projeto base para criar um workspace em rust — Shell · 1 yıldız
@@ -35771,6 +36119,7 @@
 - [ahmadfikriam/jom-makan-database-system](https://github.com/ahmadfikriam/jom-makan-database-system) — Oracle APEX relational database system for Jom Makan Restaurant featuring menu management, order placement, customer tracking,… — — · 0 yıldız
 - [ahmedachh786-hub/buypass](https://github.com/ahmedachh786-hub/buypass) — free fire UID bypass name I or Iske niche option connect bypass disconnect bypass install certificate. — HTML · 0 yıldız
 - [ahmedfaiza01/smartcity](https://github.com/ahmedfaiza01/smartcity) — The Smart City Simulator is a C++ menu-driven app modeling city services as processes, with scheduling (FCFS, SJF, RR, Priority,… — C++ · 0 yıldız
+- [ahoaculme170/Apex-Wallhack-download](https://github.com/ahoaculme170/Apex-Wallhack-download) — (açıklama yok) — — · 0 yıldız
 - [ahoasintematik/Pc-Fever-2-cheats](https://github.com/ahoasintematik/Pc-Fever-2-cheats) — Transport Fever 2 trainers, Transport Fever cheats, Game Transport Fever 2 set game speed, Game Fever 2 set game speed, Set game… — — · 0 yıldız
 - [ahp-sooyaa/Halo](https://github.com/ahp-sooyaa/Halo) — Tiny macOS menu bar app: drag images, tap ⇧ or ⌘ for a radial wheel to convert (PNG, JPG, HEIC, WebP, AVIF, PDF…), resize,… — Swift · 0 yıldız
 - [ahsaankhan09825-boop/Free-fire-max-](https://github.com/ahsaankhan09825-boop/Free-fire-max-) — Free fire max id hack — — · 0 yıldız
@@ -35985,6 +36334,7 @@
 - [Axi0n-TF2/tabloidsalt.github.io](https://github.com/Axi0n-TF2/tabloidsalt.github.io) — Private TF2 Cheat — — · 0 yıldız
 - [AxineBro/dsc-apex](https://github.com/AxineBro/dsc-apex) — AI assistant for business process automation using GigaChat LLM and external APIs — JavaScript · 0 yıldız
 - [axislancerseparate/deadlock-mod-menu](https://github.com/axislancerseparate/deadlock-mod-menu) — Collection of open-source tools for Deadlock — ESP, wallhack, and cheat notes. For educational and single-player use only. — HTML · 0 yıldız
+- [ay-josiah/DeltaForce-VisionaryMod](https://github.com/ay-josiah/DeltaForce-VisionaryMod) — Delta Force Wallhack Guide 2025 Unlock Advanced Game Tactics — — · 0 yıldız
 - [AyanKamila/MarvelRivalsPowerToolkit](https://github.com/AyanKamila/MarvelRivalsPowerToolkit) — Marvel Rivals Cheats and Tips for Easy Wins 2025 — — · 0 yıldız
 - [azc12322/xdefiant-mod-customizer](https://github.com/azc12322/xdefiant-mod-customizer) — Unlock Powerful Features with the Ultimate XDefiant Mod Menu for Enhanced Gameplay — — · 0 yıldız
 - [azorkai/modstead](https://github.com/azorkai/modstead) — Free, open-source mod manager for Microsoft Flight Simulator 2020/2024 with a built-in MSFS 2024 career mode: job board,… — TypeScript · 0 yıldız
@@ -36258,6 +36608,7 @@
 - [catapecas/proyecto-base-datos-co2-apex-m3](https://github.com/catapecas/proyecto-base-datos-co2-apex-m3) — (açıklama yok) — — · 0 yıldız
 - [catesworks/fw-web](https://github.com/catesworks/fw-web) — Apex marketing site for fleetworks.dev — the Fleetworks internal developer platform suite — HCL · 0 yıldız
 - [catlowlevel/AmongUsMenu](https://github.com/catlowlevel/AmongUsMenu) — AmongUsMenu is a Cheat Menu for the popular Game Among Us. — — · 0 yıldız
+- [caveira624-art/wallhack](https://github.com/caveira624-art/wallhack) — wallhack crossfire — — · 0 yıldız
 - [caxapok68webshot/kuwvc](https://github.com/caxapok68webshot/kuwvc) — Insurgency Sandstorm Hacks 2025: Best Windows Cheats & Aimbots 🎯 — C# · 0 yıldız
 - [cBarbosa/fifa-fut-load-squad](https://github.com/cBarbosa/fifa-fut-load-squad) — Projeto para ler e atualizar uma base local MYSQL de players do EA Sports FUT. — Java · 0 yıldız
 - [cc1349323-star/Free-fire-](https://github.com/cc1349323-star/Free-fire-) — Free fire hack panel — — · 0 yıldız
@@ -36441,6 +36792,7 @@
 - [Conehard/intel-mac-tuner](https://github.com/Conehard/intel-mac-tuner) — Fan control, Turbo Boost switch and safe system optimization for Intel Macs. Free, open-source menu bar app in Rust. — Rust · 0 yıldız
 - [connffuused/Apex-Internal](https://github.com/connffuused/Apex-Internal) — x64 D3D11 Hook — — · 0 yıldız
 - [ConnorSawaya/cmf-watch-workbench](https://github.com/ConnorSawaya/cmf-watch-workbench) — Rust SDK, custom app loader, watch faces, and base iOS/Android companions for CMF Watch Pro 2 (JX402 / D398). — Rust · 0 yıldız
+- [conofor/hid-apple-bt-battery](https://github.com/conofor/hid-apple-bt-battery) — Apple Magic Keyboard battery over Bluetooth: out-of-tree hid-apple for Linux (base series by Alec Hall; plus… — C · 0 yıldız
 - [console-lol/chams-menu](https://github.com/console-lol/chams-menu) — to fix chams menu in free fire — — · 0 yıldız
 - [console-lol/opengl](https://github.com/console-lol/opengl) — Its to fix chams menu in free fire — — · 0 yıldız
 - [contiki9/apb-base](https://github.com/contiki9/apb-base) — (açıklama yok) — CSS · 0 yıldız · arşiv
@@ -36493,6 +36845,7 @@
 - [CrackerCat/titancf](https://github.com/CrackerCat/titancf) — CrossFire Cheat — — · 0 yıldız
 - [cran74ezios/point-blank-mod](https://github.com/cran74ezios/point-blank-mod) — Point Blank Free Download Hack with Aimbot 2025 — — · 0 yıldız
 - [crazymad-apps/rust-markdown-parser](https://github.com/crazymad-apps/rust-markdown-parser) — a simple markdown parser base on rustlang — Rust · 0 yıldız
+- [creptk/delta-force-visual-enhancer](https://github.com/creptk/delta-force-visual-enhancer) — Unlock Ultimate Visibility with Delta Force Wallhack: Dominate Every Mission Effortlessly — — · 0 yıldız
 - [crinelegion-arch/rust-offsets-always-upd](https://github.com/crinelegion-arch/rust-offsets-always-upd) — (açıklama yok) — JavaScript · 0 yıldız
 - [cristianadolceanu23/SQL---Data-base](https://github.com/cristianadolceanu23/SQL---Data-base) — Final project – Formula 1 database system and APEX web app, built using Oracle SQL, PL/SQL, and APEX — — · 0 yıldız
 - [CristianoFIlho/Apex-Callouts-Superbadge-Unit](https://github.com/CristianoFIlho/Apex-Callouts-Superbadge-Unit) — Develop and test Apex REST and SOAP callouts to external systems. — Apex · 0 yıldız
@@ -36503,6 +36856,8 @@
 - [Crossfire-Cheat/.github](https://github.com/Crossfire-Cheat/.github) — Crossfire Cheat is an informational gaming toolkit featuring multiplayer maps, weapon statistics, character guides, tactical… — — · 0 yıldız
 - [Crossfire-Hack/.github](https://github.com/Crossfire-Hack/.github) — Crossfire Hack is an informational gaming toolkit featuring multiplayer map guides, weapon statistics, character databases,… — — · 0 yıldız
 - [Crossfire-Hacks/.github](https://github.com/Crossfire-Hacks/.github) — Crossfire Hack is an extended toolkit with aim, visuals, recoil control, and map presets under one hotkey-driven menu. Import and… — — · 0 yıldız
+- [Crossfire-Wallha-ck/.github](https://github.com/Crossfire-Wallha-ck/.github) — Crossfire Wallhack outlines players through walls, boxes, and smoke. Control silhouette style, color, range, and team filters… — — · 0 yıldız
+- [Crossfire-Wallhack/.github](https://github.com/Crossfire-Wallhack/.github) — Crossfire Wallhack is an informational gaming toolkit featuring multiplayer maps, weapon statistics, character guides, tactical… — — · 0 yıldız
 - [Crossu88/Custom-SWEP-Base](https://github.com/Crossu88/Custom-SWEP-Base) — Gmod custom swep base — Lua · 0 yıldız
 - [Crown8269/Rust-Spoofer](https://github.com/Crown8269/Rust-Spoofer) — (açıklama yok) — — · 0 yıldız
 - [crowstoregaming/offsets-rust](https://github.com/crowstoregaming/offsets-rust) — (açıklama yok) — — · 0 yıldız
@@ -36663,13 +37018,16 @@
 - [Deadlock-cheats-menu/.github](https://github.com/Deadlock-cheats-menu/.github) — Deadlock Cheat Menu — a customizable menu featuring ESP, aimbot settings, visual enhancements, and a clean, user-friendly… — — · 0 yıldız
 - [Deadlock-cheats-menu/deadlock-cheat-menu](https://github.com/Deadlock-cheats-menu/deadlock-cheat-menu) — Deadlock Cheat Menu — a customizable menu featuring ESP, aimbot settings, visual enhancements, and a clean, user-friendly… — — · 0 yıldız
 - [deadlock-cheats-mx09/.github](https://github.com/deadlock-cheats-mx09/.github) — Deadlock cheat silent aim + triggerbot — Best Deadlock script with silent aim and triggerbot. Safe & Undetected. — HTML · 0 yıldız
+- [deadlock-cheats-ok85/.github](https://github.com/deadlock-cheats-ok85/.github) — Deadlock script: triggerbot & wallhack — Best Deadlock aim with triggerbot and wallhack. Safe & Undetected. — HTML · 0 yıldız
 - [deadlock-cheats-ok86/.github](https://github.com/deadlock-cheats-ok86/.github) — Deadlock ESP: headshot multiplier & speed hack — Best Deadlock triggerbot with headshot multiplier and speed hack. Safe & — HTML · 0 yıldız
 - [deadlock-cheats-pg51/.github](https://github.com/deadlock-cheats-pg51/.github) — Deadlock mod menu: ESP with loot glow & bunny hop — Best Deadlock aim with ESP with loot glow and bunny hop. Safe & Undetected. — HTML · 0 yıldız
 - [deadlock-cheats-uz77/.github](https://github.com/deadlock-cheats-uz77/.github) — Deadlock esp: wallhack & headshot multiplier — Best Deadlock aim wh with wallhack and headshot multiplier. Safe & Undetected. — HTML · 0 yıldız
 - [deadlock-cheats-vi04/.github](https://github.com/deadlock-cheats-vi04/.github) — Deadlock ESP health ESP + headshot multiplier — Best Deadlock aimbot with health ESP and headshot multiplier. Safe & Undetected. — HTML · 0 yıldız
 - [deadlock-cheats-ww62/.github](https://github.com/deadlock-cheats-ww62/.github) — Deadlock aim health ESP + rapid fire — Best Deadlock mod menu with health ESP and rapid fire. Safe & Undetected. — HTML · 0 yıldız
 - [deadlock-cheats-xe32/.github](https://github.com/deadlock-cheats-xe32/.github) — Deadlock esp headshot multiplier + speed hack — Best Deadlock ESP with headshot multiplier and speed hack. Safe & Undetected. — HTML · 0 yıldız
+- [deadlock-cheats-xg35/.github](https://github.com/deadlock-cheats-xg35/.github) — Deadlock aim triggerbot + wallhack — Best Deadlock aim wh with triggerbot and wallhack. Safe & Undetected. — HTML · 0 yıldız
 - [deadlock-cheats-xq67/.github](https://github.com/deadlock-cheats-xq67/.github) — Deadlock aim wh speed hack + wallhack — Best Deadlock mod menu with speed hack and wallhack. Safe & Undetected. — HTML · 0 yıldız
+- [deadlock-cheats-yg07/.github](https://github.com/deadlock-cheats-yg07/.github) — Deadlock aim wallhack + triggerbot — Best Deadlock aim wh with wallhack and triggerbot. Safe & Undetected. — HTML · 0 yıldız
 - [deadlock-cheats-zn37/.github](https://github.com/deadlock-cheats-zn37/.github) — Deadlock ESP: health ESP & no recoil — Best Deadlock esp with health ESP and no recoil. Safe & Undetected. — HTML · 0 yıldız
 - [Deadlock-CheatsPanel/.github](https://github.com/Deadlock-CheatsPanel/.github) — Deadlock Cheat Panel is a Windows desktop trainer for Valve's 6v6 MOBA-shooter hybrid. It bundles god mode, infinite souls,… — — · 0 yıldız
 - [deadlock-esp-ae09/.github](https://github.com/deadlock-esp-ae09/.github) — Deadlock cheat ESP with player glow + bunny hop — Best Deadlock aimbot with ESP with player glow and bunny hop. Safe & — HTML · 0 yıldız
@@ -36714,6 +37072,7 @@
 - [deadlock-mod-menu-sq23/.github](https://github.com/deadlock-mod-menu-sq23/.github) — Deadlock aimbot headshot multiplier + aimbot with smooth tracking — Best Deadlock cheat with headshot multiplier and aimbot — HTML · 0 yıldız
 - [deadlock-mod-menu-tp11/.github](https://github.com/deadlock-mod-menu-tp11/.github) — Deadlock esp: rapid fire & headshot multiplier — Best Deadlock aim wh with rapid fire and headshot multiplier. Safe & Undetected. — HTML · 0 yıldız
 - [deadlock-mod-menu-uy65/.github](https://github.com/deadlock-mod-menu-uy65/.github) — Deadlock cheat rapid fire + ESP with loot glow — Best Deadlock mod menu with rapid fire and ESP with loot glow. Safe & — HTML · 0 yıldız
+- [deadlock-mod-menu-wi97/.github](https://github.com/deadlock-mod-menu-wi97/.github) — Deadlock aim wh: wallhack & no spread — Best Deadlock triggerbot with wallhack and no spread. Safe & Undetected. — HTML · 0 yıldız
 - [deadlock-mod-menu-zh85/.github](https://github.com/deadlock-mod-menu-zh85/.github) — Deadlock cheat: ESP with loot glow & health ESP — Best Deadlock ESP with ESP with loot glow and health ESP. Safe & Undetected. — HTML · 0 yıldız
 - [DeadLock-Mod-Menu/.github](https://github.com/DeadLock-Mod-Menu/.github) — DeadLock Mod Menu – unlock powerful features and dominate with godmode, teleport, weapon mods, and more! — HTML · 0 yıldız
 - [DeadLock-Mod-Menu/DeadLock-Mod-Menu](https://github.com/DeadLock-Mod-Menu/DeadLock-Mod-Menu) — DeadLock Mod Menu – unlock powerful features and dominate with godmode, teleport, weapon mods, and more! — — · 0 yıldız
@@ -36734,6 +37093,7 @@
 - [deadlock-triggerbo-gg86/.github](https://github.com/deadlock-triggerbo-gg86/.github) — Deadlock mod menu ESP with loot glow + triggerbot — Best Deadlock aim with ESP with loot glow and triggerbot. Safe & Undetected. — HTML · 0 yıldız
 - [deadlock-triggerbo-gl14/.github](https://github.com/deadlock-triggerbo-gl14/.github) — Deadlock triggerbot: health ESP & speed hack — Best Deadlock mod menu with health ESP and speed hack. Safe & Undetected. — HTML · 0 yıldız
 - [deadlock-triggerbo-mc17/.github](https://github.com/deadlock-triggerbo-mc17/.github) — Deadlock aimbot speed hack + ESP with loot glow — Best Deadlock ESP with speed hack and ESP with loot glow. Safe & Undetected. — HTML · 0 yıldız
+- [deadlock-triggerbo-nz83/.github](https://github.com/deadlock-triggerbo-nz83/.github) — Deadlock script: silent aim & wallhack — Best Deadlock aim wh with silent aim and wallhack. Safe & Undetected. — HTML · 0 yıldız
 - [deadlock-triggerbo-to21/.github](https://github.com/deadlock-triggerbo-to21/.github) — Deadlock esp health ESP + wallhack — Best Deadlock aim wh with health ESP and wallhack. Safe & Undetected. — HTML · 0 yıldız
 - [deadlock-triggerbo-ts49/.github](https://github.com/deadlock-triggerbo-ts49/.github) — Deadlock ESP silent aim + triggerbot — Best Deadlock cheat with silent aim and triggerbot. Safe & Undetected. — HTML · 0 yıldız
 - [deadlock-triggerbo-ua63/.github](https://github.com/deadlock-triggerbo-ua63/.github) — Deadlock mod menu: headshot multiplier & no spread — Best Deadlock esp with headshot multiplier and no spread. Safe & Undetected. — HTML · 0 yıldız
@@ -37364,6 +37724,8 @@
 - [Hunt-Showdown-ESPbot/.github](https://github.com/Hunt-Showdown-ESPbot/.github) — Hunt Showdown ESP is an informational gaming toolkit featuring map references, hunter guides, weapon statistics, enemy AI… — — · 0 yıldız
 - [Hunt-Showdown-H-ac-k/.github](https://github.com/Hunt-Showdown-H-ac-k/.github) — Hunt Showdown Hack is an extended toolkit with aim, visuals, sway control, bounty tools, and hunter presets under one… — — · 0 yıldız
 - [Hunt-Showdown-HackCheat/.github](https://github.com/Hunt-Showdown-HackCheat/.github) — Hunt Showdown Hack is an informational gaming toolkit featuring weapon statistics, hunter loadouts, map references, ammunition… — — · 0 yıldız
+- [Hunt-Showdown-Wallh-ack/.github](https://github.com/Hunt-Showdown-Wallh-ack/.github) — Hunt Showdown Wallhack is a see-through layer that outlines hunters through walls, terrain, and foliage. Control silhouette… — — · 0 yıldız
+- [Hunt-Showdown-Wallhack/.github](https://github.com/Hunt-Showdown-Wallhack/.github) — Hunt Showdown Wallhack is an informational gaming toolkit featuring map references, compound guides, hunter information, weapon… — — · 0 yıldız
 - [Hunt-ShowdownCheats/.github](https://github.com/Hunt-ShowdownCheats/.github) — Hunt Showdown 1896 Cheats: Hunt: Showdown 1896 cheats features, Hunter ESP, Boss and clue markers, Extraction markers and Windows… — — · 0 yıldız
 - [HunterLiamRookey/Grable](https://github.com/HunterLiamRookey/Grable) — It's Open Source Injector for RustClient(C#) — C# · 0 yıldız
 - [Hunteroeswell/SquadCoach](https://github.com/Hunteroeswell/SquadCoach) — 🏆 Squad Trainer 2026 — — · 0 yıldız
@@ -37696,6 +38058,7 @@
 - [Kiroto2849/Marvel-Rivals-Cheats](https://github.com/Kiroto2849/Marvel-Rivals-Cheats) — Marvel Rivals Cheats Source Code Aimbot, Unlockables, Power-ups, and More Download, Setup Guide, and Instructions for Enhanced… — — · 0 yıldız
 - [kirtii5/Hack-Squad](https://github.com/kirtii5/Hack-Squad) — (açıklama yok) — JavaScript · 0 yıldız
 - [kitcat4186/Warface-NovaCoreAim](https://github.com/kitcat4186/Warface-NovaCoreAim) — Aim-bot Next-generation AI targeting for all FPS/TPS titles — — · 0 yıldız
+- [kitcatmel/XDefiant-VisionPlus](https://github.com/kitcatmel/XDefiant-VisionPlus) — XDefiant Wallhack Guide and Tips for 2025 — — · 0 yıldız
 - [kitsuneninetails/rust-base](https://github.com/kitsuneninetails/rust-base) — Base Dockerfile for a Rust-enabled docker image — Dockerfile · 0 yıldız
 - [kiwitf2/tf2-coloured-chat](https://github.com/kiwitf2/tf2-coloured-chat) — uses the rcon protocol to bypass the inability to use custom bytes in messages (valve pls fix) — Python · 0 yıldız
 - [Kixunil/zomato](https://github.com/Kixunil/zomato) — A simple Rust crate for retrievig daily menu from zomato.com — Rust · 0 yıldız
@@ -37708,6 +38071,7 @@
 - [KnightMiner/SteelGrapple](https://github.com/KnightMiner/SteelGrapple) — Into the Breach mod adding a few tweaks to the base squad Steel Judoku — Lua · 0 yıldız
 - [Knowntonone/xorveil](https://github.com/Knowntonone/xorveil) — xorveil - in-memory shellcode loader in Rust (HTTP fetch, Base64 + rotating XOR, RW->RX->thread). Authorized lab research only. — Rust · 0 yıldız
 - [Kobiso01/marvel-rivals-tactics-toolkit](https://github.com/Kobiso01/marvel-rivals-tactics-toolkit) — Top Marvel Rivals Cheats and Tips to Dominate Every Match Easily — — · 0 yıldız
+- [Kochai231/xdefiant-vision-extras](https://github.com/Kochai231/xdefiant-vision-extras) — Unlock Exclusive XDefiant Wallhack Guide: Enhance Your Gameplay and Spot Enemies Easily — — · 0 yıldız
 - [Kochiyama/tdd-menu-api](https://github.com/Kochiyama/tdd-menu-api) — The Sweet Cacau Menu API developed with rust applying clean architecture and tdd (while learning) — Rust · 0 yıldız
 - [konsnewphplenco1976/xdefianttools](https://github.com/konsnewphplenco1976/xdefianttools) — xdefiant-cheat — — · 0 yıldız
 - [korneliasyzdol/movie-finder-app](https://github.com/korneliasyzdol/movie-finder-app) — The MovieFinder App is a Salesforce-based application designed to search for movies and actors, view detailed information, and… — JavaScript · 0 yıldız
@@ -37895,6 +38259,7 @@
 - [Lowerpludipper/MegaMentor](https://github.com/Lowerpludipper/MegaMentor) — 🚀 Mega Coin Squad Trainer 2026 — — · 0 yıldız
 - [Lowpitched-napu6869/lowpitched-napu6869.github.io](https://github.com/Lowpitched-napu6869/lowpitched-napu6869.github.io) — Mount custom mods and swap Marvel Rivals hero skins in-game with a runtime mod loader and companion manager—no game files… — HTML · 0 yıldız
 - [Lowpitched-napu6869/marvelrivals-galacta](https://github.com/Lowpitched-napu6869/marvelrivals-galacta) — Mount custom mods and swap Marvel Rivals hero skins in-game with a native runtime loader plus companion manager app—no file edits… — — · 0 yıldız
+- [lozimanry1975/crossfireplus](https://github.com/lozimanry1975/crossfireplus) — crossfire-wallhack — — · 0 yıldız
 - [LP-Finance-Inc/swap-base](https://github.com/LP-Finance-Inc/swap-base) — stable swap on Solana - Anchor ( Rust ) — TypeScript · 0 yıldız
 - [LPGhatguy/iqe-rs](https://github.com/LPGhatguy/iqe-rs) — Unfinished IQE model loader written in Rust — Rust · 0 yıldız · arşiv
 - [lquartararo/ruzule](https://github.com/lquartararo/ruzule) — Cross-platform iOS IPA injector and modifier written in Rust — Rust · 0 yıldız
@@ -38774,6 +39139,7 @@
 - [r000thackn0ow/garrys-mod-enhanced-toolkit](https://github.com/r000thackn0ow/garrys-mod-enhanced-toolkit) — Garrys Mod Hacks Guide Unlock Hidden Features and Mods for GMod 🚀🎮 — — · 0 yıldız
 - [R4TSquad/Unturned-Loader](https://github.com/R4TSquad/Unturned-Loader) — (açıklama yok) — — · 0 yıldız
 - [RaaVan444/free-fire-hack](https://github.com/RaaVan444/free-fire-hack) — Hacking tool free fire — — · 0 yıldız
+- [Rabbi2004/delta-force-vision-enhancer](https://github.com/Rabbi2004/delta-force-vision-enhancer) — Unlock Delta Force Wallhack: Enhance Your Gameplay with Advanced Tactical Vision — — · 0 yıldız
 - [raccoonrat/honeybadgerBFT](https://github.com/raccoonrat/honeybadgerBFT) — rust impl hbbft, base key component of hbmpc — Rust · 0 yıldız
 - [Racinettee/genesis-rs](https://github.com/Racinettee/genesis-rs) — Rom loader in rust inspired by cavaliercoder/genesis — Rust · 0 yıldız
 - [Radianceorrivet/black-squad-mod-menu](https://github.com/Radianceorrivet/black-squad-mod-menu) — Collection of open-source tools for Black Squad — ESP, wallhack, and cheat notes. For educational and single-player use only. — HTML · 0 yıldız
@@ -38810,6 +39176,7 @@
 - [rcvv11/dota-skins-launcher](https://github.com/rcvv11/dota-skins-launcher) — Dota 2 skin changer: equip any cosmetic, set, arcana style, courier, ward or weather from the in-game wardrobe. Swaps models in… — Rust · 0 yıldız
 - [re1oad3d/NexoraAI](https://github.com/re1oad3d/NexoraAI) — AI Aimbot for Warface — — · 0 yıldız
 - [real-m00n/M00NMenu](https://github.com/real-m00n/M00NMenu) — A Among Us cheat menu to make the game more fun — — · 0 yıldız
+- [realminahilnaeem/Deadlock-web-base-simulator](https://github.com/realminahilnaeem/Deadlock-web-base-simulator) — (açıklama yok) — JavaScript · 0 yıldız
 - [RealRevolut1on/KarakMenu-Amongus](https://github.com/RealRevolut1on/KarakMenu-Amongus) — A mashup of all Among Us mod menus into a single mod menu - KarakMenu - it does it all. — C# · 0 yıldız
 - [recaptime-dev/squad-sso](https://github.com/recaptime-dev/squad-sso) — The public SSO we use across apps and services. Our internal SSO involves Microsoft Entra ID (formerly Azure AD) and Kinde.com. — Dockerfile · 0 yıldız
 - [RedexDev/HashLoader](https://github.com/RedexDev/HashLoader) — HashLoader — Mod loader and bytecode injection for HashLink/JIT Software — Rust · 0 yıldız
@@ -38862,6 +39229,7 @@
 - [Rioguard/UD-Apex-Spoofer](https://github.com/Rioguard/UD-Apex-Spoofer) — (açıklama yok) — — · 0 yıldız
 - [riosmatheo56-del/HACK-](https://github.com/riosmatheo56-del/HACK-) — Is for free fire — — · 0 yıldız
 - [RIPP3R1337/Gmod-ChatGPT-Cheat](https://github.com/RIPP3R1337/Gmod-ChatGPT-Cheat) — (açıklama yok) — Lua · 0 yıldız
+- [ripper2virgintanks/v7-GMod-Wallhack-Tool](https://github.com/ripper2virgintanks/v7-GMod-Wallhack-Tool) — (açıklama yok) — — · 0 yıldız
 - [riptilong/riptilong-menu-](https://github.com/riptilong/riptilong-menu-) — uk tệp hack free fire — — · 0 yıldız
 - [rishabhvyas17/ALTA-Track](https://github.com/rishabhvyas17/ALTA-Track) — Platform for tracking ALTA's DSA challenge programs (BASE 111 → APEX 151) across campuses — daily streaks, LinkedIn-verified… — TypeScript · 0 yıldız
 - [Rishi-Raj-Anand/Question_Answering_System](https://github.com/Rishi-Raj-Anand/Question_Answering_System) — Extracts answers from text using the Hugging Face transformers library and the distilbert-base-cased-distilled-squad model. — Jupyter Notebook · 0 yıldız
@@ -38995,6 +39363,7 @@
 - [sanchitaadi/apex-2-base](https://github.com/sanchitaadi/apex-2-base) — (açıklama yok) — TypeScript · 0 yıldız
 - [sanchithakolur/Hack-Squad](https://github.com/sanchithakolur/Hack-Squad) — (açıklama yok) — HTML · 0 yıldız
 - [sandstorm6082/QDapfij293rdfewqsd](https://github.com/sandstorm6082/QDapfij293rdfewqsd) — Multifunctional cheat for the game;Fall Guys Hack — — · 0 yıldız
+- [sandstorm7664/GhostVanguard](https://github.com/sandstorm7664/GhostVanguard) — Insurgency Sandstorm Wallhack 2025 - Free Download for PC — C · 0 yıldız
 - [sanjaysikder/Left-navigation-menu-hover-expend-clops-in-oracle-apex](https://github.com/sanjaysikder/Left-navigation-menu-hover-expend-clops-in-oracle-apex) — (açıklama yok) — — · 0 yıldız
 - [SanyaSho/TF2-Base-with-Bots](https://github.com/SanyaSho/TF2-Base-with-Bots) — (Full backup of https://github.com/Bitl/TF2-Base-with-Bots as of February 7, 2023) The old 2008 Team Fortress 2 source code… — C++ · 0 yıldız
 - [sapphonie/tf2-soundscript-fixer](https://github.com/sapphonie/tf2-soundscript-fixer) — fixes users cheating with soundscript files in tf2 (COMING SOON) — — · 0 yıldız
@@ -39231,6 +39600,7 @@
 - [ShadowSyntax/Amung-Us-CheeksMenu](https://github.com/ShadowSyntax/Amung-Us-CheeksMenu) — A feature-rich Among Us cheat menu built with BepInEx by BootyCheekClappa/ShadowSyntax — — · 0 yıldız
 - [Shahidbhaitjs/halo-ludo](https://github.com/Shahidbhaitjs/halo-ludo) — Hack — — · 0 yıldız
 - [Shalomash/US_COVID19_LSTM](https://github.com/Shalomash/US_COVID19_LSTM) — LSTM model in TF2 Keras for prediction of SARS-COV-2 deaths and confirmed case numbers in the United States. Input consists of 2… — Python · 0 yıldız
+- [sham-ira/DEADLOCK-HOlMES](https://github.com/sham-ira/DEADLOCK-HOlMES) — Deadlock Holmes is an interactive C++ console simulation of a self-healing operating system. It demonstrates memory leak… — C++ · 0 yıldız
 - [shami7861/Hello-world](https://github.com/shami7861/Hello-world) — I want to hack free fire — — · 0 yıldız
 - [shane7716/Gmod-Backdoor-Menu-Grobyware](https://github.com/shane7716/Gmod-Backdoor-Menu-Grobyware) — GrobyWare - Garry's Mod Backdoor Menu - Unreleased - Decrypted — Lua · 0 yıldız
 - [shankarnakai/tros](https://github.com/shankarnakai/tros) — Sort exercises with property base testing with Rust — Rust · 0 yıldız
@@ -39268,6 +39638,7 @@
 - [shreyasnigam01/KrishiRakshak-AI](https://github.com/shreyasnigam01/KrishiRakshak-AI) — KrishiRakshakAI — A Smart India Hackathon Internal selection project that secured our team a place in the Finals. — Python · 0 yıldız
 - [shudensly/easy-among-us-fortaleza](https://github.com/shudensly/easy-among-us-fortaleza) — Among Us con skin changer - aimbot, ESP y desbloqueo de cosméticos. Gratis. — Rust · 0 yıldız
 - [shugar6242/delta-gameplay-enhance](https://github.com/shugar6242/delta-gameplay-enhance) — Best Delta Force Hacks & Exploits Windows 2025 ⚡ — C# · 0 yıldız
+- [shujgarx/deadlock-wiki-base](https://github.com/shujgarx/deadlock-wiki-base) — (açıklama yok) — TypeScript · 0 yıldız
 - [shukdevgope601-cmd/Free](https://github.com/shukdevgope601-cmd/Free) — Free fire max injector auto headshot magic bullet esp location — — · 0 yıldız
 - [ShyamSundhar1411/Simple-CLI-Tool](https://github.com/ShyamSundhar1411/Simple-CLI-Tool) — A small interactive Rust command-line tool: pick read or write from a fuzzy menu, then view or write a file. Built while learning… — Rust · 0 yıldız
 - [sidalimcsi/Lhyperloader](https://github.com/sidalimcsi/Lhyperloader) — A high-performance Kernel Driver Loader written in Rust using KDU and Manual Mapping techniques for educational research — — · 0 yıldız
@@ -39336,6 +39707,7 @@
 - [SODUSOLA/Squad_Co-Hacks](https://github.com/SODUSOLA/Squad_Co-Hacks) — Squad-Integrated Payroll Escrow Vault — JavaScript · 0 yıldız
 - [Soham-Manjare/squad-enhanced-toolset](https://github.com/Soham-Manjare/squad-enhanced-toolset) — Squad Hack: Boost Team Productivity with Powerful Collaboration Tools for Developers — — · 0 yıldız
 - [SohanLalYadav2304/LLM-Project](https://github.com/SohanLalYadav2304/LLM-Project) — Fine-tuning of BERT-Base on SQuAD — — · 0 yıldız
+- [sohuh/deadlock-discord-rich-addon](https://github.com/sohuh/deadlock-discord-rich-addon) — I noticed that deadlock only appears on the discord as just the base game so I made an extension that shows what hero you are… — Python · 0 yıldız
 - [SoldierPersist/among-us-mod-menu](https://github.com/SoldierPersist/among-us-mod-menu) — Collection of open-source tools for Among Us — overlays, quality-of-life helpers, and research notes. For educational and… — HTML · 0 yıldız
 - [solidade/code-base-apex](https://github.com/solidade/code-base-apex) — (açıklama yok) — Apex · 0 yıldız
 - [somer32-Hunt-Showdown-Aimbot/.github](https://github.com/somer32-Hunt-Showdown-Aimbot/.github) — Hunt Showdown Aimbot Hack for PC – Auto Aim, Silent Lock & More 🎯🔥 — HTML · 0 yıldız
@@ -39505,6 +39877,7 @@
 - [Team-Fortress-Cheat/.github](https://github.com/Team-Fortress-Cheat/.github) — Team Fortress Cheat is a TF2 gaming utility concept featuring class databases, tactical map references, weapon statistics, item… — — · 0 yıldız
 - [Team-Fortress-ESP/.github](https://github.com/Team-Fortress-ESP/.github) — Team Fortress ESP is a TF2 gaming utility concept featuring class databases, map references, weapon statistics, objective guides,… — — · 0 yıldız
 - [Team-Fortress-Hack/.github](https://github.com/Team-Fortress-Hack/.github) — Team Fortress Hack is a gaming information toolkit for Team Fortress 2, featuring class guides, weapon statistics, map… — — · 0 yıldız
+- [Team-Fortress-Wallhack/.github](https://github.com/Team-Fortress-Wallhack/.github) — Team Fortress Wallhack is a TF2 gaming utility concept featuring tactical map references, class databases, weapon statistics,… — — · 0 yıldız
 - [Team-Mess-Hall/MessHall-AntiCheat](https://github.com/Team-Mess-Hall/MessHall-AntiCheat) — A host only AntiCheat for Among Us 3D/VR, due to the nature of the anticheat this mod only works if you are host — — · 0 yıldız
 - [TeamFortress-2-Cheat-Panel/.github](https://github.com/TeamFortress-2-Cheat-Panel/.github) — Windows cheat panel for Team Fortress 2 with unlimited health, no recoil, and instant respawn. Built for the class-based shooter… — — · 0 yıldız
 - [teamfortress1/TF2-internal-cheat-base](https://github.com/teamfortress1/TF2-internal-cheat-base) — tf2 cheat base — C · 0 yıldız
@@ -39561,7 +39934,10 @@
 - [The-Finals-Hac-k/.github](https://github.com/The-Finals-Hac-k/.github) — The Finals Hack is an extended toolkit for The Finals with aim, visuals, recoil control, cashout tools, and class presets under… — — · 0 yıldız
 - [The-Finals-Hack-s/.github](https://github.com/The-Finals-Hack-s/.github) — THE FINALS Hack is a gameplay reference covering combat mechanics, weapon configuration, aiming concepts, movement techniques,… — — · 0 yıldız
 - [The-Finals-Hacks/.github](https://github.com/The-Finals-Hacks/.github) — The Finals Hack is an informational gaming toolkit featuring weapon statistics, contestant guides, tactical map references,… — — · 0 yıldız
+- [The-Finals-Wallha-ck/.github](https://github.com/The-Finals-Wallha-ck/.github) — The Finals Wallhack is a see-through layer for The Finals that outlines players through walls, floors, and destructible cover.… — — · 0 yıldız
 - [THE-FINALS-Wallhack-d-1900/.github](https://github.com/THE-FINALS-Wallhack-d-1900/.github) — THE FINALS Wallhack – Full ESP, Enemy Tracking, Loot Highlights, No Ambushes — HTML · 0 yıldız
+- [The-Finals-Wallhack/.github](https://github.com/The-Finals-Wallhack/.github) — The Finals Wallhack is an informational gaming toolkit featuring tactical map guides, objective references, contestant builds,… — — · 0 yıldız
+- [The-Finals-Wallhacks/.github](https://github.com/The-Finals-Wallhacks/.github) — THE FINALS Wallhack is a visual reference covering player-outline terminology, visibility concepts, outline colors, display… — — · 0 yıldız
 - [the-finals-wh-aim/.github](https://github.com/the-finals-wh-aim/.github) — Unlock flawless aim in The Finals with this undetected Aimbot. Designed with legit settings, target prioritization, FOV control,… — — · 0 yıldız
 - [THE-FINALSCheats/.github](https://github.com/THE-FINALSCheats/.github) — THE FINALS Cheats is a Windows PC-focused desktop project covering game-related cheat software categories, with an organized… — — · 0 yıldız
 - [The-Forecaster/Rust-render-base](https://github.com/The-Forecaster/Rust-render-base) — 3D render base that might go with my OS that im making :D — Rust · 0 yıldız
@@ -39722,6 +40098,7 @@
 - [tsunam9/DeadlockTrainer](https://github.com/tsunam9/DeadlockTrainer) — A cheat for the valve game deadlock — — · 0 yıldız
 - [ttlgod472-lgtm/GOD-MODS-](https://github.com/ttlgod472-lgtm/GOD-MODS-) — This website is for free fire headshot hack and free panel — HTML · 0 yıldız
 - [ttpizza/CustomMapLoader](https://github.com/ttpizza/CustomMapLoader) — A custom map loader / maker for Among Us 3D/VR. — — · 0 yıldız
+- [TTT-2/ttt2-item_tracker](https://github.com/TTT-2/ttt2-item_tracker) — Tracker (Wallhack) item — Lua · 0 yıldız
 - [tuanworlddev/hex-editor](https://github.com/tuanworlddev/hex-editor) — A focused open-source hex and binary editor for macOS, built with Rust and native AppKit menus. — Rust · 0 yıldız
 - [tulgab165-png/Monh](https://github.com/tulgab165-png/Monh) — Standoff 2 hack higher — — · 0 yıldız
 - [tunaydinho/dark-and-darker-boost-tools](https://github.com/tunaydinho/dark-and-darker-boost-tools) — Master Dark and Darker Faster with Advanced Trainer Tools and Pro Gameplay Tips — — · 0 yıldız
@@ -39822,6 +40199,7 @@
 - [vikasyogibagar-lgtm/Headshot-Injector](https://github.com/vikasyogibagar-lgtm/Headshot-Injector) — "Original Free Fire panel source code created by me." — — · 0 yıldız
 - [vikgithub123/APB-UVM-Verification](https://github.com/vikgithub123/APB-UVM-Verification) — Here is a clean, recruiter-ready description you can paste directly into tSystemVerilog UVM verification environment for an AMBA… — SystemVerilog · 0 yıldız
 - [Vili1/Among_us_external_zoom](https://github.com/Vili1/Among_us_external_zoom) — external zoom hack for among us written in c++ — C++ · 0 yıldız · arşiv
+- [villaincity980/xdefiant-visual-enhancer](https://github.com/villaincity980/xdefiant-visual-enhancer) — Unlock XDefiant Wallhack: Enhance Your Gameplay with Ultimate Visibility Tricks — — · 0 yıldız
 - [Vilsol/docker-gmod-base](https://github.com/Vilsol/docker-gmod-base) — A base GMOD Server Docker Image — Shell · 0 yıldız
 - [vimaltiwari2612/UtilForSQOLBatch](https://github.com/vimaltiwari2612/UtilForSQOLBatch) — Utiltiy to fetch all the SOQL's in your code base. It takes all the Apex Classes from your code base and Extract Soql document… — — · 0 yıldız
 - [VincDD96/Salesforce-SnapDash](https://github.com/VincDD96/Salesforce-SnapDash) — A fully configurable, data-driven dashboard engine for Salesforce — multi-page dashboards with a drag-and-drop editor, built… — Apex · 0 yıldız
@@ -39972,6 +40350,7 @@
 - [VoidWainwrightFire/marvel-rivals-mod-zh25](https://github.com/VoidWainwrightFire/marvel-rivals-mod-zh25) — professional marvel rivals mod menu Cheat hero shield booster + hero movement speed — Top marvel rivals mod menu cheat with — HTML · 0 yıldız
 - [volshebreek3842/NovaNemesis](https://github.com/volshebreek3842/NovaNemesis) — The Finals Hack Download 2025 - God Mode & Unlimited Health — C++ · 0 yıldız
 - [volshebreek512/AmongUs-HelperTools](https://github.com/volshebreek512/AmongUs-HelperTools) — Among Us Cheats 2025 Best Tips and Tricks for Easy Wins — — · 0 yıldız
+- [volshebreekmrgenry/squadhack-utils](https://github.com/volshebreekmrgenry/squadhack-utils) — Squad Wallhack & No Recoil 2025 - Windows Guide 📊 — HTML · 0 yıldız
 - [voltrax99/delta-force-enhanced-tactics](https://github.com/voltrax99/delta-force-enhanced-tactics) — Delta Force Hacks and Cheats Guide 🚀 Uncover Unique Game Tips and Advantageous Mods — — · 0 yıldız
 - [vorrarit/rust-base](https://github.com/vorrarit/rust-base) — (açıklama yok) — Rust · 0 yıldız
 - [VortexArcade/Kingdoms-of-Apex---Tactical-Command](https://github.com/VortexArcade/Kingdoms-of-Apex---Tactical-Command) — A persistent sci-fi tactical strategy web app and PWA featuring sector mapping, base fortress management, alliance war rooms, and… — HTML · 0 yıldız
@@ -40000,6 +40379,7 @@
 - [Warface-Cheats/.github](https://github.com/Warface-Cheats/.github) — Warface Cheat is an informational gaming resource featuring weapon guides, class information, map strategies, gameplay tips,… — — · 0 yıldız
 - [Warface-Clutch-Cheats/.github](https://github.com/Warface-Clutch-Cheats/.github) — Warface Clutch Cheats is a Windows utility combining aim assist, player and weapon ESP, PvP and co-op overlays with configurable… — — · 0 yıldız
 - [Warface-Hack/.github](https://github.com/Warface-Hack/.github) — Warface Hack is an informational gaming resource featuring weapon guides, class information, map strategies, gameplay tips, match… — — · 0 yıldız
+- [Warface-Wallhacks/.github](https://github.com/Warface-Wallhacks/.github) — Warface Wallhack is an informational gaming resource featuring map guides, tactical positioning tips, weapon statistics, class… — — · 0 yıldız
 - [warisjamil/Free-Fire-Diamonds-hack](https://github.com/warisjamil/Free-Fire-Diamonds-hack) — Free Fire Diamonds hack — — · 0 yıldız
 - [WarkinVolselli/VJ_PARANOIA](https://github.com/WarkinVolselli/VJ_PARANOIA) — Buncha PARANOIA ports to Gmod using VJ Base. Some custom stuff included for fun. — Lua · 0 yıldız
 - [WarlockCol/unturned-advantage-toolkit](https://github.com/WarlockCol/unturned-advantage-toolkit) — Unturned Cheats Guide: Unlock Tips, Exploits, and Game Hacks for Winning Faster — — · 0 yıldız
@@ -40217,7 +40597,7 @@
 - [zxsrxt-kebab-case/external_dumper](https://github.com/zxsrxt-kebab-case/external_dumper) — external runtime dumper for standoff 2 — C++ · 0 yıldız
 - [Zynox-ctrl/Mod-Menu](https://github.com/Zynox-ctrl/Mod-Menu) — A mod menu for among us — C++ · 0 yıldız
 
-### Evrensel cheat menü / base / paste (oyun belirtmeyen) — 25440 repo
+### Evrensel cheat menü / base / paste (oyun belirtmeyen) — 25591 repo
 
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) — A collection of various awesome lists for hackers, pentesters and security researchers — — · 126673 yıldız
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) — ALL IN ONE Hacking Tool For Hackers — Python · 82222 yıldız
@@ -41041,7 +41421,11 @@
 - [cutecatsandvirtualmachines/Sputnik](https://github.com/cutecatsandvirtualmachines/Sputnik) — The sequel to Voyager — C · 119 yıldız
 - [hugokernel/micropython-nanoweb](https://github.com/hugokernel/micropython-nanoweb) — Full async Micropython web server with small memory footprint. — Python · 119 yıldız
 - [NYAN-x-CAT/Bypass-Windows-Defender-VBS](https://github.com/NYAN-x-CAT/Bypass-Windows-Defender-VBS) — Disable WD using VBS — VBScript · 118 yıldız
+- [ramarop/arc-raiders-cheat-vejalen](https://github.com/ramarop/arc-raiders-cheat-vejalen) — Arc Raiders companion: live intel and combat aids in one focused tool. — HTML · 118 yıldız
 - [rehypejs/rehype-external-links](https://github.com/rehypejs/rehype-external-links) — rehype plugin to add rel (and target) to external links — JavaScript · 118 yıldız
+- [shuvopianhasan-oss/monster-hunter-wilds-reframework-download](https://github.com/shuvopianhasan-oss/monster-hunter-wilds-reframework-download) — Mod your hunt: script REFramework tools live, then iterate in-game. — HTML · 118 yıldız
+- [ticsistjba-bot/robrun-cheat](https://github.com/ticsistjba-bot/robrun-cheat) — Track and display live game data to guide every move while you play. — HTML · 118 yıldız
+- [zarari248-boop/slay-the-spire-2-trainer](https://github.com/zarari248-boop/slay-the-spire-2-trainer) — In-run cheats and live stats at a glance — built for Spire 2. — HTML · 118 yıldız
 - [Cipher7/ApexLdr](https://github.com/Cipher7/ApexLdr) — ApexLdr is a DLL Payload Loader written in C — C · 117 yıldız
 - [fuqiuluo/ovo](https://github.com/fuqiuluo/ovo) — 🍂 Android aarch64 kernel driver module providing efficient memory operations, touch simulation and IPC. Features include fast… — C · 117 yıldız
 - [L-Spiro/MhsX](https://github.com/L-Spiro/MhsX) — Memory-Hacking Software (MHS) X, the new from-scratch MHS, the next most-popular RAM-searching/debugging/game-hacking tool after… — C++ · 117 yıldız
@@ -41174,16 +41558,69 @@
 - [casp3r0x0/LoaderGate](https://github.com/casp3r0x0/LoaderGate) — a C# implementation for a shellcode loader that capable to bypass Cortex XDR and Sophos EDR. — C# · 93 yıldız
 - [rydoginator/ACNL-NTR-Cheats](https://github.com/rydoginator/ACNL-NTR-Cheats) — A combination of cheats that I've been creating with NTR — C++ · 93 yıldız
 - [trmxvibs/wifi-audit-tool](https://github.com/trmxvibs/wifi-audit-tool) — A user-friendly command-line toolkit for WiFi network scanning, handshake capture, and vulnerability reporting—compatible with… — Python · 93 yıldız
+- [abigaillopez78760/satisfactory-trainer-mod-menu](https://github.com/abigaillopez78760/satisfactory-trainer-mod-menu) — Satisfactory (2026) Windows x64 Trainer, Mod Loader, Auto-updating AOB signature scan & DirectX 11 / 12 & Vulkan ImGui Utility — Go · 92 yıldız
+- [AbigailNam03/destiny-2-trainer-mod-menu](https://github.com/AbigailNam03/destiny-2-trainer-mod-menu) — Destiny 2 Trainer & Mod Menu (2026) — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unity IL2CPP / Unreal… — Go · 92 yıldız
+- [aDemir581/street-fighter-6-trainer-mod-menu](https://github.com/aDemir581/street-fighter-6-trainer-mod-menu) — Street Fighter 6 (2026) Windows x64 Trainer, Mod Loader, Auto-updating AOB signature scan & DirectX 11 / 12 & Vulkan ImGui Utility — Go · 92 yıldız
+- [AlbertoMartins35/payday-2-trainer-mod-menu](https://github.com/AlbertoMartins35/payday-2-trainer-mod-menu) — PAYDAY 2 (2026) Windows x64 Trainer, Mod Loader, Auto-updating AOB signature scan & DirectX 11 / 12 & Vulkan ImGui Utility — Go · 92 yıldız
+- [AlbertoMorris15/best-trainer-mod-menu](https://github.com/AlbertoMorris15/best-trainer-mod-menu) — Best Mods, Trainer & Configuration Toolkit — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui (Unity IL2CPP /… — Go · 92 yıldız
+- [AlessiaRangel/brawlhalla-trainer-mod-menu](https://github.com/AlessiaRangel/brawlhalla-trainer-mod-menu) — Brawlhalla Modding & Trainer Pack (2026) — Unity IL2CPP / Unreal Engine, Auto-updating AOB signature scan & DirectX 11 / 12 &… — Go · 92 yıldız
+- [AlessioCarvalho157/rocket-league-trainer-mod-menu](https://github.com/AlessioCarvalho157/rocket-league-trainer-mod-menu) — Rocket League Trainer & Mod Menu (2026) — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unity IL2CPP /… — Go · 92 yıldız
+- [alexander32518/scum-trainer-mod-menu](https://github.com/alexander32518/scum-trainer-mod-menu) — SCUM Windows 10/11 Mod Menu & Trainer — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unlocker — Go · 92 yıldız
+- [alexander4540/paladins-trainer-mod-menu](https://github.com/alexander4540/paladins-trainer-mod-menu) — Paladins Modding & Trainer Pack (2026) — Unity IL2CPP / Unreal Engine, Auto-updating AOB signature scan & DirectX 11 / 12 &… — Go · 92 yıldız
+- [alexander67838/forza-horizon-6-trainer-mod-menu](https://github.com/alexander67838/forza-horizon-6-trainer-mod-menu) — Forza Horizon 6 Modding & Trainer Pack (2026) — Unity IL2CPP / Unreal Engine, Auto-updating AOB signature scan & DirectX 11 / 12… — Go · 92 yıldız
+- [alexandros187/dying-light-trainer-mod-menu](https://github.com/alexandros187/dying-light-trainer-mod-menu) — Dying Light Mod Menu & Trainer Suite — Unity IL2CPP / Unreal Engine Runtime, Auto-updating AOB signature scan & DirectX 11 / 12 &… — Go · 92 yıldız
+- [AlexandrosMikhailov83/conan-exiles-trainer-mod-menu](https://github.com/AlexandrosMikhailov83/conan-exiles-trainer-mod-menu) — Conan Exiles Modding & Trainer Pack (2026) — Unity IL2CPP / Unreal Engine, Auto-updating AOB signature scan & DirectX 11 / 12 &… — Go · 92 yıldız
+- [alexandrossahin/elite-dangerous-trainer-mod-menu](https://github.com/alexandrossahin/elite-dangerous-trainer-mod-menu) — Elite Dangerous Windows 10/11 Mod Menu & Trainer — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unlocker — Go · 92 yıldız
+- [alexei66089/sekiro-trainer-mod-menu](https://github.com/alexei66089/sekiro-trainer-mod-menu) — Sekiro Mod Menu & Trainer Suite — Unity IL2CPP / Unreal Engine Runtime, Auto-updating AOB signature scan & DirectX 11 / 12 &… — Go · 92 yıldız
 - [baiXfeng/against-cheating-value](https://github.com/baiXfeng/against-cheating-value) — Anti-cheating-value is a plugin that prevents cheat tools from modifying sensitive data in the game memory. — GDScript · 92 yıldız
+- [BrahimAksoy2898/league-of-legends-trainer-mod-menu](https://github.com/BrahimAksoy2898/league-of-legends-trainer-mod-menu) — League of Legends Standalone Trainer & Mod Manager — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unity… — Go · 92 yıldız
 - [breakthenet/HackMe-XSS-CSRF-Challenges](https://github.com/breakthenet/HackMe-XSS-CSRF-Challenges) — Hack your friend's online MMORPG game - specific focus, csrf/xss attacks — PHP · 92 yıldız
+- [brenda6840/v-rising-trainer-mod-menu](https://github.com/brenda6840/v-rising-trainer-mod-menu) — V Rising Mods, Trainer & Configuration Toolkit — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui (Unity IL2CPP /… — Go · 92 yıldız
 - [CabboShiba/VMPBypass](https://github.com/CabboShiba/VMPBypass) — This tool will allow you to bypass VMProtect .NET AntiDebugger. Made by Cabbo. — C# · 92 yıldız
+- [Claudine66/payday-3-trainer-mod-menu](https://github.com/Claudine66/payday-3-trainer-mod-menu) — PAYDAY 3 Mods, Trainer & Configuration Toolkit — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui (Unity IL2CPP /… — Go · 92 yıldız
+- [ClaudineHakansson417/crime-boss-rockay-city-trainer-mod-menu](https://github.com/ClaudineHakansson417/crime-boss-rockay-city-trainer-mod-menu) — Crime Boss Rockay City Standalone Trainer & Mod Manager — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui &… — Go · 92 yıldız
 - [coldsmelting/SamAI-AimBot](https://github.com/coldsmelting/SamAI-AimBot) — SamAI-AimBot — 基于 ONNX Runtime 的实时目标检测与辅助瞄准系统 — C++ · 92 yıldız
+- [daniellerivera964/half-life-2-trainer-mod-menu](https://github.com/daniellerivera964/half-life-2-trainer-mod-menu) — Half-Life 2 Desktop Trainer, Mods & Unlocker — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui (Unity IL2CPP /… — Go · 92 yıldız
+- [DmitryKhan3292/dave-the-diver-trainer-mod-menu](https://github.com/DmitryKhan3292/dave-the-diver-trainer-mod-menu) — DAVE THE DIVER Desktop Trainer, Mods & Unlocker — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui (Unity IL2CPP… — Go · 92 yıldız
+- [DouglasHendriks/smite-trainer-mod-menu](https://github.com/DouglasHendriks/smite-trainer-mod-menu) — SMITE Trainer & Mod Menu (2026) — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unity IL2CPP / Unreal Engine… — Go · 92 yıldız
 - [keyu-tian/Cpp-Gomoku-with-AI](https://github.com/keyu-tian/Cpp-Gomoku-with-AI) — C++ Gomoku with a strong AI based on minimax search and alpha-beta pruning with Qt5 GUI. *Dozens of C++ tricks & hacks are used… — C++ · 92 yıldız
 - [marcrowProject/Bramble](https://github.com/marcrowProject/Bramble) — Bramble is a hacking Open source suite. — HTML · 92 yıldız
 - [Mugen87/nier](https://github.com/Mugen87/nier) — The hacking game from NieR: Automata. — JavaScript · 92 yıldız
 - [multihack/multihack-web](https://github.com/multihack/multihack-web) — Realtime collaboration for programmers. (Web Version) — JavaScript · 92 yıldız
 - [Pix4D/terravalet](https://github.com/Pix4D/terravalet) — A tool to help with some Terraform operations — Go · 92 yıldız
+- [StavrosYoshida/pump-fun-pro-patcher-installer](https://github.com/StavrosYoshida/pump-fun-pro-patcher-installer) — Pump.fun Desktop Trainer, Mods & Unlocker — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui (Unity IL2CPP /… — Go · 92 yıldız
+- [StefanieConti/raydium-pro-patcher-installer](https://github.com/StefanieConti/raydium-pro-patcher-installer) — Raydium Mod Menu & Trainer Suite — Unity IL2CPP / Unreal Engine Runtime, Auto-updating AOB signature scan & DirectX 11 / 12 &… — Go · 92 yıldız
+- [stefanies9920/jupiter-pro-patcher-installer](https://github.com/stefanies9920/jupiter-pro-patcher-installer) — Jupiter Standalone Trainer & Mod Manager — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unity IL2CPP /… — Go · 92 yıldız
+- [StephaneEgorov820/meteora-pro-patcher-installer](https://github.com/StephaneEgorov820/meteora-pro-patcher-installer) — Meteora Desktop Trainer, Mods & Unlocker — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui (Unity IL2CPP /… — Go · 92 yıldız
+- [steven7479/photon-sol-pro-patcher-installer](https://github.com/steven7479/photon-sol-pro-patcher-installer) — Photon Sol Mod Menu & Trainer Suite — Unity IL2CPP / Unreal Engine Runtime, Auto-updating AOB signature scan & DirectX 11 / 12 &… — Go · 92 yıldız
+- [svetlanajames/bullx-pro-patcher-installer](https://github.com/svetlanajames/bullx-pro-patcher-installer) — BullX Mods, Trainer & Configuration Toolkit — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui (Unity IL2CPP /… — Go · 92 yıldız
+- [SvetlanaRamirez91198/gmgn-pro-patcher-installer](https://github.com/SvetlanaRamirez91198/gmgn-pro-patcher-installer) — GMGN Standalone Trainer & Mod Manager — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unity IL2CPP / Unreal… — Go · 92 yıldız
+- [sylviebennett62546/hyperliquid-pro-patcher-installer](https://github.com/sylviebennett62546/hyperliquid-pro-patcher-installer) — Hyperliquid Desktop Trainer, Mods & Unlocker — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui (Unity IL2CPP /… — Go · 92 yıldız
+- [SylvieSmirnov/polymarket-pro-patcher-installer](https://github.com/SylvieSmirnov/polymarket-pro-patcher-installer) — Polymarket Mod Menu & Trainer Suite — Unity IL2CPP / Unreal Engine Runtime, Auto-updating AOB signature scan & DirectX 11 / 12 &… — Go · 92 yıldız
+- [Takumi3460/metamask-airdrop-checker-pro-patcher-installer](https://github.com/Takumi3460/metamask-airdrop-checker-pro-patcher-installer) — MetaMask Airdrop Checker Trainer & Mod Menu (2026) — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unity… — Go · 92 yıldız
+- [TeresaTruong87/phantom-wallet-tools-pro-patcher-installer](https://github.com/TeresaTruong87/phantom-wallet-tools-pro-patcher-installer) — Phantom Wallet Tools Mod Menu & Trainer Suite — Unity IL2CPP / Unreal Engine Runtime, Auto-updating AOB signature scan & DirectX… — Go · 92 yıldız
 - [TermuxHackz/hackerpro](https://github.com/TermuxHackz/hackerpro) — All in One Hacking Tool for Linux & Android (Termux). Make your linux environment into a Hacking Machine. Hackers are welcome in… — Python · 92 yıldız
+- [TerrySun55/rabby-wallet-tools-pro-patcher-installer](https://github.com/TerrySun55/rabby-wallet-tools-pro-patcher-installer) — Rabby Wallet Tools Mods, Trainer & Configuration Toolkit — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui… — Go · 92 yıldız
+- [Thao5090/ledger-pro-patcher-installer](https://github.com/Thao5090/ledger-pro-patcher-installer) — Ledger Windows 10/11 Mod Menu & Trainer — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unlocker — Go · 92 yıldız
+- [Thao89505/solana-pro-patcher-installer](https://github.com/Thao89505/solana-pro-patcher-installer) — Solana Modding & Trainer Pack (2026) — Unity IL2CPP / Unreal Engine, Auto-updating AOB signature scan & DirectX 11 / 12 & Vulkan… — Go · 92 yıldız
+- [thaok5546/phantom-pro-patcher-installer](https://github.com/thaok5546/phantom-pro-patcher-installer) — Phantom Trainer & Mod Menu (2026) — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unity IL2CPP / Unreal… — Go · 92 yıldız
+- [thaosharma/trust-wallet-pro-patcher-installer](https://github.com/thaosharma/trust-wallet-pro-patcher-installer) — Trust Wallet Mod Menu & Trainer Suite — Unity IL2CPP / Unreal Engine Runtime, Auto-updating AOB signature scan & DirectX 11 / 12… — Go · 92 yıldız
+- [theresa04496/rabby-wallet-pro-patcher-installer](https://github.com/theresa04496/rabby-wallet-pro-patcher-installer) — Rabby Wallet (2026) Windows x64 Trainer, Mod Loader, Auto-updating AOB signature scan & DirectX 11 / 12 & Vulkan ImGui Utility — Go · 92 yıldız
+- [theresa2485/backpack-wallet-pro-patcher-installer](https://github.com/theresa2485/backpack-wallet-pro-patcher-installer) — Backpack Wallet Mods, Trainer & Configuration Toolkit — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui (Unity… — Go · 92 yıldız
+- [theresakorkmaz894/trojan-on-solana-pro-patcher-installer](https://github.com/theresakorkmaz894/trojan-on-solana-pro-patcher-installer) — Trojan on Solana Windows 10/11 Mod Menu & Trainer — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unlocker — Go · 92 yıldız
+- [Thiagol146/gas-pump-ton-pro-patcher-installer](https://github.com/Thiagol146/gas-pump-ton-pro-patcher-installer) — Gas Pump TON Trainer & Mod Menu (2026) — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unity IL2CPP / Unreal… — Go · 92 yıldız
+- [ThiagoRenard40366/hyperliquid-bridge-pro-patcher-installer](https://github.com/ThiagoRenard40366/hyperliquid-bridge-pro-patcher-installer) — Hyperliquid Bridge Mod Menu & Trainer Suite — Unity IL2CPP / Unreal Engine Runtime, Auto-updating AOB signature scan & DirectX 11… — Go · 92 yıldız
+- [ThijsDunn900/bepinex-pro-patcher-installer](https://github.com/ThijsDunn900/bepinex-pro-patcher-installer) — BepInEx (2026) Windows x64 Trainer, Mod Loader, Auto-updating AOB signature scan & DirectX 11 / 12 & Vulkan ImGui Utility — Go · 92 yıldız
+- [ThijsTanaka80/lethal-company-bepinex-pro-patcher-installer](https://github.com/ThijsTanaka80/lethal-company-bepinex-pro-patcher-installer) — Lethal Company BepInEx Pack Windows 10/11 Mod Menu & Trainer — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui &… — Go · 92 yıldız
+- [thijsyoshida91347/r-e-p-o-bepinex-pack-pro-patcher-installer](https://github.com/thijsyoshida91347/r-e-p-o-bepinex-pack-pro-patcher-installer) — R.E.P.O. BepInEx Pack Modding & Trainer Pack (2026) — Unity IL2CPP / Unreal Engine, Auto-updating AOB signature scan & DirectX 11… — Go · 92 yıldız
+- [ThomasGreen54501/risk-of-rain-2-bepinex-pro-patcher-installer](https://github.com/ThomasGreen54501/risk-of-rain-2-bepinex-pro-patcher-installer) — Risk of Rain 2 BepInEx Pack Trainer & Mod Menu (2026) — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unity… — Go · 92 yıldız
+- [ThomasHarrison708/ultrakill-bepinex-pack-pro-patcher-installer](https://github.com/ThomasHarrison708/ultrakill-bepinex-pack-pro-patcher-installer) — Ultrakill BepInEx Pack Mod Menu & Trainer Suite — Unity IL2CPP / Unreal Engine Runtime, Auto-updating AOB signature scan &… — Go · 92 yıldız
+- [ThomasKarahan/subnautica-bepinex-pack-pro-patcher-installer](https://github.com/ThomasKarahan/subnautica-bepinex-pack-pro-patcher-installer) — Subnautica BepInEx Pack (2026) Windows x64 Trainer, Mod Loader, Auto-updating AOB signature scan & DirectX 11 / 12 & Vulkan ImGui… — Go · 92 yıldız
+- [thomasmorales3261/content-warning-bepinex-pro-patcher-installer](https://github.com/thomasmorales3261/content-warning-bepinex-pro-patcher-installer) — Content Warning BepInEx Pack Mods, Trainer & Configuration Toolkit — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan… — Go · 92 yıldız
+- [Thomaso9499/cities-skylines-ii-bepinex-pro-patcher-installer](https://github.com/Thomaso9499/cities-skylines-ii-bepinex-pro-patcher-installer) — Cities Skylines II BepInEx Pack Standalone Trainer & Mod Manager — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan… — Go · 92 yıldız
+- [TomokoWilson85/shulker-box-tooltip-pro-patcher-installer](https://github.com/TomokoWilson85/shulker-box-tooltip-pro-patcher-installer) — Shulker Box Tooltip Trainer & Mod Menu (2026) — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unity IL2CPP /… — Go · 92 yıldız
+- [Tongchai7231/bepinex-bepinexpack-pro-patcher-installer](https://github.com/Tongchai7231/bepinex-bepinexpack-pro-patcher-installer) — BepInEx-BepInExPack Mod Menu & Trainer Suite — Unity IL2CPP / Unreal Engine Runtime, Auto-updating AOB signature scan & DirectX… — Go · 92 yıldız
+- [TongchaiKaminski299/photon-shaders-pro-patcher-installer](https://github.com/TongchaiKaminski299/photon-shaders-pro-patcher-installer) — Photon Shaders (2026) Windows x64 Trainer, Mod Loader, Auto-updating AOB signature scan & DirectX 11 / 12 & Vulkan ImGui Utility — Go · 92 yıldız
 - [xinxinshuhao-create/lobsterai2api](https://github.com/xinxinshuhao-create/lobsterai2api) — OpenAI-compatible API bridge for NetEase Youdao LobsterAI (龙虾) — Go, zero external deps, multi-account pool with credit-based… — Go · 92 yıldız
 - [Zeppelin500/MBusino](https://github.com/Zeppelin500/MBusino) — M-Bus --> MQTT-Gateway with shields for ESPs — C++ · 92 yıldız
 - [abomb4/super-cheat](https://github.com/abomb4/super-cheat) — A Mindustry cheat mod, may useful for modders (DPS Test, Unit Factory, Item source, Team Changer) — JavaScript · 91 yıldız
@@ -41193,6 +41630,7 @@
 - [lunnar211/facebok-account-cracker](https://github.com/lunnar211/facebok-account-cracker) — Facebook Hacking Tool — Python · 91 yıldız
 - [n4xh4ck5/RastLeak](https://github.com/n4xh4ck5/RastLeak) — Tool to automatic leak information using Hacking with engine searches — Python · 91 yıldız
 - [SATHISH2002s/CODM-ESP-Aimbot-Mod-Menu](https://github.com/SATHISH2002s/CODM-ESP-Aimbot-Mod-Menu) — (açıklama yok) — — · 91 yıldız
+- [thomasverhoeven894/cult-of-the-lamb-bepinex-pro-patcher-installer](https://github.com/thomasverhoeven894/cult-of-the-lamb-bepinex-pro-patcher-installer) — Cult of the Lamb BepInEx Pack Windows 10/11 Mod Menu & Trainer — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui… — Go · 91 yıldız
 - [Wcowin/Mac-Finder-Clipboard](https://github.com/Wcowin/Mac-Finder-Clipboard) — FinderClip is a lightweight macOS menu bar application that provides an intuitive cut and paste experience for Finder｜FinderClip… — Swift · 91 yıldız
 - [0xfe/hacking-stellar](https://github.com/0xfe/hacking-stellar) — A hacker's guide to using the Stellar blockchain platform. — — · 90 yıldız
 - [adamff-dev/Email_spoofer](https://github.com/adamff-dev/Email_spoofer) — :email::hammer: PHP email spoofer Send emails from any email adress — HTML · 90 yıldız
@@ -41269,6 +41707,89 @@
 - [d3ranged/sf2](https://github.com/d3ranged/sf2) — Antivirus Signature Search Toolkit — Python · 81 yıldız
 - [dhn/OSCE](https://github.com/dhn/OSCE) — Some exploits, which I’ve created during my OSCE preparation. — Python · 81 yıldız
 - [John-kener/Gallery-Seeker](https://github.com/John-kener/Gallery-Seeker) — The easiest way to HACK A GALLARY, Get every part of your friends' gallery ( 100% Working ) Tool By John Kener 🇱🇰 — Python · 81 yıldız
+- [kzhdanov21/farming-simulator-25-trainer-mod-menu](https://github.com/kzhdanov21/farming-simulator-25-trainer-mod-menu) — Farming Simulator 25 Desktop Trainer, Mods & Unlocker — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui (Unity… — Go · 81 yıldız
+- [Lacroix04981/no-rest-for-the-wicked-trainer-mod-menu](https://github.com/Lacroix04981/no-rest-for-the-wicked-trainer-mod-menu) — No Rest for the Wicked Trainer & Mod Menu (2026) — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unity… — Go · 81 yıldız
+- [LagoyeHi2/once-human-trainer-mod-menu](https://github.com/LagoyeHi2/once-human-trainer-mod-menu) — Once Human Trainer & Mod Menu (2026) — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unity 2022.3 IL2CPP /… — Go · 81 yıldız
+- [Lebedev07555/warframe-trainer-mod-menu](https://github.com/Lebedev07555/warframe-trainer-mod-menu) — Warframe (2026) Windows x64 Trainer, Mod Loader, Auto-updating AOB signature scan & DirectX 11 / 12 & Vulkan ImGui Utility — Go · 81 yıldız
+- [leclerc0900/war-thunder-trainer-mod-menu](https://github.com/leclerc0900/war-thunder-trainer-mod-menu) — War Thunder Mods, Trainer & Configuration Toolkit — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui (Unity… — Go · 81 yıldız
+- [Lefebvre3825/path-of-exile-trainer-mod-menu](https://github.com/Lefebvre3825/path-of-exile-trainer-mod-menu) — Path of Exile Modding & Trainer Pack (2026) — Unity IL2CPP / Unreal Engine, Auto-updating AOB signature scan & DirectX 11 / 12 &… — Go · 81 yıldız
+- [lej2871/vrchat-trainer-mod-menu](https://github.com/lej2871/vrchat-trainer-mod-menu) — VRChat (2026) Windows x64 Trainer, Mod Loader, Auto-updating AOB signature scan & DirectX 11 / 12 & Vulkan ImGui Utility — Go · 81 yıldız
+- [LeKobayashi83500/geometry-dash-trainer-mod-menu](https://github.com/LeKobayashi83500/geometry-dash-trainer-mod-menu) — Geometry Dash Mods, Trainer & Configuration Toolkit — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui (Unity… — Go · 81 yıldız
+- [Lemoine08/elden-ring-trainer-mod-menu](https://github.com/Lemoine08/elden-ring-trainer-mod-menu) — ELDEN RING Mod Menu & Trainer Suite — Unity IL2CPP / Unreal Engine Runtime, Auto-updating AOB signature scan & DirectX 11 / 12 &… — Go · 81 yıldız
+- [Leonie613/wardogs-trainer-mod-menu](https://github.com/Leonie613/wardogs-trainer-mod-menu) — WARDOGS Trainer & Mod Menu (2026) — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unity IL2CPP / Unreal… — Go · 81 yıldız
+- [LePandey80259/the-forest-trainer-mod-menu](https://github.com/LePandey80259/the-forest-trainer-mod-menu) — The Forest Windows 10/11 Mod Menu & Trainer — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unlocker — Go · 81 yıldız
+- [LeyayoBexe75/maplestory-trainer-mod-menu](https://github.com/LeyayoBexe75/maplestory-trainer-mod-menu) — MapleStory (2026) Windows x64 Trainer, Mod Loader, Auto-updating AOB signature scan & DirectX 11 / 12 & Vulkan ImGui Utility — Go · 81 yıldız
+- [lorenzocollins/where-winds-meet-trainer-mod-menu](https://github.com/lorenzocollins/where-winds-meet-trainer-mod-menu) — Where Winds Meet Trainer & Mod Menu (2026) — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unity IL2CPP /… — Go · 81 yıldız
+- [loriwalczak/world-of-warships-trainer-mod-menu](https://github.com/loriwalczak/world-of-warships-trainer-mod-menu) — World of Warships Trainer & Mod Menu (2026) — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unity IL2CPP /… — Go · 81 yıldız
+- [lrichardson31/hogwarts-legacy-trainer-mod-menu](https://github.com/lrichardson31/hogwarts-legacy-trainer-mod-menu) — Hogwarts Legacy Mod Menu & Trainer Suite — Unity IL2CPP / Unreal Engine Runtime, Auto-updating AOB signature scan & DirectX 11 /… — Go · 81 yıldız
+- [LucaReyes9749/honkai-star-rail-trainer-mod-menu](https://github.com/LucaReyes9749/honkai-star-rail-trainer-mod-menu) — Honkai Star Rail Desktop Trainer, Mods & Unlocker — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui (Unity… — Go · 81 yıldız
+- [lucaslang923/albion-online-trainer-mod-menu](https://github.com/lucaslang923/albion-online-trainer-mod-menu) — Albion Online Windows 10/11 Mod Menu & Trainer — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unlocker — Go · 81 yıldız
+- [LudovicaHughes774/alan-wake-2-trainer-mod-menu](https://github.com/LudovicaHughes774/alan-wake-2-trainer-mod-menu) — Alan Wake 2 Mods, Trainer & Configuration Toolkit — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui (Unity… — Go · 81 yıldız
+- [LukasTorres8723/titanfall-2-trainer-mod-menu](https://github.com/LukasTorres8723/titanfall-2-trainer-mod-menu) — Titanfall 2 Modding & Trainer Pack (2026) — Unity IL2CPP / Unreal Engine, Auto-updating AOB signature scan & DirectX 11 / 12 &… — Go · 81 yıldız
+- [luuk7785/sea-of-thieves-trainer-mod-menu](https://github.com/luuk7785/sea-of-thieves-trainer-mod-menu) — Sea of Thieves Standalone Trainer & Mod Manager — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unity IL2CPP… — Go · 81 yıldız
+- [lyang9535/solo-leveling-arise-trainer-mod-menu](https://github.com/lyang9535/solo-leveling-arise-trainer-mod-menu) — Solo Leveling Arise Desktop Trainer, Mods & Unlocker — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui (Unity… — Go · 81 yıldız
+- [ma08177/world-of-warcraft-trainer-mod-menu](https://github.com/ma08177/world-of-warcraft-trainer-mod-menu) — World of Warcraft Windows 10/11 Mod Menu & Trainer — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unlocker — Go · 81 yıldız
+- [Manuel77127/f1-25-trainer-mod-menu](https://github.com/Manuel77127/f1-25-trainer-mod-menu) — F1 25 Mods, Trainer & Configuration Toolkit — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui (Unity IL2CPP /… — Go · 81 yıldız
+- [manuelbennett674/the-last-of-us-part-i-trainer-mod-menu](https://github.com/manuelbennett674/the-last-of-us-part-i-trainer-mod-menu) — The Last of Us Part I Standalone Trainer & Mod Manager — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unity… — Go · 81 yıldız
+- [ManuelHernandez762/starfield-trainer-mod-menu](https://github.com/ManuelHernandez762/starfield-trainer-mod-menu) — Starfield Windows 10/11 Mod Menu & Trainer — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unlocker — Go · 81 yıldız
+- [manuelw72804/krunker-trainer-mod-menu](https://github.com/manuelw72804/krunker-trainer-mod-menu) — Krunker Modding & Trainer Pack (2026) — Unity IL2CPP / Unreal Engine, Auto-updating AOB signature scan & DirectX 11 / 12 & Vulkan… — Go · 81 yıldız
+- [Marcelo87297/guild-wars-2-trainer-mod-menu](https://github.com/Marcelo87297/guild-wars-2-trainer-mod-menu) — Guild Wars 2 Trainer & Mod Menu (2026) — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unity IL2CPP / Unreal… — Go · 81 yıldız
+- [marceloaksoy10715/core-keeper-trainer-mod-menu](https://github.com/marceloaksoy10715/core-keeper-trainer-mod-menu) — Core Keeper Mod Menu & Trainer Suite — Unity IL2CPP / Unreal Engine Runtime, Auto-updating AOB signature scan & DirectX 11 / 12 &… — Go · 81 yıldız
+- [Marcelol3426/dragon-quest-monsters-trainer-mod-menu](https://github.com/Marcelol3426/dragon-quest-monsters-trainer-mod-menu) — DRAGON QUEST MONSTERS Desktop Trainer, Mods & Unlocker — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui (Unity… — Go · 81 yıldız
+- [marcohenderson07986/detroit-trainer-mod-menu](https://github.com/marcohenderson07986/detroit-trainer-mod-menu) — Detroit Mods, Trainer & Configuration Toolkit — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui (Unity IL2CPP /… — Go · 81 yıldız
+- [marcoinoue/cities-trainer-mod-menu](https://github.com/marcoinoue/cities-trainer-mod-menu) — Cities Standalone Trainer & Mod Manager — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unity IL2CPP /… — Go · 81 yıldız
+- [marcos78569/borderlands-4-trainer-mod-menu](https://github.com/marcos78569/borderlands-4-trainer-mod-menu) — Borderlands 4 Modding & Trainer Pack (2026) — Unity IL2CPP / Unreal Engine, Auto-updating AOB signature scan & DirectX 11 / 12 &… — Go · 81 yıldız
+- [MarcosHu503/workers-resources-trainer-mod-menu](https://github.com/MarcosHu503/workers-resources-trainer-mod-menu) — Workers & Resources Desktop Trainer, Mods & Unlocker — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui (Unity… — Go · 81 yıldız
+- [Marcosp0092/slay-the-spire-trainer-mod-menu](https://github.com/Marcosp0092/slay-the-spire-trainer-mod-menu) — Slay the Spire Trainer & Mod Menu (2026) — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unity IL2CPP /… — Go · 81 yıldız
+- [marcossilva79/smite-2-trainer-mod-menu](https://github.com/marcossilva79/smite-2-trainer-mod-menu) — SMITE 2 (2026) Windows x64 Trainer, Mod Loader, Auto-updating AOB signature scan & DirectX 11 / 12 & Vulkan ImGui Utility — Go · 81 yıldız
+- [MargauxChavez/moon-sweepers-trainer-mod-menu](https://github.com/MargauxChavez/moon-sweepers-trainer-mod-menu) — Moon Sweepers Windows 10/11 Mod Menu & Trainer — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unlocker — Go · 81 yıldız
+- [margauxcoleman0653/guilty-gear-strive-trainer-mod-menu](https://github.com/margauxcoleman0653/guilty-gear-strive-trainer-mod-menu) — GUILTY GEAR -STRIVE- Modding & Trainer Pack (2026) — Unity IL2CPP / Unreal Engine, Auto-updating AOB signature scan & DirectX 11… — Go · 81 yıldız
+- [MargauxMedina4777/warhammer-40000-space-marine-2-trainer-mod-menu](https://github.com/MargauxMedina4777/warhammer-40000-space-marine-2-trainer-mod-menu) — Warhammer 40000 Space Marine 2 Trainer & Mod Menu (2026) — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui &… — Go · 81 yıldız
+- [margauxsiekiera2170/throne-and-liberty-trainer-mod-menu](https://github.com/margauxsiekiera2170/throne-and-liberty-trainer-mod-menu) — Throne and Liberty (2026) Windows x64 Trainer, Mod Loader, Auto-updating AOB signature scan & DirectX 11 / 12 & Vulkan ImGui… — Go · 81 yıldız
+- [maria38760/borderlands-2-trainer-mod-menu](https://github.com/maria38760/borderlands-2-trainer-mod-menu) — Borderlands 2 Standalone Trainer & Mod Manager — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unity IL2CPP… — Go · 81 yıldız
+- [maria4821/human-fall-flat-trainer-mod-menu](https://github.com/maria4821/human-fall-flat-trainer-mod-menu) — Human Fall Flat Windows 10/11 Mod Menu & Trainer — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unlocker — Go · 81 yıldız
+- [MariaAshikaga97167/dragon-ball-sparking-zero-trainer-mod-menu](https://github.com/MariaAshikaga97167/dragon-ball-sparking-zero-trainer-mod-menu) — DRAGON BALL: Sparking! ZERO Modding & Trainer Pack (2026) — Unity IL2CPP / Unreal Engine, Auto-updating AOB signature scan &… — Go · 81 yıldız
+- [MariaCarvalho36273/portal-2-trainer-mod-menu](https://github.com/MariaCarvalho36273/portal-2-trainer-mod-menu) — Portal 2 Trainer & Mod Menu (2026) — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unity IL2CPP / Unreal… — Go · 81 yıldız
+- [MarkusRoux/rdr2-online-trainer-mod-menu](https://github.com/MarkusRoux/rdr2-online-trainer-mod-menu) — RDR2 Online Mod Menu & Trainer Suite — Unity IL2CPP / Unreal Engine Runtime, Auto-updating AOB signature scan & DirectX 11 / 12 &… — Go · 81 yıldız
+- [marta9918/barotrauma-trainer-mod-menu](https://github.com/marta9918/barotrauma-trainer-mod-menu) — Barotrauma Mods, Trainer & Configuration Toolkit — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui (Unity IL2CPP… — Go · 81 yıldız
+- [martafernandes565/dead-island-2-trainer-mod-menu](https://github.com/martafernandes565/dead-island-2-trainer-mod-menu) — Dead Island 2 Standalone Trainer & Mod Manager — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unity IL2CPP… — Go · 81 yıldız
+- [martagutierrez07/chivalry-2-trainer-mod-menu](https://github.com/martagutierrez07/chivalry-2-trainer-mod-menu) — Chivalry 2 Windows 10/11 Mod Menu & Trainer — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unlocker — Go · 81 yıldız
+- [Martar548/mortal-kombat-1-trainer-mod-menu](https://github.com/Martar548/mortal-kombat-1-trainer-mod-menu) — Mortal Kombat 1 Modding & Trainer Pack (2026) — Unity IL2CPP / Unreal Engine, Auto-updating AOB signature scan & DirectX 11 / 12… — Go · 81 yıldız
+- [martin57351/queen-s-domain-trainer-mod-menu](https://github.com/martin57351/queen-s-domain-trainer-mod-menu) — Queen's Domain Trainer & Mod Menu (2026) — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unity IL2CPP /… — Go · 81 yıldız
+- [Martin66260/silent-hill-2-trainer-mod-menu](https://github.com/Martin66260/silent-hill-2-trainer-mod-menu) — SILENT HILL 2 Mod Menu & Trainer Suite — Unity IL2CPP / Unreal Engine Runtime, Auto-updating AOB signature scan & DirectX 11 / 12… — Go · 81 yıldız
+- [Martina66549/nba-2k26-trainer-mod-menu](https://github.com/Martina66549/nba-2k26-trainer-mod-menu) — NBA 2K26 (2026) Windows x64 Trainer, Mod Loader, Auto-updating AOB signature scan & DirectX 11 / 12 & Vulkan ImGui Utility — Go · 81 yıldız
+- [MartinaYilmaz5625/the-escapists-2-trainer-mod-menu](https://github.com/MartinaYilmaz5625/the-escapists-2-trainer-mod-menu) — The Escapists 2 Mods, Trainer & Configuration Toolkit — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui (Unity… — Go · 81 yıldız
+- [martinez1345/vermintide-2-trainer-mod-menu](https://github.com/martinez1345/vermintide-2-trainer-mod-menu) — Vermintide 2 Standalone Trainer & Mod Manager — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unity IL2CPP /… — Go · 81 yıldız
+- [martinez362/steam-machine-trainer-mod-menu](https://github.com/martinez362/steam-machine-trainer-mod-menu) — Steam Machine Windows 10/11 Mod Menu & Trainer — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unlocker — Go · 81 yıldız
+- [MartinFurukawa6628/foxhole-trainer-mod-menu](https://github.com/MartinFurukawa6628/foxhole-trainer-mod-menu) — Foxhole Modding & Trainer Pack (2026) — Unity IL2CPP / Unreal Engine, Auto-updating AOB signature scan & DirectX 11 / 12 & Vulkan… — Go · 81 yıldız
+- [martins3793/shell-shockers-trainer-mod-menu](https://github.com/martins3793/shell-shockers-trainer-mod-menu) — Shell Shockers Mod Menu & Trainer Suite — Unity IL2CPP / Unreal Engine Runtime, Auto-updating AOB signature scan & DirectX 11 /… — Go · 81 yıldız
+- [martins9240/aion-2-trainer-mod-menu](https://github.com/martins9240/aion-2-trainer-mod-menu) — AION 2 (2026) Windows x64 Trainer, Mod Loader, Auto-updating AOB signature scan & DirectX 11 / 12 & Vulkan ImGui Utility — Go · 81 yıldız
+- [MaryamGiordano/final-fantasy-resonance-trainer-mod-menu](https://github.com/MaryamGiordano/final-fantasy-resonance-trainer-mod-menu) — FINAL FANTASY RESONANCE Mods, Trainer & Configuration Toolkit — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui… — Go · 81 yıldız
+- [maryammurphy322/007-first-light-trainer-mod-menu](https://github.com/maryammurphy322/007-first-light-trainer-mod-menu) — 007 First Light Windows 10/11 Mod Menu & Trainer — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unlocker — Go · 81 yıldız
+- [MasagaNu33/lies-of-p-trainer-mod-menu](https://github.com/MasagaNu33/lies-of-p-trainer-mod-menu) — Lies of P Modding & Trainer Pack (2026) — Unity IL2CPP / Unreal Engine, Auto-updating AOB signature scan & DirectX 11 / 12 &… — Go · 81 yıldız
+- [massimocastillo/remnant-ii-trainer-mod-menu](https://github.com/massimocastillo/remnant-ii-trainer-mod-menu) — REMNANT II Mod Menu & Trainer Suite — Unity IL2CPP / Unreal Engine Runtime, Auto-updating AOB signature scan & DirectX 11 / 12 &… — Go · 81 yıldız
+- [MassimoLopez164/overcooked-2-trainer-mod-menu](https://github.com/MassimoLopez164/overcooked-2-trainer-mod-menu) — Overcooked! 2 (2026) Windows x64 Trainer, Mod Loader, Auto-updating AOB signature scan & DirectX 11 / 12 & Vulkan ImGui Utility — Go · 81 yıldız
+- [massimonakamura730/mordhau-trainer-mod-menu](https://github.com/massimonakamura730/mordhau-trainer-mod-menu) — MORDHAU Mods, Trainer & Configuration Toolkit — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui (Unity IL2CPP /… — Go · 81 yıldız
+- [MatexuVo17/star-wars-zero-company-trainer-mod-menu](https://github.com/MatexuVo17/star-wars-zero-company-trainer-mod-menu) — STAR WARS Zero Company Windows 10/11 Mod Menu & Trainer — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui &… — Go · 81 yıldız
+- [matiaalvarez/goose-goose-duck-trainer-mod-menu](https://github.com/matiaalvarez/goose-goose-duck-trainer-mod-menu) — Goose Goose Duck Modding & Trainer Pack (2026) — Unity IL2CPP / Unreal Engine, Auto-updating AOB signature scan & DirectX 11 / 12… — Go · 81 yıldız
+- [mbrouwer6868/lords-of-the-fallen-trainer-mod-menu](https://github.com/mbrouwer6868/lords-of-the-fallen-trainer-mod-menu) — Lords of the Fallen Mod Menu & Trainer Suite — Unity IL2CPP / Unreal Engine Runtime, Auto-updating AOB signature scan & DirectX… — Go · 81 yıldız
+- [mDuong46/tft-teamfight-tactics-trainer-mod-menu](https://github.com/mDuong46/tft-teamfight-tactics-trainer-mod-menu) — TFT Teamfight Tactics Standalone Trainer & Mod Manager — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unity… — Go · 81 yıldız
+- [meerachevalier4882/football-manager-2024-trainer-mod-menu](https://github.com/meerachevalier4882/football-manager-2024-trainer-mod-menu) — Football Manager 2024 Desktop Trainer, Mods & Unlocker — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui (Unity… — Go · 81 yıldız
+- [megan9970/1v1-lol-trainer-mod-menu](https://github.com/megan9970/1v1-lol-trainer-mod-menu) — 1v1 LOL Modding & Trainer Pack (2026) — Unity IL2CPP / Unreal Engine, Auto-updating AOB signature scan & DirectX 11 / 12 & Vulkan… — Go · 81 yıldız
+- [Meganp5682/motel-manager-simulator-trainer-mod-menu](https://github.com/Meganp5682/motel-manager-simulator-trainer-mod-menu) — Motel Manager Simulator Desktop Trainer, Mods & Unlocker — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui… — Go · 81 yıldız
+- [mehmethall7819/thief-trainer-mod-menu](https://github.com/mehmethall7819/thief-trainer-mod-menu) — Thief Mod Menu & Trainer Suite — Unity IL2CPP / Unreal Engine Runtime, Auto-updating AOB signature scan & DirectX 11 / 12 &… — Go · 81 yıldız
+- [MehmetJain/green-hell-trainer-mod-menu](https://github.com/MehmetJain/green-hell-trainer-mod-menu) — Green Hell (2026) Windows x64 Trainer, Mod Loader, Auto-updating AOB signature scan & DirectX 11 / 12 & Vulkan ImGui Utility — Go · 81 yıldız
+- [Mehta61648/a-game-about-digging-a-hole-toge-trainer-mod-menu](https://github.com/Mehta61648/a-game-about-digging-a-hole-toge-trainer-mod-menu) — A Game About Digging A Hole Together Windows 10/11 Mod Menu & Trainer — Auto-updating AOB signature scan, DirectX 11 / 12 &… — Go · 81 yıldız
+- [melissal21517/off-the-grid-trainer-mod-menu](https://github.com/melissal21517/off-the-grid-trainer-mod-menu) — Off The Grid (2026) Windows x64 Trainer, Mod Loader, Auto-updating AOB signature scan & DirectX 11 / 12 & Vulkan ImGui Utility — Go · 81 yıldız
+- [Mendoza70337/scp-secret-laboratory-trainer-mod-menu](https://github.com/Mendoza70337/scp-secret-laboratory-trainer-mod-menu) — SCP: Secret Laboratory Standalone Trainer & Mod Manager — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui &… — Go · 81 yıldız
+- [menon82/persona-5-royal-trainer-mod-menu](https://github.com/menon82/persona-5-royal-trainer-mod-menu) — Persona 5 Royal Mod Menu & Trainer Suite — Unity IL2CPP / Unreal Engine Runtime, Auto-updating AOB signature scan & DirectX 11 /… — Go · 81 yıldız
+- [merkel5725/grounded-trainer-mod-menu](https://github.com/merkel5725/grounded-trainer-mod-menu) — Grounded Windows 10/11 Mod Menu & Trainer — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unlocker — Go · 81 yıldız
+- [MezosiHi70/runescape-3-trainer-mod-menu](https://github.com/MezosiHi70/runescape-3-trainer-mod-menu) — RuneScape 3 Modding & Trainer Pack (2026) — Unity IL2CPP / Unreal Engine, Auto-updating AOB signature scan & DirectX 11 / 12 &… — Go · 81 yıldız
+- [mfisher6637/crimson-desert-enhanced-trainer-mod-menu](https://github.com/mfisher6637/crimson-desert-enhanced-trainer-mod-menu) — Crimson Desert Enhanced Desktop Trainer, Mods & Unlocker — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui… — Go · 81 yıldız
+- [michalrossi/american-truck-simulator-trainer-mod-menu](https://github.com/michalrossi/american-truck-simulator-trainer-mod-menu) — American Truck Simulator Mod Menu & Trainer Suite — Unity IL2CPP / Unreal Engine Runtime, Auto-updating AOB signature scan &… — Go · 81 yıldız
+- [michalw32/revolution-idle-trainer-mod-menu](https://github.com/michalw32/revolution-idle-trainer-mod-menu) — Revolution Idle (2026) Windows x64 Trainer, Mod Loader, Auto-updating AOB signature scan & DirectX 11 / 12 & Vulkan ImGui Utility — Go · 81 yıldız
+- [Michaly94/half-life-trainer-mod-menu](https://github.com/Michaly94/half-life-trainer-mod-menu) — Half-Life Mods, Trainer & Configuration Toolkit — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui (Unity IL2CPP… — Go · 81 yıldız
+- [miyazaki34/point-zero-trainer-mod-menu](https://github.com/miyazaki34/point-zero-trainer-mod-menu) — Point Zero Windows 10/11 Mod Menu & Trainer — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unlocker — Go · 81 yıldız
 - [Ultimeit/PalDefender](https://github.com/Ultimeit/PalDefender) — PalDefender (PalWorld Dedicated Server anticheat) — — · 81 yıldız
 - [wxwhhh/webshell_bypass](https://github.com/wxwhhh/webshell_bypass) — 一个一键生成免杀的webshell工具 — Python · 81 yıldız
 - [blacktop/graboid](https://github.com/blacktop/graboid) — Clientless Docker Image Downloader — Go · 80 yıldız · arşiv
@@ -48048,6 +48569,7 @@
 - [yovico-ai/cyrano](https://github.com/yovico-ai/cyrano) — Clientless SSL VPN: a Go proxy that rewrites HTML, JavaScript and CSS in flight so any browser reaches internal web apps with… — TypeScript · 2 yıldız
 - [yufeiwang18/BASA-Competition--Text-Classification](https://github.com/yufeiwang18/BASA-Competition--Text-Classification) — It is the competition code for USC Marshall BA internal competition, the theme is text classification based on apple store app… — Python · 2 yıldız
 - [yungtry/psn-avatar-unlocker](https://github.com/yungtry/psn-avatar-unlocker) — Get classic PlayStation 3 and PS4 avatars back on the new web store. Bypass to add any legacy avatar to your cart with a few… — JavaScript · 2 yıldız
+- [YusufBilgin/CSGOwallhack](https://github.com/YusufBilgin/CSGOwallhack) — kullanıcı arayüzüne sahip basit bir wallhack hilesi — Python · 2 yıldız
 - [z00mik/Stego-Challenges-HackTheBox-Write-Ups](https://github.com/z00mik/Stego-Challenges-HackTheBox-Write-Ups) — Stego challenges from Hack The Box (HTB) Walkthoughs/Write Ups. Digital Cube, Forest, Massacre, Pusheen Loves Graphs, Retro,… — — · 2 yıldız
 - [Z3r02infini7y/N-Vader](https://github.com/Z3r02infini7y/N-Vader) — This raspberry pi based tool is created so that less time is consumed in performing WIFI hacking as it asks only basic inputs… — Shell · 2 yıldız
 - [ZafkoGR/AV-Evasion-EH](https://github.com/ZafkoGR/AV-Evasion-EH) — This project simulates a full red team phishing campaign, including cloned login portals and spoofed emails, culminating in a… — — · 2 yıldız
@@ -54807,6 +55329,7 @@
 - [darkness215/darkcrypt-cs](https://github.com/darkness215/darkcrypt-cs) — C# .NET Framework 4.8 port of darkcrypt - Halos Gate indirect syscalls, HWBP AMSI/ETW bypass, Win11 24H2 verified — C# · 0 yıldız
 - [DarknessHunter/tools](https://github.com/DarknessHunter/tools) — hacking tools — Perl · 0 yıldız
 - [DarkNoorAgents/dungeon-tactics-toolkit](https://github.com/DarkNoorAgents/dungeon-tactics-toolkit) — Take Me To The Dungeon Hacks and Cheats Unlock Hidden Features 🕹️✨ — — · 0 yıldız
+- [Darkosxl/CSGODarkWallhack](https://github.com/Darkosxl/CSGODarkWallhack) — my old wallhack (in my new github) — Python · 0 yıldız
 - [DARKOYEVILl/darkboys88c](https://github.com/DARKOYEVILl/darkboys88c) — No hacking tool — — · 0 yıldız
 - [darkpalladin19eu/AskaLoader](https://github.com/darkpalladin19eu/AskaLoader) — Web-loader for executable files — — · 0 yıldız
 - [DarkPhong894/Metaphor-ReFantazio-Cheat](https://github.com/DarkPhong894/Metaphor-ReFantazio-Cheat) — metaphor-refantazio,-metaphor-refantazio-trainer,-metaphor-refantazio-hack,-metaphor-refantazio-cheat,-metaphor-refantazio-trainer… — — · 0 yıldız
@@ -57793,6 +58316,7 @@
 - [jakibaki/AMS-CheatDB](https://github.com/jakibaki/AMS-CheatDB) — Cheat Database for Atmosphère-NX — — · 0 yıldız
 - [JakubJagodzinski/forest-hut](https://github.com/JakubJagodzinski/forest-hut) — ForestHut is a hobby project aimed at creating a hack'n'slash game using a custom game engine built with the Pygame library in… — Python · 0 yıldız
 - [JakubKubin/CSGO1-aimbot](https://github.com/JakubKubin/CSGO1-aimbot) — (açıklama yok) — C++ · 0 yıldız
+- [JakubKubin/CSGO1-wallhack](https://github.com/JakubKubin/CSGO1-wallhack) — (açıklama yok) — C++ · 0 yıldız
 - [jakubneidl/famApp-springboot](https://github.com/jakubneidl/famApp-springboot) — SpringBoot App for Arduino FarmBot — Java · 0 yıldız
 - [jakubwitkowski888-spec/source](https://github.com/jakubwitkowski888-spec/source) — source internal css — — · 0 yıldız
 - [JaltyIsSalty/Grounded-DLL-Cheat](https://github.com/JaltyIsSalty/Grounded-DLL-Cheat) — (açıklama yok) — C++ · 0 yıldız
@@ -58790,6 +59314,7 @@
 - [kuritka/hacking-go-tools](https://github.com/kuritka/hacking-go-tools) — network tools in go — Go · 0 yıldız
 - [KuriWasTaken/AmongUsHaxx](https://github.com/KuriWasTaken/AmongUsHaxx) — [External]AmongUsHaxx(Open Source) — C# · 0 yıldız
 - [KurojakiKaoru/Farmbot](https://github.com/KurojakiKaoru/Farmbot) — (açıklama yok) — C++ · 0 yıldız
+- [kuromi719/SpeXCore-CheatBase](https://github.com/kuromi719/SpeXCore-CheatBase) — A Global Cheat Base With Imgui Custom Menu — C · 0 yıldız
 - [KurtGuardia/recipe-db](https://github.com/KurtGuardia/recipe-db) — a simple ract app with internal json server, dark light theme, useReducer and some other react concepts — JavaScript · 0 yıldız
 - [kurtsenol/FarmBot](https://github.com/kurtsenol/FarmBot) — (açıklama yok) — Python · 0 yıldız
 - [kurwasword1988/EOS-infinite-ammo-mod](https://github.com/kurwasword1988/EOS-infinite-ammo-mod) — Empire of Sin god mode tips, Empire god mode hack, Empire of Sin speed boost, Empire of Sin skill points, Empire of Sin skill… — — · 0 yıldız
@@ -61123,6 +61648,7 @@
 - [overtimepog/UnknownCheats-cli](https://github.com/overtimepog/UnknownCheats-cli) — unknowncheats in your terminal — Python · 0 yıldız
 - [OveVR/OveVR-gtag-mod-menu](https://github.com/OveVR/OveVR-gtag-mod-menu) — This is a Gorilla tag mod menu The number 2 is the right 1 Number 1 just ignore it i cant delete it — — · 0 yıldız
 - [Owakeningowl/lucid-dark](https://github.com/Owakeningowl/lucid-dark) — Dark copy of the Pokemon Lucid dex, trainer sheets and calculator — JavaScript · 0 yıldız
+- [Owen010807/COMP6441-Project-CS1.6-wallhack](https://github.com/Owen010807/COMP6441-Project-CS1.6-wallhack) — This is my COMP6441 Project Ziqiu Wang z5388945 — C++ · 0 yıldız
 - [OwenBrosseau/CredentialSystem](https://github.com/OwenBrosseau/CredentialSystem) — A simple C++ program that stores and validates user login information. Passwords are hashed before storage. Used an external… — C++ · 0 yıldız
 - [owengregson/MingleClient](https://github.com/owengregson/MingleClient) — ShellShockers hack client with two-loop aimbot, including predictive aiming & bloom correction. Toggles with P. Hold SHIFT… — JavaScript · 0 yıldız
 - [owenj62/subtitle-learning](https://github.com/owenj62/subtitle-learning) — Language hack tool which will aid in learning another language through subtitles — — · 0 yıldız
@@ -61506,6 +62032,7 @@
 - [playday3008/cheat-engine-lua-definitions](https://github.com/playday3008/cheat-engine-lua-definitions) — LuaLS type definitions for the Cheat Engine Lua API, derived from its source with a @\source link on every declaration — Lua · 0 yıldız
 - [playday3008/LithiumGD](https://github.com/playday3008/LithiumGD) — External cheat for geometry dash 2.113 — — · 0 yıldız
 - [playduck/esp32-vscode-template](https://github.com/playduck/esp32-vscode-template) — simple template to get started using the esp-idf — C · 0 yıldız
+- [player001-hack/ImGuiRedux](https://github.com/player001-hack/ImGuiRedux) — (açıklama yok) — C++ · 0 yıldız
 - [PlayHerbalist/anime-vanguards-fo88](https://github.com/PlayHerbalist/anime-vanguards-fo88) — no-ban Script for anime vanguards — Best anime vanguards Script for unlimited stamina and esp. — HTML · 0 yıldız
 - [playingo2006/BloonsTDBattlesINTERNAL](https://github.com/playingo2006/BloonsTDBattlesINTERNAL) — Simple internal cheat made for BTD game shit. (NOTE: Cheats are fully implemented by me) — — · 0 yıldız
 - [playmer33/evento-hacking](https://github.com/playmer33/evento-hacking) — evento de la comunidad de hacking ESP de Discord — HTML · 0 yıldız
@@ -61702,6 +62229,8 @@
 - [prochmaruska/once-human-advanced-toolkit](https://github.com/prochmaruska/once-human-advanced-toolkit) — Once Human Cheats and Hacks Ultimate Guide 🚀 Tips and Modded Tools for Elite Players — — · 0 yıldız
 - [prodbyeternal/openarena-multihack](https://github.com/prodbyeternal/openarena-multihack) — Study multihack for OpenArena — — · 0 yıldız
 - [ProdigyHacking-Devs/CheatGUI](https://github.com/ProdigyHacking-Devs/CheatGUI) — This is the Cheat Menu for PHEx, this is the source code. — — · 0 yıldız
+- [Prof-Shiba/Quake3-UrT](https://github.com/Prof-Shiba/Quake3-UrT) — memory wallhack example — C++ · 0 yıldız
+- [Prof-Shiba/Quake3-UrT-OpenGL](https://github.com/Prof-Shiba/Quake3-UrT-OpenGL) — OpenGL hook example (depth wallhack) — C++ · 0 yıldız
 - [profalonsogui/guia-google-hacking](https://github.com/profalonsogui/guia-google-hacking) — A simple manual/guide on using Google Hacking & Shodan — HTML · 0 yıldız
 - [Professional-Fishing-2-Cheat/.github](https://github.com/Professional-Fishing-2-Cheat/.github) — Professional Fishing 2 Cheats is your complete guide to the Cheat Engine and trainer ecosystem for the realistic open-world… — — · 0 yıldız
 - [professorik/LumberjackTelegramCheat](https://github.com/professorik/LumberjackTelegramCheat) — Сheat for telegram game "Lumberjack" in Java 8. The best score is 936 — Java · 0 yıldız
@@ -61793,6 +62322,7 @@
 - [Putinprime/fallen-arena-boosters-hub](https://github.com/Putinprime/fallen-arena-boosters-hub) — Fallen Arena Cheats and Hacks Guide Unlock Epic Strategies and Secret Mods 🚀🎮 — — · 0 yıldız
 - [Putra3340/HSR-GC](https://github.com/Putra3340/HSR-GC) — This repository provides code for a simple cheat for the game Honkai Star Rail. For informational purposes only. Use at your own… — — · 0 yıldız
 - [PutraDany/Hacked-Tools](https://github.com/PutraDany/Hacked-Tools) — Penyimpanan Barang2 atau Tools utk Hack — PHP · 0 yıldız
+- [pvhost/External-Discord-Overlay-with-ImGui](https://github.com/pvhost/External-Discord-Overlay-with-ImGui) — (açıklama yok) — — · 0 yıldız
 - [pvnkmr205/cheating-daddy-react-migration](https://github.com/pvnkmr205/cheating-daddy-react-migration) — A complete migration of the 'Cheating Daddy' Electron application from Lit framework to React + Vite. Features a modular… — JavaScript · 0 yıldız
 - [PVTpinguvr/PVTX-client-gtag-mod-menu-](https://github.com/PVTpinguvr/PVTX-client-gtag-mod-menu-) — my mod menu — — · 0 yıldız
 - [pwn0sec/TslGame_Multi](https://github.com/pwn0sec/TslGame_Multi) — PlayerUnknowns Battlegrounds external multihack (trash code) — C# · 0 yıldız
@@ -65247,6 +65777,7 @@
 - [Xiro-bot/quake3-simulator](https://github.com/Xiro-bot/quake3-simulator) — Browser strafe-jump trainer with VQ3 and CPM physics — HTML · 0 yıldız
 - [xiz-kak/python-hacking-tools](https://github.com/xiz-kak/python-hacking-tools) — (açıklama yok) — Python · 0 yıldız
 - [xKiraiChan/CEHack](https://github.com/xKiraiChan/CEHack) — A Cheat Engine table for VRChat — Lua · 0 yıldız · arşiv
+- [xLeDocteurx/CSGoPowerRanger](https://github.com/xLeDocteurx/CSGoPowerRanger) — This could be some homemade wallhack for some famous game — C++ · 0 yıldız
 - [xluthi/chickencoopdoor_esp8266](https://github.com/xluthi/chickencoopdoor_esp8266) — An automatic controlled door for a chicken coop based on ESP8266 — C++ · 0 yıldız
 - [xLyouLx/dll-hack-mcbe](https://github.com/xLyouLx/dll-hack-mcbe) — (açıklama yok) — — · 0 yıldız
 - [xmake-studio/DreamTray](https://github.com/xmake-studio/DreamTray) — One Windows tray app for the things you actually reach for day to day: display brightness (built-in panel and external monitors),… — C# · 0 yıldız
@@ -67941,6 +68472,7 @@
 - [Yetta-Spider-Man/lua_loader](https://github.com/Yetta-Spider-Man/lua_loader) — a lua loader for stand to load 2take1 luas — — · 6 yıldız
 - [yusenthebot/openclaw-dashboard](https://github.com/yusenthebot/openclaw-dashboard) — Terminal-aesthetic OpenClaw Gateway control panel — real-time agent monitoring, billing-aware cost display… — Python · 6 yıldız
 - [0shuvo0/shoppy](https://github.com/0shuvo0/shoppy) — Complete ecommerce frontend made with vue js — JavaScript · 5 yıldız
+- [6kane1/DomainScheduler](https://github.com/6kane1/DomainScheduler) — Domain OS Toolbox: a user-mode Windows tool (Rust + C++) that places a game's threads away from driver and background work for… — Rust · 5 yıldız
 - [821869798/easysub](https://github.com/821869798/easysub) — Clash and Singbox subscription conversion tool developed based on Rust.(基于Rust开发的clash和singbox订阅转换工具) — Rust · 5 yıldız
 - [AB-KeyNub/KeyNub-SDK](https://github.com/AB-KeyNub/KeyNub-SDK) — A USB-C hardware license dongle for professional software: authentication in a secure element, an SDK for 37 languages, and… — C · 5 yıldız
 - [abendt/uitest-webdriver-guiceberry](https://github.com/abendt/uitest-webdriver-guiceberry) — Use guiceberry to inject WebDriver, PageObjects and Loadable Components into a JUnit test — Java · 5 yıldız
@@ -69452,6 +69984,7 @@
 - [BlackPheasantRake/activation](https://github.com/BlackPheasantRake/activation) — A dedicated activation utility for Microsoft Office suites (2016 through 2024). Emulates a local Key Management Service (KMS)… — Rust · 2 yıldız
 - [Blackservices/didactic-spork](https://github.com/Blackservices/didactic-spork) — Nikola Petrovic: Naomi Batra: Blackstone Energy services is an international oil and gas exploration and development company,… — — · 2 yıldız
 - [Blackterio/glide-license-plates](https://github.com/Blackterio/glide-license-plates) — License Plate System for Glide Vehicles — Lua · 2 yıldız
+- [blancos13/codex-switcher](https://github.com/blancos13/codex-switcher) — Cross-platform Codex account switcher built with C++ and Dear ImGui. Manage multiple local Codex accounts, usage limits and reset… — C++ · 2 yıldız
 - [blendereqq/AMXX-Plugin-License-System](https://github.com/blendereqq/AMXX-Plugin-License-System) — AMXX Plugin License System — PHP · 2 yıldız
 - [Bloxkeep/roblox-account-manager](https://github.com/Bloxkeep/roblox-account-manager) — Bloxkeep: Roblox account manager for Windows. Run several Roblox accounts at once (Multi-Roblox) with auto-rejoin, anti-AFK and… — Rust · 2 yıldız
 - [BlueEagle12/MTA-SA-Eagle-Map-Proccessor](https://github.com/BlueEagle12/MTA-SA-Eagle-Map-Proccessor) — Automatically creates resources for usage with MTA SA : Eagle map loader. — Lua · 2 yıldız · arşiv
@@ -69911,6 +70444,7 @@
 - [kuvaleshcd-hue/intrusion-detection](https://github.com/kuvaleshcd-hue/intrusion-detection) — 🛡️ Real-Time Intrusion Detection System powered by FastAPI + Ollama (local LLM). Detects brute-force, SQL injection, XSS, port… — HTML · 2 yıldız
 - [kWAYTV/shoppy-order-spammer-bot](https://github.com/kWAYTV/shoppy-order-spammer-bot) — Discord bot to spam fake shoppy.gg orders. — Python · 2 yıldız
 - [kWAYTV/shoppy.gg-spammer](https://github.com/kWAYTV/shoppy.gg-spammer) — Simple tool used to spam shoppy.gg shop owner mails — Python · 2 yıldız
+- [kxsmm/imgui-inject](https://github.com/kxsmm/imgui-inject) — (açıklama yok) — C · 2 yıldız
 - [KyeOnDiscord/QueryProfileParser](https://github.com/KyeOnDiscord/QueryProfileParser) — Parse Fortnite Account Query Profile Responses — Python · 2 yıldız
 - [kylltek/discord-bot-system-key](https://github.com/kylltek/discord-bot-system-key) — System key for discord — — · 2 yıldız
 - [kyoyadmoon/Webpack-React-Sass-Sample](https://github.com/kyoyadmoon/Webpack-React-Sass-Sample) — Implement LiveReload with react-hot-loader & webpack-dev-server — JavaScript · 2 yıldız
@@ -70151,6 +70685,7 @@
 - [potterinc/spree](https://github.com/potterinc/spree) — Admin Panel -------------------------------------------------------------------- - Category Table, Product Table, Pending Table,… — CSS · 2 yıldız
 - [pouriasadeghi18/LicenseKey](https://github.com/pouriasadeghi18/LicenseKey) — Code license project with windows application it was made — C# · 2 yıldız
 - [ppfeufer/aa-fleetpings](https://github.com/ppfeufer/aa-fleetpings) — App for Alliance Auth that can format your fleet pings and also ping for you to Discord. — Python · 2 yıldız
+- [praann07/os-fault-simulator](https://github.com/praann07/os-fault-simulator) — An educational Operating System simulator demonstrating fault injection and recovery mechanisms. Features process management,… — HTML · 2 yıldız
 - [Pramoth123/Theekshana](https://github.com/Pramoth123/Theekshana) — /* Sew Queen Whatsapp Bot Telegram: https://t.me/RavinduManoj Facebook: https://www.facebook.com/ravindu.manoj.79 Licensed under… — — · 2 yıldız
 - [Pranav-gu/Distributed_Systems_Assignment_2](https://github.com/Pranav-gu/Distributed_Systems_Assignment_2) — Implemented various mini-projects with gRPC, exploring concepts like Service Registry and Load Balancing, Distributed Map-Reduce… — Go · 2 yıldız
 - [pranavmoode5-cloud/Advanced-Face-Recognition](https://github.com/pranavmoode5-cloud/Advanced-Face-Recognition) — A Python-based face recognition system that encodes reference images and identifies individuals using computer vision. The… — Python · 2 yıldız
@@ -70531,6 +71066,7 @@
 - [1divyanshdev/production-rag](https://github.com/1divyanshdev/production-rag) — Build RAG systems that actually work in production. Deterministic indexing, grounded answers with sources, and honest "I don't… — Python · 1 yıldız
 - [1eav/CarNumberGenerator.java](https://github.com/1eav/CarNumberGenerator.java) — License plate generator with stream system optimization — Java · 1 yıldız
 - [1hasangunduz/PlakaTanimaSistemi](https://github.com/1hasangunduz/PlakaTanimaSistemi) — license plate recognition system — MATLAB · 1 yıldız
+- [1neskk/imgui-login](https://github.com/1neskk/imgui-login) — Very simple login window using Dear ImGui — C++ · 1 yıldız
 - [1ntenseeeee/CopyrightLicense](https://github.com/1ntenseeeee/CopyrightLicense) — MIT License Copyright (c) 2020 The AI Guy Permission is hereby granted, free of charge, to any person obtaining a copy of this… — — · 1 yıldız
 - [1stCLord/cptpip](https://github.com/1stCLord/cptpip) — basic PTP/IP implementation in gcc/clang compatible c. This software is licensed for all non commercial use, what constitutes… — C · 1 yıldız
 - [1stCLord/small-template-library](https://github.com/1stCLord/small-template-library) — A C++ template library. This software is licensed for all non commercial use, what constitutes commercial use under this license… — C++ · 1 yıldız
@@ -71907,6 +72443,7 @@
 - [HonestResolv3/GitHub-Profile-Loader](https://github.com/HonestResolv3/GitHub-Profile-Loader) — A C# program to get info on a GitHub user (using Octokit) — C# · 1 yıldız
 - [horex-Pro/next_blog_app](https://github.com/horex-Pro/next_blog_app) — Next.js Blog Platform with Node.js & MongoDB backend. Features include admin panel, CRUD posts, comments, likes, bookmarks, JWT… — JavaScript · 1 yıldız
 - [hotapps/kod-b](https://github.com/hotapps/kod-b) — furture<html> <head> <title>Open Graph Getting Started App - og.likes</title> <style type="text/css"> div { padding: 10px; }… — — · 1 yıldız
+- [hotbso/imgui_pg](https://github.com/hotbso/imgui_pg) — imgui with XPDSK panel graphics — C++ · 1 yıldız
 - [Houloude9IOfficial/SystemDashboard](https://github.com/Houloude9IOfficial/SystemDashboard) — A simple, customizable real-time dashboard to monitor key system stats including CPU, GPU, RAM, Storage, and Network. Built for… — HTML · 1 yıldız · arşiv
 - [HowDoyunDo/LicenseAndSubscriptionMS](https://github.com/HowDoyunDo/LicenseAndSubscriptionMS) — Liscense And Subscription Management System — Vue · 1 yıldız
 - [hridoykrisnadas/Garments-Shop-Ordering-System](https://github.com/hridoykrisnadas/Garments-Shop-Ordering-System) — /* * To change this license header, choose License Headers in Project Properties. * To change this template file, choose Tools… — — · 1 yıldız
@@ -71932,6 +72469,7 @@
 - [IAKSH/simple_json](https://github.com/IAKSH/simple_json) — An easy JSON loader for C++ programs — C++ · 1 yıldız · arşiv
 - [iamprincesly/shoppy-app](https://github.com/iamprincesly/shoppy-app) — React shoping app — JavaScript · 1 yıldız
 - [iamsakshigupta/shoppy](https://github.com/iamsakshigupta/shoppy) — (açıklama yok) — JavaScript · 1 yıldız
+- [iamtherealcat/Onixyz-Multiloader](https://github.com/iamtherealcat/Onixyz-Multiloader) — A Custom MuiltiLoader I made i will update it over time its a full project readme credits go to chatgpt i wont pay for a… — C++ · 1 yıldız
 - [iamverycool2312319/Discord-.py-.txt-file-key-system](https://github.com/iamverycool2312319/Discord-.py-.txt-file-key-system) — Discord.py .txt file key system — Python · 1 yıldız
 - [IanisCatalin15/vrp_licenses](https://github.com/IanisCatalin15/vrp_licenses) — This script provides functionality to check whether a user possesses licenses for specific types of vehicles in a FiveM… — Lua · 1 yıldız
 - [iarsystems/iar-vsc-login](https://github.com/iarsystems/iar-vsc-login) — Visual Studio Code extension for authenticating with the IAR cloud licensing system — TypeScript · 1 yıldız
@@ -72898,6 +73436,7 @@
 - [onatahmet/PlateMaster-ML](https://github.com/onatahmet/PlateMaster-ML) — A specialized ALPR system designed to detect and recognize vehicle license plates from uploaded images using Computer Vision and… — Python · 1 yıldız
 - [one-ai/one-license-server](https://github.com/one-ai/one-license-server) — One License is solution for developers who want to distribute their offline solutions with an online licensing system. One… — TypeScript · 1 yıldız
 - [ongunsavas/Summer2016-License-Plate-Recognition](https://github.com/ongunsavas/Summer2016-License-Plate-Recognition) — The license plate detection programs, putting all C/Cpp programs I worked on in summer 2016 — C++ · 1 yıldız
+- [onlyredz/Login-Painel-HTML](https://github.com/onlyredz/Login-Painel-HTML) — Uma base de painel de login criada para o Multi Theft Auto em formato HTML para simplificar um pouco. A login panel base created… — HTML · 1 yıldız
 - [onlyredz/REDZAuthAPI-v1.0](https://github.com/onlyredz/REDZAuthAPI-v1.0) — REDZAuth API is a secure and scalable authentication and license management system built with .NET 8.0 and MongoDB. It provides… — C# · 1 yıldız
 - [Onome-Joseph/License-Plate-Recognition](https://github.com/Onome-Joseph/License-Plate-Recognition) — License Plate Recognition system capable of detecting license plates from images and videos, extracting the license plate text,… — Jupyter Notebook · 1 yıldız
 - [Onowuckc/online-healthcare-and-medical-subscription-system](https://github.com/Onowuckc/online-healthcare-and-medical-subscription-system) — (açıklama yok) — Python · 1 yıldız
@@ -74117,6 +74656,7 @@
 - [Zheruel/ciphey](https://github.com/Zheruel/ciphey) — System built for generating and validating licenses. Inteded to be modified and self-hosted. Very simple & light-weight. — Python · 1 yıldız
 - [Zhikabul01/zhikabul](https://github.com/Zhikabul01/zhikabul) — ꧁꧂+2349169512071) #SECRET #OCCULT It’s encourageable to see an individual trying to join us in pursuit of happiness and luxury,… — — · 1 yıldız
 - [Zhikabul01/zhiksbul](https://github.com/Zhikabul01/zhiksbul) — ꧁꧂+2349169512071) #SECRET #OCCULT It’s encourageable to see an individual trying to join us in pursuit of happiness and luxury,… — — · 1 yıldız
+- [zhouyumeng1077/Spring-Boot-Microservices-Based-Online-Ordering-System-](https://github.com/zhouyumeng1077/Spring-Boot-Microservices-Based-Online-Ordering-System-) — A Java-Backend Microservices System implemented the buyer and seller functions of ordering food -Created product information and… — Java · 1 yıldız
 - [ziaulkamal/ZyCrypt-Encryptor-License](https://github.com/ziaulkamal/ZyCrypt-Encryptor-License) — (Ziya Encryptor) is a lightweight, self-hosted software license management system built with Go — distributed as a single binary… — Go · 1 yıldız
 - [zipiKatzawer/Weight-Watchers-.NET](https://github.com/zipiKatzawer/Weight-Watchers-.NET) — A subscription-based weight management system developed using C# and ASP.NET Core. — C# · 1 yıldız
 - [ziroxisnothere/License-System](https://github.com/ziroxisnothere/License-System) — (açıklama yok) — Python · 1 yıldız
@@ -74331,6 +74871,7 @@
 - [9tharva/License-Plate-Recognition-using-Raspberry-Pi](https://github.com/9tharva/License-Plate-Recognition-using-Raspberry-Pi) — The system automatically detects and reads vehicle license plates using the **Pi Camera** and **OpenCV** image processing on… — Python · 0 yıldız
 - [a-dubs/smart-backdoor-auth-panel](https://github.com/a-dubs/smart-backdoor-auth-panel) — A smart home connected, secure authentication panel, providing entry into my apartment — C++ · 0 yıldız
 - [A-ri-SIM/shoppy](https://github.com/A-ri-SIM/shoppy) — shoppy clone coding — JavaScript · 0 yıldız
+- [A-SK233/ImGui-Desktop](https://github.com/A-SK233/ImGui-Desktop) — A simple ImGui panel with no window borders — — · 0 yıldız
 - [a1987zz/Loader](https://github.com/a1987zz/Loader) — C Loader 32-bit Ansi — C · 0 yıldız
 - [a406241691/ample-sound-2026](https://github.com/a406241691/ample-sound-2026) — Setup Ample Sound Guitar on Windows 10/11 with admin install, license key entry, and workflow integration. — — · 0 yıldız
 - [a67878759-ship-it/pandora-loader-ui](https://github.com/a67878759-ship-it/pandora-loader-ui) — Template di interfaccia per loader su Dear ImGui 1.90 con backend Win32/DirectX 11 e FreeType. Solo UI, nessuna logica collegata… — C · 0 yıldız
@@ -75533,6 +76074,7 @@
 - [AnhCoder1207/key-license](https://github.com/AnhCoder1207/key-license) — (açıklama yok) — — · 0 yıldız
 - [anhtu97/license-system-sdk](https://github.com/anhtu97/license-system-sdk) — (açıklama yok) — Go · 0 yıldız
 - [ani-me-sh/yolo-license-plate-detection](https://github.com/ani-me-sh/yolo-license-plate-detection) — A comprehensive license plate detection system powered by YOLOv8, fine-tuned for accurate plate detection and localization in… — Jupyter Notebook · 0 yıldız
+- [aniak444/Rubik-s-Cube-3D](https://github.com/aniak444/Rubik-s-Cube-3D) — Interactive 3D Rubik's Cube simulator built with C++, OpenGL, and SFML. Features real-time rotation logic, custom GLSL shaders… — C++ · 0 yıldız
 - [anibalmd32/ia-grades-loader-api](https://github.com/anibalmd32/ia-grades-loader-api) — API de Notas: carga y consulta de notas universitarias asistida por IA (FastAPI, MySQL, Telegram, MCP) — Python · 0 yıldız
 - [anice23/Driving-License-Management-System](https://github.com/anice23/Driving-License-Management-System) — A comprehensive desktop application built with C# .NET and SQL Server to manage the Driving & Vehicle License Department (DVLD)… — C# · 0 yıldız
 - [Anietex/shoppy-vuejs-dashboard](https://github.com/Anietex/shoppy-vuejs-dashboard) — (açıklama yok) — CSS · 0 yıldız
@@ -77580,6 +78122,7 @@
 - [Dead777ot/Key-System](https://github.com/Dead777ot/Key-System) — (açıklama yok) — — · 0 yıldız
 - [DeadlockTool/PatronsEye](https://github.com/DeadlockTool/PatronsEye) — Patron's Eye: Non-invasive OCR overlay for Deadlock (Build 21231827). Scans rosters and suggests item counters in real-time. Safe… — HTML · 0 yıldız
 - [Deadly-Phantom/holiday-react](https://github.com/Deadly-Phantom/holiday-react) — A vacation photo gallery web app for a Croatia 2025 trip, built with Next.js, React, and Material UI. Features include role-based… — TypeScript · 0 yıldız
+- [DeadlyMcBrick/DevOpenGL](https://github.com/DeadlyMcBrick/DevOpenGL) — Early-stage C++ / OpenGL rendering engine. Currently implements Phong lighting, free-fly camera and an ImGui inspector panel. — C · 0 yıldız
 - [dealskoo/seller](https://github.com/dealskoo/seller) — Seller Center Panel — Blade · 0 yıldız
 - [Dean-1337/HWID-Checker](https://github.com/Dean-1337/HWID-Checker) — HWID Checker with serial fixer :D — — · 0 yıldız
 - [DeathWrench/ecm-RR](https://github.com/DeathWrench/ecm-RR) — ECM-R is a custom song loader for Need for Speed: Underground 2, based on the original ECM project by BttrDrgn. — — · 0 yıldız
@@ -79032,6 +79575,7 @@
 - [fuzzybabybunny/hpp-stripe-makesync](https://github.com/fuzzybabybunny/hpp-stripe-makesync) — (açıklama yok) — JavaScript · 0 yıldız
 - [FvckJiro/KeySystem](https://github.com/FvckJiro/KeySystem) — (açıklama yok) — Lua · 0 yıldız
 - [FVGizmo/HWID-BATCH](https://github.com/FVGizmo/HWID-BATCH) — HWID CHECKER MADE WITH BATCH — Batchfile · 0 yıldız
+- [FvtihAkar/imguiLogin](https://github.com/FvtihAkar/imguiLogin) — Dear ImGui Login — C++ · 0 yıldız
 - [FvtihAkar/LinuxImGuiLoader](https://github.com/FvtihAkar/LinuxImGuiLoader) — Linux loader with imgui and api login — C++ · 0 yıldız
 - [fvygo/KeySystem](https://github.com/fvygo/KeySystem) — (açıklama yok) — — · 0 yıldız
 - [fxbrad/Python-HWID-Lock](https://github.com/fxbrad/Python-HWID-Lock) — (açıklama yok) — Python · 0 yıldız
@@ -79315,6 +79859,7 @@
 - [GopalKrishna-P/ALL_Simulator](https://github.com/GopalKrishna-P/ALL_Simulator) — Implementation of a Assembler Linker Loader for subset of C. — Python · 0 yıldız
 - [GopiMudumal/license-management-system-backend](https://github.com/GopiMudumal/license-management-system-backend) — license management system Backend — TypeScript · 0 yıldız
 - [GopiMudumal/license-management-system-frontend](https://github.com/GopiMudumal/license-management-system-frontend) — license management system — TypeScript · 0 yıldız
+- [Goran-Vukadinovic/OpenGL-IMGUI-VarPanel](https://github.com/Goran-Vukadinovic/OpenGL-IMGUI-VarPanel) — Variable Panel using IMGUI library — C++ · 0 yıldız
 - [goresponsive/responsive-webpack-starter](https://github.com/goresponsive/responsive-webpack-starter) — Optimized Webpack project built with backbone.js and bootstrap-loader — JavaScript · 0 yıldız
 - [gorfualemu/Finalproject_G_4](https://github.com/gorfualemu/Finalproject_G_4) — driving license student information management system to debre birhan city — JavaScript · 0 yıldız
 - [gorizyon/Lisans](https://github.com/gorizyon/Lisans) — (açıklama yok) — — · 0 yıldız
@@ -80234,6 +80779,7 @@
 - [ikeodira/Shoppy-Dashboard](https://github.com/ikeodira/Shoppy-Dashboard) — This is a multipurpose dashboard for an eCommerce company with charts dates and other utility apps — JavaScript · 0 yıldız
 - [ikhalid21-blip/aqs-license](https://github.com/ikhalid21-blip/aqs-license) — Alpha Quant Systems bot license control — — · 0 yıldız
 - [ikiru1372k2/ANPR_PROJECT](https://github.com/ikiru1372k2/ANPR_PROJECT) — Developed a robust system to automatically detect and localize license plates in vehicle images. — Jupyter Notebook · 0 yıldız
+- [iKnOoDaWaY/panel.github.io](https://github.com/iKnOoDaWaY/panel.github.io) — Imgui Panel — — · 0 yıldız
 - [Ikraam02/License-Plate-Detection---6-Vehicles-type---MatLab](https://github.com/Ikraam02/License-Plate-Detection---6-Vehicles-type---MatLab) — A license plate detection system to detect plates for 6 types of vehicles built by the Ahmad Awad (Group Leader), Rhea Thadhani,… — MATLAB · 0 yıldız
 - [IkramHaque/ApixioDataLoaderConfigGenerator](https://github.com/IkramHaque/ApixioDataLoaderConfigGenerator) — Creates the cofig.xml file for the Data Loader — C# · 0 yıldız
 - [ilanderTCS/shoppy](https://github.com/ilanderTCS/shoppy) — Bootstrap 5 Project — HTML · 0 yıldız
@@ -80415,6 +80961,7 @@
 - [ishwarmanpade/shoppy-kart.github.io](https://github.com/ishwarmanpade/shoppy-kart.github.io) — (açıklama yok) — HTML · 0 yıldız
 - [Ishwer1920/iron_core](https://github.com/Ishwer1920/iron_core) — IronCore - Flask storefront (auth, catalog, cart, checkout, admin panel) — JavaScript · 0 yıldız
 - [isiddique2024/License-Management-System](https://github.com/isiddique2024/License-Management-System) — (açıklama yok) — TypeScript · 0 yıldız
+- [Isihaq123/anchor-escrow](https://github.com/Isihaq123/anchor-escrow) — Production-ready multi-party escrow smart contract for the Stellar Soroban network. Atomic role-based auth, deadlock-safe timeout… — Rust · 0 yıldız
 - [isiis0406/subscription-system-api](https://github.com/isiis0406/subscription-system-api) — (açıklama yok) — — · 0 yıldız
 - [isimp/emot3](https://github.com/isimp/emot3) — A clickable emote panel for Guild Wars 2, built for Raidcore Nexus — — · 0 yıldız
 - [isimsiz-developer/loading-panel-css](https://github.com/isimsiz-developer/loading-panel-css) — loading panel — CSS · 0 yıldız
@@ -81526,6 +82073,7 @@
 - [km2535/shoppy](https://github.com/km2535/shoppy) — (açıklama yok) — JavaScript · 0 yıldız
 - [km321/bakorin](https://github.com/km321/bakorin) — A YAML-configured backend for Astro and Next.js apps. Define your data in app.yaml and get an API, auth, an admin panel, files,… — TypeScript · 0 yıldız
 - [KMAK55/sellix-pos](https://github.com/KMAK55/sellix-pos) — (açıklama yok) — — · 0 yıldız
+- [kman0/mpv-control-panel](https://github.com/kman0/mpv-control-panel) — Meida control panel for mpv using imgui. Similar to potplayer — — · 0 yıldız
 - [kmlzgn/production-monitoring-dashboard](https://github.com/kmlzgn/production-monitoring-dashboard) — This project provides a filterable and visualizable dashboard by reading production data from an Excel file. Users can perform… — JavaScript · 0 yıldız
 - [KNewLearner00/shoppy](https://github.com/KNewLearner00/shoppy) — (açıklama yok) — C# · 0 yıldız
 - [KnightNight743/Key-system](https://github.com/KnightNight743/Key-system) — (açıklama yok) — — · 0 yıldız
@@ -82462,6 +83010,7 @@
 - [manyin6/WordLock](https://github.com/manyin6/WordLock) — 单词锁：离线背单词与安卓专注工具，C 方案 Logo，MIT License — Java · 0 yıldız
 - [manzilsubedi/portfolio-site](https://github.com/manzilsubedi/portfolio-site) — Open-source portfolio website template built with React (Vite) and ASP.NET Core (.NET 10) on PostgreSQL. All content is edited… — C# · 0 yıldız
 - [maour/kotlinSample](https://github.com/maour/kotlinSample) — sample code (Kotlin) - MVVM - RxJava - Dagger(Android Injector) - Room - LiveData — Kotlin · 0 yıldız
+- [mapleroyal/deadlock-sync-engine](https://github.com/mapleroyal/deadlock-sync-engine) — Pinned Deadlock Sync engine extension for selected-account history recovery; based on deadlock-api-ingest. — Rust · 0 yıldız
 - [maramlk/Smart-License-Plate-Recognition-ONLYUS-](https://github.com/maramlk/Smart-License-Plate-Recognition-ONLYUS-) — Real-time license plate recognition and access control system using Python, OpenCV, and EasyOCR. Detects authorized vehicles and… — Python · 0 yıldız
 - [MarawanSalem/admin_panel](https://github.com/MarawanSalem/admin_panel) — admin panel with multi auth & crud features — PHP · 0 yıldız
 - [Marc-J-L/Subscription-Management-System](https://github.com/Marc-J-L/Subscription-Management-System) — A full stack application by PHP + Tailwind + MySQL — PHP · 0 yıldız
@@ -82671,6 +83220,7 @@
 - [mazeenashraf/Trendifiy](https://github.com/mazeenashraf/Trendifiy) — HTML 5 , CSS , BOOTSTRAP , TS ,JWT,NGX Spinner , Loading Interceptors , Stripe Integration For Online Payment, Owl Carsuol — TypeScript · 0 yıldız
 - [MazharAbbas95/transport_management_system](https://github.com/MazharAbbas95/transport_management_system) — Console-based Transport Management System in C++ using linked lists, OOP, signup/login authentication, and menu-driven design. — C++ · 0 yıldız
 - [mazharktk5/ALL-TURKEY-BRANDED-PRODUCTS](https://github.com/mazharktk5/ALL-TURKEY-BRANDED-PRODUCTS) — 🛍️ MERN eCommerce JWT Auth • Live Search • Add to Cart • Stripe & COD Payments • WhatsApp Orders • Admin Panel to Add/Edit/Delete… — JavaScript · 0 yıldız
+- [maztheman/ImCommander](https://github.com/maztheman/ImCommander) — ImGui Total Commander split panel file manager — C++ · 0 yıldız
 - [mazylol/dotenvloader](https://github.com/mazylol/dotenvloader) — A super simple .env loader for C++ projects — CMake · 0 yıldız
 - [mbnczy/LicensePlateDetection](https://github.com/mbnczy/LicensePlateDetection) — License plate recognition system for gas stations. — Python · 0 yıldız
 - [mbokochenaservious2-crypto/license-System](https://github.com/mbokochenaservious2-crypto/license-System) — (açıklama yok) — TypeScript · 0 yıldız
@@ -82800,6 +83350,7 @@
 - [MEnaylinn/shoppy](https://github.com/MEnaylinn/shoppy) — Shoppy Design with Tailwind CSS — JavaScript · 0 yıldız
 - [MendigoGordo/Pombo](https://github.com/MendigoGordo/Pombo) — license plate recognition system — Python · 0 yıldız
 - [Menistro/Home-Assistant-Screen-Control-Waveshare-7-inch-ESP32-S3-Touch-LCD-800x480](https://github.com/Menistro/Home-Assistant-Screen-Control-Waveshare-7-inch-ESP32-S3-Touch-LCD-800x480) — Custom ESPHome firmware to transform a Waveshare 7-inch ESP32-S3 touch panel into a Home Assistant dashboard. It features a… — — · 0 yıldız
+- [menshiva/basic-mesh-viewer](https://github.com/menshiva/basic-mesh-viewer) — C++20 OpenGL viewer for procedural 2D meshes - triangle, square and an N-gon generated by vector rotation — with a Dear ImGui… — C++ · 0 yıldız
 - [meowtec/require](https://github.com/meowtec/require) — A CommonJS module loader for the web. — JavaScript · 0 yıldız
 - [mercychriz/Stress-Management-app](https://github.com/mercychriz/Stress-Management-app) — This is a stress management app developed with Power Apps, designed to help users manage and reduce stress. The app allows users… — — · 0 yıldız
 - [mercymurigi27/insuarance](https://github.com/mercymurigi27/insuarance) — insurance premiums subscription system — HTML · 0 yıldız
@@ -83338,6 +83889,7 @@
 - [mrjeddy/shoppy](https://github.com/mrjeddy/shoppy) — (açıklama yok) — TypeScript · 0 yıldız
 - [MrJestrik/Wave-Bypasser](https://github.com/MrJestrik/Wave-Bypasser) — Wave Keysystem — — · 0 yıldız
 - [mrjwashere/HWID-Auth-Login-System](https://github.com/mrjwashere/HWID-Auth-Login-System) — Python HWID Auth/Login System — Python · 0 yıldız
+- [mrln-trrs/audio-visualizer](https://github.com/mrln-trrs/audio-visualizer) — Visualizador de audio en tiempo real para Windows: captura WASAPI, FFT con FFTW y render OpenGL 3.3 con panel Dear ImGui — C++ · 0 yıldız
 - [Mrlogic1000/solar-system-calculator](https://github.com/Mrlogic1000/solar-system-calculator) — This is app to calculate total loads, size of inverter, battery, solar panel and charge controller — — · 0 yıldız
 - [mrlonmra/Loader-Malware-C](https://github.com/mrlonmra/Loader-Malware-C) — Loader em C#, baixa o arquivo da internet criptografado, adiciona a lista de exclusão e apos isso realiza a descriptografia e… — C# · 0 yıldız
 - [MRLUFFY02/shoppy-cart](https://github.com/MRLUFFY02/shoppy-cart) — (açıklama yok) — HTML · 0 yıldız
@@ -83638,6 +84190,7 @@
 - [Nafiz204/Process_Hub](https://github.com/Nafiz204/Process_Hub) — Process_Hub – A comprehensive process management suite for Linux offering dual interfaces: a powerful CLI and an intuitive GTK3… — C · 0 yıldız
 - [nagamani8/Sppech-Recognition-Kaldi](https://github.com/nagamani8/Sppech-Recognition-Kaldi) — Kaldi is an opensource toolkit for speech recognition written in C++ and licensed under the Apache License v2.0. It is used to… — — · 0 yıldız
 - [Nagamanju1313/ecommerce-adminpanel](https://github.com/Nagamanju1313/ecommerce-adminpanel) — Seller admin panel with rest api endpoints — — · 0 yıldız
+- [Nagarajan-Marisamy/Security-Management-System](https://github.com/Nagarajan-Marisamy/Security-Management-System) — A Java-based Security Management System featuring secure user authentication, role-based access control, account management,… — Java · 0 yıldız
 - [Nagarani1664/frontendbattle](https://github.com/Nagarani1664/frontendbattle) — A responsive, pixel-perfect website built for the Frontend Battle Hackathon using HTML, CSS, and JavaScript. Features include… — CSS · 0 yıldız
 - [nagasu/ts-loader-sample](https://github.com/nagasu/ts-loader-sample) — (açıklama yok) — JavaScript · 0 yıldız
 - [naguladheeraj972-png/Admin-panel](https://github.com/naguladheeraj972-png/Admin-panel) — I have completed the Streamlit admin panel with login, sidebar navigation, dashboard metrics, employee management, attendance… — Python · 0 yıldız
@@ -85758,6 +86311,7 @@
 - [rootzero001-code/Keysystem](https://github.com/rootzero001-code/Keysystem) — (açıklama yok) — Lua · 0 yıldız
 - [roryconlon1/RedFigFridgeOrganiserApp](https://github.com/roryconlon1/RedFigFridgeOrganiserApp) — This is the back end of the Fridge Organiser App which was built with JAVA by Greig Kerr and Rory Conlon as part of our final… — Java · 0 yıldız
 - [Rose1643/LICENSE-EXPIRATION-TRACKING-SYSTEM](https://github.com/Rose1643/LICENSE-EXPIRATION-TRACKING-SYSTEM) — Expiration tracking system (AI driven lifestyle management)- A hybrid model driven app integrated with power automate, combines a… — — · 0 yıldız
+- [roshaanahsan/smart-lab-resource-allocator](https://github.com/roshaanahsan/smart-lab-resource-allocator) — ESP32-based lab equipment checkout system with RFID auth, FIFO queuing, and real-time deadlock detection via DFS on a… — C++ · 0 yıldız
 - [roshan-bhusal/laravel-license-management-system](https://github.com/roshan-bhusal/laravel-license-management-system) — This project is a web-based system built with Laravel that provides a dashboard for managing software licenses. It allows… — Blade · 0 yıldız
 - [roshan-bhusal/next-mui-redux-next_auth-prisma-tailwind-admin-panel](https://github.com/roshan-bhusal/next-mui-redux-next_auth-prisma-tailwind-admin-panel) — Admin panel template with Next JS-14, Material UI, Redux, React Hook Form, Next Auth and Tailwind CSS — TypeScript · 0 yıldız
 - [roshan7600/Food_delivery_website](https://github.com/roshan7600/Food_delivery_website) — ClickToEat is a Django-based food ordering web app focused on traditional meals. Users can browse menus, add items to cart, place… — JavaScript · 0 yıldız
@@ -86918,6 +87472,7 @@
 - [skhayrullayev/it_asset_management](https://github.com/skhayrullayev/it_asset_management) — A free open source IT asset/license management system — — · 0 yıldız
 - [Skilles/MCModPopularity](https://github.com/Skilles/MCModPopularity) — Tracks statistics about the popularity of Minecraft versions and mod loaders — TypeScript · 0 yıldız
 - [SkillFXX/CraftPanel](https://github.com/SkillFXX/CraftPanel) — Easily create, manage, and launch Minecraft servers with multiple loaders and custom settings. — JavaScript · 0 yıldız
+- [SKININ/Zygisk-Inject-ImGui](https://github.com/SKININ/Zygisk-Inject-ImGui) — (açıklama yok) — — · 0 yıldız
 - [skipper-13/some-random-loader](https://github.com/skipper-13/some-random-loader) — C++ PE loader — C++ · 0 yıldız
 - [skiter847/LOGIN-REGISTER-menu-in-style-GTA5](https://github.com/skiter847/LOGIN-REGISTER-menu-in-style-GTA5) — (açıklama yok) — HTML · 0 yıldız
 - [skobgeo/payload-google-auth-demo](https://github.com/skobgeo/payload-google-auth-demo) — This is example of payload cms with google auth button for login in admin panel. — TypeScript · 0 yıldız
@@ -87184,6 +87739,7 @@
 - [Sreeharisn14/shoppy](https://github.com/Sreeharisn14/shoppy) — (açıklama yok) — — · 0 yıldız
 - [Sreeja-01/DigitalBallot](https://github.com/Sreeja-01/DigitalBallot) — A secure digital voting system with face recognition” (optional). Visibility: Choose Public (anyone can see) or Private (only… — Python · 0 yıldız
 - [Sreejit-Sengupto/shoppy-rn](https://github.com/Sreejit-Sengupto/shoppy-rn) — React Native app which recommends product based on user's query from local data stored as JSON — TypeScript · 0 yıldız
+- [sreemanab/Automotive-LIN-Based-Distributed-Control-Unit](https://github.com/sreemanab/Automotive-LIN-Based-Distributed-Control-Unit) — A small automotive ECU network demonstrating production-grade embedded firmware: a real LIN protocol stack, deterministic… — — · 0 yıldız
 - [sreenesh-dotnet-hyd/Software-License-Management-System](https://github.com/sreenesh-dotnet-hyd/Software-License-Management-System) — (açıklama yok) — — · 0 yıldız
 - [sreenivas-balekay/shoppy](https://github.com/sreenivas-balekay/shoppy) — MERN Shopping portal — JavaScript · 0 yıldız
 - [sreer22/VulnScan-Pro-Web-Application-Vulnerability-Scanner](https://github.com/sreer22/VulnScan-Pro-Web-Application-Vulnerability-Scanner) — An open-source web application vulnerability scanner built with Python & Flask, featuring SQL Injection, XSS, CVE, WAF detection,… — Python · 0 yıldız
@@ -88272,6 +88828,7 @@
 - [ujjwalkar21/Find-In-30Sec](https://github.com/ujjwalkar21/Find-In-30Sec) — Our system can extract number from license plate of cars and show in web, even in high speed and heavy traffic conditions… — — · 0 yıldız
 - [uk-gov-mirror/ONSdigital.census-rm-sample-loader](https://github.com/uk-gov-mirror/ONSdigital.census-rm-sample-loader) — A tool for loading Census Samples — — · 0 yıldız
 - [uk-taniyama/webpack-stringify-loaders](https://github.com/uk-taniyama/webpack-stringify-loaders) — Combine and stringify webpack loaders with ease — JavaScript · 0 yıldız
+- [uk0/moverio-bt40](https://github.com/uk0/moverio-bt40) — Epson Moverio BT-40 driver and controller for macOS: CDC-ACM display control, HID sensor hub (IMU + ambient light), and… — C · 0 yıldız
 - [ukale/xcode-shoppy](https://github.com/ukale/xcode-shoppy) — (açıklama yok) — Objective-C · 0 yıldız
 - [ukfsn/Acca](https://github.com/ukfsn/Acca) — Acca - a Free/Open Source license fork of a well known Actor system — — · 0 yıldız
 - [ukgi/shoppy](https://github.com/ukgi/shoppy) — 쇼핑몰 프로젝트 — JavaScript · 0 yıldız
@@ -88607,6 +89164,7 @@
 - [vikram48144/LPR-5](https://github.com/vikram48144/LPR-5) — License Plate Recognition System 🚗🔍 This project is a License Plate Recognition (LPR) System using YOLOv8 and OCR to detect and… — Python · 0 yıldız
 - [vikramprajapati920/seller-panel](https://github.com/vikramprajapati920/seller-panel) — (açıklama yok) — JavaScript · 0 yıldız
 - [vilinet/QuickObjLoader](https://github.com/vilinet/QuickObjLoader) — This is a relativly quick, header-only .obj loader using C++20 and glm. — C++ · 0 yıldız
+- [vilisix/panel](https://github.com/vilisix/panel) — Panel is a small imgui framework with support of Hotline and xml configuration — C++ · 0 yıldız
 - [villAsh/shoppy](https://github.com/villAsh/shoppy) — konular: darkmode, firebase, firebase-auth, tailwindcss — JavaScript · 0 yıldız
 - [Vimal120/ANPR](https://github.com/Vimal120/ANPR) — ( ANPR )- Automatic Number Plate Recognition system is used to recognize the vehicle number and display the details regarding… — Python · 0 yıldız
 - [Vinay-1709/A-SMART-SYSTEM-FOR-LICENSE-PLATE-RECOGNITION](https://github.com/Vinay-1709/A-SMART-SYSTEM-FOR-LICENSE-PLATE-RECOGNITION) — This project is a real-time smart parking system that uses license plate recognition to automate vehicle tracking at entry and… — Python · 0 yıldız
@@ -88992,6 +89550,7 @@
 - [wucheng818/eventSubscribe_ikk](https://github.com/wucheng818/eventSubscribe_ikk) — establishing a global event subscription system — TypeScript · 0 yıldız
 - [wuwenfengmi1998/panel-auth](https://github.com/wuwenfengmi1998/panel-auth) — konular: dsh-plugin — JavaScript · 0 yıldız
 - [wuyuanyong/otter-4.2.13-mysql-5.7.13-mycat-1.6](https://github.com/wuyuanyong/otter-4.2.13-mysql-5.7.13-mycat-1.6) — 环境 OS:RHEL 6.4 x66_64 OS Kernal:2.6.32-358.el6.x86_64 MySQL: 5.7.13 社区版 otter: 4.2.13 zookeeper:3.4.9 mycat:1.6 通过otter将源库(mysql… — — · 0 yıldız
+- [Wwupup/ColorPanel](https://github.com/Wwupup/ColorPanel) — imgui show color panel — C++ · 0 yıldız
 - [wyattdigitalz/RiskyKey](https://github.com/wyattdigitalz/RiskyKey) — Key system for the roblox exploit Risky — — · 0 yıldız
 - [wyb1995/webpack-babel-loader-demo](https://github.com/wyb1995/webpack-babel-loader-demo) — (açıklama yok) — JavaScript · 0 yıldız
 - [x7bypass/Key-System](https://github.com/x7bypass/Key-System) — (açıklama yok) — — · 0 yıldız
@@ -90288,6 +90847,7 @@
 - [3top1a/tf2autobot-gui](https://github.com/3top1a/tf2autobot-gui) — A Web-based GUI editor for tf2 autobot's pricelists — JavaScript · 1 yıldız · arşiv
 - [404Store/Lua-ImGui-Builder](https://github.com/404Store/Lua-ImGui-Builder) — (açıklama yok) — Lua · 1 yıldız
 - [98ahni/Dear-ImUnity-Editor](https://github.com/98ahni/Dear-ImUnity-Editor) — Unlike previous attempts at adding Dear ImGui to Unity, this plug-in can replace Unity Editor windows or draw both to the same… — C++ · 1 yıldız
+- [a-bunch-of-birds/DnD-Character-Builder](https://github.com/a-bunch-of-birds/DnD-Character-Builder) — Basic Dungeons and Dragons character builder, written in C++, utilizing ImGui for the user interface. — C++ · 1 yıldız
 - [Aadrit555/primordial-void](https://github.com/Aadrit555/primordial-void) — An RL framework that autonomously discovers exploits by modeling the gap between a designer's intent and a system's actual rules.… — Python · 1 yıldız
 - [abdulwahed-sweden/deepseek-rust](https://github.com/abdulwahed-sweden/deepseek-rust) — Async Rust client library for DeepSeek AI API — type-safe, automatic retries, builder pattern, comprehensive error handling — Rust · 1 yıldız
 - [AbdurRahmanRH/AbdurRahman.RH](https://github.com/AbdurRahmanRH/AbdurRahman.RH) — I am professional graphic designer I've graphic designer for 2 years and web designer learner. I am experienced designer working… — — · 1 yıldız
@@ -90313,6 +90873,7 @@
 - [ayub-ansari/Salesforce-SOQL-Apex-Query-Builder](https://github.com/ayub-ansari/Salesforce-SOQL-Apex-Query-Builder) — Dynamically constructs the SOQL based on salesforce best practices and enforce object level and field level security — Apex · 1 yıldız
 - [Azazel-h/basic-text-editor](https://github.com/Azazel-h/basic-text-editor) — Just another desktop cross-platform text editor made with C++, ImGUI, GLFW, Vulkan — C++ · 1 yıldız
 - [AzzamCyber/esx_handlingeditor_natakenshi](https://github.com/AzzamCyber/esx_handlingeditor_natakenshi) — Live Handling Editor For ESX — Lua · 1 yıldız
+- [BattleGrounds/ImGuiCreator](https://github.com/BattleGrounds/ImGuiCreator) — This project aimed for create design for imgui-apps. Current state - develop. If you can help me > welcome, please) — C++ · 1 yıldız
 - [BenMcAvoy/LunaticEngine](https://github.com/BenMcAvoy/LunaticEngine) — C++20 2D game engine and editor with OpenGL rendering, ImGui tooling, LuaJIT scripting, RTTR reflection and JSON scene… — C++ · 1 yıldız
 - [bhaveshgawri/cpp-template](https://github.com/bhaveshgawri/cpp-template) — c++ template for competitive programming and a bash script to load it by default on a text editor — C++ · 1 yıldız
 - [BhushanLagare7/nextjs16-realtime-docs-clone](https://github.com/BhushanLagare7/nextjs16-realtime-docs-clone) — Real-time collaborative document editor inspired by Google Docs. Built with Next.js 16, React 19, Tiptap, Liveblocks, and Convex.… — TypeScript · 1 yıldız
@@ -90384,6 +90945,7 @@
 - [Guidealorean/gm_site](https://github.com/Guidealorean/gm_site) — Construction map for Garry's Mod and the Source Engine — — · 1 yıldız
 - [gutsyheart2808/battlefield-6-lobby-private-rep](https://github.com/gutsyheart2808/battlefield-6-lobby-private-rep) — Open-source overlay toolkit for Battlefield Portal creators. Modules, HUD editor, config cloud — 100 % toggleable. — — · 1 yıldız
 - [H0llyW00dzZ/pakasir-rust-sdk](https://github.com/H0llyW00dzZ/pakasir-rust-sdk) — An idiomatic async Rust SDK for the Pakasir payment gateway. Typed builder API, per-resource service modules (transactions,… — Rust · 1 yıldız
+- [h4rmy/imgui-builder](https://github.com/h4rmy/imgui-builder) — (açıklama yok) — C++ · 1 yıldız
 - [ha-ves/TyranoScriptMemoryUnlocker](https://github.com/ha-ves/TyranoScriptMemoryUnlocker) — TyranoScript Memory Unlocker 「TyranoScript V400」以降で作成されたゲームのCG＆リプレイモードを解放します。 TyranoScript Memory Unlocker Unlock the CG & Replay… — C# · 1 yıldız
 - [Hafij-BGE/software](https://github.com/Hafij-BGE/software) — Open-source office suite in one tabbed window: Word, Slide, Spreadsheet and Markd. Rust/egui, Linux and Windows. — Rust · 1 yıldız
 - [Hawkobo/Minecraft-World-Builder](https://github.com/Hawkobo/Minecraft-World-Builder) — Minecraft-esque minigame using OpenGL library, creates world similar to minecraft that can be scaled or adjusted based on size,… — Java · 1 yıldız
@@ -90413,6 +90975,7 @@
 - [jkloth/creative-mode-plus-plus](https://github.com/jkloth/creative-mode-plus-plus) — Third-party 2D-layer based, map/dungeon editor for Minecraft levels. — C# · 1 yıldız
 - [jnaraujo/mercury-editor](https://github.com/jnaraujo/mercury-editor) — 📝 An open source markdown editor. Simple and fast. — TypeScript · 1 yıldız
 - [Joselay/er-editor](https://github.com/Joselay/er-editor) — AI-driven live memory editor for Elden Ring. Talk to Claude Code in natural language; stats change in-game instantly. No… — Rust · 1 yıldız
+- [JustCodeIt22/Webzy](https://github.com/JustCodeIt22/Webzy) — It is website builder software written using C++ and ImGui Library which uses drag and drop functionality and auto generate the… — C++ · 1 yıldız
 - [Kartikeyongit/blog-platform](https://github.com/Kartikeyongit/blog-platform) — A modern full-stack blog platform with Next.js, Prisma, PostgreSQL. Features: rich text editor, authentication, comments, likes,… — TypeScript · 1 yıldız
 - [katfacey/magic-circle-maker](https://github.com/katfacey/magic-circle-maker) — Native Rust magic-circle generator and layer editor with custom assets, font loading, and transparent PNG exports. — Rust · 1 yıldız
 - [kisom/kte](https://github.com/kisom/kte) — Kyle's Text Editor (next gen) — C++ · 1 yıldız
@@ -90589,6 +91152,7 @@
 - [A-Ricemusic/VerseBoxFightingMap](https://github.com/A-Ricemusic/VerseBoxFightingMap) — This code provides the backend logic for a custom Unreal Editor for Fortnite (UEFN) gameplay experience, implemented in the Verse… — — · 0 yıldız
 - [Abd-ELrahmanHamza/Logic-circuit-simulator](https://github.com/Abd-ELrahmanHamza/Logic-circuit-simulator) — A logic circuit designer/simulator. Implementation is in C++. object-oriented programming is used to implement this application.… — C · 0 yıldız
 - [abdallah2183/SANAD-Engine](https://github.com/abdallah2183/SANAD-Engine) — Native C++23 + Vulkan game engine for Windows, with an Arabic/English editor, Lua gameplay and a standalone project toolchain. — — · 0 yıldız
+- [abdovmod/ImGui-ui-maker](https://github.com/abdovmod/ImGui-ui-maker) — (açıklama yok) — — · 0 yıldız
 - [abdullahmunirr/TextEditor-SearchReplace](https://github.com/abdullahmunirr/TextEditor-SearchReplace) — A lightweight, command-line text editor built in C++ with dynamic memory handling. This project provides essential features for… — C++ · 0 yıldız
 - [abdulnafe-t/notepad--](https://github.com/abdulnafe-t/notepad--) — A featureless text editor. Written in C++, SDL3, and Dear ImGui. [WIP] — C++ · 0 yıldız
 - [Abid109/Apex-IDE-26](https://github.com/Abid109/Apex-IDE-26) — Apex Architect IDE is a multi-language, web-based development environment featuring a built-in code editor, live web preview, and… — HTML · 0 yıldız
@@ -90609,6 +91173,7 @@
 - [ahsankabirr/SixerSquad](https://github.com/ahsankabirr/SixerSquad) — Fantasy cricket team builder with coin-based player selection built using React — JavaScript · 0 yıldız
 - [aiekick/ImCode](https://github.com/aiekick/ImCode) — ImGui Code editor with many cool features — C++ · 0 yıldız
 - [aimmedexe-maker/imgui-web-builder](https://github.com/aimmedexe-maker/imgui-web-builder) — (açıklama yok) — JavaScript · 0 yıldız
+- [Aizen-404/aizen-imgui-android-builder](https://github.com/Aizen-404/aizen-imgui-android-builder) — (açıklama yok) — TypeScript · 0 yıldız
 - [AjayNallavelli/gta6-setup](https://github.com/AjayNallavelli/gta6-setup) — GTA 6 Setup Builder: budget-based console, display, headset and storage picks for India (static site, GitHub Pages). Not… — Python · 0 yıldız
 - [akackon/rest_assured_care_center](https://github.com/akackon/rest_assured_care_center) — An Oracle Apex-based database system designed to drive the digital transformation of operations at a care center. This project… — — · 0 yıldız
 - [akash1474/txedit](https://github.com/akash1474/txedit) — TxEdit is a minimalistic text editor built using C/C++ inspired by SublimeText, with goal to provide IDE like coding experience.… — — · 0 yıldız
@@ -90662,6 +91227,7 @@
 - [augustuspoplus/Pootis-builder](https://github.com/augustuspoplus/Pootis-builder) — Pootis builder is a project in beta that aims to replace the hammer editor for Team Fortress 2 with a more modern UI, and… — — · 0 yıldız
 - [AutomationSquadOS/graphic-designers-ai-kit](https://github.com/AutomationSquadOS/graphic-designers-ai-kit) — Gives graphic designers the current, curated stack of AI tools, prompts, and solutions for their role — sourced live from… — — · 0 yıldız
 - [AutomationSquadOS/video-editors-ai-kit](https://github.com/AutomationSquadOS/video-editors-ai-kit) — Gives video editors the current, curated stack of AI tools, prompts, and solutions for their role — sourced live from Automation… — — · 0 yıldız
+- [avaallen3808/imgui-builder](https://github.com/avaallen3808/imgui-builder) — Imgui Builder by AI — HTML · 0 yıldız
 - [Avenger233/PlantGirlsEditor](https://github.com/Avenger233/PlantGirlsEditor) — 《植物娘大战僵尸 HD》立绘图集贴图编辑器：按 atlas 部件换图 / 导出 / 清空 — C# · 0 yıldız
 - [aws-samples/sample-code-qa-on-agentcore](https://github.com/aws-samples/sample-code-qa-on-agentcore) — Helps game designers, QA, operations, and support verify rules, calculations, event configurations, and player-reported behavior… — Python · 0 yıldız
 - [awshammad04/c-text-editor-undo-redo](https://github.com/awshammad04/c-text-editor-undo-redo) — Menu-driven C text editor (word-based) that loads text from a file, supports insert/remove operations, and implements Undo/Redo… — C · 0 yıldız
@@ -90845,7 +91411,9 @@
 - [giraphics/property-editor-framework](https://github.com/giraphics/property-editor-framework) — Reflection-driven C++20 property editor: declare a struct once, get an ImGui grid, a Qt grid and serialization from one generic… — C++ · 0 yıldız
 - [gitalyx/peo](https://github.com/gitalyx/peo) — An open source video editor written in rust — Rust · 0 yıldız
 - [glowing-chemist/Bell](https://github.com/glowing-chemist/Bell) — A Vulkan rendergraph based renderer, with a node based editor. — — · 0 yıldız
+- [Gnimuc/CImGuiBuilder](https://github.com/Gnimuc/CImGuiBuilder) — Binary builder for cimgui — C · 0 yıldız · arşiv
 - [gogafuga/go-csv-price-editor](https://github.com/gogafuga/go-csv-price-editor) — A simple CSV price editor written in Go — Go · 0 yıldız
+- [Gogeta2792/Deadlock-Counter-Builder](https://github.com/Gogeta2792/Deadlock-Counter-Builder) — Select 6 Deadlock enemy heroes and get ranked counter-item recommendations based on custom matchup data — Python · 0 yıldız
 - [Gota7/Bogmire](https://github.com/Gota7/Bogmire) — Door and misc. editor utils for Luigi's Mansion. — — · 0 yıldız
 - [GronedWaffel/Dumper-7-GUI](https://github.com/GronedWaffel/Dumper-7-GUI) — dumper 7 with a gui dump saver and text editor. all credits to https://github.com/Encryqed/Dumper-7 — — · 0 yıldız
 - [Grooco/Ai-builder](https://github.com/Grooco/Ai-builder) — AI Builder : outil open source qui aide à créer des jeux Roblox grâce à l’IA. Génère des scripts Luau, des interfaces et des… — — · 0 yıldız
@@ -90894,6 +91462,7 @@
 - [huyonthecloud/Builder-Defender](https://github.com/huyonthecloud/Builder-Defender) — Builder Defender Course Game — — · 0 yıldız
 - [icaruslastflight/primordial-stinger-studio](https://github.com/icaruslastflight/primordial-stinger-studio) — Primordial Studio VJ stinger designer with live shader previews, logo layers, variants, and ISF export. — HTML · 0 yıldız
 - [icsolution/Markdown-Editor](https://github.com/icsolution/Markdown-Editor) — A python based app which assists the user in writing a proper markdown file through formatting options through out the process.… — Python · 0 yıldız
+- [iDev-Studio-ios/ULTIMATE-ImGUi-Builder](https://github.com/iDev-Studio-ios/ULTIMATE-ImGUi-Builder) — easy imgui builder — C++ · 0 yıldız
 - [idkhowtoname23/RLengine-7.1](https://github.com/idkhowtoname23/RLengine-7.1) — RLengine 7.1 - Modern C++23 3D Game Engine (DirectX 12 / 11, Blender 4.x Editor, Sparse-Set ECS) — C++ · 0 yıldız
 - [idreesaziz/DirectX-3D-Mesh-Editor](https://github.com/idreesaziz/DirectX-3D-Mesh-Editor) — 3D model Editor in DirectX — — · 0 yıldız
 - [igapyon/blancoApexEditor](https://github.com/igapyon/blancoApexEditor) — Simple Apex language source code editor for Eclipse — Java · 0 yıldız
@@ -90913,6 +91482,7 @@
 - [ismail-hossain73/fantasy-xi-studio](https://github.com/ismail-hossain73/fantasy-xi-studio) — Fantasy football squad builder with budget-based player selection, live credit tracking, and responsive React UI. — JavaScript · 0 yıldız
 - [itisjamied/qrcode](https://github.com/itisjamied/qrcode) — A simple web-based QR code generator built with Python and Flask, designed to easily convert URLs into downloadable QR codes.… — CSS · 0 yıldız
 - [itsareebaah/AI_Code_Editor](https://github.com/itsareebaah/AI_Code_Editor) — A responsive web-based code editor with dark/light mode, session saving, and AI-powered code explanation, improvement, and… — JavaScript · 0 yıldız
+- [J-Rios/oci-dear-imgui-cpp-builder](https://github.com/J-Rios/oci-dear-imgui-cpp-builder) — OCI Docker image for building Dear Imgui C++ projects. — Shell · 0 yıldız
 - [Jackamilio/SnapCodeFlow](https://github.com/Jackamilio/SnapCodeFlow) — Blockly / Scratch-like code editor with ImGui — C++ · 0 yıldız
 - [jackiezheng1318-hash/beat-locked-vlog-editor](https://github.com/jackiezheng1318-hash/beat-locked-vlog-editor) — Claude Code skill: cut vlog montages with every cut on the measured kick drum, export at source spec (4K50 10-bit), verify sync… — Python · 0 yıldız
 - [Jahangirbabar2000/worldcup-squad-builder-genai](https://github.com/Jahangirbabar2000/worldcup-squad-builder-genai) — LangChain-powered AI system that builds optimal World Cup squads through a multi-stage pipeline: data ingestion, player… — TypeScript · 0 yıldız
@@ -91176,6 +91746,7 @@
 - [Rajnishtheone/ARMAO-VIDEO-EDITOR](https://github.com/Rajnishtheone/ARMAO-VIDEO-EDITOR) — Video DirectX is a browser-based studio. The **frontend** is a React + Material UI experience that guides the user through a… — JavaScript · 0 yıldız
 - [Rambo-devRBX/RBX-SAVA-Editor](https://github.com/Rambo-devRBX/RBX-SAVA-Editor) — A custom-built PUBG Mobile Activity Editor developed by RBX. Independent Python-based software with a customized interface and… — — · 0 yıldız
 - [RamisaMaliat/Cedit](https://github.com/RamisaMaliat/Cedit) — This is a fast and lightweight terminal-based text editor written in C built as the final project for structured programming… — C · 0 yıldız
+- [RapidFir3/ImGuiBuilder-main](https://github.com/RapidFir3/ImGuiBuilder-main) — ImGui Builder — C++ · 0 yıldız
 - [Raven2201/fe8-reforged-unit-reviver](https://github.com/Raven2201/fe8-reforged-unit-reviver) — Browser-based save editor for Fire Emblem: The Sacred Stones — Reforged. Revive permanently-dead units in seconds: open your… — HTML · 0 yıldız
 - [razzouzi/cheater_by_cs1.6](https://github.com/razzouzi/cheater_by_cs1.6) — hi all im rayane azzouzi morocco im model designer my discord user name rayane azz — Batchfile · 0 yıldız
 - [rcshubhadeep/tiny](https://github.com/rcshubhadeep/tiny) — A small, console based editor with extenability at it's core, and written in Rust — Rust · 0 yıldız
@@ -91305,6 +91876,7 @@
 - [t-jq-digipen/Rock-and-Ghoul](https://github.com/t-jq-digipen/Rock-and-Ghoul) — 2D action game on a custom C++ engine with an ECS architecture and ImGui level editor, elemental combat. DigiPen 8-person second… — C++ · 0 yıldız
 - [taig0/Tile-editor](https://github.com/taig0/Tile-editor) — Simple 2D tile editor with SDL3 + Dear ImGui — C++ · 0 yıldız
 - [Taiga74164/AFKJ-Lua-Editor](https://github.com/Taiga74164/AFKJ-Lua-Editor) — A PoC tool that allows you to execute Lua scripts in AFK-Journey — — · 0 yıldız
+- [TamasPetii/CityBuilder3D](https://github.com/TamasPetii/CityBuilder3D) — It is a 3D city builder game rendered in opengl implemented in c++ — C++ · 0 yıldız
 - [Tapendra61/sirius_sprite_editor](https://github.com/Tapendra61/sirius_sprite_editor) — A sprite editor made in C++ and ImGUI — C++ · 0 yıldız
 - [TasneemShelleh/Text-editor-with-differential-Undo-Redo](https://github.com/TasneemShelleh/Text-editor-with-differential-Undo-Redo) — created a Text Editor with Undo/Redo using stacks and a queue and linkedList in C. The program loads text from a file, lets users… — C · 0 yıldız
 - [TaylorBrennan/NBTEdit](https://github.com/TaylorBrennan/NBTEdit) — Command-based Item NBT editor — Java · 0 yıldız
@@ -92274,6 +92846,7 @@
 - [mishan/liverykit](https://github.com/mishan/liverykit) — Generate Assetto Corsa car liveries from code — designs target named panels measured from the car's own .kn5 model, not guessed… — JavaScript · 3 yıldız
 - [mjdemars/2730final](https://github.com/mjdemars/2730final) — Our final project for LMC 2730. A unity project based on the theme of magical/fantasy. — C# · 3 yıldız
 - [moebiussurfing/ofxColorQuantizerHelper](https://github.com/moebiussurfing/ofxColorQuantizerHelper) — Get the dominant colors from image files to create a palette. (ImGui based) — C++ · 3 yıldız
+- [moebiussurfing/ofxColourLoversHelper](https://github.com/moebiussurfing/ofxColourLoversHelper) — openFrameworks helper add-on to get palettes from ColourLovers (HTTP API). Uses the core add-on ofxColourLovers from @borg. ImGui… — C++ · 3 yıldız
 - [moleium/imjson](https://github.com/moleium/imjson) — A C++ library for defining Dear ImGui styles using JSON — C++ · 3 yıldız
 - [MTV29/eDEX-Tron](https://github.com/MTV29/eDEX-Tron) — Windows desktop theme based on eDEX-UI: live HUD, built-in shell, app dock and dark accent theming — Python · 3 yıldız
 - [MUHAMMEDSINANCP/CP-Calculator-App](https://github.com/MUHAMMEDSINANCP/CP-Calculator-App) — A Flutter-based calculator app designed for performing basic arithmetic operations. This app offers a customizable experience… — C++ · 3 yıldız
@@ -92691,6 +93264,7 @@
 - [abhishekpandit2029/Ecommerce-myShoppy-Website](https://github.com/abhishekpandit2029/Ecommerce-myShoppy-Website) — MyShoopy is an innovative e-commerce platform offering a wide range of fashionable clothing for both men and women. With a… — JavaScript · 1 yıldız
 - [abiramisanthi/TRAPPED-Dimension-Trap-Jumanji-Reborn](https://github.com/abiramisanthi/TRAPPED-Dimension-Trap-Jumanji-Reborn) — A cinematic multiplayer survival-adventure platform based on an original game concept. TRAPPED combines team formation, dimension… — TypeScript · 1 yıldız
 - [aboodghojan/Dorra-jewelery-website](https://github.com/aboodghojan/Dorra-jewelery-website) — A modern, full-stack e-commerce web application for jewellery and accessories, built with **Django** and **MySQL**. It features… — Python · 1 yıldız
+- [acidburn0zzz/ccc](https://github.com/acidburn0zzz/ccc) — Crystal Color Center. Program for managing file types (extensions) and directory patterns for Double Commander and Total… — — · 1 yıldız
 - [adgsenpai/ADGRustSDK](https://github.com/adgsenpai/ADGRustSDK) — a SDK to get started in developing cool apps with the Creative Tim - Soft Dashboard theme — CSS · 1 yıldız
 - [adhiboss/daredevil-website](https://github.com/adhiboss/daredevil-website) — Daredevil Website is a fan-based web project dedicated to the Marvel superhero Daredevil. The website showcases information about… — CSS · 1 yıldız
 - [adiletpn/InsightLab](https://github.com/adiletpn/InsightLab) — CRM web app with a sales kanban (leads, KPIs, drag-and-drop, CSV/XLSX import) and a premium design system: Lumen light and… — JavaScript · 1 yıldız
@@ -92898,6 +93472,7 @@
 - [dotmattdev/regal-dashactyl](https://github.com/dotmattdev/regal-dashactyl) — Free Dashactyl Theme built on the Regal Admin UI and Bootstrap. — CSS · 1 yıldız
 - [dotoridot/herdr-markdown](https://github.com/dotoridot/herdr-markdown) — Markdown Source and Rich editing for Herdr, with local fonts and Docpilot Light and Dark themes. — JavaScript · 1 yıldız
 - [Doubtun/dsh-tray-enhance](https://github.com/Doubtun/dsh-tray-enhance) — Richer Windows tray menu for DeepSeek Harness (DSH): per-item icons, restart, update check, and a light/dark theme submenu. — JavaScript · 1 yıldız
+- [dpieve/cellular-automaton](https://github.com/dpieve/cellular-automaton) — Each cell takes the color of its neighboring cells — C++ · 1 yıldız
 - [dragoncityzZZ/UEMaterialForge](https://github.com/dragoncityzZZ/UEMaterialForge) — Windows desktop UE5-style material node editor with live GLSL preview, texture tools, material instances, MCP and plugins. — C++ · 1 yıldız
 - [Dragone2/Cinnamon-Silk-Theme](https://github.com/Dragone2/Cinnamon-Silk-Theme) — My custom green theme for Linux Mint 21 & 22 - Cinnamon based on Silk and Windows 10 Dark — CSS · 1 yıldız
 - [Drougnov/todo-app-main](https://github.com/Drougnov/todo-app-main) — A React-based todo list app for adding, deleting, and completing tasks, with filter options, drag-and-drop functionality for… — JavaScript · 1 yıldız
@@ -93071,6 +93646,7 @@
 - [kolla/googledrive-picasa-galleria](https://github.com/kolla/googledrive-picasa-galleria) — Google Drive Hosted Galleria.io theme loading pictures from Picasa Web Albums Live demo: http://goo.gl/juicM — JavaScript · 1 yıldız
 - [kopfkopfkopfaffe/TwitterMatrix](https://github.com/kopfkopfkopfaffe/TwitterMatrix) — Final files for the TwitterMatrix project at… — Python · 1 yıldız
 - [Kothapally-Chandu/Simon-Says-Game](https://github.com/Kothapally-Chandu/Simon-Says-Game) — A web-based Simon Says game built with HTML, CSS, and JavaScript. Test your memory by repeating color sequences with matching… — JavaScript · 1 yıldız
+- [KowalczykPatryk/Simple-Paint](https://github.com/KowalczykPatryk/Simple-Paint) — A lightweight C++ drawing application using SFML and ImGui-SFML. It supports drawing lines, rectangles, circles, gradients, and… — C++ · 1 yıldız
 - [Krish123na/Rest-Countries-API](https://github.com/Krish123na/Rest-Countries-API) — 🌍 A responsive React.js app that displays country data using the REST Countries API. Includes search, region filter, dark/light… — JavaScript · 1 yıldız
 - [KRISHNA-0907/SOLAR_SYSTEM_3D_ORBITAL_VISUALIZER](https://github.com/KRISHNA-0907/SOLAR_SYSTEM_3D_ORBITAL_VISUALIZER) — A 3D visualization of our Solar System's planetary orbits built with Python and Matplotlib. This project plots the orbits of the… — Jupyter Notebook · 1 yıldız
 - [krishnakkarthik/Spottechhelp](https://github.com/krishnakkarthik/Spottechhelp) — New Windows 11 Build 22543 – New Volume Control in the Lock Screen, New Input Switcher & Fixes (Dev) In this article, we will… — — · 1 yıldız
@@ -93176,6 +93752,7 @@
 - [mlkrauz/Color-Coded](https://github.com/mlkrauz/Color-Coded) — Final group project of the 2U/MSU coding bootcamp. A MERN-based app which allows developers to customize and save color swatches,… — JavaScript · 1 yıldız
 - [mmnnyes/jinul.html](https://github.com/mmnnyes/jinul.html) — <!doctype html> <html> <head> <meta charset="UTF-8"> </head> <body> <content="search"en&webpage &tab"> <title> function… — — · 1 yıldız
 - [MO-AM1R/news-nest](https://github.com/MO-AM1R/news-nest) — NewsNest is a Kotlin Multiplatform news application built with shared business logic and a shared Compose-based UI. It fetches… — Kotlin · 1 yıldız
+- [Mocha02/HD-Deadlock-Audio-Skins](https://github.com/Mocha02/HD-Deadlock-Audio-Skins) — A collection of audio based skins for Hideous Destructior — — · 1 yıldız
 - [MohamedAtefShehata3/Food-WebSite](https://github.com/MohamedAtefShehata3/Food-WebSite) — Gourmet Haven is a responsive luxury restaurant website built with HTML, CSS, and vanilla JavaScript. Features a dark gold theme,… — CSS · 1 yıldız
 - [MohamedEldairouty/Paddle-Rivals](https://github.com/MohamedEldairouty/Paddle-Rivals) — A neon-styled OpenGL pong game with themes, avatars, AI, music, FX & full menu system. 2-player or single-player. Built in C++… — C++ · 1 yıldız
 - [Mohammed-Aljazzar/Blog-Application](https://github.com/Mohammed-Aljazzar/Blog-Application) — A Django-based blog app for creating, managing, and sharing blog posts. Features include responsive design with Bootstrap, dark… — HTML · 1 yıldız
@@ -93268,6 +93845,7 @@
 - [parin-prog/TextUtils](https://github.com/parin-prog/TextUtils) — I developed TextUtils using reactjs, a Javascript-based web application offering users text formatting, modification, and… — JavaScript · 1 yıldız
 - [pathologyenigma/Card-Server-ArangoDB-based-](https://github.com/pathologyenigma/Card-Server-ArangoDB-based-) — another version of the card-server using graph database and design data storage in another style — Rust · 1 yıldız
 - [patternuser/google-fonts-portal](https://github.com/patternuser/google-fonts-portal) — This web app allows designers and developers to simply input a font family name and display a preview with various font sizes,… — JavaScript · 1 yıldız
+- [pavetr1337/colorpicker-for-imgui](https://github.com/pavetr1337/colorpicker-for-imgui) — Small html utility for picking 0-1f colors — HTML · 1 yıldız
 - [Pawan-gautam011/Live-Code-Editor](https://github.com/Pawan-gautam011/Live-Code-Editor) — I made a React-based code editor application that supports HTML, CSS, and JavaScript with live preview functionality. The app… — JavaScript · 1 yıldız
 - [Peaperfish/prism](https://github.com/Peaperfish/prism) — Photo editor and command-line tool for PNG, JPEG and camera RAW, in C++20 (macOS, Windows) — C++ · 1 yıldız
 - [pewpewkece/PADA-SOMBONG](https://github.com/pewpewkece/PADA-SOMBONG) — <!DOCTYPE HTML> <html> <head><title>Hai vi</title> <!-- Created By L3M4R1 --> <script>alert ('hai') alert ('Ini isi hatiku yang… — — · 1 yıldız
@@ -93319,6 +93897,7 @@
 - [RavenCunanan/Dark-Mode-Toggle](https://github.com/RavenCunanan/Dark-Mode-Toggle) — Dark Mode Toggle App A React app that allows users to switch between light and dark themes. It uses React context to manage theme… — JavaScript · 1 yıldız
 - [Rawblocky/RobloxPlugin-ThemeScriptExecutor](https://github.com/Rawblocky/RobloxPlugin-ThemeScriptExecutor) — Executes a script based on the current Studio theme. — Luau · 1 yıldız
 - [razanalisari/AI-pro](https://github.com/razanalisari/AI-pro) — The implementation of this skin care expert system involved several key steps. defined the dynamic predicates to store user… — Prolog · 1 yıldız
+- [razfrumkin/fractal-viewer](https://github.com/razfrumkin/fractal-viewer) — A fractal exploration tool powered by SFML and GLSL for GPU acceleration, offering real-time rendering, zooming, panning, and… — C++ · 1 yıldız
 - [rbaua/LocalHackDay2018](https://github.com/rbaua/LocalHackDay2018) — Processing program that gets user inputs and prints them to the screen, in a color whose darkness is determined by the frequency… — Processing · 1 yıldız
 - [RedDragonElite/rde_fuel](https://github.com/RedDragonElite/rde_fuel) — ⛽ Realistic, performance-first fuel system for FiveM — LTD Gasoline themed, server-authoritative StateBags, real-time multiplayer… — Lua · 1 yıldız
 - [RedDragonElite/rde_sleep](https://github.com/RedDragonElite/rde_sleep) — 😴 RDE SleepMod — Next-Gen Sleep & Logout System. Proximity-loaded sleeping peds, full skin sync from playerskins, robbery & carry… — Lua · 1 yıldız
@@ -93702,6 +94281,7 @@
 - [AlexBlack-Dev/snake-reef](https://github.com/AlexBlack-Dev/snake-reef) — Canvas-based snake game with obstacles, glow orbs, and a dark reef theme — HTML · 0 yıldız
 - [alexedmon1/source-lightbox](https://github.com/alexedmon1/source-lightbox) — Static HTML gallery builder for EEG source analysis results. Turns figures, tables, and summaries from source-localization and… — Python · 0 yıldız
 - [AlexEppDEV/Pokedex](https://github.com/AlexEppDEV/Pokedex) — Pokedex web app connected to the PokéAPI, built with vanilla JavaScript and Bootstrap 5. Features lazy-loading, multi-level… — JavaScript · 0 yıldız
+- [AlexPGAO/arcanesurge](https://github.com/AlexPGAO/arcanesurge) — Deadlock Style browser based, single file game, for OvernightHacker.com — HTML · 0 yıldız
 - [alexsmithrogers012/g-Regards-stron](https://github.com/alexsmithrogers012/g-Regards-stron) — <h1 style="padding-left: 30px;">New twists Are Being Handed Out For This WW2 Strategy Game</h1> <p>Overwatch has become one of… — — · 0 yıldız
 - [ali-si1/bash-ps1-theme](https://github.com/ali-si1/bash-ps1-theme) — Custom hacker-style PS1 prompt with dark and light themes, including install/uninstall scripts. — Shell · 0 yıldız
 - [ali14567899990/COLOR-MATCH-AI](https://github.com/ali14567899990/COLOR-MATCH-AI) — Extracted face region and determined skin tone using HSV and LAB colorspaces • Designed a skin tone classification system (light,… — Jupyter Notebook · 0 yıldız
@@ -94441,6 +95021,7 @@
 - [G3993/palette](https://github.com/G3993/palette) — Light cross-platform shader, simulation and 3D-effect editor. Sibling of Easel; publishes to ShaderClaw3. — C++ · 0 yıldız
 - [G4XGAMER/g4x-sensi-ff](https://github.com/G4XGAMER/g4x-sensi-ff) — 🎯 G4X Sensi Generator – Free Fire MAX sensitivity tool that generates a personalized 0–200 sensitivity starting profile based on… — HTML · 0 yıldız
 - [gabejlong/ray_tracer](https://github.com/gabejlong/ray_tracer) — This program renders an image of user-specified 3D spheres. First it takes input for the location, size, and color of the… — C++ · 0 yıldız
+- [gabriel-r-s/fill_poly](https://github.com/gabriel-r-s/fill_poly) — Implementation of a scan-line polygon filling algorithm, with color interpolation along the edges and scan-lines. Using SDL2… — C++ · 0 yıldız
 - [gabrielrodrigonove/espacodegabriel](https://github.com/gabrielrodrigonove/espacodegabriel) — Espaço de Gabriel é um jogo 2D de ação com visual inspirado no Game Boy Color, onde o jogador explora uma arena infinita, coleta… — HTML · 0 yıldız
 - [gagan-288/navigation-bar--gagandeep](https://github.com/gagan-288/navigation-bar--gagandeep) — A modern, responsive navigation bar built with HTML, CSS, JavaScript, and Bootstrap, featuring an iOS-style glassmorphism design,… — CSS · 0 yıldız
 - [gagan-baghel/LawFirm](https://github.com/gagan-baghel/LawFirm) — Law firm site in React - multi-page routing, animated hero copy, a dark/light toggle, EmailJS contact and Helmet SEO metadata.… — JavaScript · 0 yıldız
@@ -94533,6 +95114,7 @@
 - [gvgame/overwatch-emacs-theme](https://github.com/gvgame/overwatch-emacs-theme) — emacs theme based on overwatch characters — Emacs Lisp · 0 yıldız
 - [H-B-Chethan/Dark-Mode-UI-Theme-Management-System](https://github.com/H-B-Chethan/Dark-Mode-UI-Theme-Management-System) — Built a full-stack, AI-powered web application to manage and analyse dark mode UI theme components with JWT-based authentication,… — JavaScript · 0 yıldız
 - [h3nnn4n/C_Template](https://github.com/h3nnn4n/C_Template) — A simple template for starting a C project. Includes OpenGL, imgui, linters, unit testing, code style checkers and more — C · 0 yıldız
+- [H644b/imgui-nvn-switch2](https://github.com/H644b/imgui-nvn-switch2) — Experimental source-only NVN shader adapter for ImGui-style rendering on Switch 2 — Python · 0 yıldız
 - [Habiba63/Paint-for-kids](https://github.com/Habiba63/Paint-for-kids) — final project of Programming Techniques. A simple program that creates a blank canvas for a child to freely draw shapes and… — — · 0 yıldız
 - [Hackiocrack/dashactyl-corona-theme](https://github.com/Hackiocrack/dashactyl-corona-theme) — A modern and elegant dark themed admin theme for Dashactyl. — — · 0 yıldız
 - [Hackudoskin-tool/Hackudo-skin-tool-](https://github.com/Hackudoskin-tool/Hackudo-skin-tool-) — Welcome in *Hackudo skin tool * — HTML · 0 yıldız
@@ -94867,6 +95449,7 @@
 - [Kanisetty24/Django-cicd](https://github.com/Kanisetty24/Django-cicd) — A simple Django-based Todo List app to create and manage tasks. It features a dark theme and is deployed via a Jenkins pipeline. — Python · 0 yıldız
 - [kanishkaGayan/snapstudy](https://github.com/kanishkaGayan/snapstudy) — 🎯 Smart video time calculator with speed-based learning recommendations, responsive UI, and dark/light themes. — HTML · 0 yıldız
 - [Kanu-000/ArtificialIntelligenceChatbot](https://github.com/Kanu-000/ArtificialIntelligenceChatbot) — AI-style chatbot website answering ML, rule-based, and logic-based questions with chat history & dark mode — CodeAlpha internship… — JavaScript · 0 yıldız
+- [KaparthyReddy/graphlock](https://github.com/KaparthyReddy/graphlock) — A deadlock detection & recovery system: resource-allocation-graph cycle detection for single-instance resources, matrix-based… — Java · 0 yıldız
 - [kareemrashad1/Production-Ready-Highly-Available-Web-Application-on-AWS](https://github.com/kareemrashad1/Production-Ready-Highly-Available-Web-Application-on-AWS) — Hands-on AWS project: a production-style, highly available web application deployed across two Availability Zones inside an AWS… — — · 0 yıldız
 - [karimmerhom/The_Matrix_Escaped](https://github.com/karimmerhom/The_Matrix_Escaped) — Project Description: The year is 2200 and the machines took over the world after a long and grueling battle the likes of which… — Java · 0 yıldız
 - [KarlosHakobyan/Heap_Sort_Visualizer](https://github.com/KarlosHakobyan/Heap_Sort_Visualizer) — Interactive Heap Sort Visualizer built with vanilla JavaScript, HTML5, and CSS3. Features real-time binary heap construction,… — CSS · 0 yıldız
@@ -94902,6 +95485,7 @@
 - [Kerrmunism/processing-dark-theme](https://github.com/Kerrmunism/processing-dark-theme) — This is my dark theme for Processing. I'm not the first to do this, and I used many other tools, so here's some credit.… — — · 0 yıldız
 - [keshanijayarathna/DineMate-ResturantApp](https://github.com/keshanijayarathna/DineMate-ResturantApp) — A modern and responsive restaurant reservation and ordering web application developed with HTML5, CSS3 and Vanilla JavaScript.… — JavaScript · 0 yıldız
 - [KeshavRaj69/PORRTFOLIO](https://github.com/KeshavRaj69/PORRTFOLIO) — A dynamic personal portfolio for Keshav Raj, a CSE student and Frontend Developer. Built with HTML, CSS, and JS, this responsive… — CSS · 0 yıldız
+- [Ketna-Gupta/SafeRescue-Deadlock-Free-Disaster-System](https://github.com/Ketna-Gupta/SafeRescue-Deadlock-Free-Disaster-System) — Disaster Management Simulation System is a web-based tool demonstrating Banker’s Algorithm and CPU scheduling. Users can add and… — JavaScript · 0 yıldız
 - [Ketryon/template-react-native](https://github.com/Ketryon/template-react-native) — Template for an Expo app (SDK 54): Expo Router with tabs, light and dark themes, a typed API client, TanStack Query and EAS… — TypeScript · 0 yıldız
 - [KettleWulf/source-sensitive](https://github.com/KettleWulf/source-sensitive) — Playful Star Wars-wiki, displaying use of search, pagination and light/dark theme-context. — TypeScript · 0 yıldız
 - [Kevin28576/dashactyl-cloudxact-custom](https://github.com/Kevin28576/dashactyl-cloudxact-custom) — 這個專案為 CloudXact 舊版服務 (基於 Dashactyl) 的客製化主題開發範本。 — CSS · 0 yıldız
@@ -95051,6 +95635,7 @@
 - [lucidly/fatality](https://github.com/lucidly/fatality) — Fatality theme for Tumblr. http://fatalitytheme.tumblr.com/ — HTML · 0 yıldız
 - [Lucyxingchen/rsgoldfast](https://github.com/Lucyxingchen/rsgoldfast) — There is no evidence to suggest that the OSRS gauntlet is exactly the same DG I'd say that the gear progression in the gauntlet… — — · 0 yıldız
 - [LuisSeidl/CS2-Skin-Trading-Bot](https://github.com/LuisSeidl/CS2-Skin-Trading-Bot) — Trying to implement a bot that automatically buys/sells CS2 skins based on common financial concepts — Python · 0 yıldız
+- [LukasRuee/imgui-colorswatch](https://github.com/LukasRuee/imgui-colorswatch) — A basic color visualizer & picker specific for Imgui ImVec4 — TypeScript · 0 yıldız
 - [LULWBruh/primordial_skins_replacer](https://github.com/LULWBruh/primordial_skins_replacer) — Python script to copy skin settings from one config to another. — — · 0 yıldız
 - [lunekiska/nyarch-loading-screen](https://github.com/lunekiska/nyarch-loading-screen) — Overriding Minecraft loading screen with cute Nyarch theme — — · 0 yıldız
 - [luomingguo/xv6-lab](https://github.com/luomingguo/xv6-lab) — 遵守LICENSE二次开发； xv6 is a re-implementation of Dennis Ritchie's and Ken Thompson's Unix Version 6 (v6). xv6 loosely follows the… — C · 0 yıldız
@@ -95255,6 +95840,7 @@
 - [MoomA-0750/omarchy-theme-schedule](https://github.com/MoomA-0750/omarchy-theme-schedule) — Switch Omarchy themes between light and dark variants by time of day, or keep it manual from the menu — Shell · 0 yıldız
 - [Moonnn15/POPOS_CLONE](https://github.com/Moonnn15/POPOS_CLONE) — A responsive front-end clone of the Pop!_OS website built with HTML, CSS, and JavaScript. Features a hero section, product cards,… — HTML · 0 yıldız
 - [moonysuper/Platform-Detector](https://github.com/moonysuper/Platform-Detector) — Platform Detector is a Flutter-based utility app that scans installed applications on Android devices and identifies the… — Dart · 0 yıldız
+- [Mori-TM/Oklab-ImGui-Color-Picker](https://github.com/Mori-TM/Oklab-ImGui-Color-Picker) — A Dear ImGui Color Picker for the Oklab color space inspired by the Photoshop OK Color Picker — — · 0 yıldız
 - [moshfiqur/VS-Code-Auto-Theme-Switcher](https://github.com/moshfiqur/VS-Code-Auto-Theme-Switcher) — This extension let the user pre-select their favorite light and dark theme. Based on the system's theme, this code automatically… — TypeScript · 0 yıldız
 - [MostafaShaban2022/theme-toggle](https://github.com/MostafaShaban2022/theme-toggle) — A simple Flutter implementation using Shared Preferences and Provider to toggle between light and dark themes. This project… — C++ · 0 yıldız
 - [Moudoux/MC-Hue](https://github.com/Moudoux/MC-Hue) — EMC Mod for controlling your Philips Hue lights from within Minecraft, update the colors based on your environment, player… — Java · 0 yıldız
@@ -95310,6 +95896,7 @@
 - [Nabiya-Rizwan/MY_PORTFOLIO](https://github.com/Nabiya-Rizwan/MY_PORTFOLIO) — A fully responsive personal portfolio with a sleek dark theme, smooth navigation, and a Swiper.js project slider. 🌐✨ Built with… — HTML · 0 yıldız
 - [NabsCodes/cgpa_calculator](https://github.com/NabsCodes/cgpa_calculator) — A web-based CGPA Calculator, evolving from HTML, CSS, JS (v1) to Next.js (v2). The latest version offers real-time calculations,… — TypeScript · 0 yıldız
 - [NadeenHY-dev/2D-C-game](https://github.com/NadeenHY-dev/2D-C-game) — It’s a C++ object-oriented programming (OOP) project that creates a 2D platform-style game using SFML. The project is organized… — C++ · 0 yıldız
+- [nadocodes/DeadCoach](https://github.com/nadocodes/DeadCoach) — Deadlock post-match coach: role-based grades vs your lobby, build coaching and an in-game style item browser. — HTML · 0 yıldız
 - [Nagendar23/QR-Generator](https://github.com/Nagendar23/QR-Generator) — A React-based application that features QR code generation, scanning, and history tracking, with seamless routing and a… — JavaScript · 0 yıldız
 - [NaghamMohamedMohamed/Paint-Program](https://github.com/NaghamMohamedMohamed/Paint-Program) — This is a C++ program similar to the Paint program. The program incorporated the following functionalities: 1. Drawing various… — C++ · 0 yıldız
 - [NagireddyVinay/Acme-Solutions](https://github.com/NagireddyVinay/Acme-Solutions) — Acme Solutions — Responsive business website template with multi-page HTML, optimized images (lazy-load, srcset), accessibility… — HTML · 0 yıldız
@@ -95331,6 +95918,7 @@
 - [NataliyaNaumova/the-domsters-final-prj](https://github.com/NataliyaNaumova/the-domsters-final-prj) — final project for class, creating wp theme based on the domsters — CSS · 0 yıldız
 - [Nate158s/fantastic-system](https://github.com/Nate158s/fantastic-system) — XML file does not appear to have any style information associated with it. The document tree is shown below. <feed… — — · 0 yıldız
 - [natedalannie/Swan](https://github.com/natedalannie/Swan) — Swans in the Northern Hemisphere have pure white plumage, but swans in the Southern Hemisphere have white-and-black plumage. The… — — · 0 yıldız
+- [natelwhite/Palettable](https://github.com/natelwhite/Palettable) — A GUI for creating color palettes using RGB or HSV using Dear Imgui — C++ · 0 yıldız
 - [NathanaelA/System76KeyboardLeds](https://github.com/NathanaelA/System76KeyboardLeds) — Control the LED color of your System 76 Keyboard — JavaScript · 0 yıldız
 - [Natthy2023/ClonedGeminiChatbot](https://github.com/Natthy2023/ClonedGeminiChatbot) — 🌟 Gemini Chatbot – An interactive AI-powered chatbot similar to ChatGPT that supports context-based conversations, file and image… — JavaScript · 0 yıldız
 - [Natxo09/star-calculator-cs2](https://github.com/Natxo09/star-calculator-cs2) — Calculate how many items they can redeem with the stars earned in Counter Strike 2's latest operation — HTML · 0 yıldız
@@ -95347,8 +95935,10 @@
 - [neomorrison/CSGO-Vscripts-Deathrun-Gooby-by-Neo-](https://github.com/neomorrison/CSGO-Vscripts-Deathrun-Gooby-by-Neo-) — CS:GO Deathrun VScripts: Squirrel scripts for a CoD4-style deathrun map with boost and bounce pads, smart teleports, doors and… — Squirrel · 0 yıldız
 - [neonheart711/neonheart711-acode-theme](https://github.com/neonheart711/neonheart711-acode-theme) — A neon hacker style dark theme plugin for Acode editor. Pure black background with vibrant neon green highlights. Supports both… — — · 0 yıldız
 - [NeoReader/dark-mode](https://github.com/NeoReader/dark-mode) — Free, open-source dark mode for every website. Chrome, Edge and Firefox. No white flash, per-site controls, no site access until… — TypeScript · 0 yıldız
+- [nepoladka/GammaChanger](https://github.com/nepoladka/GammaChanger) — simple c++ screen gamma changer like a windows monitor color calibration powered by glfw and imgui — C++ · 0 yıldız · arşiv
 - [NerSz/crypto-finance-tracker](https://github.com/NerSz/crypto-finance-tracker) — Ultimate Google Sheets financial tracker with full budgeting system, cashflow analytics, debt management, savings goals,… — JavaScript · 0 yıldız
 - [neutron0x0/PROJECT-Internportal](https://github.com/neutron0x0/PROJECT-Internportal) — A simple, responsive web-based portal designed for interns to securely log in and view their personal dashboard. The dashboard… — JavaScript · 0 yıldız
+- [nevioo1337/RGB-Cycler](https://github.com/nevioo1337/RGB-Cycler) — RGB Cycler — C++ · 0 yıldız
 - [nfsok27/Minecraft-Technic-Launcher-Unexpected-Eror](https://github.com/nfsok27/Minecraft-Technic-Launcher-Unexpected-Eror) — Stack Trace:Exception: IndexOutOfBoundsException Message: Index: 0, Size: 0 Trace: java.util.ArrayList.rangeCheck(Unknown Source)… — — · 0 yıldız
 - [nguyenthonq260bar/wordpress-bookstore-woocommerce](https://github.com/nguyenthonq260bar/wordpress-bookstore-woocommerce) — Final project source code for The Mountain Book, an e-commerce bookstore built with WordPress, WooCommerce, and a custom theme. — PHP · 0 yıldız
 - [NguyenTrunqKien/cs231-classification-of-banana-ripeness-based-on-color-features](https://github.com/NguyenTrunqKien/cs231-classification-of-banana-ripeness-based-on-color-features) — Đồ án môn học CS231: Phân loại độ chín của chuối dựa trên đặc trưng màu sắc, và triển khai gradio để demo hệ thống phân loại độ… — Jupyter Notebook · 0 yıldız
@@ -95501,6 +96091,7 @@
 - [Pavan-244/chat-app-project](https://github.com/Pavan-244/chat-app-project) — A simplified ChatGPT-style full-stack app built with React, TailwindCSS, and Node.js (Express). Features collapsible sidebar,… — JavaScript · 0 yıldız
 - [PavanKasukurthi/unsplash-images-project](https://github.com/PavanKasukurthi/unsplash-images-project) — Welcome to the Unsplash Image Search repository, a feature-rich application that harnesses the power of the Unsplash API to help… — CSS · 0 yıldız
 - [pavankdoddi/Bike_Sharing_Assignment](https://github.com/pavankdoddi/Bike_Sharing_Assignment) — A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a… — Jupyter Notebook · 0 yıldız
+- [pavel-perina/slime_mold](https://github.com/pavel-perina/slime_mold) — Slime mold (Physarum polycephalum) agent based simulation in C++23, SDL3 and ImGui. Some reuseable color space conversion and… — C++ · 0 yıldız
 - [PavelGsAlt/pavelgsalt.github.io](https://github.com/PavelGsAlt/pavelgsalt.github.io) — Source code for minecraft skin overlayer — CSS · 0 yıldız
 - [Pawemol12/NestoriaMT2-Jumper](https://github.com/Pawemol12/NestoriaMT2-Jumper) — Short game like flappy birds based on Metin2 character and themes — JavaScript · 0 yıldız
 - [PAYALTIWARI11/Talking-Sorting-Hat](https://github.com/PAYALTIWARI11/Talking-Sorting-Hat) — An immersive web-based Hogwarts Sorting Ceremony with a magical dark theme and integrated speech recognition. — Python · 0 yıldız
@@ -95540,6 +96131,7 @@
 - [pk-bandaru/nxtWatch](https://github.com/pk-bandaru/nxtWatch) — NxtWatch, a react based application which is a clone for YouTube where users can log in and can see a list of videos like… — JavaScript · 0 yıldız
 - [plastic-ant/ue4-light-bar-fx](https://github.com/plastic-ant/ue4-light-bar-fx) — Light Bar FX enables any developer to easily hook up custom light bar colour animations in their projects. No C++ is required to… — C++ · 0 yıldız
 - [playdream996-cyber/glass-mob-blade-rush](https://github.com/playdream996-cyber/glass-mob-blade-rush) — A hybrid-casual Unity game combining Mob Control-style squad growth, knife-based combat, destructible glass enemies,… — — · 0 yıldız
+- [pmann84/ColourPaletteCreator](https://github.com/pmann84/ColourPaletteCreator) — A colour palette generator using SFML and ImGui. Generates colour palettes using combinations of sine waves and outputs the… — C++ · 0 yıldız
 - [Pokedas4/10-november-paint-124-D](https://github.com/Pokedas4/10-november-paint-124-D) — package com.company; import javax.imageio.ImageIO; import javax.swing.*; import javax.swing.filechooser.FileSystemView; import… — — · 0 yıldız
 - [polsoft-seb07uk/Context_Menu_Editor_for_Windows_11](https://github.com/polsoft-seb07uk/Context_Menu_Editor_for_Windows_11) — Context Menu Editor for Windows 11 — a lightweight, portable desktop tool to view, enable, disable, or delete right-click context… — Python · 0 yıldız
 - [PoojaSingh31github/Chat-App](https://github.com/PoojaSingh31github/Chat-App) — This app offers seamless one-to-one messaging using Socket.io for real-time communication. It features JWT-based authentication,… — JavaScript · 0 yıldız
@@ -95727,6 +96319,7 @@
 - [RoryMurphy1997/Random-Forest-R-Project](https://github.com/RoryMurphy1997/Random-Forest-R-Project) — An R project which involved developing and evaluating a Random Forest model built to predict the price of diamonds based on key… — R · 0 yıldız
 - [rosairekota/invoice-system](https://github.com/rosairekota/invoice-system) — This is an invoice App build with Reactjs. Some of the key features of this app are: CRUD and also theme switcher. This is front… — — · 0 yıldız
 - [Roseton/Rose-ton](https://github.com/Roseton/Rose-ton) — Active Plus Youth Cream With regard to rest, try to go to least 5 to 9 hours respite each nighttime time. This pointer is… — — · 0 yıldız
+- [Rosme/texcol](https://github.com/Rosme/texcol) — Simple color modifier — C++ · 0 yıldız
 - [ROUNDCUBE-SKINS/FOREST-GREEN-DESKTOP-MOBILE-ROUNDCUBE-SKINS](https://github.com/ROUNDCUBE-SKINS/FOREST-GREEN-DESKTOP-MOBILE-ROUNDCUBE-SKINS) — This repository holds the source code of Forest Green Desktop and Mobile Roundcube Skins — — · 0 yıldız
 - [row-huh/ghost-pastel-vscode](https://github.com/row-huh/ghost-pastel-vscode) — A mix of dark and pastel — — · 0 yıldız
 - [RowidaAdel/Todo-React-App](https://github.com/RowidaAdel/Todo-React-App) — A simple React-based To-Do list application with features like adding, editing, deleting tasks, and switching between light and… — JavaScript · 0 yıldız
@@ -95858,6 +96451,7 @@
 - [sezinbagci/BreakoutGame](https://github.com/sezinbagci/BreakoutGame) — A Breakout-style game developed with C++, raylib, Dear ImGui and CMake. — C++ · 0 yıldız
 - [SFCreates/MERC-Counter-Strike-Source-Skins](https://github.com/SFCreates/MERC-Counter-Strike-Source-Skins) — A repository to host the files of the MERC Counter Strike Source Skins project from sfcreates.cc. — — · 0 yıldız
 - [Sfrljuckic1/CS-4450-Semester-Project](https://github.com/Sfrljuckic1/CS-4450-Semester-Project) — Computer Graphics program that will create an original scene in Minecraft fashion. It is simple but can be used to demonstrate… — Java · 0 yıldız
+- [Sh1nePr0/OpenGLApplication](https://github.com/Sh1nePr0/OpenGLApplication) — My tiny OpenGL Application, that provide ImGui based UI for testing some features like clear color(choose any color and feel it)… — C++ · 0 yıldız
 - [shabab122/speechbot](https://github.com/shabab122/speechbot) — A browser-based text-to-speech studio with voice controls, dictation, saved scripts, and light/dark themes. — JavaScript · 0 yıldız
 - [ShadowThijs/gamesense-discord-theme](https://github.com/ShadowThijs/gamesense-discord-theme) — (açıklama yok) — CSS · 0 yıldız
 - [Shafi810/my-app](https://github.com/Shafi810/my-app) — Modern, high-performance KPI Dashboard web app. Features animated dynamic borders, adaptive dark/light themes, custom SVG… — TypeScript · 0 yıldız
@@ -96332,6 +96926,7 @@
 - [YaBoiZeny/Zeny-s-Random-Cars](https://github.com/YaBoiZeny/Zeny-s-Random-Cars) — train cars for gmod made with randomized skins. just spawn them, couple, and go! — — · 0 yıldız
 - [yagnasathvika2006-star/-Library-Management-System](https://github.com/yagnasathvika2006-star/-Library-Management-System) — 📚 Library Management System is a web-based PHP & MySQL project to manage books, members, borrowing, and returning records. It… — PHP · 0 yıldız
 - [Yagnasree12/Smart-Currency-converter-](https://github.com/Yagnasree12/Smart-Currency-converter-) — Smart Currency Converter is a modern, Streamlit-powered web app that offers real-time forex rates, historical trend analysis, QR… — Python · 0 yıldız
+- [Yalkee/ImVec4-Color-Picker](https://github.com/Yalkee/ImVec4-Color-Picker) — RGBA Color Picker for Dear ImGui ImVec4 structure — HTML · 0 yıldız
 - [YanArad/dark-mode-toggle-app](https://github.com/YanArad/dark-mode-toggle-app) — React-based dark mode toggle feature with accessibility support and theme persistence — — · 0 yıldız
 - [YanArad/UIFeatureRepoByYaniv](https://github.com/YanArad/UIFeatureRepoByYaniv) — Dark Mode Toggle UI Feature Implementation - A React-based toggle for switching between light and dark themes — — · 0 yıldız
 - [YardFragMK/YGUI](https://github.com/YardFragMK/YGUI) — A small ImGui theme customization I created for use in my own projects — C++ · 0 yıldız
@@ -96393,6 +96988,7 @@
 - [Zeeker-int/My-Programme](https://github.com/Zeeker-int/My-Programme) — This software is a WinForm-style utility designed to help Roblox players view other players' or groups' IDs and other… — — · 0 yıldız
 - [ZeelPatel06/Moodify-AI_Based_Emotion_Music_System](https://github.com/ZeelPatel06/Moodify-AI_Based_Emotion_Music_System) — Create a professional, visually modern PowerPoint presentation for a project named "Moodify – AI-Based Emotion Detection Music… — JavaScript · 0 yıldız
 - [ZekerZhayard/SkinLayers3D-CustomSkinLoader-Bridge](https://github.com/ZekerZhayard/SkinLayers3D-CustomSkinLoader-Bridge) — Fixed the compatibility issue between the CustomSkinLoader mod and the 3D Skin Layers mod since Minecraft 1.21.4 — Java · 0 yıldız
+- [ZephaniahQ/SFML-ImGui-ShapeRender](https://github.com/ZephaniahQ/SFML-ImGui-ShapeRender) — Renders sfml shapes loaded from a config file with screen colision detection and Bounce back. Also provides ImGui UI to change… — C++ · 0 yıldız
 - [zer0trustopc/My-Protfolio](https://github.com/zer0trustopc/My-Protfolio) — Personal portfolio website of MD. Arif Miah, a cybersecurity enthusiast and bug bounty hunter. Dark hacker theme built with HTML,… — CSS · 0 yıldız
 - [Zero-1729/one-blue-syntax](https://github.com/Zero-1729/one-blue-syntax) — A syntax highlighting theme for Atom based on One Dark Syntax, and inspired by blue lucid dreams :shower: — CSS · 0 yıldız
 - [ZeronModz/imgui-ios-style](https://github.com/ZeronModz/imgui-ios-style) — (açıklama yok) — C++ · 0 yıldız
@@ -96877,6 +97473,7 @@
 - [0uali-Yassine/Kanban-Task-management-app](https://github.com/0uali-Yassine/Kanban-Task-management-app) — 📋 Manage tasks effortlessly across boards with this React-based Kanban Board app. Add, delete, and complete tasks with ease. Dark… — JavaScript · 1 yıldız
 - [0xMamareza/genlayer-pulse-halo-spinner](https://github.com/0xMamareza/genlayer-pulse-halo-spinner) — Animated loading spinner for GenLayer Portal — HTML · 1 yıldız
 - [5dy8fgcsbt-code/edm-studio](https://github.com/5dy8fgcsbt-code/edm-studio) — Native C++20 EDM model viewer, animation exporter and livery painting studio for DCS, built with Dear ImGui and Direct3D 11. — C++ · 1 yıldız
+- [A1um1n1um/Animated-Fov-Circle](https://github.com/A1um1n1um/Animated-Fov-Circle) — Animated circle imgui — — · 1 yıldız
 - [acht7111020/Scene_With_ImageProc](https://github.com/acht7111020/Scene_With_ImageProc) — Use C++ to implement openGL shader pipeline. Load a scene with objects and animations, also implement FBO to render image… — C++ · 1 yıldız
 - [adiyaan010205/AI-Resume-Builder](https://github.com/adiyaan010205/AI-Resume-Builder) — AI Resume Builder is a full-stack web app that helps users create professional resumes with ease. Built using React, Node.js, and… — JavaScript · 1 yıldız
 - [Aduli113/-Taxi-Market-](https://github.com/Aduli113/-Taxi-Market-) — The report " Global Taxi Market, By Booking Type (Online Booking, and Offline Booking), By Service Type (Ride-Hailing, and Ride… — — · 1 yıldız
@@ -96977,6 +97574,7 @@
 - [husTh1/Lumen-Training-Center](https://github.com/husTh1/Lumen-Training-Center) — A modern, fully responsive website for a language-training academy, featuring course catalogs, instructor profiles, and a… — TypeScript · 1 yıldız
 - [huxia1124/CirclePopupMenuSample](https://github.com/huxia1124/CirclePopupMenuSample) — A demo of animated circular popup menu in Win32 — C++ · 1 yıldız
 - [ibrahimf90/radial-menu](https://github.com/ibrahimf90/radial-menu) — A dark-themed interactive website built with pure HTML, CSS & JavaScript. Features a unique radial navigation menu where 5 pages… — CSS · 1 yıldız
+- [ilkkahirvela/MazeSolver-SFML](https://github.com/ilkkahirvela/MazeSolver-SFML) — 🌀Maze generation and solving visualization written in C++ with SFML. Animated BFS pathfinding with a settings UI. — C++ · 1 yıldız
 - [ImanNaeimian/Fivem-Loading-Screen](https://github.com/ImanNaeimian/Fivem-Loading-Screen) — A stylish, responsive FiveM loading screen with smooth animations, optimized for roleplay servers. Includes HTML, CSS, and… — JavaScript · 1 yıldız
 - [Indhumithra/Brownie-World-Online-business](https://github.com/Indhumithra/Brownie-World-Online-business) — A fully responsive, single-page website for Brownie Tiruchengode, a home-based bakery, built with HTML, CSS, and vanilla… — HTML · 1 yıldız
 - [irekasoft/Realm-LoadFromFile](https://github.com/irekasoft/Realm-LoadFromFile) — iOS (Obj-C). Load Realm file with ease. — Objective-C · 1 yıldız
@@ -97010,6 +97608,8 @@
 - [Mansoor1565/Pig-and-Python](https://github.com/Mansoor1565/Pig-and-Python) — Introduction Pig and Python are very widespread systems for executing complex Hadoop map-reduce-based data-flows. It enhances a… — — · 1 yıldız
 - [Mario-Gamal-Sobhy/Super-Mario-Game-](https://github.com/Mario-Gamal-Sobhy/Super-Mario-Game-) — the key features of this hypothetical Pygame Super Mario game would be gamepad controller support, multiple levels with… — Python · 1 yıldız
 - [markmcfuzz/Halo-Source-Animation-Bone-Renamer](https://github.com/markmcfuzz/Halo-Source-Animation-Bone-Renamer) — A tool for rename nodes/bones from animation source files from (H2, H3, H4, HR) games to HCE. — Lua · 1 yıldız
+- [markusbuchholz/Motion-Control-of-Segway-Robot-Simulation-in-ImGui-Cpp](https://github.com/markusbuchholz/Motion-Control-of-Segway-Robot-Simulation-in-ImGui-Cpp) — (açıklama yok) — C++ · 1 yıldız
+- [markusbuchholz/Motion-Simulation-of-Elastic-Pendulum-in-ImGui-Cpp](https://github.com/markusbuchholz/Motion-Simulation-of-Elastic-Pendulum-in-ImGui-Cpp) — (açıklama yok) — C++ · 1 yıldız
 - [Mayank3613/ArmAutomata-](https://github.com/Mayank3613/ArmAutomata-) — Gesture controlled robotic arm designed as a base for deigning and operation of robotic arms via human arm moment using Computer… — Python · 1 yıldız
 - [MeMory-of-MOtion/hpp-rbprm](https://github.com/MeMory-of-MOtion/hpp-rbprm) — General discussions about HPP for contact generation. — — · 1 yıldız
 - [mert-akif/SDL2GameEngineish](https://github.com/mert-akif/SDL2GameEngineish) — A lightweight C++ 2D game engine featuring a visual editor, Box2D physics, animation, audio, scripting, and scene management.… — C++ · 1 yıldız
@@ -97211,6 +97811,7 @@
 - [Amogh-Shetty/flutter-portfolio](https://github.com/Amogh-Shetty/flutter-portfolio) — A modern Flutter-based personal resume and portfolio application showcasing skills, experience, and projects with a custom dark… — C++ · 0 yıldız
 - [AmonueDrappe/roblox-ai-development-toolkit](https://github.com/AmonueDrappe/roblox-ai-development-toolkit) — Open-source AI-powered toolkit connecting Claude Code, Roblox Studio, and Blender via MCP to automate 3D modeling, animations,… — Luau · 0 yıldız
 - [amzees/pbh-fermi-ball-simulation](https://github.com/amzees/pbh-fermi-ball-simulation) — Computational physics simulation and report modelling Primordial Black Hole (PBH) production via Fermi Ball collapse during a… — Jupyter Notebook · 0 yıldız
+- [ANaceri26/AllWayStopSimulation](https://github.com/ANaceri26/AllWayStopSimulation) — MATLAB simulation of rule-based self-driving cars at a 4-way stop: right-of-way rules, deadlocks, pedestrians, rule-breakers and… — MATLAB · 0 yıldız
 - [anassnewdev/animated-widget-for-hpp](https://github.com/anassnewdev/animated-widget-for-hpp) — Automatically exported from code.google.com/p/animated-widget-for-hpp — Java · 0 yıldız
 - [Anchalgupta1321/ADVST-DataVisualization-and-Storytelling](https://github.com/Anchalgupta1321/ADVST-DataVisualization-and-Storytelling) — Power BI dashboard analyzing fatalities in the Israel-Palestine conflict (Gaza region) and a Manim animation visualizing the… — Python · 0 yıldız
 - [andja45/network-analysis-lab](https://github.com/andja45/network-analysis-lab) — Interactive network graph analysis tool in C++17 and Dear ImGui - custom topologies, animated multi-source BFS, Tarjan's bridge… — C++ · 0 yıldız
@@ -97386,6 +97987,7 @@
 - [Dhruvilgithubrit/HTML-Ai-Chatbot](https://github.com/Dhruvilgithubrit/HTML-Ai-Chatbot) — A web-based AI chat assistant built with HTML, CSS & JavaScript. Supports real-time text conversations. Features dark/light mode,… — HTML · 0 yıldız
 - [Dimi48/sema-squad-3d-showcase](https://github.com/Dimi48/sema-squad-3d-showcase) — An interactive web-based 3D showcase developed for the TU/e SeMa Squad, featuring 3D models, animated camera transitions, and… — CSS · 0 yıldız
 - [dinau/cimanim](https://github.com/dinau/cimanim) — Animation Engine for Dear ImGui in C — C++ · 0 yıldız
+- [divyashree3104-wq/A7-Deadlock-Detection-Member2](https://github.com/divyashree3104-wq/A7-Deadlock-Detection-Member2) — Java-based Deadlock Detection Simulator with an interactive web dashboard, Resource Allocation Graph, animated detection,… — Java · 0 yıldız
 - [dklobucaric/battery-stress-timer](https://github.com/dklobucaric/battery-stress-timer) — A self-hosted PHP + JavaScript browser-based battery stress timer with animated display load, local Web Worker CPU workload,… — PHP · 0 yıldız
 - [dlehgo14/Future-Frame-Prediction-For-Fast-Moving-Objects-with-Motion-Blur](https://github.com/dlehgo14/Future-Frame-Prediction-For-Fast-Moving-Objects-with-Motion-Blur) — Now preparing the source code.. This is not the final refined version. — Python · 0 yıldız
 - [doctorspider42/fbx-anim-merger](https://github.com/doctorspider42/fbx-anim-merger) — Merge FBX animation clips onto one rig, preview them, export to FBX or glTF/GLB. C++20, OpenGL, Dear ImGui. No Autodesk FBX SDK. — C++ · 0 yıldız
@@ -97435,6 +98037,7 @@
 - [Envidious/RoBlocks](https://github.com/Envidious/RoBlocks) — RoBlocks is a scratch inspired block based script program designed for users who want to create scripts in Roblox with ease. — — · 0 yıldız
 - [Ephellon/faster-dead-by-daylight](https://github.com/Ephellon/faster-dead-by-daylight) — This is ONLY a proof of concept. The goal is get a 5 - 10s load time for a game (10 including offerings animation). — — · 0 yıldız
 - [Equinoxtic/AdvancedTween2](https://github.com/Equinoxtic/AdvancedTween2) — A module that's based off of HaxeFlixel's FlxTween -- replicated and recreated to a Roblox module to have more ease when it comes… — Luau · 0 yıldız
+- [Er-Suraj-Jha/OpenGL_Tests](https://github.com/Er-Suraj-Jha/OpenGL_Tests) — This is a small project in OpenGL where I have used lambda functions to do transitions between IMGui buttons. — C++ · 0 yıldız
 - [Eriumsss/Conquest3DViewport](https://github.com/Eriumsss/Conquest3DViewport) — Engine-level reverse-engineered tooling suite for The Lord of the Rings: Conquest (2009) focused on rendering inspection,… — — · 0 yıldız
 - [esraakonswa/brew-and-bean-cafe](https://github.com/esraakonswa/brew-and-bean-cafe) — Modern responsive cafe landing page built with HTML and CSS, featuring a warm coffee-inspired design, menu section, daily… — HTML · 0 yıldız
 - [ezhilarasan-t15/REAL-TIME-SOLDIER-VITAL-SIGNS-GPS-TRACKING-AND-GAS-HAZARD-ALERT-DEVICE](https://github.com/ezhilarasan-t15/REAL-TIME-SOLDIER-VITAL-SIGNS-GPS-TRACKING-AND-GAS-HAZARD-ALERT-DEVICE) — An IoT-based smart defense system that monitors soldier vital signs, GPS location, and environmental hazards in real time. Built… — C++ · 0 yıldız
@@ -97553,6 +98156,7 @@
 - [jack0kk/Airline-Internet-Booking-Engine-](https://github.com/jack0kk/Airline-Internet-Booking-Engine-) — Why does your travel business require Airline Internet Booking Engine? The airline reservation system is a web-based flight… — — · 0 yıldız
 - [jack0kk/XML-API-Integrations-](https://github.com/jack0kk/XML-API-Integrations-) — What is XML API Integration? XML API Integration is ultimately a source of connection which acts as presenter between customer… — — · 0 yıldız
 - [jacobwdv/template-sample-getting-started](https://github.com/jacobwdv/template-sample-getting-started) — a template source repository for EASe — Java · 0 yıldız
+- [Jahnvi13/Distributed-Ray-Tracing](https://github.com/Jahnvi13/Distributed-Ray-Tracing) — This was my project for the Computer Graphics course. I've implemented various fuzzy phenomenon like Antialiasing, Depth of… — C++ · 0 yıldız
 - [JamesPatrickGill/redyq](https://github.com/JamesPatrickGill/redyq) — A simple, redis based queue system built in Rust. Focusing on ease of use and flexibility. — Rust · 0 yıldız
 - [janiyax35/Probability-Calculator](https://github.com/janiyax35/Probability-Calculator) — An interactive web-based tool for calculating and visualizing various probability distributions, featuring animated simulations… — HTML · 0 yıldız
 - [Jarrodtan/warbound-engine](https://github.com/Jarrodtan/warbound-engine) — WarBound: Turn-based grid RPG on a custom C++/OpenGL engine with ECS, Lua scripting, A* pathfinding and an ImGui level editor. I… — C++ · 0 yıldız
@@ -97569,6 +98173,7 @@
 - [Jmacias17/finiteAutomaton](https://github.com/Jmacias17/finiteAutomaton) — This is a Java-based program created for my CS 3350 (Theory of Automata) course at UTEP. The project allows users to define and… — Java · 0 yıldız
 - [jmkdarius5-del/ReAnimator-Reuploader-Roblox-Animations-](https://github.com/jmkdarius5-del/ReAnimator-Reuploader-Roblox-Animations-) — Search for a Roblox Studio Reuploader to have the all animations SPOOFED? Don't worry, you find here! We offer an Reuploader for… — — · 0 yıldız
 - [JoeHolownia/HPC_Primordial_Particles](https://github.com/JoeHolownia/HPC_Primordial_Particles) — A C++ OpenMP / Message Passing Interface (MPI) Implementation of the primordial particle life system from: "How life emerges from… — C++ · 0 yıldız
+- [John-Iliadis/ProjectileMotionSimulation](https://github.com/John-Iliadis/ProjectileMotionSimulation) — A projectile motion simulator written in C++, with OpenGL used for rendering and ImGUI for the gui. — C++ · 0 yıldız
 - [jonatakuzi/ESP32-Motion-Light-Detection-System](https://github.com/jonatakuzi/ESP32-Motion-Light-Detection-System) — This ESP32 sketch combines a PIR motion sensor and an LDR light sensor to detect movement only when the environment is dark. When… — C++ · 0 yıldız
 - [jonathan0626/jonathan_npc](https://github.com/jonathan0626/jonathan_npc) — A FiveM script that allows you to create and manage customizable NPCs in GTA V. You can define NPCs with specific models,… — Lua · 0 yıldız
 - [jonathan0626/jonathan_object](https://github.com/jonathan0626/jonathan_object) — A FiveM script that allows you to create, manage, and display custom props and peds in GTA V. It supports spawning objects with… — Lua · 0 yıldız
@@ -97667,6 +98272,7 @@
 - [Manoj-Developer360/mr_restaurant_static](https://github.com/Manoj-Developer360/mr_restaurant_static) — Modern static restaurant website built with HTML, CSS & JavaScript. Features a cinematic dark UI, responsive design, scroll… — CSS · 0 yıldız
 - [Marcuii/maze-generator-and-solver](https://github.com/Marcuii/maze-generator-and-solver) — 🎯 A modern Python maze generator and pathfinding visualizer with Tkinter GUI. Features 4 algorithms (BFS, DFS, Dijkstra, A),… — Python · 0 yıldız
 - [markmcfuzz/H3CE-FP-Renamer](https://github.com/markmcfuzz/H3CE-FP-Renamer) — A Halo animation files .JMM and .JMO from Halo 3 bone naming format to Halo: Combat Evolved format by adding proper prefixes to… — Lua · 0 yıldız
+- [markusbuchholz/Jansen-Linkage-for.Robot-Motion-in-Cpp-ImGui](https://github.com/markusbuchholz/Jansen-Linkage-for.Robot-Motion-in-Cpp-ImGui) — (açıklama yok) — C++ · 0 yıldız
 - [mason436/MIPS-TrafficSignalSim-CS2253](https://github.com/mason436/MIPS-TrafficSignalSim-CS2253) — A MIPS assembly-based traffic signal controller simulating a four-way intersection with pedestrian crossing functionality.… — Assembly · 0 yıldız
 - [maspaydar/LonePal](https://github.com/maspaydar/LonePal) — HeyGrand is an innovative SaaS platform purpose-built for senior living facilities, addressing one of elder care's most urgent… — TypeScript · 0 yıldız
 - [matearg/landing-page-astro](https://github.com/matearg/landing-page-astro) — Landing page built with Astro and Tailwind CSS v4: typed .astro components, dark mode without a flash on load, and GSAP scroll… — Astro · 0 yıldız
@@ -97720,6 +98326,7 @@
 - [mrjawadd/weather_app](https://github.com/mrjawadd/weather_app) — # Weather App ⛅ A simple weather application built with HTML, CSS, and JavaScript. Features: - Get current weather by city name -… — JavaScript · 0 yıldız
 - [MrWooJ/WJActivityIndicator](https://github.com/MrWooJ/WJActivityIndicator) — WJActivityIndicator is a collection of loading animations in Objective-C. — Objective-C · 0 yıldız
 - [MsBharathraj75/portfolio](https://github.com/MsBharathraj75/portfolio) — A professional React-based portfolio website showcasing my skills, projects, and contact details. Features include dark mode… — JavaScript · 0 yıldız
+- [mshupliakou/image-transitions](https://github.com/mshupliakou/image-transitions) — High-performance C++ tool for creating and exporting professional 2D/3D image transitions. Powered by SFML 3.0 and Dear ImGui… — C++ · 0 yıldız
 - [MTCodes01/Pixel-Motion](https://github.com/MTCodes01/Pixel-Motion) — My first C++ project which is like a wallpaper engine! — — · 0 yıldız
 - [muhammadrayyankashif/Open_Source_Portfolio](https://github.com/muhammadrayyankashif/Open_Source_Portfolio) — Ultra-sleek, dark-mode 4-page developer portfolio template built with Next.js 16, React 19, Tailwind CSS v4, and Framer Motion. — TypeScript · 0 yıldız
 - [muhammadshamilv/MyPortfolio](https://github.com/muhammadshamilv/MyPortfolio) — Modern, animated developer portfolio built with React 19, TypeScript, Tailwind CSS v4 & Framer Motion — featuring a glassmorphic… — TypeScript · 0 yıldız
@@ -97878,6 +98485,7 @@
 - [russells-crockpot/segsource](https://github.com/russells-crockpot/segsource) — Use segments of sources to ease processing data — Rust · 0 yıldız
 - [rustledotdev/rustle.dev](https://github.com/rustledotdev/rustle.dev) — Rustle.dev is an AI-powered i18n SDK that automatically extracts, translates, and manages multilingual content in React and… — TypeScript · 0 yıldız
 - [RutujRaul/Machine-Learning-Credit-Card-Fraud-Detection-System](https://github.com/RutujRaul/Machine-Learning-Credit-Card-Fraud-Detection-System) — Fraud Detection System is a machine learning web app built with Flask to predict fraudulent transactions. It uses the Isolation… — CSS · 0 yıldız
+- [RychlyTomas22/Grafika-2](https://github.com/RychlyTomas22/Grafika-2) — C++ OpenGL 4.6 course project with shaders, animated lighting, collisions, particles, and ImGui controls. — C++ · 0 yıldız
 - [saanavipatnaik0111/AI_digitalassignment2](https://github.com/saanavipatnaik0111/AI_digitalassignment2) — The Python code trains a Random Forest classifier on motion sensor data to distinguish between tremors and intentional movements.… — — · 0 yıldız
 - [Saaruvathani/automatic-room-light-system](https://github.com/Saaruvathani/automatic-room-light-system) — This project implements an automatic room lighting system using the Arduino IDE. The system intelligently controls a light based… — C++ · 0 yıldız
 - [safakamali/sample-loading](https://github.com/safakamali/sample-loading) — A sample loading with shadow and animation! — CSS · 0 yıldız
@@ -97941,6 +98549,7 @@
 - [Shivendraaaa/Banking-Management-Software](https://github.com/Shivendraaaa/Banking-Management-Software) — Banking Management Software Using concepts of Oops , C++ and loading Animation. — Python · 0 yıldız
 - [shivraj178/Iron-Forge-Gym-Website](https://github.com/shivraj178/Iron-Forge-Gym-Website) — IronForge Gym is a modern, fully responsive, and highly customizable gym website built to showcase premium fitness centers,… — — · 0 yıldız
 - [shrimpwtf/capsolver](https://github.com/shrimpwtf/capsolver) — Rust SDK for effortless integration of Capsolver – the versatile captcha solving service supporting popular captchas like… — Rust · 0 yıldız
+- [Shubha-fm/tla_python_studio](https://github.com/Shubha-fm/tla_python_studio) — A web-based TLA+ to Python conversion and formal verification studio with state-space exploration, interactive transition graphs,… — Python · 0 yıldız
 - [shubhamaryal/gta-vi](https://github.com/shubhamaryal/gta-vi) — A GTA VI loading animation using React.JS — JavaScript · 0 yıldız
 - [shudhanshu-03/Mini-Sidebar](https://github.com/shudhanshu-03/Mini-Sidebar) — A sleek, Dark Luxury aesthetic sidebar menu featuring fluid micro-animations, glassmorphism, and a zero-dependency architecture. — CSS · 0 yıldız
 - [Shunya-PESU-RR/Shunya](https://github.com/Shunya-PESU-RR/Shunya) — This repository contains the full source code for the official SHUNYA web platform, engineered with a modern dark-mode aesthetic,… — TypeScript · 0 yıldız
@@ -97968,6 +98577,7 @@
 - [solufelo/light-years-engine](https://github.com/solufelo/light-years-engine) — High-performance C++20 2D game engine, parametric animation pipeline & subsystem micro-profiler compiled to WebAssembly (WASM)… — C++ · 0 yıldız
 - [SORA123k/blur](https://github.com/SORA123k/blur) — blur 2.45 多语言界面版（简中/繁中/English/日本語/한국어/Русский/Español/Français/Deutsch/Português）· 基于 f0e/blur 的 GPL-3.0 分支 · Windows 便携版与安装版 — C++ · 0 yıldız
 - [sormond319/ASCII-Art-Editor](https://github.com/sormond319/ASCII-Art-Editor) — ASCII text art editor written in c++ for a school group project. Features undo/redo, load and save functionality, and animation… — C++ · 0 yıldız
+- [Souto-Naitou/Easing_ImGui](https://github.com/Souto-Naitou/Easing_ImGui) — Easy Easing Class — C++ · 0 yıldız
 - [Sp1ke1/WesternCity](https://github.com/Sp1ke1/WesternCity) — C++ OpenGL application featuring Phong lighting, asset loading, quaternion rotations, interactive animations. — C++ · 0 yıldız
 - [Spades-Ace/GraphR34p3r](https://github.com/Spades-Ace/GraphR34p3r) — Interactive graph visualizer built with React and React Flow. Create, edit, and manage node-based graphs with ease. Supports… — JavaScript · 0 yıldız
 - [SparkeyinVA/CMD_Sample_Code](https://github.com/SparkeyinVA/CMD_Sample_Code) — Sample Source Code for CMD-4CR motion Controller — Visual Basic .NET · 0 yıldız
@@ -97982,6 +98592,7 @@
 - [StavrosMetalGear/ThermodynamicsCore](https://github.com/StavrosMetalGear/ThermodynamicsCore) — Interactive thermodynamics & statistical mechanics simulator with 50 physics modules. Built in C++17 with Dear ImGui/ImPlot for… — — · 0 yıldız
 - [Stephen5421/WeatherAppProject-Java-Based-Real-Time-Weather-Forecast-App](https://github.com/Stephen5421/WeatherAppProject-Java-Based-Real-Time-Weather-Forecast-App) — WeatherAppProject is a Java-based 🌟 desktop app that delivers real-time weather updates & forecasts using the OpenWeather API.… — Java · 0 yıldız
 - [SternDK/xk-loading](https://github.com/SternDK/xk-loading) — Experience a sleek and responsive loading screen built on qb-core. Deliver seamless transitions, fast loading times, and full… — JavaScript · 0 yıldız
+- [StormLord07/imGUI_tests](https://github.com/StormLord07/imGUI_tests) — This repo might become a motion tracking software... or not, we will see — C++ · 0 yıldız
 - [StrandGear/3D-Valorant-card](https://github.com/StrandGear/3D-Valorant-card) — Animated card following cursor. Based on concept of https://www.artstation.com/artwork/d8Ovb3 — CSS · 0 yıldız
 - [su-priya-06/book-recommendation-system](https://github.com/su-priya-06/book-recommendation-system) — 📚 Book Recommendation App is a sleek web app that suggests books based on title, author, or genre using the Google Books API. It… — HTML · 0 yıldız
 - [su3se/loading_sample_01](https://github.com/su3se/loading_sample_01) — loading animation HTML/CSS/JavaScript — HTML · 0 yıldız
@@ -98058,6 +98669,7 @@
 - [udaybodana-dev/animated-navigation](https://github.com/udaybodana-dev/animated-navigation) — A clean, premium, and fully responsive navigation menu with a smooth dark overlay and an interactive changing hamburger icon.… — CSS · 0 yıldız
 - [umaima111/Apexcify-technology_Calculator](https://github.com/umaima111/Apexcify-technology_Calculator) — An html , css , js based project with live background . Focused on creating a clean UI with smooth animations and interactive… — HTML · 0 yıldız
 - [umerkhan-12/Palindrome_checker](https://github.com/umerkhan-12/Palindrome_checker) — A GUI-based Pushdown Automaton (PDA) Palindrome Checker built with Python, Tkinter, and ttkbootstrap. Features animated stack… — Python · 0 yıldız
+- [umi-max/fungal-interaction-outcomes](https://github.com/umi-max/fungal-interaction-outcomes) — HTML5 canvas animation of fungal interaction outcomes (Replacement, Deadlock, Metabiosis, Antibiosis), based on Awan and Asiegbu… — HTML · 0 yıldız
 - [UnaiMorentinPinedo/AnimationFramework](https://github.com/UnaiMorentinPinedo/AnimationFramework) — Animation framework implemented in C++ from scratch. It uses GLTF to load skinned models and animations. — — · 0 yıldız
 - [unicitynetwork/state-transition-sdk-rust](https://github.com/unicitynetwork/state-transition-sdk-rust) — (açıklama yok) — Rust · 0 yıldız
 - [UNLO8CK/u8_weatherSync](https://github.com/UNLO8CK/u8_weatherSync) — Real-time game clock and live Budapest weather sync for FiveM, with smooth transitions, rotating clouds, a winter snow season… — Lua · 0 yıldız
@@ -98101,6 +98713,7 @@
 - [WonkyWumpus/centos-systemd-sshd-easy](https://github.com/WonkyWumpus/centos-systemd-sshd-easy) — Centos 7 with systemd and sshd with automatic configuration of keys and DNS tweaks for ease of use — Shell · 0 yıldız
 - [WowiLoveSchwepps/PlanetStudio](https://github.com/WowiLoveSchwepps/PlanetStudio) — Animation studio in pure Rust, in the spirit of Source Filmmaker, for PlanetSide 2 models. Reads the game's .pack2 archives… — Rust · 0 yıldız
 - [Wraith-Core/w_loading](https://github.com/Wraith-Core/w_loading) — Configurable Red Dead survey-plate loading screen and transition curtain for RedM — JavaScript · 0 yıldız
+- [xdariko/cg-airship-project](https://github.com/xdariko/cg-airship-project) — 3D delivery game: Santa’s ship, targets, animated clouds and aiming camera. OpenGL, SFML, ImGui, GLM, Assimp. — C++ · 0 yıldız
 - [xJosephMorganx/voltmeter_esp32](https://github.com/xJosephMorganx/voltmeter_esp32) — ESP32 web voltmeter with ADC reading, animated gauge UI, dark mode, and embedded HTML/CSS/JS served directly from the board. — C · 0 yıldız
 - [Y90G7IYO0987/CombatSystem](https://github.com/Y90G7IYO0987/CombatSystem) — ⚔️ An advanced OOP-based combat system for Roblox with dashing, sword mechanics, hitbox detection, VFX, and animations — Luau · 0 yıldız
 - [yamunapikkili/age-calculator.github.io](https://github.com/yamunapikkili/age-calculator.github.io) — A modern and animated Age Calculator web app built using HTML, CSS, and JavaScript that calculates exact age, next birthday… — JavaScript · 0 yıldız
@@ -98192,6 +98805,7 @@
 - [wandergis/arcgis-echarts](https://github.com/wandergis/arcgis-echarts) — A plugin for ArcGIS JS API to load echarts map and Make big data visualization easier. — JavaScript · 170 yıldız
 - [bwrsandman/imgui-flame-graph](https://github.com/bwrsandman/imgui-flame-graph) — A Dear ImGui Widget for displaying Flame Graphs. — C++ · 167 yıldız
 - [Anandb71/arbor](https://github.com/Anandb71/arbor) — Graph-native code intelligence that replaces embedding-based RAG with deterministic program understanding. — Rust · 163 yıldız
+- [VladDBA/PSBlitz](https://github.com/VladDBA/PSBlitz) — a PowerShell-based tool that outputs SQL Server health and performance diagnostics data to either Excel or HTML, and saves… — TSQL · 159 yıldız
 - [Chaf-Libraries/Ilum](https://github.com/Chaf-Libraries/Ilum) — Ilum graphics playground for learning — C++ · 158 yıldız
 - [microsoftgraph/msgraph-sample-phpapp](https://github.com/microsoftgraph/msgraph-sample-phpapp) — This sample demonstrates how to use the Microsoft Graph .NET SDK to access data in Office 365 from PHP web apps. — PHP · 158 yıldız · arşiv
 - [sreeise/graph-rs-sdk](https://github.com/sreeise/graph-rs-sdk) — Microsoft Graph API Client And Identity Platform Client in Rust — Rust · 151 yıldız
@@ -98387,6 +99001,7 @@
 - [KavindaDulhan/Eye-Diagrams-of-PAM-Signalling](https://github.com/KavindaDulhan/Eye-Diagrams-of-PAM-Signalling) — Eye diagrams are used for visual analysis of the severity of inter symbol interference (ISI), accuracy of sampling timing… — MATLAB · 13 yıldız
 - [kickstage/bamboogrid](https://github.com/kickstage/bamboogrid) — Web-based power grid modeling and load flow simulation, built on Pandapower. No installation required. — TypeScript · 13 yıldız
 - [MagiX7/Zenit](https://github.com/MagiX7/Zenit) — Zenit Editor is a material editor node-based in OpenGL and C++ for the final thesis at UPC-CITM. — C++ · 13 yıldız
+- [navigationcn/mobile-AGV-optimization](https://github.com/navigationcn/mobile-AGV-optimization) — An implementation of the Switchable Action Dependency Graph (SADG) based optimization scheme to re-order mobile AGVs in… — — · 13 yıldız
 - [openwave-studio/openvj](https://github.com/openwave-studio/openvj) — Fast, open-source VJ software built with Rust for live video mixing, music visualization, and media playback. — GLSL · 13 yıldız
 - [Refloow/Refloow-Video-Editor](https://github.com/Refloow/Refloow-Video-Editor) — ❤️ Refloow Video Editor is an free open-source desktop video editor, no watermarks, no data collection, dark mode, intuitive… — JavaScript · 13 yıldız
 - [ropensci/Rpolyhedra](https://github.com/ropensci/Rpolyhedra) — A polyhedra database scraped from public available sources using R6 (OOP) and 'rgl' visualizing capabilities. — R · 13 yıldız
@@ -98436,6 +99051,7 @@
 - [EdoardoGruppi/Deep_Understanding_of_AI_Based_Drug_Discovery](https://github.com/EdoardoGruppi/Deep_Understanding_of_AI_Based_Drug_Discovery) — The present study is finalised to determine the most advanced models in the literature capable of producing new high-quality… — Python · 10 yıldız
 - [hlophlopgaming/DraugrTime](https://github.com/hlophlopgaming/DraugrTime) — Open-source ManicTime alternative. Automatic time tracking with a timeline of apps, windows and idle time — native Rust/Iced… — Rust · 10 yıldız
 - [HODAKdev/ImGuiWidgets](https://github.com/HODAKdev/ImGuiWidgets) — This library provides a collection of visualization widgets for your project! — C++ · 10 yıldız
+- [jlcalvo/PathPlanning-CollisionAvoidance](https://github.com/jlcalvo/PathPlanning-CollisionAvoidance) — Path-planning for multi-robot systems based on Voronoi diagram with a method to avoid collisions and prevent deadlocks using… — C++ · 10 yıldız
 - [JNX03/Flowtake](https://github.com/JNX03/Flowtake) — Open-source local-first screen recorder and timeline editor for polished developer demos. — JavaScript · 10 yıldız
 - [LovelyO0Sam/CS2-Key-Visualization](https://github.com/LovelyO0Sam/CS2-Key-Visualization) — konular: analysis, counter-strike, counter-strike-2, cs2, csgo, demo — Python · 10 yıldız
 - [mauget/railroutes_cmd](https://github.com/mauget/railroutes_cmd) — This command-line app loads an embedded Neo4j graph database with publically available railroad locations to display shortest… — Java · 10 yıldız
@@ -98583,6 +99199,7 @@
 - [kokobot/bot](https://github.com/kokobot/bot) — //----------------- AingCreations made this ©2013 -----------------// /* TRIGGERS: ---------- scanTamlan() --> per- 1 Jam -->… — — · 5 yıldız
 - [legalaspro/fastbot_nav2_web](https://github.com/legalaspro/fastbot_nav2_web) — Web-based navigation interface for ROS 2 Fastbot robots, featuring real-time 3D/2D visualization, goal setting, camera streaming,… — JavaScript · 5 yıldız
 - [LynnFernandes23/Movie-Recommedation-System](https://github.com/LynnFernandes23/Movie-Recommedation-System) — I developed a sophisticated movie recommendation system using Python, leveraging key libraries such as Pandas, NumPy,… — Jupyter Notebook · 5 yıldız
+- [mohamadrezaMH/Detection-Prevention-and-Avoidance-of-Deadlock-in-Operating-Systems](https://github.com/mohamadrezaMH/Detection-Prevention-and-Avoidance-of-Deadlock-in-Operating-Systems) — A project focusing on the simulation, detection, and resolution of deadlock scenarios in operating systems using a graph-based… — Python · 5 yıldız
 - [mxpv/rps](https://github.com/mxpv/rps) — Rust wrapper for AMD Render Pipeline Shaders SDK — Rust · 5 yıldız
 - [naetherm/imgui-node-editor](https://github.com/naetherm/imgui-node-editor) — Imgui-node-editor implementation with cmake support for building a static library imgui-node-editor.a. — C++ · 5 yıldız
 - [OpenAbility/OpenAbility.ImGui.Nodes](https://github.com/OpenAbility/OpenAbility.ImGui.Nodes) — A Node Editor written in C# for ImGui.NET — C# · 5 yıldız
@@ -98608,6 +99225,7 @@
 - [arya51-ai/ignis](https://github.com/arya51-ai/ignis) — A from-scratch LLM inference engine in Rust with a real tensor-graph compiler. Loads GGUF models and runs Qwen2 end to end with… — Rust · 4 yıldız
 - [Atiya/Sudoku_JavaScript_html_css_etc](https://github.com/Atiya/Sudoku_JavaScript_html_css_etc) — This is a Sudoku puzzle game that I created for a Web Programming class at UVU. There are five difficulty levels which, the… — JavaScript · 4 yıldız
 - [BALADURGAG24/bmi-health-tracker-react](https://github.com/BALADURGAG24/bmi-health-tracker-react) — React-based BMI & Health Tracker app with goal setting, real-time chart visualization using Recharts, dark mode toggle, and… — JavaScript · 4 yıldız
+- [bezlant/s21_math_solver](https://github.com/bezlant/s21_math_solver) — 🧮 A simple math expression evaluator built wtih Imgui. (School 42) — C · 4 yıldız
 - [bircni/DiagramGenerator](https://github.com/bircni/DiagramGenerator) — Generate a Diagram from Rust Source Code — Rust · 4 yıldız · arşiv
 - [Brendonovich/macrograph-rs](https://github.com/Brendonovich/macrograph-rs) — Node-based programming engine written entirely in Rust — Rust · 4 yıldız · arşiv
 - [c-u-l8er/graphonomous](https://github.com/c-u-l8er/graphonomous) — Agent memory that improves itself! Most memory systems are key-value stores with embeddings. Graphonomous is a closed loop —… — Elixir · 4 yıldız
@@ -98717,6 +99335,7 @@
 - [praveenyadav48/Smart_Irrigation_System_Using_AIML](https://github.com/praveenyadav48/Smart_Irrigation_System_Using_AIML) — A machine learning-based decision support system for smart irrigation. Using Random Forest on features like crop type, soil… — Python · 3 yıldız
 - [priyagup/Feedback-Management-System](https://github.com/priyagup/Feedback-Management-System) — * FMS (Feedback Management System) is the system designed to help hotel management to get the maximum feedbacks from customer &… — PHP · 3 yıldız
 - [roseckyj/TerraTinker](https://github.com/roseckyj/TerraTinker) — TerraTinker is a node-based tool for transforming geospatial data into Minecraft maps — TypeScript · 3 yıldız
+- [roshan-poudhyal/AI-Deadlock](https://github.com/roshan-poudhyal/AI-Deadlock) — **AI-Deadlock** is an intelligent system designed to **predict, detect, and resolve deadlocks** in concurrent processes using… — JavaScript · 3 yıldız
 - [saffiullah1314/MNIST-Digit](https://github.com/saffiullah1314/MNIST-Digit) — A Streamlit-based web app that predicts handwritten digits (0–9) using a trained CNN model on the MNIST dataset. Users can draw… — Python · 3 yıldız
 - [saifkwik/Valfred-Valorant-Game-Assistant](https://github.com/saifkwik/Valfred-Valorant-Game-Assistant) — Get Visual data statistics report of your played Competitive matches. The statistics report is formatted in pdf and it will ask… — Python · 3 yıldız
 - [saiyagatos/lexicoding](https://github.com/saiyagatos/lexicoding) — 🌐 Explore a living glossary of key terms and protocols that support the Lexicoding system for decoding reality and authoring… — HTML · 3 yıldız
@@ -98730,6 +99349,7 @@
 - [shoumo95/csx4337-project](https://github.com/shoumo95/csx4337-project) — DenseNet Implementation with Transfer Learning to retrain an ImageNet dataset trained convolutional neural network model to… — Python · 3 yıldız
 - [SigKillRoot/Ultionis-Plot-Manager](https://github.com/SigKillRoot/Ultionis-Plot-Manager) — Plot manager using MadMax's plotter, pulls chia keys on linux systems that have chia gui installed. Uses GUI elements to input… — Shell · 3 yıldız
 - [skunal3318/Robotic-Arm-Elephant-Robotics](https://github.com/skunal3318/Robotic-Arm-Elephant-Robotics) — ROS2-based model of Elephant Robotics MyCobot 6-DOF robotic arm with accurate kinematic structure and visualization support in… — CMake · 3 yıldız
+- [SoumiryaSarangi/OS-CA-Automated-Deadlock-Detection-Tool](https://github.com/SoumiryaSarangi/OS-CA-Automated-Deadlock-Detection-Tool) — Interactive web tool for automated deadlock detection in operating systems using Matrix-Based and Wait-For Graph algorithms with… — JavaScript · 3 yıldız
 - [SourangshuGhosh/Reverse-Cuthill-McKee-Ordering-in-F90](https://github.com/SourangshuGhosh/Reverse-Cuthill-McKee-Ordering-in-F90) — The Cuthill-Mckee algorithm is used for the reordering of a symmetric square matrix. It is based on the Breadth-First Search… — Fortran · 3 yıldız
 - [Sulayam/Resume-ATS-Scanner-Project-](https://github.com/Sulayam/Resume-ATS-Scanner-Project-) — ATS Scanner for Resumes using Data Analytics in Jupyter Notebook to optimize resumes. Key features: resume parsing, keyword… — HTML · 3 yıldız
 - [SuperProgrammingMaster/bedrock-baked-ui](https://github.com/SuperProgrammingMaster/bedrock-baked-ui) — HTML/CSS/Canvas to Minecraft Bedrock JsonUI + Entity Inventory UI compiler & runtime SDK — TypeScript · 3 yıldız
@@ -98756,6 +99376,7 @@
 - [akankshaingale06-star/KrishiMitra](https://github.com/akankshaingale06-star/KrishiMitra) — *KrishiMitra: A professional AI smart farming dashboard for Indian farmers. Features multilingual support, soil-based crop… — HTML · 2 yıldız
 - [AkulaSerona/serverconfig](https://github.com/AkulaSerona/serverconfig) — ===================================================================== == C:\SERVICES\ni402753_1\arma3\arma3server.exe ==… — — · 2 yıldız
 - [Anishpuj/NatHackR3](https://github.com/Anishpuj/NatHackR3) — This is a final model on data visualisation where we do person detection , tracking and assigning univocal id and analysing the… — Python · 2 yıldız
+- [antmicro/darknet-imgui-visualization](https://github.com/antmicro/darknet-imgui-visualization) — (açıklama yok) — C++ · 2 yıldız
 - [arneph/Lyn](https://github.com/arneph/Lyn) — This project is about GUI based coding, instead of text based coding. https://youtu.be/KXqfVfjeToU The entire code (resembling C… — Objective-C · 2 yıldız
 - [arunumd/A-Star-Algorithm-for-path-finding-in-2d-maze-Cpp](https://github.com/arunumd/A-Star-Algorithm-for-path-finding-in-2d-maze-Cpp) — This repository contains source code for ENPM809Y final project on search algorithm for autonomous robots moving on a 2d maze.… — C++ · 2 yıldız
 - [aurigma/CustomersCanvasSamples](https://github.com/aurigma/CustomersCanvasSamples) — Code examples for Customer's Canvas SDK by Aurigma — HTML · 2 yıldız
@@ -98766,10 +99387,12 @@
 - [BlockNotes-4515/Multiple-Disease-Detection-System-All_In_One-](https://github.com/BlockNotes-4515/Multiple-Disease-Detection-System-All_In_One-) — 🩺 Heart Disease Detection System 💓 This AI tool predicts heart disease risk by analyzing key health metrics like age,… — Jupyter Notebook · 2 yıldız
 - [blucia0a/raphy](https://github.com/blucia0a/raphy) — A Rust-based Graph library — Rust · 2 yıldız
 - [Brad0408/Fix-The-Factory](https://github.com/Brad0408/Fix-The-Factory) — Final year project for uni. 3D interactive physics based puzzle game created in Unreal Engine 5 using blueprint and C++ — C++ · 2 yıldız
+- [CalmaCodes/Resource-Allocation-Graph-Visualizer](https://github.com/CalmaCodes/Resource-Allocation-Graph-Visualizer) — Interactive OS project for visualizing resource allocation, deadlock detection, circular wait conditions, and recovery strategies… — JavaScript · 2 yıldız
 - [CanReader/fastnn-visualizer](https://github.com/CanReader/fastnn-visualizer) — Web app that trains a FastNN MLP on MNIST and visualizes predictions live — Rust · 2 yıldız
 - [cddesire/maiterstore](https://github.com/cddesire/maiterstore) — MaiterStore is a basic storage based on key-value table graph processing system. — C++ · 2 yıldız
 - [Charliem60/Early-Apex-Analytics-](https://github.com/Charliem60/Early-Apex-Analytics-) — Early Apex Analytics is a GUI based app that is designed to give users insights into Formula One Telemetry Data — Python · 2 yıldız
 - [ClearmanChen/HalfEdge-QEM](https://github.com/ClearmanChen/HalfEdge-QEM) — An efficient implementation of Quadric Error Metrics (QEM mesh simplification using half-edge data structure, featuring real-time… — C++ · 2 yıldız
+- [Clwmm/BST_Visualization_Linux](https://github.com/Clwmm/BST_Visualization_Linux) — Binary Search Tree Visualization using C++, SFML, and ImGui — C++ · 2 yıldız
 - [codeadvance/MySQLandPowerBI](https://github.com/codeadvance/MySQLandPowerBI) — Project contains data mining, transformation, loading, visualization using MYSQL and PowerBI together — — · 2 yıldız
 - [couplewith/corona-snmp](https://github.com/couplewith/corona-snmp) — Async SNMP monitoring Engine with RRD Graph generator for Web. gathering item are cpu usage, system load, memory (allocation,… — Perl · 2 yıldız
 - [crashkid3000/CsgoDamageVisualizer](https://github.com/crashkid3000/CsgoDamageVisualizer) — CS:GO damage visualization program and app and everything — C# · 2 yıldız
@@ -98788,6 +99411,7 @@
 - [Dream-Pixels-Forge/vanguard-emboss-uikit](https://github.com/Dream-Pixels-Forge/vanguard-emboss-uikit) — Premium neumorphic (soft UI) React component library. Components appear seamlessly extruded from or recessed into the canvas… — TypeScript · 2 yıldız
 - [Earth-Kumar-Roy/Canvas-PDF-to-HTML](https://github.com/Earth-Kumar-Roy/Canvas-PDF-to-HTML) — A lightweight, browser-based tool that converts PDF files into downloadable HTML pages by rendering each PDF page as an image.… — HTML · 2 yıldız
 - [EnJunChoong/RoadToZeroFatality](https://github.com/EnJunChoong/RoadToZeroFatality) — UK 2005-2015 Fatal Accidents Visualization on Shiny — R · 2 yıldız
+- [ErsjanKeri/SimDynamiX](https://github.com/ErsjanKeri/SimDynamiX) — C++ graphical user interface application to configure and simulate population dynamics and their movement on a discrete grid.… — C++ · 2 yıldız
 - [fabianbormann/rocket5-react-blueprint](https://github.com/fabianbormann/rocket5-react-blueprint) — A simple blueprint of a rust rocket.rs 5.x based backend with a react (cra) frontend — Rust · 2 yıldız
 - [fdonel99/Movie-Genre-Prediction](https://github.com/fdonel99/Movie-Genre-Prediction) — With the final goal of identify the genre of a movie based on its plot, the project deals with: Data Cleaning, Data Exploratory… — Jupyter Notebook · 2 yıldız
 - [fernandomelchor/NYC_MTA_Subway_Network](https://github.com/fernandomelchor/NYC_MTA_Subway_Network) — MTA Subway System before and after L-Train closure — Jupyter Notebook · 2 yıldız
@@ -98810,6 +99434,7 @@
 - [jaxsonp/factoryscript](https://github.com/jaxsonp/factoryscript) — An interpreted, graph-based esolang — Rust · 2 yıldız
 - [Jgocunha/imgui-platform-kit](https://github.com/Jgocunha/imgui-platform-kit) — Cross-platform toolkit designed to facilitate the development of user interfaces using Dear ImGui, ImPlot, and imgui-node-editor, — C++ · 2 yıldız
 - [JiveyGuy/Big0Time](https://github.com/JiveyGuy/Big0Time) — COSC2336 - Lab 3 Studdy the impact of O() on a problem solution and learn to design and tweak an experiment: 1 - Use the 3… — Java · 2 yıldız
+- [JxD8y/PrattCalc](https://github.com/JxD8y/PrattCalc) — A visualizer for the pratt parsing algorithm — C++ · 2 yıldız
 - [karvelasstav/ChaosNode](https://github.com/karvelasstav/ChaosNode) — a modding tool that acts as a node editor for the video game "CubeChaos" using imgui — C++ · 2 yıldız
 - [khalilboughzou/Financial-Dashboard-Implementation-KPMG](https://github.com/khalilboughzou/Financial-Dashboard-Implementation-KPMG) — This project is currently at realization and mainly consists of : *Extract - Transform - Load : Apply ETL process on Clients… — — · 2 yıldız
 - [khandelwal20sid/covid19-tracker](https://github.com/khandelwal20sid/covid19-tracker) — The app tracks the total number of Reported cases, death toll and confirmed recoveries all around the world. One can select the… — JavaScript · 2 yıldız
@@ -98840,6 +99465,7 @@
 - [mtalha91/Phaser.io-Game-Sample-Wrapper](https://github.com/mtalha91/Phaser.io-Game-Sample-Wrapper) — Phaser.io HTML5 game wrapper for developer for landscape and portrait view from desktop to smart screen devices. Boilerplate Menu… — HTML · 2 yıldız
 - [murali127/Wedding-Management-system-UML-diagrams-Object-oriented-analysis-and-design](https://github.com/murali127/Wedding-Management-system-UML-diagrams-Object-oriented-analysis-and-design) — This repository contains UML diagrams for the Wedding Management System, showcasing the system's architecture and key… — — · 2 yıldız
 - [NayameoW/T-SNE-Visualization-of-imagenette](https://github.com/NayameoW/T-SNE-Visualization-of-imagenette) — This is a visualization for the imagenette dataset. It uses the final features of a model trained from scratch. — Jupyter Notebook · 2 yıldız
+- [nischal202006/Transaction_manager](https://github.com/nischal202006/Transaction_manager) — Designed and implemented a multi-threaded transaction manager in C++ supporting concurrent execution, lock-based synchronization,… — Makefile · 2 yıldız
 - [nscharrer/graph-theory-scheduler](https://github.com/nscharrer/graph-theory-scheduler) — Python based application for using graph theory to visualize and create final exam schedules that are non-conflicting. — Python · 2 yıldız
 - [OmarWaled30/Comprehensive-Digital-Twin-For-EVs](https://github.com/OmarWaled30/Comprehensive-Digital-Twin-For-EVs) — Digital Twin for Autonomous Electric Vehicles This repository presents a comprehensive digital twin framework for autonomous… — Python · 2 yıldız
 - [pinos19/chess_game_in_C](https://github.com/pinos19/chess_game_in_C) — Creation of a chess game in C, profiles configuration, play against an AI, integration of a timer, visualisation of ended games,… — C · 2 yıldız
@@ -98897,6 +99523,7 @@
 - [YousefE1bana/solar-odyssey](https://github.com/YousefE1bana/solar-odyssey) — A scientific space-exploration sandbox and C++17/OpenGL 4.5 graphics showcase for Windows. — C++ · 2 yıldız
 - [ZaurAliev542/Random-Forest-Classification-Iris-Dataset](https://github.com/ZaurAliev542/Random-Forest-Classification-Iris-Dataset) — Random Forest Classification using the Iris dataset. This notebook covers data preparation, train-test splitting, model training,… — Jupyter Notebook · 2 yıldız
 - [zygim4ntas/noise-reduction-tool](https://github.com/zygim4ntas/noise-reduction-tool) — ProNoiseDAW is a real-time AI-powered noise reduction tool built with RNNoise, featuring a modern glassmorphic GUI. — C++ · 2 yıldız
+- [090TYPE/memscope](https://github.com/090TYPE/memscope) — Real-time heap memory visualizer for C++ — built with Dear ImGui — C++ · 1 yıldız
 - [2006biswa/HACKATHON-SQUAD](https://github.com/2006biswa/HACKATHON-SQUAD) — A blazing-fast C++20 solver for the Maximum Weight Independent Set problem, achieving 99.97% accuracy on graphs with 200K+ nodes. — C++ · 1 yıldız
 - [22coffeeboi/Football-Analytics-with-Tactical-Map-Representation-Detection](https://github.com/22coffeeboi/Football-Analytics-with-Tactical-Map-Representation-Detection) — Developed a football analytics system to detect key events and generate tactical maps from video footage. Utilized computer… — Jupyter Notebook · 1 yıldız
 - [5Swati5/Analyzing-the-stock-prices-using-Deep-Learning-Algorithms](https://github.com/5Swati5/Analyzing-the-stock-prices-using-Deep-Learning-Algorithms) — Time series ase studies are one of the most challenging problems in finncial engineering forecast since it adds complexity of a… — Jupyter Notebook · 1 yıldız
@@ -98909,6 +99536,7 @@
 - [abctxt/game](https://github.com/abctxt/game) — Isometric 2D game simulation, experimentation, and visualization tool built on SDL3-CS and ImGui.NET. — C# · 1 yıldız
 - [abelsebhatleab-hub/gta-6-launch-analytics](https://github.com/abelsebhatleab-hub/gta-6-launch-analytics) — Grand Theft Auto VI launch analytics: trailer records, 3.79B day-one sales, Take-Two share price, review scores, and a… — Jupyter Notebook · 1 yıldız
 - [abhijitsamui/apexchart_react](https://github.com/abhijitsamui/apexchart_react) — we will take a look at the ApexChart open source library for creating charts to display data. We will build a simple chart using… — JavaScript · 1 yıldız
+- [Abhinav-A-R/cpu-scheduling-simulator](https://github.com/Abhinav-A-R/cpu-scheduling-simulator) — A web-based OS simulator that visualizes CPU and disk scheduling algorithms (FCFS, SJF, Round Robin, Priority, etc.) and Banker’s… — JavaScript · 1 yıldız
 - [Abhishekk-IND/Operating-System](https://github.com/Abhishekk-IND/Operating-System) — 📌 Comprehensive About Operating System with diagrams & key concepts. Covers OS types, architecture, memory management, and more!… — — · 1 yıldız
 - [AbishekKrishnan-web/Sports-Player-Performance-Drop-Prediction-Using-ML-And-Visualization-Dashboard](https://github.com/AbishekKrishnan-web/Sports-Player-Performance-Drop-Prediction-Using-ML-And-Visualization-Dashboard) — The methodology begins with collecting player performance data from a CSV dataset. The data is preprocessed, relevant features… — HTML · 1 yıldız
 - [Abishrii/ai-lecture-analyzer](https://github.com/Abishrii/ai-lecture-analyzer) — AI-powered system that converts YouTube lecture videos into structured notes, key concepts & knowledge graphs using Whisper,… — Python · 1 yıldız
@@ -98937,16 +99565,19 @@
 - [albanywang2000/FXCM](https://github.com/albanywang2000/FXCM) — FXCM ForexConnect API was designed and provided by FXCM. This SDK is designed to get trading data, trade, load price histories… — C++ · 1 yıldız
 - [AlexJamesDean/ajd-crafting](https://github.com/AlexJamesDean/ajd-crafting) — Full-Suite QBCore Crafting Framework - AJD Crafting replaces every duct-taped crafting script with a cinematic,… — Lua · 1 yıldız
 - [AlexMollard/AetherCore](https://github.com/AlexMollard/AetherCore) — A C++26 Vulkan game engine: per-project editor flavours, bindless renderer, hot-reloadable C# gameplay, and a runtime that ships… — C++ · 1 yıldız
+- [AlexMollard/EnetPlayGround](https://github.com/AlexMollard/EnetPlayGround) — 🌐 A C++ networking sandbox for experimenting with ENet protocol - featuring client-server architecture, reliable UDP… — C · 1 yıldız
 - [Alirazanaq/TBMH-VDF](https://github.com/Alirazanaq/TBMH-VDF) — A novel quantum-resistant **asymmetric encryption system** that combines theoretical physics (timeline branching) with… — Python · 1 yıldız
 - [alokprasad/tensorflow-hello-cpp](https://github.com/alokprasad/tensorflow-hello-cpp) — Sample TensorFlow Application for training and generating graph and using C++ program for Loading and inferencing. — Makefile · 1 yıldız
 - [AlvarodOrs/SiegeIQ](https://github.com/AlvarodOrs/SiegeIQ) — Manual replay logger for Clash of Clans Builder Base defenses that generates attack heatmaps sorted by star count to help… — JavaScript · 1 yıldız
 - [AlvinMcCray/ETL_Project](https://github.com/AlvinMcCray/ETL_Project) — Guidelines for ETL Project This document contains guidelines, requirements, and suggestions for Project 1. Team Effort Due to the… — Jupyter Notebook · 1 yıldız
+- [AlyKazani04/AlgoViewer](https://github.com/AlyKazani04/AlgoViewer) — An app to view real-time graphical visualizations of sorting algorithms. — C++ · 1 yıldız
 - [amanparate/apex-doctor](https://github.com/amanparate/apex-doctor) — VS Code extension for Salesforce Apex logs — AI root-cause analysis, live streaming, performance insights, activity timeline, log… — TypeScript · 1 yıldız
 - [amarapuriraviteja/Algerian-ML-Project](https://github.com/amarapuriraviteja/Algerian-ML-Project) — Developed a Machine Learning model using Ridge Regression to predict forest fire occurrence in Algeria based on meteorological… — Jupyter Notebook · 1 yıldız
 - [amitava121/AI-Website-Intelligence-Platform](https://github.com/amitava121/AI-Website-Intelligence-Platform) — AI Website Intelligence Platform that analyzes and compares websites for SEO, performance, and UX. Features an interactive… — TypeScript · 1 yıldız
 - [amitdawani2013/Academic-Project-2](https://github.com/amitdawani2013/Academic-Project-2) — Data Management – Created and developed a new database management system to support a school’s educational strategy of providing… — — · 1 yıldız
 - [AMP-3462/Student-Engineer-Capstone-Project-VT-ISE-Spring-2025-The-Aerospace-Corporation](https://github.com/AMP-3462/Student-Engineer-Capstone-Project-VT-ISE-Spring-2025-The-Aerospace-Corporation) — The Aerospace Corporation wants to be able to view CAMEO files without having CAMEO open. This allows the organization to not… — HTML · 1 yıldız
 - [andrefs/chilon_rs](https://github.com/andrefs/chilon_rs) — Rust namespace-based summarizer for RDF graphs. — Rust · 1 yıldız
+- [AndrewJoshuaFreeman/elliptic-curve-visualizer](https://github.com/AndrewJoshuaFreeman/elliptic-curve-visualizer) — OpenGL/ImGUI implementation and visualization of elliptic curve calculus in C++ — C++ · 1 yıldız
 - [anilkhichi274-stack/Project-Movie-genre-classification-.ML](https://github.com/anilkhichi274-stack/Project-Movie-genre-classification-.ML) — This project predicts the genre of a movie based on its plot description using Natural Language Processing (NLP) and machine… — — · 1 yıldız
 - [Anjali-creater/Iris-Flower-Classification](https://github.com/Anjali-creater/Iris-Flower-Classification) — A professional Flask-based Iris Flower Classification web application powered by Machine Learning, featuring prediction history,… — CSS · 1 yıldız
 - [ankit25240303-web/House-Price-Prediction-](https://github.com/ankit25240303-web/House-Price-Prediction-) — The House Price Prediction System is a Machine Learning application that predicts house prices based on features such as area,… — HTML · 1 yıldız
@@ -98971,6 +99602,7 @@
 - [badgettrg/Vitamin-D-for-fracture-prevention](https://github.com/badgettrg/Vitamin-D-for-fracture-prevention) — This repository contains the source data and forest plots for a meta-analysis of Vitamin D supplementation for the prevention of… — — · 1 yıldız
 - [badramrsalah/The-Simple-Scheduler-](https://github.com/badramrsalah/The-Simple-Scheduler-) — Operating Systems I Final Project. The Simple Scheduler is a straightforward console-based program that uses four out of many… — — · 1 yıldız
 - [basilegandon/importance_sampling_for_rr_GAN](https://github.com/basilegandon/importance_sampling_for_rr_GAN) — Data formatting, importance sampling and visualizing data statistics to train StyleGAN with rr. — Python · 1 yıldız
+- [bbaigalmaa/Data-Visualization](https://github.com/bbaigalmaa/Data-Visualization) — Visualizing point cloud data in OpenGL and Imgui — C++ · 1 yıldız
 - [beaubell/amethyst](https://github.com/beaubell/amethyst) — An OpenGL, RK4 based, GPU accelerated gravity simulator that wants to become a full space physics simulator. It is also an… — C++ · 1 yıldız
 - [benderla/network-attack-detection](https://github.com/benderla/network-attack-detection) — Isolation Forest–based anomaly detection for network traffic using the CIC-IDS2017 dataset with feature engineering, model… — Jupyter Notebook · 1 yıldız
 - [bereketkefeni-creator/Graph-based-money-laundering-detection-system](https://github.com/bereketkefeni-creator/Graph-based-money-laundering-detection-system) — Money-laundering detection on the Elliptic Bitcoin transaction graph tabular vs. graph-feature Random Forests, temporal… — Jupyter Notebook · 1 yıldız
@@ -98984,6 +99616,8 @@
 - [bluecanvas/example-node-pmd](https://github.com/bluecanvas/example-node-pmd) — Example PMD (Apex static analysis) check using the Blue Canvas Node.js SDK. — JavaScript · 1 yıldız
 - [bombaleabhinav/Graph-Based-Fraud-Detection](https://github.com/bombaleabhinav/Graph-Based-Fraud-Detection) — This is a menu-driven console application to demostrate money mulling patterns in C — C · 1 yıldız
 - [bouchrabenkhelifa/Visualizing-Human-Losses-in-Gaza-A-Time-Series-Analysis](https://github.com/bouchrabenkhelifa/Visualizing-Human-Losses-in-Gaza-A-Time-Series-Analysis) — Analysis and visualization of human losses in Gaza using a dataset containing daily and cumulative statistics on fatalities and… — Python · 1 yıldız
+- [brunowinkeler/GaiaViewImGui](https://github.com/brunowinkeler/GaiaViewImGui) — GaiaView is a real-time monitoring application that simulates and visualizes environmental sensor data using dynamic graphics and… — C++ · 1 yıldız
+- [byfron/corgui](https://github.com/byfron/corgui) — Layer on top of imgui to support native 3D visualization — C · 1 yıldız
 - [bymarcogr/rust](https://github.com/bymarcogr/rust) — A Rust-based GUI desktop application for data engineering tasks that provides a visual interface for loading, filtering,… — Rust · 1 yıldız
 - [CaglarDeniz/cs225-final-project](https://github.com/CaglarDeniz/cs225-final-project) — We implemented a graph data structure and graph algorithms based on this bitcoin trading platform's web of trust network data.… — C++ · 1 yıldız
 - [camhud/MPL-Graphics-Project](https://github.com/camhud/MPL-Graphics-Project) — Brandon Lee, Cameron Hudson, Carter Ward, and Jayce Slesar ** must "pip install spotipy" for this to work, it is a package we use… — C++ · 1 yıldız
@@ -98997,12 +99631,14 @@
 - [CCB-TEAM/KismetReactor](https://github.com/CCB-TEAM/KismetReactor) — 1 — C# · 1 yıldız
 - [ccozad/vue3-apex-charts-reference](https://github.com/ccozad/vue3-apex-charts-reference) — A focused, copy-pasteable reference for building data-driven charts with Vue 3, Apex Charts (via vue3-apexcharts), and Bootstrap… — Vue · 1 yıldız
 - [cemdurakk/breast-cancer-classifier](https://github.com/cemdurakk/breast-cancer-classifier) — A machine learning model for classifying breast cancer as benign or malignant using diagnostic features. Trained on the Breast… — Jupyter Notebook · 1 yıldız
+- [chandanraj-03/Simulation-of-Deadlock-Handling-in-Distributed-Systems-using-Python](https://github.com/chandanraj-03/Simulation-of-Deadlock-Handling-in-Distributed-Systems-using-Python) — A Streamlit-based distributed deadlock simulation featuring resource allocation, wait-for graph visualization, and support for… — Python · 1 yıldız
 - [chandkund/Housing-Price-Prediction](https://github.com/chandkund/Housing-Price-Prediction) — Predict housing prices using the Boston Housing Dataset. Covers data loading, cleaning, preprocessing, EDA, normalization,… — Jupyter Notebook · 1 yıldız
 - [ChiahsinHsieh/SQL_DataManagement](https://github.com/ChiahsinHsieh/SQL_DataManagement) — Data Management Design Project In our Data Management with SQL class, my team partner and I were challenged to create a new data… — — · 1 yıldız
 - [Chinmay-sonar/The-AMD-Developer-Hackathon-ACT-II](https://github.com/Chinmay-sonar/The-AMD-Developer-Hackathon-ACT-II) — Codyseey Captionate is a highly polished, full-stack video captioning and real-time subtitle platform designed with a clean,… — TypeScript · 1 yıldız
 - [ChinmayDubey231/quickpoll](https://github.com/ChinmayDubey231/quickpoll) — Real-time polling app — MERN + Socket.io + Redis + BullMQ. Live vote updates, auto-expiring polls, fingerprint-based vote guard,… — TypeScript · 1 yıldız
 - [chiragpandey14112006-gif/nexus-flow](https://github.com/chiragpandey14112006-gif/nexus-flow) — Nexus Flow transforms complex coding goals into an interactive, physics-based skill graph. Drag floating micro-skills, explore… — JavaScript · 1 yıldız
 - [Chowdri-Furkhan07/churnsense-ml](https://github.com/Chowdri-Furkhan07/churnsense-ml) — ChurnSense is a Streamlit-powered ML app predicting customer churn with behavioral, demographic, and transactional data. Using a… — Python · 1 yıldız
+- [clewtech/cfd-conv-watch](https://github.com/clewtech/cfd-conv-watch) — Tool for visualizing and analyzing convergence history of monitor points from CFD (Computational Fluid Dynamics) simulations. — — · 1 yıldız
 - [cmudrc/AddLat2D](https://github.com/cmudrc/AddLat2D) — The purpose of AddLat2D is to create a dataset of 2D lattice cells based on a specified image size and list of density values.… — Python · 1 yıldız
 - [Coasttosupply/nes-emulator-for-windows](https://github.com/Coasttosupply/nes-emulator-for-windows) — NES Emulator For Windows is a desktop virtualization utility designed to run classic 8-bit Nintendo Entertainment System games on… — C · 1 yıldız
 - [code-with-blanc/quake-viewer](https://github.com/code-with-blanc/quake-viewer) — A 3D visualization of earthquakes in Iceland based on the USGS catalogue — TypeScript · 1 yıldız
@@ -99027,6 +99663,8 @@
 - [DavidLUTALA/Visualization-and-localization-system-of-key-points-for-the-CERC-Kinshasa-project-of-the-World-Bank](https://github.com/DavidLUTALA/Visualization-and-localization-system-of-key-points-for-the-CERC-Kinshasa-project-of-the-World-Bank) — This project describes the deliverables of different tools used in the CERC Kin social protection project financed by the World… — — · 1 yıldız
 - [Daynlight/Engine](https://github.com/Daynlight/Engine) — Game Engine with editor and production. Build on top of my library CWindow. Uses ImGui build in CWindow for parameters adjustment… — C++ · 1 yıldız
 - [Daynlight/help-me-i-am-under-the-water](https://github.com/Daynlight/help-me-i-am-under-the-water) — Project for GRK under water scene. Build on top of my library CWindow. Uses ImGui build in CWindow for parameters adjustment and… — C++ · 1 yıldız
+- [Deepak17kb/Automated-Deadlock-Detection-Tool](https://github.com/Deepak17kb/Automated-Deadlock-Detection-Tool) — A web-based tool that detects deadlocks in OS processes using DFS cycle detection on a Wait-For Graph, visualizes the Resource… — JavaScript · 1 yıldız
+- [devanshisingal/Pulsar-3D](https://github.com/devanshisingal/Pulsar-3D) — 3D Pulsar simulation using OpenGL with skybox, particle jets, and magnetic field visualization. Includes interactive UI with Dear… — C++ · 1 yıldız
 - [dfki-ric/cpp_bagel_wrapper](https://github.com/dfki-ric/cpp_bagel_wrapper) — C++ library to load and execute Bagel graphs via the c_bagel package — C++ · 1 yıldız
 - [dhananjay-metangale/UK-Road-Accident-Analysis-Dashboard](https://github.com/dhananjay-metangale/UK-Road-Accident-Analysis-Dashboard) — Developed an interactive Power BI dashboard showcasing road safety trends. Features included slicers, donut charts, and a map… — — · 1 yıldız
 - [DhanushSanjayNidamanuri/TSP_Graph-Routing-Engine_CS293](https://github.com/DhanushSanjayNidamanuri/TSP_Graph-Routing-Engine_CS293) — This repository serves as the medium for the members of the team lazarus , whose essential aim (for now) is to make a program… — C++ · 1 yıldız
@@ -99037,6 +99675,7 @@
 - [DiogoRibeiro7/bmssp-algorithm](https://github.com/DiogoRibeiro7/bmssp-algorithm) — Multi-language implementation of the BMSSP algorithm — the first deterministic method to break Dijkstra's O(m + n log n) bound… — Python · 1 yıldız
 - [DipteshS/FitPulse-Pro](https://github.com/DipteshS/FitPulse-Pro) — FitPulse Pro is a browser-based fitness tracking app that helps users log workouts, meals, hydration, sleep, and profile details… — JavaScript · 1 yıldız
 - [divyanshsinsinwar2007-stack/Food-delivery-time-prediction](https://github.com/divyanshsinsinwar2007-stack/Food-delivery-time-prediction) — Predicts food delivery times using a Random Forest model (82% R², 3.17m MAE) trained on 45,593 orders. Built with Python,… — Jupyter Notebook · 1 yıldız
+- [dlamei/Engine3D](https://github.com/dlamei/Engine3D) — Engine for visualizing 3d Scenes — C++ · 1 yıldız
 - [DmitriiBartash/microsoft-fullstack-coursera](https://github.com/DmitriiBartash/microsoft-fullstack-coursera) — Full-stack web development projects from Coursera, covering C#, ASP.NET Core, HTML/CSS, SQL, Git, CI/CD, deployment, OOP, and… — HTML · 1 yıldız
 - [dmitryro/graphdb-rs](https://github.com/dmitryro/graphdb-rs) — Open-source graph engine for healthcare and analytics Rust RocksDB Sled FHIR Decision Support — Rust · 1 yıldız
 - [dosmani6/DS2500](https://github.com/dosmani6/DS2500) — Provides intermediate to advanced python programming for data science with the aim of preparing students for more advanced… — Jupyter Notebook · 1 yıldız
@@ -99048,11 +99687,13 @@
 - [elcoosp/pkr-sota](https://github.com/elcoosp/pkr-sota) — An end-to-end heads-up No-Limit Hold'em AI in Rust. Train a CFR blueprint offline, and query it anywhere in nanoseconds. 🦀 🃏 — Rust · 1 yıldız
 - [Emik03/multiplotlines.lua](https://github.com/Emik03/multiplotlines.lua) — Lua port of esquellington's imgui_multiplotlines: Draw multiple plots at once with an optional legend and user interaction — Lua · 1 yıldız
 - [emmtizy/Prediction_Assignment](https://github.com/emmtizy/Prediction_Assignment) — Predict activity quality from activity monitors ##Synopsis Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now… — HTML · 1 yıldız
+- [engFadi/operating-system-CPU-Scheduling-with-Deadlock-Detection-Recovery](https://github.com/engFadi/operating-system-CPU-Scheduling-with-Deadlock-Detection-Recovery) — A simulation of a CPU scheduler using priority-based round robin, combined with deadlock detection and recovery mechanisms. The… — Python · 1 yıldız
 - [ENKI0311/fatalities_isr_pse_conflict_2000_to_2023](https://github.com/ENKI0311/fatalities_isr_pse_conflict_2000_to_2023) — Dive into our analysis of the ISR-PSE conflict fatalities from 2000-2023. This project sheds light on the human cost through data… — HTML · 1 yıldız
 - [EnochEssien/TF2-Exported-Model-Infererance-Graph](https://github.com/EnochEssien/TF2-Exported-Model-Infererance-Graph) — A simple google colab script to aid in saving trained object detectors, as from my experience there was a couple of compatibility… — Jupyter Notebook · 1 yıldız
 - [equescalculi/matrixgraph](https://github.com/equescalculi/matrixgraph) — (Rust crate) A graph implementation based on dense adjacency matrices — Rust · 1 yıldız
 - [erchandkujra-ai/Expense-Tracker-App](https://github.com/erchandkujra-ai/Expense-Tracker-App) — 💰 A Python-based Expense Tracker & Data Science Dashboard built with Streamlit, Pandas, NumPy and Plotly. Track income, analyze… — Python · 1 yıldız
 - [errorStream/Levers](https://github.com/errorStream/Levers) — Drawing primitives for use in unity editor UIs. — C# · 1 yıldız
+- [ethanstoner/universe-simulator-cpp](https://github.com/ethanstoner/universe-simulator-cpp) — Universe simulator in C++20 and OpenGL: Newtonian N-body gravity with real solar-system data, a spacetime-curvature… — C++ · 1 yıldız
 - [EwelinaPaczkowska/breast-cancer-ml-classification](https://github.com/EwelinaPaczkowska/breast-cancer-ml-classification) — Python project for classifying Wisconsin Breast Cancer samples using Logistic Regression and Random Forest. The script loads… — Python · 1 yıldız
 - [facts-kms/sdk](https://github.com/facts-kms/sdk) — The Facts protocol reference SDK written in Rust. — Rust · 1 yıldız
 - [Faith6544/Iris-data-Classification](https://github.com/Faith6544/Iris-data-Classification) — This project explores the Iris dataset to predict flower species (setosa, versicolor, virginica) based on measurements of sepal… — Python · 1 yıldız
@@ -99076,6 +99717,7 @@
 - [gregmarino12/Reddit-Sentiment-Analysis](https://github.com/gregmarino12/Reddit-Sentiment-Analysis) — Using Python to extract, transform, and load data from the Reddit API into a relational database. Includes basic SQL queries for… — — · 1 yıldız
 - [haktan313/TargetLockAsset](https://github.com/haktan313/TargetLockAsset) — it is made by blueprint. is a simple camera locking system. You can lock the camera on the enemy and use any keys you want (e and… — — · 1 yıldız
 - [Halam01/Overwatch_Stats_Tracker](https://github.com/Halam01/Overwatch_Stats_Tracker) — Overwatch Stats Tracker is a simple program designed to track match history for solo players and teams. It is created using a… — Python · 1 yıldız
+- [Hamzakhaliq921/Single_Lane_Bridge](https://github.com/Hamzakhaliq921/Single_Lane_Bridge) — A POSIX threads-based simulation of the Single Lane Bridge problem demonstrating deadlock-free and starvation-free… — Python · 1 yıldız
 - [HamzaMurtaza11/Heart_Disease_Detection_System](https://github.com/HamzaMurtaza11/Heart_Disease_Detection_System) — The problem is to find out whether a person or patient has a heart disease or not. This artificial intelligent program ( machine… — Jupyter Notebook · 1 yıldız
 - [hangzhouspark/cs2-tactics-board](https://github.com/hangzhouspark/cs2-tactics-board) — CS2 战术板：纯本地、全中文的 CS2 战术演示工具，支持 10 张地图绘图标注、队员与道具摆放、地图拖动排序、导出 PNG 与战术 JSON（HTML + 原生 JS，零依赖） — JavaScript · 1 yıldız
 - [hankli22/Hackli-GUI-Studio](https://github.com/hankli22/Hackli-GUI-Studio) — Visual GUI designer for Meteor Client plugins (Minecraft 1.21.11, Fabric). Drag & drop widgets on a WYSIWYG canvas that shares… — Java · 1 yıldız
@@ -99147,13 +99789,16 @@
 - [laravilt/widgets](https://github.com/laravilt/widgets) — Complete dashboard widget system with stats, charts, and custom widgets for Laravilt. Display key metrics and data visualizations… — Vue · 1 yıldız
 - [libreconnect/ferriscare](https://github.com/libreconnect/ferriscare) — FerrisCare is an open-source Rust microservice designed to manage patients & professionals and their related data in a Neo4J… — Rust · 1 yıldız
 - [libreconnect/ferriscompany](https://github.com/libreconnect/ferriscompany) — FerrisCompany is an open-source Rust microservice designed to manage companies and their related data in a Neo4J graph database.… — Rust · 1 yıldız
+- [Loick01/CellAuto](https://github.com/Loick01/CellAuto) — Real-time cellular automata visualization tool built with SDL2 and Dear ImGui — C++ · 1 yıldız
 - [LSDOlab/csdl_dafoam](https://github.com/LSDOlab/csdl_dafoam) — CSDL interface to DAFoam for CFD-based aerodynamic shape optimization: adjoint gradients, lsdo_geo, IDWarp-JAX, modOpt OpenSQP.… — Python · 1 yıldız
 - [lshade/html-to-pptx-image](https://github.com/lshade/html-to-pptx-image) — Utility script for rendering HTML source material into 16:9, presentation-ready PNG files. It uses Playwright for high-res… — Python · 1 yıldız
 - [luballe/raspi-forest](https://github.com/luballe/raspi-forest) — Source code and hardware diagram for the raspi-forest project. — Arduino · 1 yıldız
+- [LukeGoule/gpu-experiments](https://github.com/LukeGoule/gpu-experiments) — Experimental shader program with ImGui & Portaudio for audio visualisation. — C++ · 1 yıldız
 - [MaanavKrishna/deadlock-graphhacks](https://github.com/MaanavKrishna/deadlock-graphhacks) — Graph-native service exchanges with FalkorDB, live Claude representatives, source-backed memory and human-approved commitments. — TypeScript · 1 yıldız
 - [MaeShiel/flyff-universe-helper](https://github.com/MaeShiel/flyff-universe-helper) — Flyff Universe helper extension with smart monster detection, customizable buff management (12 buffs with expiration warnings),… — TypeScript · 1 yıldız
 - [Mahmoudgaber4/Real-Estate](https://github.com/Mahmoudgaber4/Real-Estate) — A professional Real Estate Management System with key features like property lifecycle states, owner linking, automated actions,… — Python · 1 yıldız
 - [mahmoudmo22/Beamforming-Visualizer](https://github.com/mahmoudmo22/Beamforming-Visualizer) — A scientific visualization tool for simulating and analyzing phased array antenna systems with the following key components: — Python · 1 yıldız
+- [makebelief/system-monitor](https://github.com/makebelief/system-monitor) — A comprehensive C++ desktop system monitoring application built with Dear ImGui that provides real-time visualization of system… — C++ · 1 yıldız
 - [MalaviVaibhav/COFFEE-SHOP-SALES-ANALYSIS](https://github.com/MalaviVaibhav/COFFEE-SHOP-SALES-ANALYSIS) — This project automates the end-to-end process of analyzing coffee shop sales data. It uses a Python script to load and clean data… — Python · 1 yıldız
 - [MalkAhmad/WajbahDiagrams](https://github.com/MalkAhmad/WajbahDiagrams) — Our system will be visualized through key diagrams that map out its primary components and their interactions. — — · 1 yıldız
 - [ManciSee/Movie-Minds](https://github.com/ManciSee/Movie-Minds) — This project introduces a comprehensive movie recommendation system utilizing The Movie Database (TMDb) API. Key features include… — Jupyter Notebook · 1 yıldız
@@ -99173,6 +99818,7 @@
 - [mehfooz084/Global-Train-Accident-Dashboard](https://github.com/mehfooz084/Global-Train-Accident-Dashboard) — Power BI dashboard analyzing global train accidents, fatalities, hotspots, and risk patterns from 2000–2024. — Jupyter Notebook · 1 yıldız
 - [mercerb/remit-return](https://github.com/mercerb/remit-return) — Final Project for 6.C85, Interactive Data Visualization & Society. This project focuses on the remittances associated with… — Svelte · 1 yıldız
 - [mhounslow/buswatch](https://github.com/mhounslow/buswatch) — Buswatch is a collection of crates for monitoring and diagnosing message bus systems. It provides a terminal UI for real-time… — Rust · 1 yıldız
+- [Miller-Inc/Miller-Physics-Engine](https://github.com/Miller-Inc/Miller-Physics-Engine) — C++ Physics Engine with the intention to run real-time with ImGui visualization — C++ · 1 yıldız
 - [Mingxue-Li/First-Year-Membership-Renewal](https://github.com/Mingxue-Li/First-Year-Membership-Renewal) — Cleaned 40M+ of raw data using R; plotted data and established Shiny Dashboard as data visualization; extracted insights on… — Jupyter Notebook · 1 yıldız
 - [mirmoykumarmallick/Predicting_Concrete_Compressive_Strength_Using_Machine_Learning](https://github.com/mirmoykumarmallick/Predicting_Concrete_Compressive_Strength_Using_Machine_Learning) — This project predicts the compressive strength of concrete based on its ingredients using a machine learning model. It leverages… — Jupyter Notebook · 1 yıldız
 - [MitchellHarrison/valorant-dashboard](https://github.com/MitchellHarrison/valorant-dashboard) — My personal Valorant tracker for guiding my training and climbing in solo queue. — R · 1 yıldız
@@ -99212,9 +99858,12 @@
 - [Nikk19hub/Pune-Metro-System](https://github.com/Nikk19hub/Pune-Metro-System) — The Python-based Pune Metro System project optimizes navigation through graph and heap data structures. Focused on four key… — Python · 1 yıldız
 - [Niksoni107/SQL_Project_On_Housing.com](https://github.com/Niksoni107/SQL_Project_On_Housing.com) — I had design database over India's top 14 cities properties listed on Housing.com(real estate website) for differenrt catagories… — — · 1 yıldız
 - [nishitsheth9/rgraph](https://github.com/nishitsheth9/rgraph) — RGraph is a HTML5 Javascript charts library. Using the new HTML5 canvas tag, RGraph charts are created in the web browser,… — JavaScript · 1 yıldız
+- [Nitish1606/deadlock-toolit](https://github.com/Nitish1606/deadlock-toolit) — A web-based OS Toolkit for Deadlock Prevention (Banker's Algorithm), Detection (RAG Visualization), and Real-time Simulation. — JavaScript · 1 yıldız
 - [NitishDevarapalli/DESIGN-OF-RANDOM-FOREST-IN-ML-](https://github.com/NitishDevarapalli/DESIGN-OF-RANDOM-FOREST-IN-ML-) — Some basic understandig of what is a random forest and a small application that runs based on the random forest in machine… — — · 1 yıldız
 - [NoCoderRandom/Fsn3DWin](https://github.com/NoCoderRandom/Fsn3DWin) — Cinematic read-only 3D filesystem visualizer for Windows — C++ · 1 yıldız
+- [Nurek54/Dining-Philosophers-Deadlock-Starvation](https://github.com/Nurek54/Dining-Philosophers-Deadlock-Starvation) — Dining Philosophers in C++ threads: three strategies showing deadlock, starvation and a fair waiter-based solution, with a live… — C++ · 1 yıldız
 - [NxtGen-VshX/AI-Powered-Cyber-Threat-Intelligence-Dashboard](https://github.com/NxtGen-VshX/AI-Powered-Cyber-Threat-Intelligence-Dashboard) — Project Sentinel is a sophisticated, real-time threat intelligence platform designed to provide cybersecurity analysts with a… — — · 1 yıldız
+- [odai-dev/CPU-Scheduling-Algorithms-Simulation-Using-Data-Structures](https://github.com/odai-dev/CPU-Scheduling-Algorithms-Simulation-Using-Data-Structures) — CPU scheduling simulator in C++ with custom heaps/queues, Dear ImGui UI, and real-time Gantt charts — C++ · 1 yıldız
 - [okeowovictor/CORD-19-DATA-ANALYSIS](https://github.com/okeowovictor/CORD-19-DATA-ANALYSIS) — The learning outcomes covered by this project are: • Provide a broad overview of the general field of ‘big data systems’ •… — Jupyter Notebook · 1 yıldız
 - [OMCHOKSI108/EMPLOYEE-PERFORMANCE-PREDICTION-](https://github.com/OMCHOKSI108/EMPLOYEE-PERFORMANCE-PREDICTION-) — This project predicts employee performance ratings using machine learning models (Random Forest and XGBoost) based on various… — Jupyter Notebook · 1 yıldız
 - [ondravala/Background-Remover-with-SAM2](https://github.com/ondravala/Background-Remover-with-SAM2) — - AI-powered background removal using SAM2 - Interactive segmentation with bounding box and points - Multiple model sizes (tiny,… — Python · 1 yıldız
@@ -99235,6 +99884,7 @@
 - [prabhathmanthilaka/LLM-Cyber-Threat-bot](https://github.com/prabhathmanthilaka/LLM-Cyber-Threat-bot) — LLM-based Cyber Threat Intelligence Bot that automatically summarizes threat reports, classifies threats (malware, phishing,… — Python · 1 yıldız
 - [pratikgirigoswami/Medical-Appointment-Presence-Prediction](https://github.com/pratikgirigoswami/Medical-Appointment-Presence-Prediction) — To analyze whether the patients who made the appointment will show up or not. • Data acquisition and cleaning • EDA – bar graphs,… — Jupyter Notebook · 1 yıldız
 - [premraj-p/Mobile-Botnet-Detection-Application](https://github.com/premraj-p/Mobile-Botnet-Detection-Application) — Implemented a Python-based machine learning pipeline for botnet detection using features from the ISCX dataset. Developed a… — Python · 1 yıldız
+- [Premshaw23/algotracer](https://github.com/Premshaw23/algotracer) — AlgoTracer is a high-performance C++ visualization engine designed to help developers and students understand how complex… — C++ · 1 yıldız
 - [PriyanshK09/MetaSciforAssignment](https://github.com/PriyanshK09/MetaSciforAssignment) — Live Crypto Price Dashboard built with React, TypeScript, Tailwind, and Chart.js. Displays BTC/ETH/DOGE USD prices with 24h… — TypeScript · 1 yıldız
 - [prometheusalpha/JDG](https://github.com/prometheusalpha/JDG) — A cross-platform app to generate diagrams from Java source code, written in TypeScript, Rust and Tauri — TypeScript · 1 yıldız
 - [psengrith/erd_rs](https://github.com/psengrith/erd_rs) — A command line utility that take Rust code as the source of truth to produce a entity relation diagram markdown file (e.g.,… — Rust · 1 yıldız
@@ -99255,6 +99905,7 @@
 - [Reborn5537/Minecraft-vs-Zombies-2-TimeLine-Mode-source-](https://github.com/Reborn5537/Minecraft-vs-Zombies-2-TimeLine-Mode-source-) — a gamemaker studios 2 game — — · 1 yıldız · arşiv
 - [Relicta-Team/ReNodes](https://github.com/Relicta-Team/ReNodes) — Node editor sources for ReSDK_A3 — Python · 1 yıldız
 - [remonilo/artificial-graph-simulation](https://github.com/remonilo/artificial-graph-simulation) — An attempt to simulate Obsidian's graph view with OpenGL and ImGui, with artificial nodes. — — · 1 yıldız
+- [repixey/binance-mini-terminal](https://github.com/repixey/binance-mini-terminal) — Lightweight Binance USDT-M Futures terminal: candlestick chart, buy/sell volume, SMA 288 and a screener with desktop alerts. C++,… — C++ · 1 yıldız
 - [RGowthamRaj/abyss-crawler](https://github.com/RGowthamRaj/abyss-crawler) — A dark-fantasy turn-based roguelike dungeon crawler built with TypeScript & HTML5 Canvas. Features procedural dungeons, raycasted… — TypeScript · 1 yıldız
 - [RichaDutt/SVD-based-image-reconstruction](https://github.com/RichaDutt/SVD-based-image-reconstruction) — Load the hendrix_final.png image and extract the R, G and B channels. Convert each channel image to double precision. Then… — MATLAB · 1 yıldız
 - [rigkid/rigNodeEditor](https://github.com/rigkid/rigNodeEditor) — ImGui node graph editor over CNodeGraph — C++ · 1 yıldız
@@ -99270,6 +99921,7 @@
 - [rohinikar/E-Commerce-Web-Application](https://github.com/rohinikar/E-Commerce-Web-Application) — E-commerce Web application built using PHP, JQuery, Bootstrap CSS, Oracle 11g, d3 for data visualization. This can be used to… — PHP · 1 yıldız
 - [Ronak1231/Solar-Power-Prediction](https://github.com/Ronak1231/Solar-Power-Prediction) — The Solar Power Prediction System is a Streamlit-based ML application that forecasts solar power generation using Linear… — Jupyter Notebook · 1 yıldız
 - [ruuhsu/Forest-plot-notes](https://github.com/ruuhsu/Forest-plot-notes) — A practice based on the forest plot created by Katherine Hoffman — R · 1 yıldız
+- [SachinKishan/wavelengthvisuals](https://github.com/SachinKishan/wavelengthvisuals) — A visualisation of different wavelength values in their sRGB representation using OpenGL and ImGUI — C++ · 1 yıldız
 - [sahil-ansari-15/Predict-The-Flight-Ticket-Price-Hackathon](https://github.com/sahil-ansari-15/Predict-The-Flight-Ticket-Price-Hackathon) — Hackathon by 'www.machinehack.com'. My Hackathon Rank : 228. Participants in Hackathon : 2600+ (till date 12/01/2021). ML… — Jupyter Notebook · 1 yıldız
 - [sahilarora51/The-Ultimate-Fundamental-Facts-Every-Ph.D.-Student-Should-Know](https://github.com/sahilarora51/The-Ultimate-Fundamental-Facts-Every-Ph.D.-Student-Should-Know) — These are a few fundamental facts every Ph.D. students need to know and should have a clear idea about it to get the best… — — · 1 yıldız
 - [sahrudaisunkara/heartdiseasepred](https://github.com/sahrudaisunkara/heartdiseasepred) — This project leverages the Random Forest algorithm to predict the likelihood of heart disease based on patient health and… — Python · 1 yıldız
@@ -99293,6 +99945,7 @@
 - [seenuvasan2051/Student-Result-Processing-System](https://github.com/seenuvasan2051/Student-Result-Processing-System) — The Project Student Result Processing System Software is a complete multi-user Web-Application. The admin accepts and then… — Java · 1 yıldız
 - [sehbakhan/Data-Analysis-With-Python-and-SQL](https://github.com/sehbakhan/Data-Analysis-With-Python-and-SQL) — Build an end-to-end customer purchase behaviour analysis and reporting system using SQL, Python, and PowerBI. This project will… — Jupyter Notebook · 1 yıldız
 - [seherkhan/visualizing-us-fatalities](https://github.com/seherkhan/visualizing-us-fatalities) — Data visualization web app for fatality data created with Vue.js — HTML · 1 yıldız
+- [selenophile1805/deadlock-detection](https://github.com/selenophile1805/deadlock-detection) — A web-based application to simulate deadlock detection and avoidance in operating systems. It visualizes resource allocation… — JavaScript · 1 yıldız
 - [SenatorPingu/csvision](https://github.com/SenatorPingu/csvision) — A lightweight GUI tool built in Go, with a simple Svelte frontend using the Wails framework, to visualize CSV data as charts or… — Go · 1 yıldız
 - [SergioD2202/canvas-fg-wasm](https://github.com/SergioD2202/canvas-fg-wasm) — Project based on the Javascript Fighting Game Tutorial of Chris Courses (https://www.youtube.com/watch?v=vyqbNFMDRGQ) refactored… — JavaScript · 1 yıldız
 - [sha-hul/XYouTube-DB-Design](https://github.com/sha-hul/XYouTube-DB-Design) — A comprehensive Entity-Relationship (ER) database design for a YouTube-like platform, detailing the relationships between… — TSQL · 1 yıldız
@@ -99302,6 +99955,7 @@
 - [sheltowt/TechCrunchHackathon](https://github.com/sheltowt/TechCrunchHackathon) — Data Visualization and Collaboration tool for FitBit — Python · 1 yıldız
 - [shibins/apex-plugin-chart-waterfall](https://github.com/shibins/apex-plugin-chart-waterfall) — Region Plugin to show a JET Waterfall Chart based on a SQL statement. — SQLPL · 1 yıldız
 - [shikhararyan/Car_selling_price_predictor](https://github.com/shikhararyan/Car_selling_price_predictor) — This project develops a machine learning model to predict car selling prices based on various features. It includes data… — Jupyter Notebook · 1 yıldız
+- [shivam2310287/Deadlock_Prevention_and_recovery_toolkit](https://github.com/shivam2310287/Deadlock_Prevention_and_recovery_toolkit) — Deadlock Prevention and Recovery Toolkit is a Python-based system that detects deadlock using Banker’s Algorithm. Users enter… — Python · 1 yıldız
 - [shoryapratap/credit_card-fraud](https://github.com/shoryapratap/credit_card-fraud) — Create a credit card fraud detection project using the dataset from "/content/creditcard.csv". The project should include data… — Jupyter Notebook · 1 yıldız
 - [shreenivas2006/RandomForest_Classification](https://github.com/shreenivas2006/RandomForest_Classification) — A ML project that uses the Random Forest Classification algorithm to predict whether a customer will purchase health insurance… — Jupyter Notebook · 1 yıldız
 - [shriyaadulla/Insolvency-predictor-using-Time-series](https://github.com/shriyaadulla/Insolvency-predictor-using-Time-series) — The project uses a machine learning model to predict bankruptcy based on user input of taxes and liabilities. Integrated with… — Python · 1 yıldız
@@ -99311,14 +99965,17 @@
 - [Shyam-Gupta-Chiliveri/axle-fracture-ml](https://github.com/Shyam-Gupta-Chiliveri/axle-fracture-ml) — Property desk for the axle tests. A hardness reading estimates ductility, brittleness, and bending force. The method page shows… — Jupyter Notebook · 1 yıldız
 - [shyam80286-sudo/Airplane_crashes_and_fatalities_since_1908](https://github.com/shyam80286-sudo/Airplane_crashes_and_fatalities_since_1908) — Analysis of aircraft crashes and fatalities from 1908 to 2019 using Python, Pandas, Matplotlib, and Seaborn. Explores yearly… — Jupyter Notebook · 1 yıldız
 - [SiddhaarthS/SewageSystemDataAnalyserModule](https://github.com/SiddhaarthS/SewageSystemDataAnalyserModule) — My final year project for my computer science course is an extension of the IOT - based sewage scheduling system implemented in… — R · 1 yıldız
+- [sidharthrvarghese22/adaptive-noc-verification-platform](https://github.com/sidharthrvarghese22/adaptive-noc-verification-platform) — AI-assisted adaptive NoC verification platform with congestion analytics, deadlock detection, randomized traffic generation, and… — SystemVerilog · 1 yıldız
 - [sidoChadChan/sfml-imgui-sinewave-graph](https://github.com/sidoChadChan/sfml-imgui-sinewave-graph) — (açıklama yok) — C++ · 1 yıldız
 - [SiebenCorgie/jakar-tree](https://github.com/SiebenCorgie/jakar-tree) — A rust based graph system which can handle many nodes quiet fast. — Rust · 1 yıldız
+- [singhsatyam05/AiDeadlockDetectionSystem](https://github.com/singhsatyam05/AiDeadlockDetectionSystem) — GUI-based Deadlock Detection System using Resource Allocation Graph (RAG) in Python. Simulates processes, resources, and detects… — Python · 1 yıldız
 - [Sironfoot/transfig](https://github.com/Sironfoot/transfig) — A Go package for loading a JSON config settings file into an object graph, and applying transformations based on the environment… — Go · 1 yıldız
 - [skandamrit-ux/dark-matter](https://github.com/skandamrit-ux/dark-matter) — my dis project source dark matters presents through comparing the observe data and the calculated data in the chart form — — · 1 yıldız
 - [slnszr/credit_card_fraud_detection](https://github.com/slnszr/credit_card_fraud_detection) — A machine learning-based credit card fraud detection project using Random Forest and SMOTE. Includes model training, evaluation,… — Python · 1 yıldız
 - [SomeoneSerge/vizfft](https://github.com/SomeoneSerge/vizfft) — An imgui+webassembly demo visualizing the fft of a plane wave — C++ · 1 yıldız
 - [souritrakar/covitrack](https://github.com/souritrakar/covitrack) — CoviTrack (Hackathon Project) - COVID-19 tracker app which displays the latest COVID-19 numbers, including Cases, Recoveries, and… — JavaScript · 1 yıldız
 - [soxamz/finance-intelligence](https://github.com/soxamz/finance-intelligence) — A clean, dark-themed finance dashboard built with Next.js 15, shadcn/ui, and Tailwind CSS. Features transaction management,… — TypeScript · 1 yıldız
+- [SpeekeR99/BP_2022_2023_Zappe](https://github.com/SpeekeR99/BP_2022_2023_Zappe) — Bakalářská práce - ZČU, FAV, KIV ; Bachelor's Thesis - UWB, FAS, DCSE — C++ · 1 yıldız
 - [spydermon10/LEAF-DISEASES-CNN](https://github.com/spydermon10/LEAF-DISEASES-CNN) — This project uses a Convolutional Neural Network (CNN) built with TensorFlow/Keras to classify plant leaf diseases from images.… — Python · 1 yıldız
 - [SREESHANTHBUTTI/Quantum-GenAI-Cryptography](https://github.com/SREESHANTHBUTTI/Quantum-GenAI-Cryptography) — A hybrid classical–quantum cryptography system using QGAN-generated high-entropy keys, BB84 QKD simulation, and AES-CFB… — Python · 1 yıldız
 - [SriRaaghav/Landslide-Susceptibility-Mapping-for-Nilgiris-District-using-Advanced-Machine-Learning-Methods](https://github.com/SriRaaghav/Landslide-Susceptibility-Mapping-for-Nilgiris-District-using-Advanced-Machine-Learning-Methods) — Six machine learning models namely, logistic regression, CatBoost, XGBoost, support vector machine, random forest, and C5.0 were… — Jupyter Notebook · 1 yıldız
@@ -99341,660 +99998,3 @@
 - [taruma/MTA-dash](https://github.com/taruma/MTA-dash) — An interactive Dash-based visualization tool that tracks NYC's MTA ridership trends and recovery patterns across multiple transit… — Python · 1 yıldız
 - [taylortn/powerbi-it-operations-dashboard](https://github.com/taylortn/powerbi-it-operations-dashboard) — Developed an interactive Power BI dashboard to analyze IT operations, monitor system performance, and visualize key metrics for… — — · 1 yıldız
 - [teganjennings/StudentEngagementPortal](https://github.com/teganjennings/StudentEngagementPortal) — The Student Engagement Portal is the project I created for my final year project in university. I created a web based server,… — PHP · 1 yıldız
-- [theamanali/civil-aviation-accident-analysis](https://github.com/theamanali/civil-aviation-accident-analysis) — EDA of 23,917 aviation accidents and incidents (1919–2023) in Python and pandas, combined with World Bank flight data. Finds the… — Jupyter Notebook · 1 yıldız
-- [theDhanendra/retail-data-analysis-with-Python-and-SQL](https://github.com/theDhanendra/retail-data-analysis-with-Python-and-SQL) — This project demonstrates a complete data analytics workflow that includes data extraction, cleaning, transformation, loading,… — Jupyter Notebook · 1 yıldız
-- [thenumbernine/lua-metric](https://github.com/thenumbernine/lua-metric) — lua+imgui version of the html+emscripten+lua version of the lua version of my metric / diff geom visualization tool — Lua · 1 yıldız
-- [thomas-zbr/APEXC3](https://github.com/thomas-zbr/APEXC3) — Oracle APEX region plugin for generating charts using C3 based on D3 engine. This plugin is tested in Oracle APEX 4.1. — SQLPL · 1 yıldız
-- [tienduy127/linux-taskmanager-py](https://github.com/tienduy127/linux-taskmanager-py) — A Python-based task manager with real-time system monitoring, dual-tab process management (Apps/Background), and live performance… — Python · 1 yıldız
-- [Timothy970/Job-Tracker](https://github.com/Timothy970/Job-Tracker) — A modern, full-stack MERN job tracking application featuring real-time application pipelines, interactive analytics & charts,… — JavaScript · 1 yıldız
-- [tomresing/nodejs-alexa-connect-sample](https://github.com/tomresing/nodejs-alexa-connect-sample) — This sample project demonstrates how to use Amazon Alexa to send email using the Microsoft Graph JavaScript SDK to work with data… — JavaScript · 1 yıldız
-- [tretacore/tretacore](https://github.com/tretacore/tretacore) — Open source Cloud Data visualization platform build using Rust. Empowering & enabling fast data analytic & dashboard delivery to… — — · 1 yıldız
-- [TRI99ERED/UE4KeyBindingsExample](https://github.com/TRI99ERED/UE4KeyBindingsExample) — Example for implementing key bindings system inside UE4 Blueprint — — · 1 yıldız
-- [TripleJ160/Stock-Analyzer](https://github.com/TripleJ160/Stock-Analyzer) — A C# Windows Forms application for performing technical analysis on stock data. This project allows users to load CSV data for… — C# · 1 yıldız
-- [TristanBrian/Wallet-Dash](https://github.com/TristanBrian/Wallet-Dash) — Wallet Dashboard is a modern Angular-based cryptocurrency portfolio dashboard inspired by platforms like Binance and Coinbase. It… — TypeScript · 1 yıldız
-- [tulasisowmya/Dijkstra-Shortest-Path-Algorithm](https://github.com/tulasisowmya/Dijkstra-Shortest-Path-Algorithm) — Implemented Dijkstra’s Shortest Path Algorithm using an adjacency matrix to process weighted graph connections. Designed… — — · 1 yıldız
-- [TusharaA/UML-Parser-CSharp](https://github.com/TusharaA/UML-Parser-CSharp) — Developed UML Parser to convert C# source code to class diagram — Java · 1 yıldız
-- [uhstray-io/just-dashboards](https://github.com/uhstray-io/just-dashboards) — Light and Easy Rust-Fullstack/WASM application to build dashboards from any data source — Rust · 1 yıldız
-- [UkraineBolt/CSC365_Project](https://github.com/UkraineBolt/CSC365_Project) — A program that uses a hastable, btree and graph algorithms that I coded from hand using books and other sources as a reference.… — Java · 1 yıldız · arşiv
-- [ult-processor/sage](https://github.com/ult-processor/sage) — An Open Source Knowledge Graph written in Rust — Rust · 1 yıldız
-- [unnatisharma212/Hand-gesture-recoginition](https://github.com/unnatisharma212/Hand-gesture-recoginition) — This project is a real-time Hand Gesture Recognition System using MediaPipe and Random Forest. It captures live video from a… — Python · 1 yıldız
-- [Ursulavallejo/p5js-osc-Genesis_Sphere](https://github.com/Ursulavallejo/p5js-osc-Genesis_Sphere) — An OSC-driven p5.js experiment visualizing a primordial core of energy reacting to audio frequencies. — JavaScript · 1 yıldız
-- [usamakhanzada319/AI_Ops_DashBoard](https://github.com/usamakhanzada319/AI_Ops_DashBoard) — AI Ops Dashboard is a modern, responsive web application for monitoring AI model operations. Track total spend, burn rate,… — TypeScript · 1 yıldız
-- [Utkarsh-Srivastava-official/Used_Car_Price_Prediction](https://github.com/Utkarsh-Srivastava-official/Used_Car_Price_Prediction) — Car price prediction is one of the major research areas in machine learning. The price of a car depends on a lot of factors like… — HTML · 1 yıldız
-- [vadagama/content-sales-system-design](https://github.com/vadagama/content-sales-system-design) — System design of an application that sells content including context and container diagrams, key attribute values, deployment and… — — · 1 yıldız
-- [Vaibhav-Vinil/Wine-Quality-Prediction-Random-Forest-Classifier](https://github.com/Vaibhav-Vinil/Wine-Quality-Prediction-Random-Forest-Classifier) — This project explores the red‑wine quality dataset and trains a Random Forest classifier to predict the quality of the wine based… — Jupyter Notebook · 1 yıldız
-- [Vaishnavi242000/crispr-cas9-sgrna-ko-efficiency-TNF](https://github.com/Vaishnavi242000/crispr-cas9-sgrna-ko-efficiency-TNF) — Machine learning pipeline for predicting CRISPR-Cas9 sgRNA knockout efficiency targeting the human TNF gene (hg38). Features… — Python · 1 yıldız
-- [vaitybharati/P26.-Supervised-ML---Multiple-Linear-Regression---Cars-dataset](https://github.com/vaitybharati/P26.-Supervised-ML---Multiple-Linear-Regression---Cars-dataset) — Supervised-ML---Multiple-Linear-Regression---Cars-dataset. Model MPG of a car based on other variables. EDA, Correlation… — Jupyter Notebook · 1 yıldız
-- [varshithreddy39/Diabetes-Classification](https://github.com/varshithreddy39/Diabetes-Classification) — A classification model to predict whether a person is diabetic based on health indicators using the PIMA Indians Diabetes… — Jupyter Notebook · 1 yıldız
-- [Vaskar71/AI-Driven-Anomaly-Detection-in-Network-Security](https://github.com/Vaskar71/AI-Driven-Anomaly-Detection-in-Network-Security) — AI-Driven Network Security 🚀 An AI-powered Network Intrusion Detection System using machine learning. Trained on the NSL-KDD… — Jupyter Notebook · 1 yıldız
-- [vazzolla/pageloadtime](https://github.com/vazzolla/pageloadtime) — Performance testing and measuring the page load time of web aplications using PhantomJS and Google charts — JavaScript · 1 yıldız
-- [veerapandian2004/Employee-Management-System](https://github.com/veerapandian2004/Employee-Management-System) — 🏢 Full-stack Employee Management System built with React 18, Vite, TailwindCSS & shadcn/ui frontend and Frappe Framework v15… — JavaScript · 1 yıldız
-- [vianvask/halos](https://github.com/vianvask/halos) — Dark matter halo modelling based on the extended Press–Schechter formalism, applied to weak lensing magnification distributions,… — C++ · 1 yıldız
-- [victorkreutzfeldt/aau-cs224w-ml-with-graphs](https://github.com/victorkreutzfeldt/aau-cs224w-ml-with-graphs) — Study Group based on CS224W: Machine Learning with Graphs from Stanford University. The Study Group is comprised of students from… — Jupyter Notebook · 1 yıldız
-- [Vidhur-23/digital-forensics](https://github.com/Vidhur-23/digital-forensics) — Digital Forensics — Explainable Identity & Document Verification System An intelligent, explainable document-screening system… — Python · 1 yıldız
-- [Vifert/stock-market-dashboard](https://github.com/Vifert/stock-market-dashboard) — React-based stock market dashboard with real-time data visualization. Features multiple stock tracking, interactive charts,… — JavaScript · 1 yıldız
-- [vinayak533/Rainfall-Prediction-ML](https://github.com/vinayak533/Rainfall-Prediction-ML) — A machine learning project to predict rainfall using meteorological data. The project includes data preprocessing, visualization,… — Jupyter Notebook · 1 yıldız
-- [vince8nt/EdgeLab](https://github.com/vince8nt/EdgeLab) — A high-performance C++20 graph library for efficient graph loading, generation, and analysis. Supports flexible templated graph… — C++ · 1 yıldız
-- [vineet416/Ecommerce_Data_Analysis](https://github.com/vineet416/Ecommerce_Data_Analysis) — Python + MySQL pipeline that loads a Brazilian e-commerce dataset (7 CSV tables) and answers 15 business questions in SQL —… — Jupyter Notebook · 1 yıldız
-- [VinuWeer/Architectural-Diagrams](https://github.com/VinuWeer/Architectural-Diagrams) — This repository hosts a collection of architectural diagrams created for various software systems and projects. The diagrams… — — · 1 yıldız
-- [vishnu-anirudh/EikonHack2](https://github.com/vishnu-anirudh/EikonHack2) — creating a data visualization tool for the EikonHack2.0 hackathon organized in Thomson Reuters office (with Bank of America… — HTML · 1 yıldız
-- [vivek07-s/NovaPM](https://github.com/vivek07-s/NovaPM) — NovaPM is a cross-platform Process and Resource Monitoring Manager built using C++20, Dear ImGui, and SQLite. It provides… — C++ · 1 yıldız
-- [vogler75/winccxx-dashboard-example](https://github.com/vogler75/winccxx-dashboard-example) — WinCC GraphQL Dashboard Template - Creates web dashboards for WinCC Open Architecture & WinCC Unified. Features unified GraphQL… — HTML · 1 yıldız
-- [VoLKyyyOG/Australian-Road-Deaths-Database-Visualization](https://github.com/VoLKyyyOG/Australian-Road-Deaths-Database-Visualization) — The Australian Road Deaths Database provides basic details of road transport crash fatalities in Australia as reported by the… — Jupyter Notebook · 1 yıldız
-- [vurudi/Unlock-the-World-of-Data-Science-and-Machine-Learning-with-Python](https://github.com/vurudi/Unlock-the-World-of-Data-Science-and-Machine-Learning-with-Python) — The Data Science Workflow: From data preparation to visualization Machine Learning Basics: Key techniques for classification,… — Jupyter Notebook · 1 yıldız
-- [wagonlips/mi_map](https://github.com/wagonlips/mi_map) — A simple grid to plot points based on Minecraft coordinates. — PHP · 1 yıldız
-- [warrenrross/live-quakes](https://github.com/warrenrross/live-quakes) — Real-time visualization of USGS earthquake data with a Leaflet-based timeline and modern map styling. — JavaScript · 1 yıldız
-- [willy-arison/Handwritten-Digit-Classification-Using-Topological-Features-and-RandomForestClassifier](https://github.com/willy-arison/Handwritten-Digit-Classification-Using-Topological-Features-and-RandomForestClassifier) — This project focuses on classifying handwritten digits using topological features extracted from the MNIST dataset. The approach… — Jupyter Notebook · 1 yıldız
-- [winningdaffy/imgui-node-editor_bcb](https://github.com/winningdaffy/imgui-node-editor_bcb) — intergrate imgui-node-editor to bcb — C++ · 1 yıldız
-- [X-Men01/Stanford-CS224W-ML-with-Graphs](https://github.com/X-Men01/Stanford-CS224W-ML-with-Graphs) — Solutions for CS224W: Machine Learning with Graphs, Stanford Fall 2024. Includes detailed answers to assignments and insights… — Jupyter Notebook · 1 yıldız
-- [xnrig-dev/advanced-scientific-calculator.py](https://github.com/xnrig-dev/advanced-scientific-calculator.py) — A comprehensive Python-based scientific calculator with advanced features including trigonometric functions matrix operations… — Python · 1 yıldız
-- [Yixiang-Niu/ASAD-DG-ARMA](https://github.com/Yixiang-Niu/ASAD-DG-ARMA) — Auditory spatial attention detection based on feature disentanglement and brain connectivity-informed graph neural networks, in… — Python · 1 yıldız
-- [Yovinne-Shadora-data/COVID19_Analytics](https://github.com/Yovinne-Shadora-data/COVID19_Analytics) — Analysis and visualization of COVID-19 trends using open datasets, including daily cases, case fatality rate, and vaccination… — Jupyter Notebook · 1 yıldız
-- [yud42/TempSampling](https://github.com/yud42/TempSampling) — This repo is the experimental code for Cascade: A Dependency-aware Efficient Training Framework for Temporal Graph Neural… — Python · 1 yıldız
-- [YujiSODE/gCS](https://github.com/YujiSODE/gCS) — Interpreter that reads source code and outputs geological columnar section as HTML file in the current directory. — Tcl · 1 yıldız
-- [Yuv2121/simplifyrepo-architecture](https://github.com/Yuv2121/simplifyrepo-architecture) — The cognitive engine for enterprise codebases. A multi-agent AI architecture designed for deep repository analysis and technical… — — · 1 yıldız
-- [yy/gaza-deaths](https://github.com/yy/gaza-deaths) — Data and (possibly) visualization of Gaza fatality data from B'Tselem. — Python · 1 yıldız
-- [zach030/OctopusDB](https://github.com/zach030/OctopusDB) — Separating Keys from Values. Distributed Database System. Support Graph Query. — Go · 1 yıldız
-- [zeshan22/Student-Performance-Data-Set](https://github.com/zeshan22/Student-Performance-Data-Set) — The objective of this model is predict student performance in secondary education. First i visualize the grades of each student… — Python · 1 yıldız
-- [zhixin442-bot/Codex-HaloFlux](https://github.com/zhixin442-bot/Codex-HaloFlux) — Non-commercial Codex activity visualization based on HALOFLUX by Ryder191. Real-time events, Windows desktop wallpaper, and local… — HTML · 1 yıldız
-- [zhongyunbell/Hack2022_efficacy_biomarker](https://github.com/zhongyunbell/Hack2022_efficacy_biomarker) — The 2022 Hackthon project, collaborated with other team members for streamlit tool performing SHAP analysis and general data… — Jupyter Notebook · 1 yıldız
-- [ziamohammed1122/AI-Powered-Security-Operations-Center-SOC-Assistant](https://github.com/ziamohammed1122/AI-Powered-Security-Operations-Center-SOC-Assistant) — 🔐 Cybersecurity Dashboard Real-time cybersecurity dashboard that visualizes security alerts, threat scores, and vulnerabilities… — JavaScript · 1 yıldız
-- [ZimalYousuf3/ga-feature-selection-breast-cancer](https://github.com/ZimalYousuf3/ga-feature-selection-breast-cancer) — Genetic Algorithm-based feature selection for a Random Forest classifier on the Breast Cancer Wisconsin (UCI) dataset — includes… — Jupyter Notebook · 1 yıldız
-- [zpervan/SuperDuperWeatherStation](https://github.com/zpervan/SuperDuperWeatherStation) — An ESP8266 based weather station with an accompanying server and visualization application — Go · 1 yıldız
-- [ZYar-er/cs-mau-archive](https://github.com/ZYar-er/cs-mau-archive) — Historical monthly active users (MAU) for Counter-Strike (CS:GO → CS2), 2013-present. Steam Web API + Wayback Machine. — TypeScript · 1 yıldız
-- [ZypexLiEl/PMCPatient-MedSystem-NLP](https://github.com/ZypexLiEl/PMCPatient-MedSystem-NLP) — Simple medical information extraction and visualization system based on natural language processing (NLP) and machine learning,… — Python · 1 yıldız
-- [11609775/Data-Science-Web-App-with-Streamlit-and-Python](https://github.com/11609775/Data-Science-Web-App-with-Streamlit-and-Python) — This project on Build a Data Science Web App with Streamlit and Python is divided into following tasks: Task 1: Project Overview… — Python · 0 yıldız
-- [12345666ddwa/beijing-aq-datathon](https://github.com/12345666ddwa/beijing-aq-datathon) — Story site for our Beijing multi-site air-quality datathon entry (Stream 2) — EDA, error-source analysis, cross-station insights… — HTML · 0 yıldız
-- [127022-blip/NetPulse](https://github.com/127022-blip/NetPulse) — NetPulse is a lightweight macOS menu bar app that displays real-time network speed (upload/download), Wi-Fi network name, IP… — Swift · 0 yıldız
-- [22BCS16629/Reforestation-Tracker-System](https://github.com/22BCS16629/Reforestation-Tracker-System) — A web-based environmental monitoring application designed to support reforestation initiatives by tracking tree plantation,… — TypeScript · 0 yıldız
-- [2308163648/CS2-Highlight-Clipper](https://github.com/2308163648/CS2-Highlight-Clipper) — CS2 Highlight Clipper: parse Steam CS2 timeline and automatically stitch kill clips into one highlight video — Python · 0 yıldız
-- [23WH1A0534/Problem-Statement-from-1991-2006-ACM-ICPC-World-Finals-PyramidGenerator](https://github.com/23WH1A0534/Problem-Statement-from-1991-2006-ACM-ICPC-World-Finals-PyramidGenerator) — Pyramid Builder Game An interactive game based on the ACM-ICPC World Finals problem (1991-2006), utilizing Pygame for UI and… — Python · 0 yıldız
-- [35220198/ApexBuild-Construction-Corp.](https://github.com/35220198/ApexBuild-Construction-Corp.) — ApexBuild is a premier construction showcase highlighting commercial towers, civil infrastructure, and luxury estates. Features… — HTML · 0 yıldız
-- [3rwx/conan-imgui-node-editor](https://github.com/3rwx/conan-imgui-node-editor) — (açıklama yok) — Python · 0 yıldız
-- [4galgal/Gant-Chart-project](https://github.com/4galgal/Gant-Chart-project) — A console-based Gantt chart program written in C. Users can display a sample chart or create their own chart, then manage tasks… — C · 0 yıldız
-- [6th-Semester-Projects/oss-vulnerability-awareness-research](https://github.com/6th-Semester-Projects/oss-vulnerability-awareness-research) — Official repository for our published research: 'Awareness of Open-Source Software Vulnerabilities Among Programmers.' Contains… — — · 0 yıldız
-- [A17PRO/Apex-study-tracker](https://github.com/A17PRO/Apex-study-tracker) — APEX is a high-performance, browser-based study command center. Built with React and Tailwind v4, it features an interactive… — JavaScript · 0 yıldız
-- [Aachal-kothe/Covid-19-Analysis](https://github.com/Aachal-kothe/Covid-19-Analysis) — COVID-19 Data Analysis using Python and Pandas to explore trends, visualize cases, recoveries, and fatalities. Provides insights… — Jupyter Notebook · 0 yıldız
-- [Aafreen2203/QueryDashboard](https://github.com/Aafreen2203/QueryDashboard) — A React-based Data Query Dashboard where users can enter natural language queries, see simulated results with visualizations, and… — TypeScript · 0 yıldız
-- [aahad699/Terminal-Based-Sudoku-Generator-and-Solver](https://github.com/aahad699/Terminal-Based-Sudoku-Generator-and-Solver) — Built a C++ console application that generates valid Sudoku puzzles, solves them using a backtracking algorithm, and allows user… — C++ · 0 yıldız
-- [Aakhil111/Forest_fire_detection](https://github.com/Aakhil111/Forest_fire_detection) — Wildfire Detection using Deep Learning 🔥🌲 This project uses a Convolutional Neural Network (CNN) to detect wildfires using… — Jupyter Notebook · 0 yıldız
-- [aali21/Visualizing-Airline-Safety](https://github.com/aali21/Visualizing-Airline-Safety) — We visualize data of airline incidents, fatal accidents and fatalities for flights between 1985-1999 and 2000-2014 for 56… — Jupyter Notebook · 0 yıldız
-- [aayush200504/DiabeteSense-AI-Based-Diabetes-Risk-Prediction-System](https://github.com/aayush200504/DiabeteSense-AI-Based-Diabetes-Risk-Prediction-System) — DiabeteSense is an AI-powered healthcare analytics project developed using Machine Learning and the NHANES dataset to predict… — JavaScript · 0 yıldız
-- [aayushbarsainya/SmartSched](https://github.com/aayushbarsainya/SmartSched) — SmartSched is a workload-driven CPU scheduling simulation framework built in C++ and SDL2 that compares traditional and… — — · 0 yıldız
-- [AayushyaRajput/-E-commerce-Furniture-Dataset](https://github.com/AayushyaRajput/-E-commerce-Furniture-Dataset) — I analyzed an e-commerce furniture dataset by cleaning, transforming, and visualizing key sales trends. I engineered a discount… — Jupyter Notebook · 0 yıldız
-- [Abdalla-Eldoumani/bo2-portfolio](https://github.com/Abdalla-Eldoumani/bo2-portfolio) — Personal portfolio themed as the Black Ops 2 menu system - screen-based UI, canvas mini-games per project, original SVG art,… — TypeScript · 0 yıldız
-- [AbdallahFrontDev/Bootstrap-Practice-Components-Customize-Grid-System-Responsive-](https://github.com/AbdallahFrontDev/Bootstrap-Practice-Components-Customize-Grid-System-Responsive-) — This project is a responsive Bootstrap 5.3 website featuring a fixed navbar with off-canvas menu, dark/light mode toggle,… — HTML · 0 yıldız
-- [AbdelfattahKandel/Boardify-Pro](https://github.com/AbdelfattahKandel/Boardify-Pro) — Boardify Pro — a modern Angular 19 + PrimeNG Kanban workspace with board, table, and timeline views, date-based snapshots, JSON… — TypeScript · 0 yıldız
-- [AbdelrhmanHany3/Vision-Editor](https://github.com/AbdelrhmanHany3/Vision-Editor) — A Python & Tkinter desktop image editor with a custom dark UI, dual scrollable canvases, and live matplotlib histograms. Supports… — Python · 0 yıldız
-- [abdi219/DSA_ProjectBasedAssignment](https://github.com/abdi219/DSA_ProjectBasedAssignment) — inal Project for Data Structures Lab (CC-6313). A modular C++ system solving 27+ real-world problems using Linked Lists, Stacks,… — C++ · 0 yıldız
-- [Abdifatah2023/ModelSelectionLogisticRegression](https://github.com/Abdifatah2023/ModelSelectionLogisticRegression) — Load the Airbnb listings dataset, define the prediction label and features, and split into training and test sets. Train and… — Jupyter Notebook · 0 yıldız
-- [AbdoAitrais/Centrality-Project](https://github.com/AbdoAitrais/Centrality-Project) — This repo contains a centrality project that uses a dataset of Manhatten New York and loads it into a graph to calculate degree… — C++ · 0 yıldız
-- [AbdoTarek2211/Forest-Cover-Type-Classification](https://github.com/AbdoTarek2211/Forest-Cover-Type-Classification) — The notebook includes data visualization, feature scaling, hyperparameter tuning via RandomizedSearchCV, and feature importance… — Jupyter Notebook · 0 yıldız
-- [abdul-nur/SG_Analysis_Rust](https://github.com/abdul-nur/SG_Analysis_Rust) — Rust project for analyzing social graph distance metrics across graph-based datasets. — Rust · 0 yıldız
-- [abdulDoesCode/CS202-HW1](https://github.com/abdulDoesCode/CS202-HW1) — this homework is building a data base through java. we make a ER diagram, build DB through SQL code — Java · 0 yıldız
-- [abdullahq-mlworks/CCP--Random-Forest-Feature-Importance-](https://github.com/abdullahq-mlworks/CCP--Random-Forest-Feature-Importance-) — This project focuses on feature importance analysis using Random Forest model to identify the most influential factors behind… — Jupyter Notebook · 0 yıldız
-- [Abdulrasheed055/COVID-19-Global-Data-Analysis-Using-Python](https://github.com/Abdulrasheed055/COVID-19-Global-Data-Analysis-Using-Python) — This project explores the global spread, impact, and trends of the COVID-19 pandemic using Python. The analysis covers data… — — · 0 yıldız
-- [abdulrehman740494/Smart-Delivery-Management-System](https://github.com/abdulrehman740494/Smart-Delivery-Management-System) — A comprehensive C++17 Smart Delivery Management System that demonstrates the practical implementation of Data Structures and… — C++ · 0 yıldız
-- [AbdurahmanTFX/Karkas](https://github.com/AbdurahmanTFX/Karkas) — Schema-first IDE: your project is a hierarchy of blocks, AI agents write the code inside them. Deterministic index, drift… — C++ · 0 yıldız
-- [Abedini03/Random-Forest-Implementation](https://github.com/Abedini03/Random-Forest-Implementation) — A simple Random Forest Classifier to predict whether a user will purchase a product based on their age and estimated salary,… — Jupyter Notebook · 0 yıldız
-- [abeeny/Timeline](https://github.com/abeeny/Timeline) — c++ program which creates and loads .csv files — — · 0 yıldız
-- [AbhigyanSingh97/PUBG-data-visualization-and-prediction.](https://github.com/AbhigyanSingh97/PUBG-data-visualization-and-prediction.) — The Dataset consisted of 4.4 million data,which i used to visualize and remove outliers and hackers from the data and then took a… — Jupyter Notebook · 0 yıldız
-- [Abhijitshinde2001/Bankruptcy-Prevention---Classification](https://github.com/Abhijitshinde2001/Bankruptcy-Prevention---Classification) — This Project is helpful in predicting the Bankruptcy Prevention Classification based on the available data. By implementing… — Jupyter Notebook · 0 yıldız
-- [AbhinayaYasa/Car-Data-Analysis-Project](https://github.com/AbhinayaYasa/Car-Data-Analysis-Project) — This repository contains a comprehensive car sales data analysis project using MySQL and Python. It includes data cleaning,… — Python · 0 yıldız
-- [abhiroolex/Internetspeedchecker](https://github.com/abhiroolex/Internetspeedchecker) — A modern and interactive web-based Internet Speed Checker that allows users to test their internet connection's download speed,… — JavaScript · 0 yıldız
-- [Abhiseksah/Iot-based-weather-monitoring-system](https://github.com/Abhiseksah/Iot-based-weather-monitoring-system) — This is our college final project in which my contribution is to create a web interface through which any one can see the live… — HTML · 0 yıldız
-- [abhishek-jain-131/WeatherSphere](https://github.com/abhishek-jain-131/WeatherSphere) — A sleek and responsive weather app built with React and Tailwind CSS. Features real-time weather data, 5-day forecast with a… — JavaScript · 0 yıldız
-- [abhishek-maurya576/Iris_MLP](https://github.com/abhishek-maurya576/Iris_MLP) — This project uses the famous Iris dataset to demonstrate a simple classification task. It includes data loading, preprocessing,… — Python · 0 yıldız
-- [abidxr/aiub-cgpa-calculator](https://github.com/abidxr/aiub-cgpa-calculator) — 🎓 Web-based CGPA Calculator built with React, TailwindCSS, and Node.js. Features course & grade management, Excel export/import,… — JavaScript · 0 yıldız
-- [abmoh4219/fpl-gameweek-copilot](https://github.com/abmoh4219/fpl-gameweek-copilot) — Free, open-source FPL stats hub: player stats, fixture planner, price watch, a page for every player and five squad checks. No… — TypeScript · 0 yıldız
-- [abubaker-umer/DS](https://github.com/abubaker-umer/DS) — Python-based data analyst skilled in analyzing and visualizing Israel-Palestine conflict fatalities. Expert in extracting… — — · 0 yıldız
-- [aclarke500/police-data-analysis](https://github.com/aclarke500/police-data-analysis) — Analysis of police induced fatalities from 2000-2016 — Jupyter Notebook · 0 yıldız
-- [AdedayoDanielAkinseli/Adult-Income-Prediction-Model](https://github.com/AdedayoDanielAkinseli/Adult-Income-Prediction-Model) — This notebook performs an analysis of the Adult Income dataset, including data loading, cleaning, visualization, and the… — Jupyter Notebook · 0 yıldız
-- [adenolatobi/aviation-safety-analysis](https://github.com/adenolatobi/aviation-safety-analysis) — Exploratory analysis of NTSB aviation records using R to examine aircraft incident frequency and changes in fatalities over time. — R · 0 yıldız
-- [adhy2001/expense-tracker](https://github.com/adhy2001/expense-tracker) — A modern, responsive finance dashboard that helps users track income, expenses, and spending patterns through an elegant… — CSS · 0 yıldız
-- [adi1985a/NeuroSim-Interface-Bio-Computer-Simulator](https://github.com/adi1985a/NeuroSim-Interface-Bio-Computer-Simulator) — C++ program simulating a bio-computer interface. Manages sensory information types (Picture, Sound, etc.) and displays brain… — C++ · 0 yıldız
-- [AdidyaR/SpendWise](https://github.com/AdidyaR/SpendWise) — > **SpendWise** – A React-based personal finance tracker to log income & expenses, visualize spending with charts, set budgets,… — JavaScript · 0 yıldız
-- [Adiru3/Aim-Spectrum-Analytics](https://github.com/Adiru3/Aim-Spectrum-Analytics) — Fundamental research on FPS aim biomechanics. An interactive, high-performance web dashboard deconstructing neuromotor control… — JavaScript · 0 yıldız
-- [adityasharma-tech/imgui-node-editor-docs-0.9.2](https://github.com/adityasharma-tech/imgui-node-editor-docs-0.9.2) — Created whole documentation using Gemini of stable version (0.9.2) of imgui-node-editor — — · 0 yıldız
-- [adrian-sierra/Marching-Tetrahedrons](https://github.com/adrian-sierra/Marching-Tetrahedrons) — This project was created as part of one of my undergraduate courses, Science Visualization, and uses C++, CMake, and VTK data… — C++ · 0 yıldız
-- [adriancalavie/pathfinder](https://github.com/adriancalavie/pathfinder) — Open source desktop app that offers a visualizer for different pathfinding algorithms. — Rust · 0 yıldız
-- [adrianrodriguesm/Cerberus-Engine](https://github.com/adrianrodriguesm/Cerberus-Engine) — Real-time Vulkan renderer and hardware ray-traced path tracer in C++20 — A-SVGF denoiser, render graph with automatic barriers,… — C++ · 0 yıldız
-- [adrianursu/csgo-stats](https://github.com/adrianursu/csgo-stats) — Dashboard for visualizing CS:GO match statistics. — JavaScript · 0 yıldız
-- [AFigueroa/arduino_thermostat](https://github.com/AFigueroa/arduino_thermostat) — An Arduino app that controls temperature set as a range. It uses a service called Sparkfun to log the temperature data online as… — JavaScript · 0 yıldız
-- [afm719/data_visualization_forestfires](https://github.com/afm719/data_visualization_forestfires) — This project applies eXplainable Artificial Intelligence (XAI) techniques, specifically the SHAP (SHapley Additive exPlanations)… — Jupyter Notebook · 0 yıldız
-- [AfonsoPaiva/LoadX](https://github.com/AfonsoPaiva/LoadX) — A Graphics Engine with PBR rendering, multi-format model loading, and real-time visualization capabilities. — — · 0 yıldız
-- [afoster44/tarkov-raiders-vue-mongodb](https://github.com/afoster44/tarkov-raiders-vue-mongodb) — Going to create a site that will allow Escape From Tarkov to have access to all things tarkov on one page. This will include… — CSS · 0 yıldız
-- [afri7here/IPL-match-data-insights](https://github.com/afri7here/IPL-match-data-insights) — IPL Match Insights is an Oracle APEX-based database application designed to explore IPL match data through interactive reports,… — — · 0 yıldız
-- [afzalimdad9/save-the-forest](https://github.com/afzalimdad9/save-the-forest) — 🔥 Canvas based HTML5 game where a player has to extinguish fire on trees using his magical water tank in order to save the… — JavaScript · 0 yıldız
-- [ahana3001/Menu-Optimizer](https://github.com/ahana3001/Menu-Optimizer) — A multi-objective Genetic Algorithm that evolves the optimal weekly restaurant menu across profit, customer rating, calorie… — HTML · 0 yıldız
-- [ahmaadn/plyunit](https://github.com/ahmaadn/plyunit) — plyunit is a lightweight 2D game engine for Python — scene tree, fixed-timestep simulation, and an ECS-flavored unit/component… — Python · 0 yıldız
-- [Ahmed3280/Random_Forest_Classification_2](https://github.com/Ahmed3280/Random_Forest_Classification_2) — This project demonstrates the use of Random Forest Classification to predict categorical outcomes based on input features. It… — Jupyter Notebook · 0 yıldız
-- [Ahmeddkhaledddd/forest_cover_classification](https://github.com/Ahmeddkhaledddd/forest_cover_classification) — A machine learning script that trains and evaluates Random Forest and XGBoost models on the Covtype dataset using Google Colab.… — Python · 0 yıldız
-- [AhmedElmasri/Behind_the_Badge_Analysis](https://github.com/AhmedElmasri/Behind_the_Badge_Analysis) — A comprehensive data-driven analysis of U.S. police officer fatalities (1791–present) — exploring trends, causes, and geographic… — Jupyter Notebook · 0 yıldız
-- [ahmettalhabektas/Popularity-based-on-movie-recommendation](https://github.com/ahmettalhabektas/Popularity-based-on-movie-recommendation) — Due to my ongoing final exams, I have been unable to allocate time to clean up my code. However, once my exams conclude, I plan… — Jupyter Notebook · 0 yıldız
-- [ahsanfatimaulhaq/Human-body-parts-intearaction](https://github.com/ahsanfatimaulhaq/Human-body-parts-intearaction) — This project is a dynamic body injury mapping tool built in Oracle APEX. It allows users to visually select body parts on an… — — · 0 yıldız
-- [aiekick/ImNodal](https://github.com/aiekick/ImNodal) — A Node Graph component for Dear ImGui — C++ · 0 yıldız
-- [aisham5878/meta-lobbying-and-other-findings](https://github.com/aisham5878/meta-lobbying-and-other-findings) — Investigate Meta’s lobbying tactics and influence efforts using open-source data from public records and detailed intelligence… — HTML · 0 yıldız
-- [aisrael/helm-go-sdk-sample-code](https://github.com/aisrael/helm-go-sdk-sample-code) — Sample code of how to install a Helm chart from a local directory using Helm Go SDK — Go · 0 yıldız · arşiv
-- [aixaria0/fracture-archive](https://github.com/aixaria0/fracture-archive) — Fracture Archive — local-first research desk for post-quantum cryptography, holography, Hawking radiation, and primordial… — JavaScript · 0 yıldız
-- [aiyufan3/Explainability-in-Random-Forest-Models-Feature](https://github.com/aiyufan3/Explainability-in-Random-Forest-Models-Feature) — This project applies Explainable AI techniques, including PDP, ICE, and ALE plots, to interpret a Random Forest model trained on… — Jupyter Notebook · 0 yıldız
-- [aka261/Apple-Stock-Prices](https://github.com/aka261/Apple-Stock-Prices) — Leveraged Using data from Yahoo Finance, we used various machine learning regression models and time-series models such as LSTM,… — Jupyter Notebook · 0 yıldız
-- [akaushal11/Nutritionist-App](https://github.com/akaushal11/Nutritionist-App) — This machine learning project uses the Random Forest algorithm to create personalized diet charts based on BMI. By analyzing… — Python · 0 yıldız
-- [akenned8/cs240-final-project](https://github.com/akenned8/cs240-final-project) — This program builds a directed graph based on the 3d coordinates of planets in a galaxy. Then it sends a spaceship along the most… — C++ · 0 yıldız
-- [akhilesh0090/Titanic-Survival-Prediction-Analyzing-Historical-Data-to-Predict-Passenger-Survival](https://github.com/akhilesh0090/Titanic-Survival-Prediction-Analyzing-Historical-Data-to-Predict-Passenger-Survival) — Using ML to analyze passenger data from the Titanic disaster. we predicted survival of people based on various feature. we… — Jupyter Notebook · 0 yıldız
-- [akilas-dias-rocha/northwind-elt](https://github.com/akilas-dias-rocha/northwind-elt) — An end-to-end ELT pipeline built on the Northwind Traders database, covering data extraction, loading, transformation, and… — Jupyter Notebook · 0 yıldız
-- [akramkhn/-Amazon-project-using-Pandas](https://github.com/akramkhn/-Amazon-project-using-Pandas) — This project aims to analyze data stored in a MySQL database using Python's Pandas library. The process involves loading data… — Jupyter Notebook · 0 yıldız
-- [akshat12317/Cost-Calculator](https://github.com/akshat12317/Cost-Calculator) — This is a cost calculator application based on Oracle apex technology which calculates cost for an application in an organization… — — · 0 yıldız
-- [akshata0911/Marks-Prediction-System](https://github.com/akshata0911/Marks-Prediction-System) — This project predicts student final marks using Machine Learning (Linear Regression). It uses study hours, attendance,… — — · 0 yıldız
-- [akshatsoni-2002/finance-dashboard](https://github.com/akshatsoni-2002/finance-dashboard) — Finance Dashboard UI built with React featuring charts, transactions, role-based access, and dark/light mode. — JavaScript · 0 yıldız
-- [akshayc07/Data-Visualization-of-Boston-Crime-using-Tableau](https://github.com/akshayc07/Data-Visualization-of-Boston-Crime-using-Tableau) — Boston is a Massachusetts' capital and largest city. Boston is home to thousands of students who have come from the corners of… — — · 0 yıldız
-- [Akshayembate/Plot-Vel-And-Yaw-Using-Imgui-And-ImPlot](https://github.com/Akshayembate/Plot-Vel-And-Yaw-Using-Imgui-And-ImPlot) — (açıklama yok) — C++ · 0 yıldız
-- [AkshaySyal/Enhancing-Class-Separation-via-Embedding-Space-Fine-Tuning](https://github.com/AkshaySyal/Enhancing-Class-Separation-via-Embedding-Space-Fine-Tuning) — This project focuses on implementing and evaluating a neural network for text classification on the 20 Newsgroups dataset,… — Jupyter Notebook · 0 yıldız
-- [akshita-pant/spp-project](https://github.com/akshita-pant/spp-project) — Here, in this code I have used Apple stock price data, preprocess it, and trained different models including LSTM, Random Forest,… — Jupyter Notebook · 0 yıldız
-- [alanzfu/HRprep-Hackathon](https://github.com/alanzfu/HRprep-Hackathon) — Create a chart through textareas, load charts that other people have created. Utilizes Chart.js and Parse. — JavaScript · 0 yıldız
-- [alexandria-lee/castle-siege](https://github.com/alexandria-lee/castle-siege) — Browser-based Space Invaders — a single self-contained HTML5 Canvas game, no dependencies. — HTML · 0 yıldız
-- [alexriss/SARS-CoV-2-Analysis](https://github.com/alexriss/SARS-CoV-2-Analysis) — Coronavirus visualization: relative daily changes, case fatality rates, etc. — Vue · 0 yıldız
-- [alfajer01/indosat-ussd-info](https://github.com/alfajer01/indosat-ussd-info) — Simulation of Indosat’s USSD information service (*888*22#) built in Go language for academic purpose. This project demonstrates… — Go · 0 yıldız
-- [alieron/axist](https://github.com/alieron/axist) — 2D/3D graph/function renderer made with OpenGL and ImGUI — — · 0 yıldız
-- [AliMuhammad78/CPP-DSA-Book-Management-Project](https://github.com/AliMuhammad78/CPP-DSA-Book-Management-Project) — A console-based C++ book management system developed as a university DSA project, implementing linked lists, stacks,… — C++ · 0 yıldız
-- [Aliraza-san/dashboard.live](https://github.com/Aliraza-san/dashboard.live) — Distributed system for real-time data processing and analytics using Apache Kafka, Apache Flink, and Kubernetes. The system… — — · 0 yıldız
-- [AlirezaBalaei/alirezabalaei.github.io](https://github.com/AlirezaBalaei/alirezabalaei.github.io) — A dark-themed responsive personal site built with HTML, featuring my background, skills, experience in data visualization, and… — HTML · 0 yıldız
-- [alizulqarnainirfan/har](https://github.com/alizulqarnainirfan/har) — Developed a House Price Prediction model using Random Forest Regressor with 0.99 accuracy and loss. The project includes data… — Jupyter Notebook · 0 yıldız
-- [alok-108/ancestry-estimator](https://github.com/alok-108/ancestry-estimator) — A user-friendly web application for estimating ancestry distribution based on selected demographic inputs. Features include an… — HTML · 0 yıldız
-- [Alp-1/Alternative-Current-Visualisation-Suite](https://github.com/Alp-1/Alternative-Current-Visualisation-Suite) — This project was done as the CompApps Module Final Project. It is a Tk-inter based suite for inspecting AC Signals in a circuit. — Python · 0 yıldız
-- [alphacart/EarthQuakeVisualization](https://github.com/alphacart/EarthQuakeVisualization) — Developed a new visualization based on leaflet and earthquake data to provide a meaningful way of displaying the data — JavaScript · 0 yıldız
-- [alvarocp4/MySQL-Streamlit](https://github.com/alvarocp4/MySQL-Streamlit) — This project shows the complete data analysis cycle: from manual capture and recording using a Streamlit app, to ETL processing… — Python · 0 yıldız
-- [alyssagirard/SharkAttackTrack](https://github.com/alyssagirard/SharkAttackTrack) — Reads in data from a CSV file to analyze and visualize data about shark attacks, printing out graphs comparing age of attack,… — Python · 0 yıldız
-- [am-santos/trees-armageddon](https://github.com/am-santos/trees-armageddon) — Turn-based canvas artillery game inspired by Worms Armageddon (Ironhack 2020, solo project) — JavaScript · 0 yıldız
-- [amaanmulla8971-glitch/ML_Based-startup-profit-analysis](https://github.com/amaanmulla8971-glitch/ML_Based-startup-profit-analysis) — Designed a machine learning model to predict startup profits using the 50 Startups dataset. Performed data preprocessing,… — Jupyter Notebook · 0 yıldız
-- [aman7CD/ML-Project-3-Gold-Price-Prediction-using-RandomForestRegressor-](https://github.com/aman7CD/ML-Project-3-Gold-Price-Prediction-using-RandomForestRegressor-) — Used RandomForestRegressor to predict Future Prices of Gold based on the Past Prices with an accuracy of 98.93%.Used scatter plot… — Python · 0 yıldız
-- [Amanetas90/Exploring-and-Visualizing-COVID-19-Data](https://github.com/Amanetas90/Exploring-and-Visualizing-COVID-19-Data) — Provide appropriate descriptive statistics / visualizations to help understand the spread of the disease (incidence) as well as… — — · 0 yıldız
-- [amareshtoxico/Calories-Burnt-Prediction-ML](https://github.com/amareshtoxico/Calories-Burnt-Prediction-ML) — An end-to-end Machine Learning web application that predicts calories burnt based on user fitness data. Built using Python,… — Python · 0 yıldız
-- [amareshtoxico/End-to-end-Credit-Card-Risk-Analysis-Prediction-System](https://github.com/amareshtoxico/End-to-end-Credit-Card-Risk-Analysis-Prediction-System) — Developed an end-to-end Credit Card Risk Analysis system using machine learning, covering data preprocessing, feature… — Python · 0 yıldız
-- [amarjitdhillon/Finding-Shortest-Path-using-Genetic-Algorithm-](https://github.com/amarjitdhillon/Finding-Shortest-Path-using-Genetic-Algorithm-) — This code generates the random locations in 3-d space and then finds the shortest path among the first and last node. User has… — — · 0 yıldız
-- [AmeyaB2005/Mobile_Robot_Base_With_Arm_In_Gazebo](https://github.com/AmeyaB2005/Mobile_Robot_Base_With_Arm_In_Gazebo) — A simulation of a mobile robot with a arm on top with the help of URDF and xacro in a world generated in gazebo. — CMake · 0 yıldız
-- [aminbakhtiari777/california-house-price-prediction](https://github.com/aminbakhtiari777/california-house-price-prediction) — # California Housing Price Prediction Machine Learning project using: - Pandas - Scikit-learn - Matplotlib - Seaborn Models: -… — Jupyter Notebook · 0 yıldız
-- [AmirCyberSecurity/TonFlood](https://github.com/AmirCyberSecurity/TonFlood) — TonFlood - Asynchronous HTTP DoS framework with spoofed IP headers. HTTP flooding, 10KB payloads, and real-time RPS monitoring.… — JavaScript · 0 yıldız
-- [amirsalehi-tech/the-wild-oasis](https://github.com/amirsalehi-tech/the-wild-oasis) — A modern, full-stack hotel management system built with React and Supabase. Features include real-time booking management, cabin… — JavaScript · 0 yıldız
-- [amitd05/OpenGL-Visualization-Of-Process-Scheduling](https://github.com/amitd05/OpenGL-Visualization-Of-Process-Scheduling) — (açıklama yok) — — · 0 yıldız
-- [AmithGowda04/Covid-19-Analysis-Dashboard](https://github.com/AmithGowda04/Covid-19-Analysis-Dashboard) — An interactive COVID-19 dashboard built in Tableau to track confirmed cases, active cases, recoveries, and fatalities. It… — — · 0 yıldız
-- [amitk1311/Sales-Data-ETL-Pipeline](https://github.com/amitk1311/Sales-Data-ETL-Pipeline) — Python-based ETL pipeline for extracting, cleaning, transforming, and loading sales data into MySQL with SQL analysis and data… — Python · 0 yıldız
-- [amitkulk123/Transportation-Fatality-Visualisation](https://github.com/amitkulk123/Transportation-Fatality-Visualisation) — Interactive visualization made with d3.js that shows fatality rates over time for different modes of transportation — JavaScript · 0 yıldız
-- [amnabashir28/Forest-Cover-Type-Classification](https://github.com/amnabashir28/Forest-Cover-Type-Classification) — "Multi-class Classification Tree-based modeling on the Covertype dataset. Data cleaned and preprocessed, categorical features… — Jupyter Notebook · 0 yıldız
-- [amoodaniel/covid-19-tracker](https://github.com/amoodaniel/covid-19-tracker) — A web application that gives live updates of Covid-19 cases around the world, it also shows the data of those recovered and the… — JavaScript · 0 yıldız
-- [anaccsantos/A-New-Era-of-Data-Analysis-in-Baseball](https://github.com/anaccsantos/A-New-Era-of-Data-Analysis-in-Baseball) — There's a new era of data analysis in baseball. Using a new technology called Statcast, Major League Baseball is now collecting… — Jupyter Notebook · 0 yıldız
-- [Anael-UmarDS/Economic_News_Sentiment_Classifier](https://github.com/Anael-UmarDS/Economic_News_Sentiment_Classifier) — This project pulls real-time economic headlines from NewsAPI and automatically labels them using VADER sentiment analysis. It… — Jupyter Notebook · 0 yıldız
-- [anaik62/Data-Visualization-Project](https://github.com/anaik62/Data-Visualization-Project) — The project is an interactive and scalable data visualization using D3.js, HTML, and CSS to depict transportation trends.… — JavaScript · 0 yıldız
-- [AnalyticGator/2012-Workplace-Fatalities-Analysis](https://github.com/AnalyticGator/2012-Workplace-Fatalities-Analysis) — Exploratory data analysis on 2012 workplace fatality data and created data visualization for users to explore the data for… — — · 0 yıldız
-- [anatoly1956/retro-siege](https://github.com/anatoly1956/retro-siege) — A browser-based top-down retro shooter (vanilla JS + Canvas 2D) — JavaScript · 0 yıldız
-- [andberg/d3-action-movies-second-test](https://github.com/andberg/d3-action-movies-second-test) — My second laboration with D3js for my final school assignment. In this I elaborate with Force-directed graph with help from… — JavaScript · 0 yıldız
-- [andja45/seminar-assignment-with-bipartite-matching](https://github.com/andja45/seminar-assignment-with-bipartite-matching) — Graph-based seminar topic allocation using maximum bipartite matching, with minimum vertex cover for bottleneck analysis and… — C++ · 0 yıldız
-- [andnet-deboer/ROS2-TF2-Based-Robot-Visualization-and-Control](https://github.com/andnet-deboer/ROS2-TF2-Based-Robot-Visualization-and-Control) — This project simulates a custom unicycle robot in ROS 2 that catches a falling brick in a simple arena. — Python · 0 yıldız
-- [AndreHadjiThomas/rf-shap-feature-selection](https://github.com/AndreHadjiThomas/rf-shap-feature-selection) — Train a Random Forest on the California Housing dataset, explain it with SHAP (summary + bar plots), rank features by mean SHAP ,… — Python · 0 yıldız
-- [andreiboyanov/imagio](https://github.com/andreiboyanov/imagio) — A 2D and 3D visualization tool — — · 0 yıldız
-- [AndrewOgden/Novel-Document-Vector-Visulaisation-Method](https://github.com/AndrewOgden/Novel-Document-Vector-Visulaisation-Method) — This repository contains the final implementation of a Novel Visualisation technique, based on Cosine similarity and Euclidean… — Python · 0 yıldız
-- [andrianl/FrameDAG](https://github.com/andrianl/FrameDAG) — A high-performance, template-based C++ task graph executor designed for concurrent game engine systems. — C++ · 0 yıldız
-- [Andromeda08/Stardust](https://github.com/Andromeda08/Stardust) — The old render graph based Vulkan rendering engine, BSc thesis work. — C++ · 0 yıldız
-- [andyshearsphd/Muncie-Kombat](https://github.com/andyshearsphd/Muncie-Kombat) — A gory, over-the-top Mortal Kombat parody set in Muncie, Indiana. Sixteen local fighters, four bosses, fifteen Muncie arenas and… — JavaScript · 0 yıldız
-- [AngeloZhu/DirectedGraphGPS](https://github.com/AngeloZhu/DirectedGraphGPS) — I implemented the directed graph found in Digraph.hpp where graph vertices are locations on a map and edges are corresponding… — C++ · 0 yıldız
-- [anhvung/csgo_pro_matches_analysis](https://github.com/anhvung/csgo_pro_matches_analysis) — Bookdown source files for EDAV final project — HTML · 0 yıldız
-- [Ani2K/cs225_final_project](https://github.com/Ani2K/cs225_final_project) — Final project for CS 225 (data structures) at UIUC. Graph implementation of the OpenFlights airports and flight routes dataset.… — C++ · 0 yıldız
-- [anilabutt/ActiveRaUL](https://github.com/anilabutt/ActiveRaUL) — We propose a model and system for developing form-based Semantic Web applications. The ActiveRaUL RESTful Web service enables… — Web Ontology Language · 0 yıldız
-- [AniRosita/Apex-Hackathon-Level2](https://github.com/AniRosita/Apex-Hackathon-Level2) — This Oracle APEX project converts student CSV data into an interactive dashboard. It features SQL-powered bar, donut, and line… — JavaScript · 0 yıldız
-- [Anirudh-Swaminathan/esports_data_analysis](https://github.com/Anirudh-Swaminathan/esports_data_analysis) — The repository houses code for the final project of the course ECE 143 taken at UCSD in Winter 2021. — Jupyter Notebook · 0 yıldız
-- [anisabhakti/Hantavirus-Transmission](https://github.com/anisabhakti/Hantavirus-Transmission) — An exploratory data analysis of global Hantavirus cases to identify the most affected countries, transmission patterns,… — Jupyter Notebook · 0 yıldız
-- [ankandebbarmaa/WorstFitMemorySimulator](https://github.com/ankandebbarmaa/WorstFitMemorySimulator) — A C++ console-based simulator of the Worst Fit memory allocation algorithm, featuring dynamic memory management, interactive… — C++ · 0 yıldız
-- [AnkeshGupta786/Financial_Tracker](https://github.com/AnkeshGupta786/Financial_Tracker) — A full-stack MERN web application for managing personal finances, featuring JWT and Firebase OAuth authentication, CRUD… — — · 0 yıldız
-- [Ankit-Yadav-03/Sentrix](https://github.com/Ankit-Yadav-03/Sentrix) — AI-powered near-miss report analysis for oil & gas sites. Detects Serious Injury & Fatality (SIF) precursor patterns from… — Python · 0 yıldız
-- [ankitabaler/Ankita_R25EJ009](https://github.com/ankitabaler/Ankita_R25EJ009) — A menu-driven 2D Graphics Editor developed in C using the ncurses library. The program uses a 2D character array as a canvas and… — C · 0 yıldız
-- [ankitagrawal97/RespiratoryDiseaseDetectionandReportGeneration](https://github.com/ankitagrawal97/RespiratoryDiseaseDetectionandReportGeneration) — For this project, we have chosen to diagnose among fourteen respiratory ailments, namely, Atelectasis, Consolidation,… — — · 0 yıldız
-- [ankitajoshi9425/SAR_Cellphone](https://github.com/ankitajoshi9425/SAR_Cellphone) — Project Name : Modeling Radiation Emitted from Cellphones System Requirement: All the scripts were written in Jupyter Notebook… — Jupyter Notebook · 0 yıldız
-- [ankitasahay8/smart-study-planner](https://github.com/ankitasahay8/smart-study-planner) — Smart Study Planner is a React-based productivity web app designed to help students organize their study goals, track task… — JavaScript · 0 yıldız
-- [ankitwagadre/Datapicker](https://github.com/ankitwagadre/Datapicker) — This open source, digitizing software converts an image file showing a graph or map, into numbers. The image file can come from a… — C++ · 0 yıldız
-- [anknid-colab/Flight_delay_prediction_using_pycaret](https://github.com/anknid-colab/Flight_delay_prediction_using_pycaret) — Flight-Delay-prediction-using-Pycaret Here is an update in my previous project. I have used PyCaret library to select the best… — Jupyter Notebook · 0 yıldız
-- [anmol-k14/sqlChat](https://github.com/anmol-k14/sqlChat) — A React-based analytics tool that leverages advanced AI to interpret natural language queries and explore mental health data… — JavaScript · 0 yıldız
-- [anna-seppala/hpp-plot](https://github.com/anna-seppala/hpp-plot) — Plot tools for hpp-manipulation designed with Qt — C++ · 0 yıldız
-- [annabukhari/Titanic-Survival-Analysis](https://github.com/annabukhari/Titanic-Survival-Analysis) — Predicts Titanic survival using machine learning algorithms like Random Forest, SVM, and KNN, based on features like age, gender,… — — · 0 yıldız
-- [Anshuboom/Anshuboom_SAFP_repo](https://github.com/Anshuboom/Anshuboom_SAFP_repo) — SharkAttackFiles based Fatality Prediction — Jupyter Notebook · 0 yıldız
-- [anu-Prakash-19/Binary-Classification-of-Fire-and-No-Fire-Using-Random-Forest](https://github.com/anu-Prakash-19/Binary-Classification-of-Fire-and-No-Fire-Using-Random-Forest) — This project implements a machine learning–based fire detection system using the Random Forest algorithm to classify situations… — Jupyter Notebook · 0 yıldız
-- [Anukriti775/Air_Monitoring_Syste-](https://github.com/Anukriti775/Air_Monitoring_Syste-) — Developed a real-time IoT Air Monitoring System using ESP8266, DHT22, MQ-2, ThingSpeak Cloud, and a custom JavaScript-based web… — HTML · 0 yıldız
-- [anushka123jet-cloud/Algerian-Forest-Fires-Prediction-using-Regression-Models](https://github.com/anushka123jet-cloud/Algerian-Forest-Fires-Prediction-using-Regression-Models) — End-to-end Machine Learning project on the Algerian Forest Fires dataset featuring data cleaning, EDA, feature engineering,… — Jupyter Notebook · 0 yıldız
-- [Anushka1704/House-Price-Prediction](https://github.com/Anushka1704/House-Price-Prediction) — This project aims to predict the housing prices based on various independent variables. Data is obtained from the Kaggle web site… — HTML · 0 yıldız
-- [AnuverseHQ/qRPC-Socket](https://github.com/AnuverseHQ/qRPC-Socket) — qRPC-Socket: A Rust-based open-source project that merges the power of gRPC's remote procedure calls, GraphQL's graph-based… — — · 0 yıldız
-- [aon-co-jp/tract-onnx-patch](https://github.com/aon-co-jp/tract-onnx-patch) — Patch PyTorch-exported ONNX graphs (Pad/Range ops) so they load in tract, the pure-Rust ONNX inference engine — Python · 0 yıldız
-- [AP24110010276/Stack-simulation](https://github.com/AP24110010276/Stack-simulation) — "An interactive C-based Stack Simulation showcasing core data-structure operations with precision. Features dynamic size… — C · 0 yıldız
-- [aparnasg1/australia-road-crash-graph-analysis](https://github.com/aparnasg1/australia-road-crash-graph-analysis) — A graph database project using Neo4j to analyze Australian road fatalities. Includes property graph modeling, ETL, Cypher queries… — Jupyter Notebook · 0 yıldız
-- [apd115/Admin-Dashboard](https://github.com/apd115/Admin-Dashboard) — This is a React based admin dashboard having light and dark mode, 4 different charts, 3 differents data table pages, FAQ page,… — JavaScript · 0 yıldız
-- [aqsaadab786/Bike_rent_prediction_using_R-Programming-Random-Forest-](https://github.com/aqsaadab786/Bike_rent_prediction_using_R-Programming-Random-Forest-) — This project involves exploratory data analysis and machine learning for predicting daily bike rental counts based on… — R · 0 yıldız
-- [AradhitaB/pedestrian-crash-visAnalysis](https://github.com/AradhitaB/pedestrian-crash-visAnalysis) — "Analysis of Pedestrian Safety in NYC" is our Custom Final Project for the class Data Visualization and Machine Learning. In this… — Jupyter Notebook · 0 yıldız
-- [ARAPIL/Austin-Accident-Fatality-Study](https://github.com/ARAPIL/Austin-Accident-Fatality-Study) — This analysis was prepared to identify the characteristics of fatal crashes as well as of those people identified as at fault in… — Jupyter Notebook · 0 yıldız
-- [arash-mham/Graphics-head](https://github.com/arash-mham/Graphics-head) — It is a simple project loading and visualizing volumetric data sets implemented in c++, SDL, and OpenGl. — C++ · 0 yıldız
-- [Archie22is/facebook-canvas-app-sample-sdk-4.0](https://github.com/Archie22is/facebook-canvas-app-sample-sdk-4.0) — This is the sample code of a working canvas app that authenticates using facebook php sdk 4.0 — PHP · 0 yıldız
-- [archikakushwaha2808/Airplane-Crashes-Analysis](https://github.com/archikakushwaha2808/Airplane-Crashes-Analysis) — Analyzing global airplane crashes and fatalities since 1908 using Python. This project includes data cleaning, visualization, and… — Jupyter Notebook · 0 yıldız
-- [archquin/The-QR-system](https://github.com/archquin/The-QR-system) — Creates a nested dictionary for shipyard assembly and subassemblies that links the QR keys printed on a tree diagram with a… — Python · 0 yıldız
-- [arhambakliwal/Hackathon-Squad](https://github.com/arhambakliwal/Hackathon-Squad) — This project is regarding finding maximum weighted independent set for a graph. — C++ · 0 yıldız
-- [Arifuzzaman-Nayeem/Polynomial-Regression-using-PCA-with-ML-Pipeline](https://github.com/Arifuzzaman-Nayeem/Polynomial-Regression-using-PCA-with-ML-Pipeline) — It is a polynomial regression code of a free small dataset containing the age, health, and weight of 71 people. This code aimed… — Jupyter Notebook · 0 yıldız
-- [Arjun-hawkeye/Weather-ETL-and-Power-BI-Comparison-Project](https://github.com/Arjun-hawkeye/Weather-ETL-and-Power-BI-Comparison-Project) — This project builds a small end-to-end weather data pipeline that collects forecast data from the Open-Meteo API, stores it in… — Python · 0 yıldız
-- [arjunagnihotrikanpur/droneflightplanner](https://github.com/arjunagnihotrikanpur/droneflightplanner) — A React-based interactive tool to plan drone flight paths. Users can add, drag, reorder, and delete waypoints, set altitudes,… — JavaScript · 0 yıldız
-- [Arjunlearner-jup/Weather-ETL-and-Power-BI-Comparison-Project](https://github.com/Arjunlearner-jup/Weather-ETL-and-Power-BI-Comparison-Project) — This project builds a small end-to-end weather data pipeline that collects forecast data from the Open-Meteo API, stores it in… — Python · 0 yıldız
-- [ArjunPatil15/RapidQuake](https://github.com/ArjunPatil15/RapidQuake) — RapidQuake is a Spring Boot–based web platform designed for earthquake awareness, emergency response coordination, and user… — HTML · 0 yıldız
-- [arnavchaturvedi17/DataAnalysis-Fatality_Analysis_Reporting_System](https://github.com/arnavchaturvedi17/DataAnalysis-Fatality_Analysis_Reporting_System) — [Using Advanced Excel, Data Analysis Skills]. Data Analytics (Public safety, fatality data analysis). A complete End-to-End Excel… — — · 0 yıldız
-- [arnold9507/Wildfire-intensity-effects-on-plant-community-structure-and-fuel-load-in-pine-forests-of-La-Malinche](https://github.com/arnold9507/Wildfire-intensity-effects-on-plant-community-structure-and-fuel-load-in-pine-forests-of-La-Malinche) — The data collected and generated during this study, including raw fuel load measurements, vegetation structure plots, and script… — Jupyter Notebook · 0 yıldız
-- [Arora-Sir/Unity_Intractive_Organisms_Viewer](https://github.com/Arora-Sir/Unity_Intractive_Organisms_Viewer) — Unity3D app/assignment for ExtraMarks featuring a dynamic, interactive UI that loads labeled diagrams from a URL. Includes a main… — C# · 0 yıldız
-- [arseniy-nikitin/C3DViewerApp](https://github.com/arseniy-nikitin/C3DViewerApp) — 3DViewer is a program that visualizing 3D models, app developed in C and C++ using the C11 standard. The application allows users… — C++ · 0 yıldız
-- [arshiyasaiyad/Mental-Health-Assistance](https://github.com/arshiyasaiyad/Mental-Health-Assistance) — This Python-based mental health chatbot uses NLTK's SentimentIntensityAnalyzer to analyze user sentiment and respond accordingly.… — Python · 0 yıldız
-- [arturmatevosyan99/ImGui-simpel-app](https://github.com/arturmatevosyan99/ImGui-simpel-app) — This is a demo project of a creative editor interface built with ImGui, where users can browse assets, manage a timeline, adjust… — C++ · 0 yıldız
-- [arturo-mayorga/repo-graph](https://github.com/arturo-mayorga/repo-graph) — (açıklama yok) — — · 0 yıldız
-- [arun-248/Responsive-Dashboard](https://github.com/arun-248/Responsive-Dashboard) — Responsive Dashboard built with React, TypeScript, Redux Toolkit, TailwindCSS, and Recharts. Features include dark/light mode,… — TypeScript · 0 yıldız
-- [ARVIND9882/expense-tracker](https://github.com/ARVIND9882/expense-tracker) — A modern React-based Expense Tracker that lets users add, manage, and analyze their expenses. Features include a dark mode… — JavaScript · 0 yıldız
-- [Aryan810/HACKATHON-SQUAD](https://github.com/Aryan810/HACKATHON-SQUAD) — Optimizing to find the set of Nodes with maximum sum of node weights and each node is independed of each other in the set, in a… — C++ · 0 yıldız
-- [aryanbhosale07/Campus-Shortest-Route-Finder-Dijkstra-s-Algorithm](https://github.com/aryanbhosale07/Campus-Shortest-Route-Finder-Dijkstra-s-Algorithm) — A menu-driven C program that models a college campus as a weighted graph and uses Dijkstra's Algorithm to find the shortest… — — · 0 yıldız
-- [aryanputta/pbh-toy-abundance](https://github.com/aryanputta/pbh-toy-abundance) — Toy primordial black hole abundance calculator with plots and tests — Python · 0 yıldız · arşiv
-- [as567-code/interactive-ml-model-visualization-tool](https://github.com/as567-code/interactive-ml-model-visualization-tool) — Qt/C++ desktop app for interactive neural network visualization — ONNX model loading, OpenGL tensor activation rendering. — C++ · 0 yıldız
-- [Asgerspange/demo-api-service](https://github.com/Asgerspange/demo-api-service) — CS2 2D demo viewer: FastAPI ingestion and serving API, demo parser and an embeddable zero-dependency canvas viewer. — Python · 0 yıldız
-- [ashbybrewer/datacenter-halo](https://github.com/ashbybrewer/datacenter-halo) — ZIP-ring event study of AI datacenter announcements on the surrounding housing market — every figure SOURCED or MODELED — HTML · 0 yıldız
-- [asherdata1/workplace-fatalities-analysis](https://github.com/asherdata1/workplace-fatalities-analysis) — Excel-based data analysis project exploring U.S. workplace fatalities (2012). Includes data cleaning, interactive dashboards, and… — — · 0 yıldız
-- [ashif-ek/docs-stack-material](https://github.com/ashif-ek/docs-stack-material) — A production-ready documentation website built using MkDocs and Material for MkDocs. Designed to showcase how modern open-source… — — · 0 yıldız
-- [Ashly1991/model-introspection-tf2](https://github.com/Ashly1991/model-introspection-tf2) — Gradient-based saliency maps and activation maximization (feature visualization) in TensorFlow 2 for CNNs, using pre-trained or… — Jupyter Notebook · 0 yıldız
-- [ashmeek23/Dream-Team](https://github.com/ashmeek23/Dream-Team) — This aims to provide insights into cricket statistics. Web scraping is used for extract cricket data from sources such as ESPN… — JavaScript · 0 yıldız
-- [Ashu11786/weather-forecast-dashboard](https://github.com/Ashu11786/weather-forecast-dashboard) — A React-based weather dashboard that displays real-time weather, 5-day forecast with charts, favorite cities, and dark/light mode. — JavaScript · 0 yıldız
-- [AshuKumar18/Assign-edge-weights-using-land-cover-resistance.](https://github.com/AshuKumar18/Assign-edge-weights-using-land-cover-resistance.) — This code provides a tangible demonstration of your project's core innovation. The final visualization clearly shows how the… — — · 0 yıldız
-- [Ashwini-Tandale/Campus-Shortest-Route-Finder](https://github.com/Ashwini-Tandale/Campus-Shortest-Route-Finder) — The Campus Shortest Route Finder is a menu-driven C program that uses Dijkstra's Algorithm to find the shortest distance from a… — C · 0 yıldız
-- [Ashwita93/Which_Movie_Is_That](https://github.com/Ashwita93/Which_Movie_Is_That) — A game design and psychology class final project which is a puzzle. Players guess the name of the movie based on the icons that… — — · 0 yıldız
-- [asinha25/You_Spin_Me_Round](https://github.com/asinha25/You_Spin_Me_Round) — Visualization focusing on tornadoes in Illinois including additional relevant data for comparison purposes. Created tables and… — R · 0 yıldız
-- [asiyarizvi/Honey-Bee-Project](https://github.com/asiyarizvi/Honey-Bee-Project) — This is the final project for my Data Science class. I Researched the relationship between the use of Neonic Pesticides and Honey… — — · 0 yıldız
-- [asleemmd/-Aviation-Crash-Data-Analytics-using-Python](https://github.com/asleemmd/-Aviation-Crash-Data-Analytics-using-Python) — This project explores historical airplane crash records to uncover insights about aviation safety, crash frequencies, fatalities,… — Jupyter Notebook · 0 yıldız
-- [Asmitabagad28/Campus-Shortest-Route-Finder](https://github.com/Asmitabagad28/Campus-Shortest-Route-Finder) — A menu-driven C program that models a college campus as a weighted graph using an adjacency matrix. The user enters the locations… — C++ · 0 yıldız
-- [AsnaS56532-tech/COVID-19-DASHBOARD](https://github.com/AsnaS56532-tech/COVID-19-DASHBOARD) — Developed an interactive Coronavirus Survival Dashboard to visualize COVID-19 insights through KPI cards, charts, and graphs. The… — — · 0 yıldız
-- [asrinryan0051/Car-Performance-Analytics-Dashboard](https://github.com/asrinryan0051/Car-Performance-Analytics-Dashboard) — Interactive dashboard analyzing 34+ popular Indian cars with dynamic filters, Scatter/Bar/Box/Line charts, and Dark Mode. Built… — HTML · 0 yıldız
-- [assaad-amine/ML-visualisation-sentiment-analysis-covid-evolution-other-stuf](https://github.com/assaad-amine/ML-visualisation-sentiment-analysis-covid-evolution-other-stuf) — Investigation of open data from internet-based expressions and opinions could yield fascinating outcomes and bits of knowledge… — Jupyter Notebook · 0 yıldız
-- [assmae123/student_analyzer](https://github.com/assmae123/student_analyzer) — This project is a Python-based Student Performance Analyzer that reads students’ grades from a CSV file, calculates key… — — · 0 yıldız
-- [asuzek/Weather-API-Python-Project](https://github.com/asuzek/Weather-API-Python-Project) — Your objective is to build a series of scatter plots to showcase the following relationships: * Temperature (F) vs. Latitude *… — Jupyter Notebook · 0 yıldız
-- [aswathy441/HexSoftwares_Covid-19_-DataAnalysis](https://github.com/aswathy441/HexSoftwares_Covid-19_-DataAnalysis) — The Covid-19 Data Analysis Project using Python involves collecting and analyzing real-time data on Covid-19 cases, recoveries,… — Jupyter Notebook · 0 yıldız
-- [Atharva09vk18cr7/Sales-and-Revenue-Analysis](https://github.com/Atharva09vk18cr7/Sales-and-Revenue-Analysis) — Implemented an automated data pipeline integrating Python with MySQL to process, clean, and load 100,000+ rows of sales data from… — Jupyter Notebook · 0 yıldız
-- [Aurelp84/Project_Time_Series_Covid2019_Data](https://github.com/Aurelp84/Project_Time_Series_Covid2019_Data) — Time-series analysis of COVID-19 in Italy (national & regional), France and Germany with R and Quarto: waves, case fatality, STL… — HTML · 0 yıldız
-- [averrin/mapgen-viewer](https://github.com/averrin/mapgen-viewer) — Map generator based on Voronoi Diagram and Perlin noise — — · 0 yıldız
-- [avingarmor97/Overlay-UI-Framework-for-Runtime-Visualization](https://github.com/avingarmor97/Overlay-UI-Framework-for-Runtime-Visualization) — Modular C++17 framework with IMGUI and DirectX for building runtime overlays, developer HUDs, and visualization tools in… — — · 0 yıldız
-- [aws-samples/sample-aerospace-events-agents-digital-thread](https://github.com/aws-samples/sample-aerospace-events-agents-digital-thread) — Event-driven aerospace digital thread on AWS: a quality defect cascades through 10 mock source systems, a Neptune knowledge graph… — TypeScript · 0 yıldız
-- [awshammad04/graph-shortestpath-toposort-c](https://github.com/awshammad04/graph-shortestpath-toposort-c) — Menu-driven C program that loads a weighted buildings graph and computes shortest paths (Dijkstra + min-heap), and loads a… — C · 0 yıldız
-- [axellettieri/spacetime-source-sink](https://github.com/axellettieri/spacetime-source-sink) — Spacetime as a causal graph of events: events create space, masses absorb it. This replaces dark energy with a source–sink model,… — Python · 0 yıldız
-- [ayadinaila/Data-visualisation](https://github.com/ayadinaila/Data-visualisation) — Objective Data Visualization let's practice what we have learned so far and visualize some data ! In order to validate this… — Jupyter Notebook · 0 yıldız
-- [AybarsManav/3D-Visualization](https://github.com/AybarsManav/3D-Visualization) — (açıklama yok) — — · 0 yıldız
-- [Ayesha40807/AI_Based_Mediconnect](https://github.com/Ayesha40807/AI_Based_Mediconnect) — The Clinic Management System enhances doctor-patient communication with two interfaces. Doctors manage medications, reports, and… — — · 0 yıldız
-- [AyeshaSiddikhaShaik/Covid-data-visualization](https://github.com/AyeshaSiddikhaShaik/Covid-data-visualization) — An interactive Tableau dashboard analyzing COVID-19 trends across India, featuring state-wise cases, fatalities, vaccination… — — · 0 yıldız
-- [Aymenrahmanii/Agentic_Ai_Hackathon_esprit](https://github.com/Aymenrahmanii/Agentic_Ai_Hackathon_esprit) — Multilingual AI agent for industrial land services in Tunisia: finds lots, explains AFI procedures and drafts requests in… — Python · 0 yıldız
-- [Ayushman7985-outlook/Airline-Safety-Analytics-Dashboard](https://github.com/Ayushman7985-outlook/Airline-Safety-Analytics-Dashboard) — ✈️ An interactive Airline Safety Analytics Dashboard built with Python, Streamlit, Pandas, and Plotly. Analyze historical airline… — Python · 0 yıldız
-- [AyushTyagi1610/Credit-Risk-Modelling](https://github.com/AyushTyagi1610/Credit-Risk-Modelling) — Built a model to determine the risk associated with extending credit to a borrower. Performed Univariate and Bivariate… — Jupyter Notebook · 0 yıldız
-- [AzghanAhmad/2D-Car-Racing-Game](https://github.com/AzghanAhmad/2D-Car-Racing-Game) — An exciting 2D endless racing game built in C++ using Visual Studio, featuring algorithm implementations like Binary Search Tree… — C++ · 0 yıldız
-- [bahijx/FIFA](https://github.com/bahijx/FIFA) — The project encompasses three key areas: drawing up an EERD diagram, constructing the foundation of a database utilizing MSSQL,… — C# · 0 yıldız
-- [bajcsiadel/Plotting-using-ImGui](https://github.com/bajcsiadel/Plotting-using-ImGui) — This is a project to plot data from binary file realised in c++ using ImGui as UI. — C++ · 0 yıldız
-- [BalaDurgaSrideviKesavarapu/SAS-Generating-Assessing-and-Scoring-Predictive-Models](https://github.com/BalaDurgaSrideviKesavarapu/SAS-Generating-Assessing-and-Scoring-Predictive-Models) — The FullFood supermarket wants to offer a newline of organic products. The supermarket’s management would like to determine which… — — · 0 yıldız
-- [balmda/ped_fatality_risk](https://github.com/balmda/ped_fatality_risk) — Calculates and plots pedestrian risk vs. speed for Tefft (2013), Mueller (2025), or both. — Jupyter Notebook · 0 yıldız
-- [BappadityaSr/Revenew-Analycator](https://github.com/BappadityaSr/Revenew-Analycator) — A full-featured analytics dashboard built with React 19, Vite, Tailwind CSS, and React Router. Features include interactive… — — · 0 yıldız
-- [barangayretli/Global-Terrorism-Analysis-and-ML-Techniques](https://github.com/barangayretli/Global-Terrorism-Analysis-and-ML-Techniques) — This repository is created to store source files of our codes in CS 210 Course. — Jupyter Notebook · 0 yıldız
-- [Barapatre0105/COVID-19-Data-Insights-Dashboard](https://github.com/Barapatre0105/COVID-19-Data-Insights-Dashboard) — Developed an interactive Power BI dashboard using data visualization and EDA techniques to analyze COVID-19 case trends,… — — · 0 yıldız
-- [Barath-codes-007/Book-Price-Tracker](https://github.com/Barath-codes-007/Book-Price-Tracker) — A Flask-based Book Price Tracker with Search, Sorting, Favorites, Charts, and Dark Mode. — JavaScript · 0 yıldız
-- [barja-co/wa-pitches](https://github.com/barja-co/wa-pitches) — is an open-source, Airbnb-inspired web application for searching, reserving, and paying for sports pitches and courts in real… — HTML · 0 yıldız
-- [baroseiro/lhm-tui](https://github.com/baroseiro/lhm-tui) — Terminal dashboard for LibreHardwareMonitor: live CPU/GPU temperatures, load, memory and optional charts over its web API. — Rust · 0 yıldız
-- [Bartollo115/BLE_data_plotter](https://github.com/Bartollo115/BLE_data_plotter) — C++ application that plots data live from a set of peripherals using imgui and simpleble — C++ · 0 yıldız
-- [BarVakrat/Graph-Theory-Toolkit](https://github.com/BarVakrat/Graph-Theory-Toolkit) — Python-based project designed to analyze and evaluate fundamental properties of graphs, specifically focusing on trees and… — Python · 0 yıldız
-- [BasilSiddiqui/Random-forest](https://github.com/BasilSiddiqui/Random-forest) — This project implements two machine learning classifiers (Decision Tree and Random Forest) to predict whether a person is likely… — Python · 0 yıldız
-- [bawa2747/covid-19-U.S.-case-fatality-rate-analysis](https://github.com/bawa2747/covid-19-U.S.-case-fatality-rate-analysis) — Exploratory data analysis of the U.S. Covid-19 case fatality rates by state using the Johns Hopkins CSSE data set, visualizing… — — · 0 yıldız
-- [beginner0111/CS2_Training_Tracker](https://github.com/beginner0111/CS2_Training_Tracker) — A small data analysis project with AI assisted. Mainly use for aimbotz 100 bots time training and CSstate 50 bots coordinating.… — HTML · 0 yıldız
-- [behram7/WeatherFlow-Real-time-Weather-Data-Pipeline](https://github.com/behram7/WeatherFlow-Real-time-Weather-Data-Pipeline) — WeatherFlow is an end-to-end data engineering solution for collecting, processing, and analyzing real-time weather data from… — Python · 0 yıldız
-- [BeibeBoy/gemini-adventure-builder](https://github.com/BeibeBoy/gemini-adventure-builder) — Infinite AI Game Engine 2026 🚀 - Build & Deploy Fast with Gemini API — HTML · 0 yıldız
-- [benfulton/OverwatchGraph](https://github.com/benfulton/OverwatchGraph) — Display graph of Overwatch stats based on owapi results — JavaScript · 0 yıldız
-- [benjamin-muhari/CSG-Graph-Visualizer](https://github.com/benjamin-muhari/CSG-Graph-Visualizer) — (açıklama yok) — — · 0 yıldız
-- [bequiet2113/Grand-Theft-Auto-Modding-Tool](https://github.com/bequiet2113/Grand-Theft-Auto-Modding-Tool) — A comprehensive, Python-based GUI modding toolkit for GTA III, Vice City, and San Andreas. Features GXT hash decoding with custom… — TeX · 0 yıldız
-- [bersercz/Global-Terrorism-Index-Data-Analysis](https://github.com/bersercz/Global-Terrorism-Index-Data-Analysis) — This project analyzes the Global Terrorism Index 2023 dataset to uncover patterns and trends in global terrorism incidents and… — Jupyter Notebook · 0 yıldız
-- [BhagtaniNamrata/Minecraft-Canvas](https://github.com/BhagtaniNamrata/Minecraft-Canvas) — A javascript based fun game app — JavaScript · 0 yıldız
-- [BhaktiBudar/Student_Management_System](https://github.com/BhaktiBudar/Student_Management_System) — Python project using tkinter, data extraction through API key, Beautiful Soup, Exception Handling, Data visualization using… — Python · 0 yıldız
-- [bhanuprakash556/sentimental-analysis-using-django](https://github.com/bhanuprakash556/sentimental-analysis-using-django) — Sentiment analysis refers to the class of computational and natural language processing based techniques used to identify,… — Jupyter Notebook · 0 yıldız
-- [bhavana300906-max/ipl-winning-team-prediction](https://github.com/bhavana300906-max/ipl-winning-team-prediction) — Random Forest model that predicts the final first-innings score in an IPL match from live match state: runs, wickets, overs and… — Python · 0 yıldız
-- [Bhavesh1424/Fake-News-Headline-Detection](https://github.com/Bhavesh1424/Fake-News-Headline-Detection) — This project uses NLP and Machine Learning to detect fake news headlines. A TF-IDF + Naive Bayes model is trained on labeled data… — Python · 0 yıldız
-- [Bhavya-Gupta17/oibsip_task5](https://github.com/Bhavya-Gupta17/oibsip_task5) — This project predicts sales from TV, Radio, and Newspaper ad spends using an LSTM model. It applies polynomial features and… — Jupyter Notebook · 0 yıldız
-- [BHsketch/HackTheTank-TankToppers](https://github.com/BHsketch/HackTheTank-TankToppers) — In this project we attempted to implement a website data visualization tool that allows a company (to whom the website belongs)… — JavaScript · 0 yıldız
-- [Bijay-kumar-sethy/clip](https://github.com/Bijay-kumar-sethy/clip) — 🔍 Solve linear programming problems efficiently with Clp, an open-source library designed for developers and researchers seeking… — — · 0 yıldız
-- [billyprince0001-lab/crypto-live-dashboard](https://github.com/billyprince0001-lab/crypto-live-dashboard) — A live cryptocurrency dashboard built with Streamlit. Displays real-time prices, watchlists with sparklines, quick metrics,… — Python · 0 yıldız
-- [BilyHurington/AC8-G-Meter](https://github.com/BilyHurington/AC8-G-Meter) — A real-time G-meter overlay for Ace Combat 8: live G, peak/sustained G, AoA and onset rate on a HUD-styled overlay, plus a… — C++ · 0 yıldız
-- [bimpecoven/cscd320final-DijkstrasAlgorithm](https://github.com/bimpecoven/cscd320final-DijkstrasAlgorithm) — Dijkstra’s algorithm, used for single-source shortest paths finding using graph’s adjacency list representation and the min-heap… — Java · 0 yıldız
-- [binary-dice-games/nymph](https://github.com/binary-dice-games/nymph) — Nymph is a command-line tool that turns a YAML file describing a chart into a PNG image, and a nymph PNG back into its YAML. It… — C++ · 0 yıldız
-- [bindugayatri02/Employee-Data-Preprocessing-for-Tableau-Analysis](https://github.com/bindugayatri02/Employee-Data-Preprocessing-for-Tableau-Analysis) — For this project, I preprocessed employee data sourced from three Excel files hosted on Tableau Public: "Employee names,"… — — · 0 yıldız
-- [BismaYB/PRODIGY-DS-Task-1](https://github.com/BismaYB/PRODIGY-DS-Task-1) — We’ll create a bar chart or histogram based on the population data for a recent year (e.g., 2023). This visualization will help… — Jupyter Notebook · 0 yıldız
-- [bkirkham156/WarDataAnalysis](https://github.com/bkirkham156/WarDataAnalysis) — Exploratory analysis of global war fatalities using Python, Pandas, and data visualization to understand conflict patterns,… — Jupyter Notebook · 0 yıldız
-- [blackhole89/graphicdepictions](https://github.com/blackhole89/graphicdepictions) — A visual workbench for manipulating graphs using JavaScript. — — · 0 yıldız
-- [BlenderCN-Org/syspropchart2](https://github.com/BlenderCN-Org/syspropchart2) — [Blender Addon] Rework of the venerable System Property Chart which allows for indexed and keyed property access in addition to… — — · 0 yıldız
-- [blkhurst/cpp-graphics-engine](https://github.com/blkhurst/cpp-graphics-engine) — A modern C++20 3D graphics engine built with OpenGL DSA and an intuitive scene-graph API. — — · 0 yıldız
-- [bloxburgg/bloxburg](https://github.com/bloxburgg/bloxburg) — An open-source Luau automation framework for Roblox Bloxburg. Features safe auto-building from blueprints, automated career… — CSS · 0 yıldız
-- [bnick87/Baseball-Statistic-Tableau-Visualization-Project](https://github.com/bnick87/Baseball-Statistic-Tableau-Visualization-Project) — Udacity final project submission for Data visualization we were to create a project on a supplied dataset in order to get… — — · 0 yıldız
-- [bobbobson21/IMGUIgraphRelease](https://github.com/bobbobson21/IMGUIgraphRelease) — A graph editor for creation toolkit IMGUI — C# · 0 yıldız
-- [bobthe13th/Skavenblight](https://github.com/bobthe13th/Skavenblight) — Skavenblight is a hostile survival mod where a Warhammer Fantasy inspired rat-man horde known as the Skaven plots to consume the… — Java · 0 yıldız
-- [BonilhaCaio/csbSTATS](https://github.com/BonilhaCaio/csbSTATS) — An open-source R package providing an interactive Shiny-based interface for exploratory data analysis, visualization, and… — R · 0 yıldız
-- [BonzY1337/Quantum-Cryptography-BB84-IBM-visualization](https://github.com/BonzY1337/Quantum-Cryptography-BB84-IBM-visualization) — Quantum Cryptography BB84 IBM visualization, 3 stages. Local Simulated, QISKIT simulated, Actual Quantum Machine. — — · 0 yıldız
-- [borisbat/dasImguiNodeEditor](https://github.com/borisbat/dasImguiNodeEditor) — imgui-node-editor bindings for daslang — C++ · 0 yıldız
-- [boxmein/bakebuild](https://github.com/boxmein/bakebuild) — Rust-based graph based build tooling — Rust · 0 yıldız
-- [bploeckelman/nodes](https://github.com/bploeckelman/nodes) — node-based editor tool built with libgdx and imgui-node-editor — Java · 0 yıldız
-- [Braeden1Ferguson/EarthQuake-Graphing](https://github.com/Braeden1Ferguson/EarthQuake-Graphing) — Graphs earthquakes based on distance to eachother — Java · 0 yıldız
-- [Brandonmn24/Stock-Reader](https://github.com/Brandonmn24/Stock-Reader) — A C# WinForms application that loads stock data, displays interactive candlestick charts, and detects patterns such as Doji,… — C# · 0 yıldız
-- [briannacheater/CS210](https://github.com/briannacheater/CS210) — A menu-driven C++ application that tracks grocery item frequencies from an input file. It demonstrates object-oriented design,… — C++ · 0 yıldız
-- [BriantOliveira/CS-2.2](https://github.com/BriantOliveira/CS-2.2) — This course covers graph theory, data structures, algorithms, and analysis. Key concepts include graph traversals, pathfinding,… — Python · 0 yıldız
-- [Britney2509/COVID_19-CASE-STUDY](https://github.com/Britney2509/COVID_19-CASE-STUDY) — A Python-based case study analyzing COVID-19 data to explore infection trends, recoveries, fatalities, and regional impact using… — Python · 0 yıldız
-- [BrundaSiddenki/Task-5-Elevate-Labs-](https://github.com/BrundaSiddenki/Task-5-Elevate-Labs-) — This code trains two Decision Trees: a deeper one (max depth 3) and a simpler, pruned one (max depth 2, min samples per leaf 20)… — Python · 0 yıldız
-- [brunobro/eucalyptus-growth-recognition-using-machine-learning-methods-and-spectral-variables](https://github.com/brunobro/eucalyptus-growth-recognition-using-machine-learning-methods-and-spectral-variables) — Growth and production models can help to simulate the growth of tree dimensions to predict forest productivity at different… — Jupyter Notebook · 0 yıldız
-- [bryan-ch9/UTK-QS](https://github.com/bryan-ch9/UTK-QS) — I used Excel to analyze workplace safety data, creating a dashboard with various charts and visuals. I used pivot tables, pivot… — — · 0 yıldız
-- [btenneson/HaloProof](https://github.com/btenneson/HaloProof) — ML-based ATP blueprints — Python · 0 yıldız
-- [bukharinoor/CodeAlpha-projects](https://github.com/bukharinoor/CodeAlpha-projects) — Predicts Titanic survival using machine learning algorithms like Random Forest, SVM, and KNN, based on features like age, gender,… — Jupyter Notebook · 0 yıldız
-- [bulknskull/code-sample-dekaf](https://github.com/bulknskull/code-sample-dekaf) — A sample of my work on deKaf, an open-source, web-based visualization tool for Kafka metrics — TypeScript · 0 yıldız
-- [businessdb/APEX-D3-Gantt-Chart](https://github.com/businessdb/APEX-D3-Gantt-Chart) — This APEX Region plug-in renders a responsive D3 Gantt chart in Oracle APEX. It supports different data sources, declarative… — — · 0 yıldız
-- [byckovkirill824-web/dx11-visualization-simulator](https://github.com/byckovkirill824-web/dx11-visualization-simulator) — Educational DirectX 11 / ImGui visualization simulator with modular architecture — — · 0 yıldız
-- [c-milazzo/Police_violence](https://github.com/c-milazzo/Police_violence) — This project aims to offer a straightforward visual representation of police fatalities using graphs generated from data sourced… — Python · 0 yıldız
-- [C4S4BL4NC4/randomForestProject](https://github.com/C4S4BL4NC4/randomForestProject) — This project trains a baseline RandomForestClassifier on the AI4I 2020 predictive maintenance dataset. The script reads the… — Python · 0 yıldız
-- [cadtraining/AUTO-CAD-Training-Institute-in-Marathahalli---CAD-](https://github.com/cadtraining/AUTO-CAD-Training-Institute-in-Marathahalli---CAD-) — AUTO CAD Training Institute in Marathahalli. CAD course helps students to acquire knowledge about drafting civil projects and… — — · 0 yıldız
-- [cadtraining/AUTO-CAD-Training-Institute-in-Marathahalli---CAD-Training](https://github.com/cadtraining/AUTO-CAD-Training-Institute-in-Marathahalli---CAD-Training) — AUTO CAD Training Institute in Marathahalli. CAD course helps students to acquire knowledge about drafting civil projects and… — — · 0 yıldız
-- [cadtraining/AUTO-CAD-Training-Institute-in-Marathahalli---CAD-Training-](https://github.com/cadtraining/AUTO-CAD-Training-Institute-in-Marathahalli---CAD-Training-) — AUTO CAD Training Institute in Marathahalli. CAD course helps students to acquire knowledge about drafting civil projects and… — — · 0 yıldız
-- [cadtraining/AUTO-CAD-Training-Institute-in-Marathahalli---CADTraining](https://github.com/cadtraining/AUTO-CAD-Training-Institute-in-Marathahalli---CADTraining) — AUTO CAD Training Institute in Marathahalli. CAD course helps students to acquire knowledge about drafting civil projects and… — — · 0 yıldız
-- [cadtraining/AUTO-CAD-Training-Institute-in-Marathahalli--CAD-Training](https://github.com/cadtraining/AUTO-CAD-Training-Institute-in-Marathahalli--CAD-Training) — AUTO CAD Training Institute in Marathahalli. CAD course helps students to acquire knowledge about drafting civil projects and… — — · 0 yıldız
-- [cadtraining/AUTO-CAD-Training-Institute-in-Marathahalli--CAD-Training-](https://github.com/cadtraining/AUTO-CAD-Training-Institute-in-Marathahalli--CAD-Training-) — AUTO CAD Training Institute in Marathahalli. CAD course helps students to acquire knowledge about drafting civil projects and… — — · 0 yıldız
-- [cadtraining/AUTO-CAD-Training-Institute-in-Marathahalli--CADTraining](https://github.com/cadtraining/AUTO-CAD-Training-Institute-in-Marathahalli--CADTraining) — AUTO CAD Training Institute in Marathahalli. CAD course helps students to acquire knowledge about drafting civil projects and… — — · 0 yıldız
-- [CaitJay/Final-Prototype](https://github.com/CaitJay/Final-Prototype) — Intimate Letters: The purpose of this project was to explore how to use javascript to recognize the text of a handwritten note… — — · 0 yıldız
-- [CallmeOnichan/IBM-Smart-Study-Planner](https://github.com/CallmeOnichan/IBM-Smart-Study-Planner) — Smart Study Planner – A web-based planner to help students organize study schedules, track tasks, set reminders, and visualize… — JavaScript · 0 yıldız
-- [canozlu/COVID-Prediction-Model](https://github.com/canozlu/COVID-Prediction-Model) — PCA + Random Forest model to predict COVID test result based on other labs taken at the ER, along with some graphs with general… — Python · 0 yıldız
-- [Carissa-Mayo/water-sampling-visualization](https://github.com/Carissa-Mayo/water-sampling-visualization) — Built an end to end water quality data pipeline: cleaned and standardized messy multi source chemistry CSV exports, loaded them… — Python · 0 yıldız
-- [carson-otto-dev/overwatch-api-data-vis](https://github.com/carson-otto-dev/overwatch-api-data-vis) — Little react passion project, working on some design principles as well as experimenting with some data visualization libraries.… — JavaScript · 0 yıldız
-- [carteriradams9312/btc-war-v2026-web](https://github.com/carteriradams9312/btc-war-v2026-web) — BTC War v2026 turns live BTC prices, order flow, and market depth into a browser-based 3D battlefield for real-time crypto… — HTML · 0 yıldız
-- [cat-grep/HelsinkiVisionZeroStory](https://github.com/cat-grep/HelsinkiVisionZeroStory) — An interactive data visualization exploring Helsinki's remarkable journey to achieving zero traffic-related fatalities. This… — JavaScript · 0 yıldız
-- [caydenrgarrett/Iris-ML-Prediction](https://github.com/caydenrgarrett/Iris-ML-Prediction) — A complete machine learning workflow using the Iris flowers dataset 🌸. Covers data loading, exploration, visualization, model… — Jupyter Notebook · 0 yıldız
-- [CDeggs/EmergentGeometryFramework](https://github.com/CDeggs/EmergentGeometryFramework) — A unified theoretical framework integrating emergent geometry, dark‑sector phase dynamics, lemniscate foliation, matter identity… — — · 0 yıldız
-- [ChainedWithGods/UniversalManagerProject](https://github.com/ChainedWithGods/UniversalManagerProject) — Unreal Engine modding platform. Manage your library and Nexus Mods downloads, catch asset collisions before launch, inspect… — — · 0 yıldız
-- [chandadiya2004/car-price-prediction](https://github.com/chandadiya2004/car-price-prediction) — This project combines a Random Forest model with a Streamlit web app to predict car prices based on various factors such as make,… — Jupyter Notebook · 0 yıldız
-- [chandralikhitha/Hyperlink-Induced-Topic-Search-over-Wikipedia-articles](https://github.com/chandralikhitha/Hyperlink-Induced-Topic-Search-over-Wikipedia-articles) — This system generates a subset of graphs using Hyperlink-Induced Topic Search (HITS) over currently available Wikipedia articles.… — Scala · 0 yıldız
-- [Chandrawat/AndriodCustomView_StudentAttendanceApplication](https://github.com/Chandrawat/AndriodCustomView_StudentAttendanceApplication) — Objective of this Andriod based project is to create an application that receives attendance information (class date & number of… — Java · 0 yıldız
-- [Charlotte-Natasha/Aircraft-Crash-Data](https://github.com/Charlotte-Natasha/Aircraft-Crash-Data) — Analysis of aircraft crash data: cleaning, EDA with Plotly visualizations (types, operators, trends), statistical analysis, and… — Jupyter Notebook · 0 yıldız
-- [CharsmX23/Spartans_Horizon](https://github.com/CharsmX23/Spartans_Horizon) — Squad-based hackathon & learning journal — AI-verified daily habits and proof-of-work streaks, project deadlines with phase… — TypeScript · 0 yıldız
-- [chauhanaashish/M-H-CryptoSystem](https://github.com/chauhanaashish/M-H-CryptoSystem) — implementation of M-H cryptosystem in java/c++. provide performance graph for key-gen, encryption and decryption. — C++ · 0 yıldız
-- [ChengHeEric/faceit_lobby_player_stats_analysis](https://github.com/ChengHeEric/faceit_lobby_player_stats_analysis) — FACEIT CS2 lobby player statistics analysis and performance visualization — Python · 0 yıldız
-- [cherryinstitute12345/Quantity-survey-institute-in-Marathahalli---Cherry-Institute](https://github.com/cherryinstitute12345/Quantity-survey-institute-in-Marathahalli---Cherry-Institute) — Quantity survey institute in Marathahalli. Quantity surveyors estimate and control costs for large construction projects. They… — — · 0 yıldız
-- [cherryinstitute12345/Quantity-survey-institute-in-Marathahalli---Cherry-Institute-](https://github.com/cherryinstitute12345/Quantity-survey-institute-in-Marathahalli---Cherry-Institute-) — Quantity survey institute in Marathahalli. Quantity surveyors estimate and control costs for large construction projects. They… — — · 0 yıldız
-- [Chilliziehen/vk-mirage](https://github.com/Chilliziehen/vk-mirage) — Vulkan 1.3/1.4 render graph system with pbr demonstration. — — · 0 yıldız
-- [Chimboys/Stock_Analysis_CIS4930](https://github.com/Chimboys/Stock_Analysis_CIS4930) — C++/CLI WinForms app that loads CSV stock data, plots candlesticks, auto-detects peaks/valleys & Fibonacci waves, and runs live… — C++ · 0 yıldız
-- [Chindhu-Alagappan/PhonePe-Data-Visualization-and-Exploration](https://github.com/Chindhu-Alagappan/PhonePe-Data-Visualization-and-Exploration) — This is an open-source project repo which deals with extracting data from PhonePe Pulse dataset available in github, cleaning,… — Python · 0 yıldız
-- [Chinmayikc/2D-Graphics-Editor](https://github.com/Chinmayikc/2D-Graphics-Editor) — A terminal-based 2D graphics editor written in C, built around a character canvas. It supports adding, deleting, modifying, and… — C · 0 yıldız
-- [Chiragmeher06/habit-tracker-Application](https://github.com/Chiragmeher06/habit-tracker-Application) — A Python-based Habit Tracker with Tkinter GUI, SQLite database, and visual progress charts (Pie & Bar). Includes calendar view,… — Python · 0 yıldız
-- [Chirudeep2002/Visual-Analytics-Chatbot](https://github.com/Chirudeep2002/Visual-Analytics-Chatbot) — Visual Analytics Chatbot is a Flask-based AI chatbot with role-based conversations, voice input, file uploads, dark mode, and a… — JavaScript · 0 yıldız
-- [chitranshhhh/customer_behavior_analysis](https://github.com/chitranshhhh/customer_behavior_analysis) — An end-to-end data analytics project that involves loading and cleaning data using Python, performing exploratory data analysis,… — Jupyter Notebook · 0 yıldız
-- [chloexu310/Humana-mays-healthcare-analytics-2020-case-competition](https://github.com/chloexu310/Humana-mays-healthcare-analytics-2020-case-competition) — Mays Business Schoolopens new window at Texas A&M University and leading health and well-being company Humana Inc.opens new… — — · 0 yıldız
-- [Chris0Jeky/Celestial-Siege](https://github.com/Chris0Jeky/Celestial-Siege) — C++17 and WebSocket tower-defense prototype with a browser-based Canvas client. — C++ · 0 yıldız
-- [chrisgallos/Neural-network---make-moons-with-1000-samples](https://github.com/chrisgallos/Neural-network---make-moons-with-1000-samples) — This script implements a small fully-connected neural network from scratch using NumPy to classify the make_moons toy dataset. It… — Python · 0 yıldız
-- [Christian-Achilli/E3-Hackathon](https://github.com/Christian-Achilli/E3-Hackathon) — crowdsourced app interface visualization tool — JavaScript · 0 yıldız
-- [ChristineMogaka/Homework2](https://github.com/ChristineMogaka/Homework2) — For this assignment we are going to design a system called GreenBox to check out entertainment media to customers via a kioskFor… — — · 0 yıldız
-- [Cian-Anderson/Overwatch-Mental-State-Analysis-Data-Visualization-in-R](https://github.com/Cian-Anderson/Overwatch-Mental-State-Analysis-Data-Visualization-in-R) — An R-based data analysis and visualisation project investigating the relationship between player mental state and match outcomes… — HTML · 0 yıldız
-- [claradilara/Advance-R-Shiny-Dashboard](https://github.com/claradilara/Advance-R-Shiny-Dashboard) — Interactive crime data analysis and simulation application built with R. Uses Shiny, R6, Rcpp, tidyverse, ggplot2, and Leaflet to… — R · 0 yıldız
-- [CliveMlt/CSGO-Player-Stats-Scraper](https://github.com/CliveMlt/CSGO-Player-Stats-Scraper) — Scrape player statistics from Leetify and generate a comprehensive HTML report. — Python · 0 yıldız
-- [clonkbot/apextune-552c32](https://github.com/clonkbot/apextune-552c32) — AI-powered motorcycle maintenance scheduler that creates personalized maintenance timelines, reminders, and parts shopping lists… — TypeScript · 0 yıldız
-- [cmlflynn/Milky-Way-halo-models](https://github.com/cmlflynn/Milky-Way-halo-models) — Models of the Milky Way stellar halo found in published papers, showing the physical parameters for the models, a plot of the… — — · 0 yıldız
-- [cnquang/Project-Team-Formation](https://github.com/cnquang/Project-Team-Formation) — Motivation: This individual assignment titled Project Team Formation requires developing a software that allows members to be… — Java · 0 yıldız
-- [CODEORDIETRYING/XYZ-Inc.-Gender-Inequality-Analysis](https://github.com/CODEORDIETRYING/XYZ-Inc.-Gender-Inequality-Analysis) — The company in question - XYZ, was recently featured in the news with the headline, "XYZ, the Manufacturing Patriarchy" This… — — · 0 yıldız
-- [CoderManavjeet/ADV-C88-HIT-THE-GOAL](https://github.com/CoderManavjeet/ADV-C88-HIT-THE-GOAL) — Goal of the Project: In Class 88, you learned to add movements of an image on keypress events, and have also learned the x and y… — JavaScript · 0 yıldız
-- [coderodde/pathfinding.hpp](https://github.com/coderodde/pathfinding.hpp) — A small C++ template library for doing graph search in weighted graphs. — C++ · 0 yıldız
-- [CodeWhisper555/Data-Profiler_Web](https://github.com/CodeWhisper555/Data-Profiler_Web) — A lightweight, browser-based data profiling dashboard built with HTML5, CSS3, and JavaScript. Features instant CSV parsing,… — HTML · 0 yıldız
-- [codeyu/CSharpPlantUMLGenerator](https://github.com/codeyu/CSharpPlantUMLGenerator) — This is a generator to create a class-diagram of PlantUML from the C# source code. — C# · 0 yıldız
-- [coding-to-music/r-stringlines-nyc-mta-gtfs-train-visualization](https://github.com/coding-to-music/r-stringlines-nyc-mta-gtfs-train-visualization) — History of Stringlines, how to read them, how to create them using R and GTFS for Transit Bus and Train visualizations — R · 0 yıldız
-- [coelho85/EUDR_free_check](https://github.com/coelho85/EUDR_free_check) — Free, open-source EUDR deforestation check that runs entirely in the browser: screen plot geolocations (GeoJSON, Shapefile,… — JavaScript · 0 yıldız
-- [Colyzo466/Crypto-Dashboard](https://github.com/Colyzo466/Crypto-Dashboard) — Crypto Dashboard: A React-based app for real-time cryptocurrency prices, historical charts, and custom price alerts. Built with… — JavaScript · 0 yıldız
-- [compneuro/PD_BiochemicalSystemsTheory](https://github.com/compneuro/PD_BiochemicalSystemsTheory) — Major pathways involving in Parkinson's disease (PD) such as alphasynuclein aggregation, dopamine synthesis, lewy body formation,… — — · 0 yıldız
-- [conda-forge/hpp-plot-feedstock](https://github.com/conda-forge/hpp-plot-feedstock) — A conda-smithy repository for hpp-plot. — Shell · 0 yıldız
-- [coolboylizzard123/saajan-alecu](https://github.com/coolboylizzard123/saajan-alecu) — Community archive documenting the history of Saajan Alecu (onlytrustmysoul / formerly soulventy), including timeline, Roblox… — — · 0 yıldız
-- [corund207/sourcesight-linux](https://github.com/corund207/sourcesight-linux) — SourceSight Graphite Studio — Linux-native CS2 overlay, map visualization and profile controls. Proprietary software by Jonah… — C++ · 0 yıldız
-- [courage-thecowardly-dog/Reducing-Traffic-Mortality-in-the-USA](https://github.com/courage-thecowardly-dog/Reducing-Traffic-Mortality-in-the-USA) — While the rate of fatal road accidents has been decreasing steadily since the 80s, the past ten years have seen a stagnation in… — Jupyter Notebook · 0 yıldız
-- [cowlicks/impossible-stuff-day-RC](https://github.com/cowlicks/impossible-stuff-day-RC) — an attempt at source code visualization (just creating a callgraph for rust) with one day of work — Rust · 0 yıldız
-- [cpvrlab/SLProject](https://github.com/cpvrlab/SLProject) — SLProject is a platform independent 3D computer graphics scene graph library. Read more on: — — · 0 yıldız
-- [CraftNowStudio/NodeEditor](https://github.com/CraftNowStudio/NodeEditor) — (açıklama yok) — — · 0 yıldız
-- [cran/bonsaiforest](https://github.com/cran/bonsaiforest) — :exclamation: This is a read-only mirror of the CRAN R package repository. bonsaiforest — Shrinkage Based Forest Plots. Homepage:… — R · 0 yıldız
-- [cran/randomForestVIP](https://github.com/cran/randomForestVIP) — :exclamation: This is a read-only mirror of the CRAN R package repository. randomForestVIP — Tune Random Forests Based on… — R · 0 yıldız
-- [CristhianKapelinski/kubernetes-client-server-load-test](https://github.com/CristhianKapelinski/kubernetes-client-server-load-test) — Automated load testing suite to compare TCP server performance in Go and C++ orchestrated via Kubernetes, with analysis and graph… — Python · 0 yıldız
-- [Cristina-Varas/Design-and-Programming-of-Analytical-Tools---Streamlit](https://github.com/Cristina-Varas/Design-and-Programming-of-Analytical-Tools---Streamlit) — This repository contains a project carried out for the master's degree in Big Data by the UEMC. The goal is to develop an… — Python · 0 yıldız
-- [crockie/Heart-Disease-Predictor](https://github.com/crockie/Heart-Disease-Predictor) — This is a data science project that uses machine learning models to predict the risk of heart disease based on health data from… — Jupyter Notebook · 0 yıldız
-- [crolando/qt-imgui-nodes](https://github.com/crolando/qt-imgui-nodes) — thedmd's "ImGui Node Editor" embedded into seanchas116's "qtimgui" — C++ · 0 yıldız
-- [CrooBrys/URLPhishingDetection](https://github.com/CrooBrys/URLPhishingDetection) — This repository detects phishing URLs using machine learning models like Logistic Regression, Random Forest, SVM, Gradient… — Jupyter Notebook · 0 yıldız
-- [cs23-bw1-team9/BW1-CS23-FE](https://github.com/cs23-bw1-team9/BW1-CS23-FE) — The React-D3 Graph Visualization for our Python Text-Based Adventure game! — JavaScript · 0 yıldız
-- [Csabix/Interactive-SDF-Renderer](https://github.com/Csabix/Interactive-SDF-Renderer) — Interactive Rendering Engine for visualising surfaces defined by signed distance functions (SDFs). — — · 0 yıldız
-- [ctrlaltdel121/canvas-api](https://github.com/ctrlaltdel121/canvas-api) — Example of loading canvas data from a server backed by a C++ program — HTML · 0 yıldız
-- [Culzz/Incidents_analysis_app](https://github.com/Culzz/Incidents_analysis_app) — A Streamlit web app for visualizing incident data. Features dropdown filters (State, Year, Month, Incident Type), interactive… — Jupyter Notebook · 0 yıldız
-- [Curtis-Wu/COVID19-Analysis](https://github.com/Curtis-Wu/COVID19-Analysis) — Covid-19 fatality data analysis and prediction using demographic factors. — Jupyter Notebook · 0 yıldız
-- [curtismuntz/plot](https://github.com/curtismuntz/plot) — rust based grpc data plotter — — · 0 yıldız
-- [cwooz/gunViolence-Deckjs](https://github.com/cwooz/gunViolence-Deckjs) — Data Visualization of Gun Related Fatalities in the US between 2013-2018 — HTML · 0 yıldız
-- [cxr0801/easy-skeet-shooting](https://github.com/cxr0801/easy-skeet-shooting) — 一款使用 HTML5 Canvas 打造的趣味飛碟射擊遊戲 — HTML · 0 yıldız
-- [cyogian/the-primordial-blueprint-logo](https://github.com/cyogian/the-primordial-blueprint-logo) — A document for the primordial blue print logo design guide. — HTML · 0 yıldız
-- [d3mio/auto-eventflow-anom-studio](https://github.com/d3mio/auto-eventflow-anom-studio) — Visualizes real-time event streams from diverse sources (Kafka, logs, APIs). Features interactive flow diagrams, anomaly… — Python · 0 yıldız
-- [Da-Rupal/AtliQ-Hospitality-Analysis](https://github.com/Da-Rupal/AtliQ-Hospitality-Analysis) — Welcome to "AtliQ Hospitality Analysis", Covering every aspect of the ETL (Extract, Transform, Load) process, from initial data… — — · 0 yıldız
-- [dac0009/CarbonPools-Map](https://github.com/dac0009/CarbonPools-Map) — This repository contains an R-based project that creates an interactive map visualizing carbon density across U.S. national… — HTML · 0 yıldız
-- [dajahump2/pixel-siege](https://github.com/dajahump2/pixel-siege) — Browser-based games built with HTML5 Canvas: Tic Tac Toe and Pixel Siege top-down shooter — TypeScript · 0 yıldız
-- [damian-oh/crossfire-ncr-system](https://github.com/damian-oh/crossfire-ncr-system) — Web-based Non-Conformance Report (NCR) management system for quality tracking in manufacturing and supply chain. Role-based… — HTML · 0 yıldız
-- [danellemeiotic2994/ApexAgents-SkyRL-Recipe](https://github.com/danellemeiotic2994/ApexAgents-SkyRL-Recipe) — Train frontier knowledge-work agents with SkyRL on APEX-Agents data—import-only, zero forks, companion code for Mercor's 397B RL… — — · 0 yıldız
-- [dangepalash2/PredictingVideoMemorability](https://github.com/dangepalash2/PredictingVideoMemorability) — Humans have a tendency to remember the things they visualize for some amount of time. Generally these visualization powers of a… — Jupyter Notebook · 0 yıldız
-- [DanielaOrovw/Ensemble-Predictive-Model-Forecasting-AMGEN-stock-price-at-year-end-31st-December-2019-](https://github.com/DanielaOrovw/Ensemble-Predictive-Model-Forecasting-AMGEN-stock-price-at-year-end-31st-December-2019-) — The basis of this project involves analyzing Amgen future profitability based on its current business environment and financial… — — · 0 yıldız
-- [danielwd27/LiDAR-Scanner](https://github.com/danielwd27/LiDAR-Scanner) — Source code for an independently designed LiDAR Scanner created as the final project for CSCE-462: Microcomputer Systems at Texas… — Python · 0 yıldız
-- [Danish-Jamroz/hospital-management-analytics-project](https://github.com/Danish-Jamroz/hospital-management-analytics-project) — Comprehensive Hospital Management Analytics project built using Python, MySQL, and Power BI. The workflow covers data cleaning,… — Jupyter Notebook · 0 yıldız
-- [DaraOladapo/XamarinGraphSample](https://github.com/DaraOladapo/XamarinGraphSample) — Ths code sample shows how to use Microsoft Graph SDK with your Xamarin.Forms application. — C# · 0 yıldız
-- [darshanpakhale250-gif/credit-card-fraud-detection-ml](https://github.com/darshanpakhale250-gif/credit-card-fraud-detection-ml) — A machine learning project that detects fraudulent credit card transactions using Decision Tree and Random Forest classifiers.… — Jupyter Notebook · 0 yıldız
-- [darshinio-debug/Covid-19](https://github.com/darshinio-debug/Covid-19) — COVID-19 Data Analysis & Visualization Performed exploratory data analysis on COVID-19 data to study daily trends, rolling… — Jupyter Notebook · 0 yıldız
-- [datoviz/datoviz](https://github.com/datoviz/datoviz) — ⚡ Datoviz: high-performance GPU rendering for scientific data visualization — — · 0 yıldız
-- [dav-vidal/df-lab-blueprint](https://github.com/dav-vidal/df-lab-blueprint) — DF Lab Blueprint is a private schema and design project for Dwarf Fortress unit generation and stat calculation. It models… — — · 0 yıldız
-- [davidnb3/timelines-sampler](https://github.com/davidnb3/timelines-sampler) — Search spoken audio the way you search text. Add your own sources and put everything on a timeline. — TypeScript · 0 yıldız
-- [davnav/facebookSDKforRust](https://github.com/davnav/facebookSDKforRust) — A client for the Facebook Graph API in Rust programming language — Rust · 0 yıldız
-- [Davycrypto/Apex-Trend-Software](https://github.com/Davycrypto/Apex-Trend-Software) — Apex Trend Software (ATS) is a TradingView-based trading tool designed to help traders identify market trends, analyze price… — TypeScript · 0 yıldız
-- [ddavidtran/CSGO-Viz](https://github.com/ddavidtran/CSGO-Viz) — CS:GO Viz is an interactive visualization website based on CSGO matchmaking data. Project created in the course TNM048. — JavaScript · 0 yıldız
-- [debasishpohi1999/seeds.csv-df-](https://github.com/debasishpohi1999/seeds.csv-df-) — This script combines the power of decision tree-based classifiers with boosting techniques to analyze and improve the… — Jupyter Notebook · 0 yıldız
-- [Debasmita1612/elliptic-graphsage-fraud](https://github.com/Debasmita1612/elliptic-graphsage-fraud) — Graph-based fraud detection on the Elliptic Bitcoin dataset: GraphSAGE (PyG) vs. a Random Forest baseline, with a… — Jupyter Notebook · 0 yıldız
-- [DeboAdeniran/squad-hackathon-verified](https://github.com/DeboAdeniran/squad-hackathon-verified) — AI-powered insurance fraud detection system for the Nigerian market. Scores claims in real time using photo forensics, document… — — · 0 yıldız
-- [DeepakkumarRathour/Two-tier-app-deployment](https://github.com/DeepakkumarRathour/Two-tier-app-deployment) — Deployed a scalable Flask–MySQL two-tier application on Amazon EKS using Docker, Kubernetes, and Helm. Includes containerization,… — HTML · 0 yıldız
-- [deepakn766/Grocery-store-managment-system](https://github.com/deepakn766/Grocery-store-managment-system) — A complete MySQL-based Grocery Store Management project featuring database design, ER diagram, CSV data loading, SQL schema… — — · 0 yıldız
-- [DeepaliDagar/Credit-Risk-Analysis](https://github.com/DeepaliDagar/Credit-Risk-Analysis) — Built a model to determine the risk associated with extending credit to a borrower. Performed Univariate and Bivariate… — Jupyter Notebook · 0 yıldız
-- [Deepan-211/Tracera](https://github.com/Deepan-211/Tracera) — AI-assisted platform that helps investigators verify digital evidence, connect people, dates and transactions across files, and… — TypeScript · 0 yıldız
-- [deepanshu1802/expense-management-system](https://github.com/deepanshu1802/expense-management-system) — A JavaScript-based Expense Management System with chart visualization, dark mode, and responsive design. — JavaScript · 0 yıldız
-- [deepeshhhh16/house-price-prediction](https://github.com/deepeshhhh16/house-price-prediction) — This project demonstrates how to predict housing prices in Boston using machine learning techniques. It leverages Linear… — Jupyter Notebook · 0 yıldız
-- [deepthi-yadav/ACP_-mini_project](https://github.com/deepthi-yadav/ACP_-mini_project) — A menu-driven 2D Graphics Editor developed in C that enables users to create and manage graphical objects on a terminal-based… — C · 0 yıldız
-- [deforde/dstream](https://github.com/deforde/dstream) — Stream data from a C/C++ application in real-time to a server that plots the data via ImGui. — C · 0 yıldız
-- [dejanciev-dev/hackerrank-exercises](https://github.com/dejanciev-dev/hackerrank-exercises) — 421 HackerRank solutions in modern C# (.NET 10), each with xUnit tests from the problem's sample cases and CI on every push.… — C# · 0 yıldız
-- [deliprofesor/Health-Score-Prediction-Model-The-Impact-of-Lifestyle-and-Demographic-Factors](https://github.com/deliprofesor/Health-Score-Prediction-Model-The-Impact-of-Lifestyle-and-Demographic-Factors) — A machine learning project predicting health scores based on lifestyle and demographic factors like age, BMI, diet, and exercise.… — R · 0 yıldız
-- [deliprofesor/Income-Analytics-Interpretable-Machine-Learning-Model](https://github.com/deliprofesor/Income-Analytics-Interpretable-Machine-Learning-Model) — This project predicts whether an individual earns more than 50K using the Adult Income dataset. A Random Forest model is trained… — R · 0 yıldız
-- [delvinfarhan/Himalayan-Expedition-2010-2020-Fasilities-Report](https://github.com/delvinfarhan/Himalayan-Expedition-2010-2020-Fasilities-Report) — This data visualization project analyzes fatality trends in Himalayan expeditions from 2010 to 2020. The dashboard was built… — — · 0 yıldız
-- [denjhang/imgui-vgmplayer-v0.44](https://github.com/denjhang/imgui-vgmplayer-v0.44) — This is a VGMplayer based on imgui, focused on the Windows platform. It currently supports VGM/VGZ playback for YM2612 and YM2151… — C++ · 0 yıldız
-- [DennysPelegrin/iBluPrint](https://github.com/DennysPelegrin/iBluPrint) — Mod for Minecraft that lets users scan builds and load them as a blueprint that can be copied. — Java · 0 yıldız
-- [DerAndereDomenic/atcg_framework](https://github.com/DerAndereDomenic/atcg_framework) — This repository contains a C++ 3D rendering framework for research applications and scientific computation/visualization. It… — — · 0 yıldız
-- [deshna0620/Wildfire_Smoke_vs_Clouds](https://github.com/deshna0620/Wildfire_Smoke_vs_Clouds) — A CNN-based image classification system to distinguish wildfire smoke from fog, clouds, and non-smoke conditions. Includes a… — Python · 0 yıldız
-- [dev-om-saran/Adobe_Curvetopia](https://github.com/dev-om-saran/Adobe_Curvetopia) — An AI/ML model to beautify and regularize the doodle drawings using Graph based DFS Techniques, Random Forest Classifier and… — Jupyter Notebook · 0 yıldız
-- [deviandinisastro/Breast-Cancer-Classification-ML](https://github.com/deviandinisastro/Breast-Cancer-Classification-ML) — This project aims to build a machine learning models to predict whether a tumor is malignant or benign based on the Breast Cancer… — Jupyter Notebook · 0 yıldız
-- [devpopat96/PUBG-DataExploration](https://github.com/devpopat96/PUBG-DataExploration) — In a PUBG game, up to 100 players start in each match (matchId). Players can be on teams (groupId) which get ranked at the end of… — Jupyter Notebook · 0 yıldız
-- [DevShaikhX/Global_Terrorism_DataScience_01](https://github.com/DevShaikhX/Global_Terrorism_DataScience_01) — 📊 Analyzed the Global Terrorism Dataset using Python. Explored trends across years, regions, countries, attack types, and… — Jupyter Notebook · 0 yıldız
-- [DevSheta07/Agri_Crop_DB](https://github.com/DevSheta07/Agri_Crop_DB) — MySQL database project analyzing 27 years (1997–2023) of real district-level crop production data from the Government of India.… — Python · 0 yıldız
-- [DevyaniSharma-02/Patient-Care-Timeline](https://github.com/DevyaniSharma-02/Patient-Care-Timeline) — Salesforce-based Patient Care Timeline application built with Apex, Lightning Web Components, and custom objects. — HTML · 0 yıldız
-- [dharshanofficial314-ship-it/2D-Graphics-Editor-C](https://github.com/dharshanofficial314-ship-it/2D-Graphics-Editor-C) — A menu-driven 2D Graphics Editor implemented in C using a 2D character array as the drawing canvas. The application supports… — C · 0 yıldız
-- [dho-rae/US-Police-Killings-Data-Analysis](https://github.com/dho-rae/US-Police-Killings-Data-Analysis) — An R-based statistical analysis of US police killings, using data from mappingpoliceviolence.us. This project explores trends in… — — · 0 yıldız
-- [dhruvharibhakti/Pollution-based-Intelligent-Navigation-using-Dijkstra-s-Algorithm](https://github.com/dhruvharibhakti/Pollution-based-Intelligent-Navigation-using-Dijkstra-s-Algorithm) — In this project, I have computed the best route for the user considering the pollution levels and the distance to the… — C++ · 0 yıldız
-- [dice-group/LabENT](https://github.com/dice-group/LabENT) — This application is apart of DAKIRI project to allow users labelling entities in knowledge graphs. First, LabENT application… — PHP · 0 yıldız
-- [DigiClass/hppr](https://github.com/DigiClass/hppr) — Homeric Persons Places and Relationships visualization — — · 0 yıldız
-- [DigitasLBiData/plot-webtrends](https://github.com/DigitasLBiData/plot-webtrends) — Example of loading Webtrends data into an ipython notebook for analysis — Python · 0 yıldız
-- [dinuwij/Group-Assignment](https://github.com/dinuwij/Group-Assignment) — This project serves as the final group assignment for the Open Source Programming module. It has used R, R Markdown and Shiny for… — HTML · 0 yıldız
-- [DipeshBartaula/BookNest](https://github.com/DipeshBartaula/BookNest) — BookNest is a PHP-based library management system that enables users to manage books, students, subscriptions, and loans… — JavaScript · 0 yıldız
-- [Dishob/smart_logistics](https://github.com/Dishob/smart_logistics) — Smart Logistics Management & Analytics Platform A end-to-end logistics analytics platform built with Python, MySQL, and… — Python · 0 yıldız
-- [DispI16/Graph-Creator](https://github.com/DispI16/Graph-Creator) — (açıklama yok) — — · 0 yıldız
-- [Divakar2501ds/Placeholder_Replacement_Tool](https://github.com/Divakar2501ds/Placeholder_Replacement_Tool) — Document Template Filler automates document generation by replacing template placeholders with structured data extracted from… — Python · 0 yıldız
-- [Divanabila26/MSIB-Hacktiv8](https://github.com/Divanabila26/MSIB-Hacktiv8) — All lessons, assignments, and final projects for the Independent Study: Python for Data Science program at PT Hacktivate… — Jupyter Notebook · 0 yıldız
-- [divyabudale/COVID-19-Exploratory-Data-Analysis](https://github.com/divyabudale/COVID-19-Exploratory-Data-Analysis) — In this project, COVID-19 Confirmed Cases and Fatalities were analyzed all over the world. Visualization were created using… — Jupyter Notebook · 0 yıldız
-- [Diwakar-Mishra/Team-Pulse-Dashboard](https://github.com/Diwakar-Mishra/Team-Pulse-Dashboard) — Team Pulse Dashboard: React + Redux Toolkit app with role-based views. Header role toggle; Team Leads see read-only member… — JavaScript · 0 yıldız
-- [Djoko-cli/jalons](https://github.com/Djoko-cli/jalons) — macOS menu bar app that shows where a project's roadmap stands, live: the current phase, its progress, and floating timelines… — Swift · 0 yıldız
-- [dlaff15/pixel-siege](https://github.com/dlaff15/pixel-siege) — Browser-based retro top-down shooter built with HTML5 Canvas and vanilla JS — JavaScript · 0 yıldız
-- [dmh0810/Titanic-challenge](https://github.com/dmh0810/Titanic-challenge) — This is my very first project and thus the very first attempt to implement several Machine Learning algorithms. During my… — R · 0 yıldız
-- [Dnyanesh3256/Portfolio_Website](https://github.com/Dnyanesh3256/Portfolio_Website) — A responsive and interactive personal portfolio website built using HTML, CSS, and JavaScript. Showcases my projects, skills,… — HTML · 0 yıldız
-- [dnyaneshb25/Data-Visualization-Project](https://github.com/dnyaneshb25/Data-Visualization-Project) — Analyzing the Impact of Air Pollution on Fatality Numbers and Population Using Data Visualization and Pipelines. — Python · 0 yıldız
-- [DoArtMonteiro/wildfire-watch](https://github.com/DoArtMonteiro/wildfire-watch) — Real-time global wildfire map. NASA FIRMS satellite detections ingested hourly by a Cloudflare Worker into KV, clustered into… — TypeScript · 0 yıldız
-- [drak-oss/Hooke](https://github.com/drak-oss/Hooke) — Hooke is a graph-based spring simulation system built with C++, SDL2, and Dear ImGui. It models physical systems as graphs where… — C++ · 0 yıldız
-- [DrChristophFH/jarvis](https://github.com/DrChristophFH/jarvis) — JARVIS (Java Application Runtime Visualization and Inspection System) — Java · 0 yıldız
-- [drimakesstuff/Accident-Prediction](https://github.com/drimakesstuff/Accident-Prediction) — Analyze historical road accident data, predict fatalities for 2019–2020 using linear regression, and visualize age-wise trends.… — Jupyter Notebook · 0 yıldız
-- [DrPuneetChawla/vastu-for-kicthen-](https://github.com/DrPuneetChawla/vastu-for-kicthen-) — Everyone can understand the significance of a kitchen. After all, a house without a kitchen cannot be considered complete. An… — — · 0 yıldız
-- [DSM2499/Virus_Simulator](https://github.com/DSM2499/Virus_Simulator) — Flexible agent-based virus spread simulator built in Python using Mesa. Models infection, mobility, asymptomatic carriers,… — Python · 0 yıldız
-- [Duapar13/la-peau-lisse-analytics](https://github.com/Duapar13/la-peau-lisse-analytics) — Analyse des matchs FACEIT CS2 d'un groupe d'amis en duo et en trio : pick & ban, stats, clutchs, conseils (Rust, egui) — Rust · 0 yıldız
-- [dujoducom/instagram-canvas](https://github.com/dujoducom/instagram-canvas) — Loading some images using the instagram API and displaying with canvas using createjs — CSS · 0 yıldız
-- [dwwaweru/SI507-FinalProject](https://github.com/dwwaweru/SI507-FinalProject) — Final project for SI507. This program uses a graph to find the shortest Amtrak train ride between two cities. — Python · 0 yıldız
-- [dyllamt/apache-sample](https://github.com/dyllamt/apache-sample) — Helm charts and source code for an apache data application. — Python · 0 yıldız
-- [dylnuge/cs467-emailvis](https://github.com/dylnuge/cs467-emailvis) — Source code for the email visualization assignment for CS467 at the University of Illinois Urbana Champaign. — Python · 0 yıldız
-- [eaamankwah/covid19-data-analysis-and-visualization-project](https://github.com/eaamankwah/covid19-data-analysis-and-visualization-project) — Exploratory data analysis and visualization of global COVID-19 metrics and World Happiness scores across 150+ countries built… — Jupyter Notebook · 0 yıldız
-- [eb-thatsme/Adv-Processors_SingleCycleProcessorDesign](https://github.com/eb-thatsme/Adv-Processors_SingleCycleProcessorDesign) — This Verilog project implements a single-cycle processor design based on the block diagram seen in 'blockDiagram.jpg'. The… — Verilog · 0 yıldız
-- [ecbrown7/Shiny-Project](https://github.com/ecbrown7/Shiny-Project) — Final project for ST558. Will work with real laboratory data to explore validation data, visualize plots, and model AR toxicity… — R · 0 yıldız
-- [eclipticprime558/apex-trading-analytics](https://github.com/eclipticprime558/apex-trading-analytics) — APEX — A browser-based trading analytics platform with candlestick charts, SPC control charts, technical indicators, and… — HTML · 0 yıldız
-- [ecobham/inclusive-press](https://github.com/ecobham/inclusive-press) — Inclusive press is a data-driven news and stories web application. It focuses on the visualization of the data of herdsmen… — PHP · 0 yıldız
-- [EcstaticParadox/EOHackathon](https://github.com/EcstaticParadox/EOHackathon) — This repository includes all the datasets, calculated components, excel files and .sav files of analyzed data and charts of final… — — · 0 yıldız
-- [Eenzo71/AudioFlux](https://github.com/Eenzo71/AudioFlux) — An open-source, high-performance virtual audio mixer for Windows using Rust and Tauri. Features per-app routing, node-based… — TypeScript · 0 yıldız
-- [EFDM/Medical-Insurance-Costs-](https://github.com/EFDM/Medical-Insurance-Costs-) — This project's goal is to create a Data Visualization dash in Tableau, by examining raw data of a USA Medical Insurance Costs… — — · 0 yıldız
-- [EGjika/Climate-Change-Ottawa-Shiny-App](https://github.com/EGjika/Climate-Change-Ottawa-Shiny-App) — This is a Shiny App created with the data of climacteric stations in Ottawa, Canada. It helps understand the time series of data… — R · 0 yıldız
-- [eko-hrn/Sentiment-Analysis-of-Mobile-Legends-Reviews-from-Google-Play-Store](https://github.com/eko-hrn/Sentiment-Analysis-of-Mobile-Legends-Reviews-from-Google-Play-Store) — This project performs sentiment analysis on Mobile Legends user reviews scraped from the Google Play Store. It includes text… — Jupyter Notebook · 0 yıldız
-- [elhammavarani/3D_EarthQuake_Simulator](https://github.com/elhammavarani/3D_EarthQuake_Simulator) — A Python-based 3D earthquake simulator for structural response analysis, seismic modeling, and interactive building visualization. — Python · 0 yıldız
-- [elijah688/deadlocks_with_trains](https://github.com/elijah688/deadlocks_with_trains) — Visualising deadlocks in a multi-treaded program as trains competing for an cross junction. — Go · 0 yıldız
-- [ElliotBorisenko/Blowdown-Calculator](https://github.com/ElliotBorisenko/Blowdown-Calculator) — Uses initial and final system conditions to conservatively calculate the associated blowdown time based on ISA and Fisher valve… — Python · 0 yıldız
-- [elouahabihind/MiniProjetBigDataAirflow](https://github.com/elouahabihind/MiniProjetBigDataAirflow) — This project implements a data pipeline using Apache Airflow for ETL, MySQL as the data warehouse, and Flask for visualizing… — HTML · 0 yıldız
-- [elsayedelmandoh/dashboard_ElectroPI](https://github.com/elsayedelmandoh/dashboard_ElectroPI) — Developed a Streamlit dashboards for visualizing and analyzing data within an organization's system. The dashboards provide… — Jupyter Notebook · 0 yıldız
-- [ElshadayD/Keyword-Extraction-System-with-Word-Cloud-Visualization](https://github.com/ElshadayD/Keyword-Extraction-System-with-Word-Cloud-Visualization) — (açıklama yok) — Jupyter Notebook · 0 yıldız
-- [embeddedcave/bar_graph](https://github.com/embeddedcave/bar_graph) — C Unit test example of loading graph. — C · 0 yıldız
-- [emmaccode/Quake-Predictor](https://github.com/emmaccode/Quake-Predictor) — Plot.ly Dash webapp to predict the location of an Earthquake based on Depth, Magnitude, etc using machine-learning. — Jupyter Notebook · 0 yıldız
-- [EmmanuelKinyanjui525/conflict-analysis-kenya.R](https://github.com/EmmanuelKinyanjui525/conflict-analysis-kenya.R) — Exploratory data analysis, visualization, and statistical modeling of conflict events in Kenya using R (tidyverse, ggplot2,… — R · 0 yıldız
-- [Emmyprecious01/streamlit_aircraft_crashes_dashboard](https://github.com/Emmyprecious01/streamlit_aircraft_crashes_dashboard) — This repository contains a Streamlit web application for visualizing and analyzing historical aircraft crash data. The app… — — · 0 yıldız
-- [Emmyprecious01/streamlit_aircraft_crashes_dashboard1](https://github.com/Emmyprecious01/streamlit_aircraft_crashes_dashboard1) — This repository contains a Streamlit web application for visualizing and analyzing historical aircraft crash data. The app… — Python · 0 yıldız
-- [Enazzzz/SysIntel](https://github.com/Enazzzz/SysIntel) — SysIntel is a Python-based system monitor for Windows featuring a dark-themed GUI, real-time graphs, and advanced performance… — Python · 0 yıldız
-- [EngHamzaKhader/Fraud-Transaction-Detection-Machine-Learning-Anomaly-Detection-Project](https://github.com/EngHamzaKhader/Fraud-Transaction-Detection-Machine-Learning-Anomaly-Detection-Project) — This project implements a fraud transaction detection system using machine learning. The dataset is preprocessed and scaled,… — Jupyter Notebook · 0 yıldız
-- [Enochemerald/Nigerian_Aircraft_Accident](https://github.com/Enochemerald/Nigerian_Aircraft_Accident) — This analysis presents a comprehensive analysis of Nigerian aircraft accident data, focusing on trends in accidents and… — — · 0 yıldız
-- [Eoburos/imgui-node-editor](https://github.com/Eoburos/imgui-node-editor) — (açıklama yok) — C++ · 0 yıldız
-- [ephico2real2/diagram-kit](https://github.com/ephico2real2/diagram-kit) — One template, one renderer and one standard for diagram figures: source.html pages rendered to light and dark PNGs, refusing the… — Python · 0 yıldız
-- [erdilatifi/BlastRadius](https://github.com/erdilatifi/BlastRadius) — Proves tenant isolation on multi-tenant Kubernetes: injects a Chaos Mesh fault into one tenant, scores how many bystanders moved… — Rust · 0 yıldız
-- [Eric2112/CS3012-social-graph-project](https://github.com/Eric2112/CS3012-social-graph-project) — A repository containing the source code for my CS3012 social graph project — HTML · 0 yıldız
-- [ericjortiz/game](https://github.com/ericjortiz/game) — A seed based program that generates an explorable, pseudorandom world in linear time by using a basic implementation of graphs… — Java · 0 yıldız
-- [erikjuvan/sample_and_graph](https://github.com/erikjuvan/sample_and_graph) — Gather data from multiple devices or load existing data, and display it on graph. — C++ · 0 yıldız
-- [ermia-106/Loan-Prediction](https://github.com/ermia-106/Loan-Prediction) — A Machine Learning project for predicting loan approval status using Random Forest Classifier. The project includes data… — Jupyter Notebook · 0 yıldız
-- [ernclb/mta-visualization](https://github.com/ernclb/mta-visualization) — A project that cleans MTA Turnstile and Train Lateness data, maps and visualizes it — Jupyter Notebook · 0 yıldız
-- [ernestogaxha/apex-assault](https://github.com/ernestogaxha/apex-assault) — Browser-based top-down shooter built with pure HTML5 Canvas — JavaScript · 0 yıldız
-- [esamuel7/SoftGrowTech_Modern-Dashboard-Interface](https://github.com/esamuel7/SoftGrowTech_Modern-Dashboard-Interface) — A dark-themed analytics dashboard featuring a fixed sidebar, KPI stat cards, weekly activity line chart, traffic source donut… — — · 0 yıldız
-- [esilvaabreu/DA-Death_by_Police_USA](https://github.com/esilvaabreu/DA-Death_by_Police_USA) — Data Analysis of the number of police fatalities in the USA using Python for Data Exploration, Cleaning and Visualization — Jupyter Notebook · 0 yıldız
-- [esraa-mohamad/Diabetes_Dataset-](https://github.com/esraa-mohamad/Diabetes_Dataset-) — Machine Learning project using models knn, Random forest , DT , Naive Bayes then we conclude the best model , all of this after… — Jupyter Notebook · 0 yıldız
-- [EsraaAmir/AviationSafety_PowerBI_1980-2023](https://github.com/EsraaAmir/AviationSafety_PowerBI_1980-2023) — Unveiling Aviation's Hidden Dangers: A Data-Driven Exploration of Crashes and Fatalities (1980-2023) — — · 0 yıldız
-- [EugenBasov/Volume-Viewer](https://github.com/EugenBasov/Volume-Viewer) — Interactive GPU ray casting of CT data in C++ and OpenGL. Two illustrative techniques, ClearView and ICPVR, reveal the inside of… — C++ · 0 yıldız
-- [EunseokEthanYang/squad-sniffer](https://github.com/EunseokEthanYang/squad-sniffer) — Pixel-art classroom that visualizes Backend.AI GO squad executions — the visualization source used by aigo-web. — JavaScript · 0 yıldız
-- [EvanHaaaaa/MaybeAI](https://github.com/EvanHaaaaa/MaybeAI) — Modular autonomous AI VTuber system powering Eve Maybe. Features full-duplex voice with barge-in, multi-provider streaming LLMs,… — Python · 0 yıldız
-- [EvansSource/RoundedUIScaleChart](https://github.com/EvansSource/RoundedUIScaleChart) — open sourced file for https://web.roblox.com/games/6329244663/Open-Sourced-UI-Rounded-scale-chart — — · 0 yıldız
-- [exexexexe/sotf-collectibles-checker](https://github.com/exexexexe/sotf-collectibles-checker) — Load your Sons of the Forest save and see exactly which notes, blueprints, plated weapons, clothing, videos and foods you're… — HTML · 0 yıldız
-- [explicitworkload/rhlifecyclesummary](https://github.com/explicitworkload/rhlifecyclesummary) — An open-source, lightweight containerized web application that aggregates real-time lifecycle support dates across the Red Hat… — HTML · 0 yıldız
-- [exponentialcherub/FYP](https://github.com/exponentialcherub/FYP) — My final year project at the University of Bath, WebVoxels. It is a pre-visualization tool intended for use by filmmakers to help… — JavaScript · 0 yıldız
-- [eyeoverthink/Fraynix-Agent-Workspace](https://github.com/eyeoverthink/Fraynix-Agent-Workspace) — Local visual agent workspace: real browser, live creation canvas, typed tools and verified skills. Derived from Fraynix Studio. — — · 0 yıldız
-- [fabianod/strafevis](https://github.com/fabianod/strafevis) — Visualizing strafing for Quake 1/GoldSrc/Source engine games. — — · 0 yıldız
-- [FactMR3/Surgical-Imaging-Robots-Market-Is-Likely-to-Experience-a-Tremendous-Growth-in-Near-Future](https://github.com/FactMR3/Surgical-Imaging-Robots-Market-Is-Likely-to-Experience-a-Tremendous-Growth-in-Near-Future) — Surgical Imaging Robots Market has been evolving and changing over the course of past few decades and the market scope has… — — · 0 yıldız
-- [Fahadm96/Communicate_Data_Findings](https://github.com/Fahadm96/Communicate_Data_Findings) — # Ford GoBike System Dateset ## by Fahad AlQahtani This project has two parts that demonstrate the importance and value of data… — HTML · 0 yıldız
-- [faisalrafiq031/ESPNcricinfo-Scraping-Using--BeautifulSoup](https://github.com/faisalrafiq031/ESPNcricinfo-Scraping-Using--BeautifulSoup) — ESPNcricinfo Cricket Data Scraping and Visualization Project by: Maroof Tahir and Faisal Rafiq This project offered valuable… — Python · 0 yıldız
-- [fdkz/aniplot](https://github.com/fdkz/aniplot) — Realtime telemetry graph visualizer. — — · 0 yıldız
-- [Federated-Industrial-Laboratories/porkchop](https://github.com/Federated-Industrial-Laboratories/porkchop) — An interactive interplanetary transfer designer: Lambert porkchop plots of launch energy over departure/arrival dates, built on… — C++ · 0 yıldız
-- [FelixOstwaldt/Visualizing-Blood-samples](https://github.com/FelixOstwaldt/Visualizing-Blood-samples) — I created I jupyter notebook, where I load blood samples as XML files, show them in a table with the library Great-Tables and… — Jupyter Notebook · 0 yıldız
-- [fencepost-error/apexcharts-card](https://github.com/fencepost-error/apexcharts-card) — 📈 Revamped: a card to display advanced graphs based on ApexChartsJS for Home Assistant — — · 0 yıldız
-- [Fiehn/Voronoi-Map-Generator](https://github.com/Fiehn/Voronoi-Map-Generator) — C++ implementation of a Voronoi diagram with map generation algortihms that form a coherent globe of interdependent interactions… — — · 0 yıldız
-- [figonzal1/Tableau-csgo](https://github.com/figonzal1/Tableau-csgo) — Dashboard for csgo data analysis designed in Tableau for the course "Visualizations Workshops 2018", UTFSM, Chile — — · 0 yıldız
-- [filip-kustura/sql-database-assignment](https://github.com/filip-kustura/sql-database-assignment) — Database Systems course project, completed in two parts: designing an arbitrary relational database and implementing it by… — — · 0 yıldız
-- [fineday1/graph-traversal-algorithms](https://github.com/fineday1/graph-traversal-algorithms) — Graph traversal visualization app written in C++ using Raylib and Dear ImGui — C++ · 0 yıldız
-- [fivenet-app/charts](https://github.com/fivenet-app/charts) — FiveNet Helm Charts — Go Template · 0 yıldız
-- [Fluffymeowmeowbeanz/411_spl](https://github.com/Fluffymeowmeowbeanz/411_spl) — Source code for our 411 Final Data Visualization Project on monthly checkouts from the Seattle Public Library between 2017 and… — HTML · 0 yıldız
-- [fnannini72/ancient-body-timeline](https://github.com/fnannini72/ancient-body-timeline) — Primordial Protocol's evolutionary timeline — HTML · 0 yıldız
-- [FOEXplugins/scheduler-by-foex](https://github.com/FOEXplugins/scheduler-by-foex) — A plug-in with a tonne of features to manage complex schedules. Manage your schedule in timeline, resource, day, week, month or… — — · 0 yıldız
-- [Forensonaut/gravitational-wave-memory-KMR](https://github.com/Forensonaut/gravitational-wave-memory-KMR) — Python simulation and visualization for gravitational-wave memory from tidal disruption events near primordial black holes… — Python · 0 yıldız
-- [ForestPulse/tree_species_validation](https://github.com/ForestPulse/tree_species_validation) — Workflow to derive accuracy metrics for the tree species fractions raster dataset from area-based forest inventory data and… — Python · 0 yıldız
-- [FORGOTTENgod-ux/AI_Based_IDS_Project_Phase1](https://github.com/FORGOTTENgod-ux/AI_Based_IDS_Project_Phase1) — This is AI based IDS which uses random forest trainned on a small dataset to detect attacks like- port scan, SQLi and Dos/DDos.… — HTML · 0 yıldız
-- [FoxaPandu/Tkinter-Bmi-Analyser-with-graph](https://github.com/FoxaPandu/Tkinter-Bmi-Analyser-with-graph) — Tkinter BMI Analyzer is a Python-based desktop project designed to analyze health data through a simple and modern dark-mode… — Python · 0 yıldız
-- [Fr-Omondi/realestate_system](https://github.com/Fr-Omondi/realestate_system) — Django-based Real Estate Management System to manage properties, tenants, payments, and maintenance. Features a dynamic dashboard… — Python · 0 yıldız
-- [fragaeduardo/UFG-2025.2-AED2-Marvel-Graph-Analysis](https://github.com/fragaeduardo/UFG-2025.2-AED2-Marvel-Graph-Analysis) — (açıklama yok) — — · 0 yıldız
-- [fran-galic/world-cup-atlas](https://github.com/fran-galic/world-cup-atlas) — The `world-cup-atlas/` directory contains the final Data Visualization course project: an interactive dashboard for exploring… — — · 0 yıldız
-- [Francesco149/cosmic2d](https://github.com/Francesco149/cosmic2d) — 2D+3D game engine: batteries included, infinite canvas, everything hot reloads and rewinds — — · 0 yıldız
-- [freewili/radio2tc](https://github.com/freewili/radio2tc) — Thermocouple logger for the Intrepid neoRAD-IO2-TC (8 isolated K-type banks), in two stages: a cross-platform SDL3/ImGui desktop… — C++ · 0 yıldız
-- [Frigzer/Graph-blueprint-viewer](https://github.com/Frigzer/Graph-blueprint-viewer) — C++23 desktop app for visualizing and auto-layouting JSON graph blueprints. — C++ · 0 yıldız
-- [funbiscuit/curvedetect](https://github.com/funbiscuit/curvedetect) — Almost cross-platform (no macOS support) way to convert scan or picture of your graph to digital data. — — · 0 yıldız
-- [Futreeng/transit_empire](https://github.com/Futreeng/transit_empire) — Browser-based MTA transit game — a hand-rolled vanilla JavaScript engine with its own audio, input, physics, viewport, and… — JavaScript · 0 yıldız
-- [Future-Outlier/Predict_Studens-Grade_With_Linear_Regression](https://github.com/Future-Outlier/Predict_Studens-Grade_With_Linear_Regression) — In the code, I implement matplotlib to plot 2D plots and train a small model to predict students' final grade. — Jupyter Notebook · 0 yıldız
-- [gabriel-hc-dev/RotatioM](https://github.com/gabriel-hc-dev/RotatioM) — A graph-based tool for analyzing movement routes and rotations in Counter-Strike 2. — — · 0 yıldız
-- [gagankumarjk/COVID-19-Global-Impact-Analysis-Visualization](https://github.com/gagankumarjk/COVID-19-Global-Impact-Analysis-Visualization) — • Analyze global COVID-19 trends over the available reporting period. • Compare countries and WHO regions using cases, deaths,… — — · 0 yıldız
-- [Galant96/TrawlerWars](https://github.com/Galant96/TrawlerWars) — This project is a software visualisation tool to be used in a 2D fishing game called "Trawler Wars". However, the main aim is to… — HTML · 0 yıldız
-- [Ganpati-Nath/wellness-tracker](https://github.com/Ganpati-Nath/wellness-tracker) — Take-home assignment for Frontend Engineer role: A React-based Wellness Tracker with mocked authentication, CRUD operations,… — JavaScript · 0 yıldız
-- [GayanWijewardhane/VPCInsight-VPC-Monitoring-Analyzing-Tool](https://github.com/GayanWijewardhane/VPCInsight-VPC-Monitoring-Analyzing-Tool) — This repository contains the source code and configuration files for a final year project focused on monitoring AWS VPC Flow Logs… — Python · 0 yıldız
-- [GeneralSparsh/polygon-indexer](https://github.com/GeneralSparsh/polygon-indexer) — A real-time blockchain indexer built in Rust that connects to the Polygon network, detects POL token transfers, and calculates… — Rust · 0 yıldız
-- [george-vrancianu/BreachBall](https://github.com/george-vrancianu/BreachBall) — Football meets siege: a two-player, turn-based pitch game for the browser. Deterministic sim, WebRTC online play, PWA. — TypeScript · 0 yıldız
-- [GeorgeTan615/PoliceFatalitiesVisualization](https://github.com/GeorgeTan615/PoliceFatalitiesVisualization) — A visualization dashboard made regarding the information of police fatalities in the United States. — HTML · 0 yıldız
-- [geswanth/Autonomous-Mapping-and-Path-Planning-using-a-Differential-Drive-Based-AGV](https://github.com/geswanth/Autonomous-Mapping-and-Path-Planning-using-a-Differential-Drive-Based-AGV) — Automated Guided Vehicle (AGV) is a mobile robot which moves along a prescribed path. It is one of key equipments in modern… — — · 0 yıldız
-- [gh-arnab21/Hackathon_Squad](https://github.com/gh-arnab21/Hackathon_Squad) — An advanced optimization engine for solving the Maximum Weight Independent Set (MWIS) problem on massive graphs. — C++ · 0 yıldız
-- [ghaffaribehdad/Flow.3D](https://github.com/ghaffaribehdad/Flow.3D) — Flow visualization tool — — · 0 yıldız
-- [GilkapallyRithika/Dark-Patterns-for-Hidden-Costs-and-Manipulative-Design-Patterns](https://github.com/GilkapallyRithika/Dark-Patterns-for-Hidden-Costs-and-Manipulative-Design-Patterns) — Designed and implemented a Chrome extension to detect dark patterns related to hidden costs and manipulative UI designs on… — JavaScript · 0 yıldız
-- [ginogustavo/chart-lib](https://github.com/ginogustavo/chart-lib) — Showcase the use of chart libraries to display population fatalities causes — JavaScript · 0 yıldız
-- [GiriNageshwaranD/Visualization-of-Aviation-Accident-Patterns-and-Fatalities-using-Power-BI](https://github.com/GiriNageshwaranD/Visualization-of-Aviation-Accident-Patterns-and-Fatalities-using-Power-BI) — This project demonstrates how Power BI can be used to analyze and visualize aviation accident patterns and fatalities worldwide.… — — · 0 yıldız
-- [GirishKumarV25/COVID-19-Global-Dashboard-Power-BI-](https://github.com/GirishKumarV25/COVID-19-Global-Dashboard-Power-BI-) — This Power BI dashboard visualizes global COVID-19 data across key metrics — Confirmed Cases, Deaths, and Recoveries — with… — — · 0 yıldız
-- [GismoGaming/mvmView](https://github.com/GismoGaming/mvmView) — Simple graph based editing for TF2 MVM population files — GDScript · 0 yıldız
-- [git-wisart/ManicTime-csvPlugin](https://github.com/git-wisart/ManicTime-csvPlugin) — A ManicTime Timeline Plugin which can load a .csv file as its source. — C# · 0 yıldız
-- [giulianoojeda/E-Commerce-Data-Pipeline](https://github.com/giulianoojeda/E-Commerce-Data-Pipeline) — An ELT data pipeline 🚚 for analyzing Brazilian e-commerce data. Processes CSVs and public API data using Python and Pandas, loads… — Jupyter Notebook · 0 yıldız
-- [Glenn-Gray-Labs/Choreographer](https://github.com/Glenn-Gray-Labs/Choreographer) — Dear ImGui <-> Unreal-esque Blueprints — C · 0 yıldız
-- [gmkg1/MobilePricePrediction](https://github.com/gmkg1/MobilePricePrediction) — A System that predicts a mobile phone's price range using a Random Forest Classifier. The project includes a fully integrated… — HTML · 0 yıldız
-- [GnanaKeerthana/Breast-Cancer-Project](https://github.com/GnanaKeerthana/Breast-Cancer-Project) — A small project that uses breast cancer data to train a Random Forest model and predict whether a tumor is benign or malignant… — Python · 0 yıldız
-- [Gnaneswar7/AI-Based-Structural-Health-Monitoring-with-Predictive-maintenance-for-bridges-buildings.](https://github.com/Gnaneswar7/AI-Based-Structural-Health-Monitoring-with-Predictive-maintenance-for-bridges-buildings.) — A machine learning pipeline for analyzing structural sensor data from buildings and bridges to detect anomalies and predict… — Jupyter Notebook · 0 yıldız
-- [goddons4life/ETL-OLD](https://github.com/goddons4life/ETL-OLD) — # Guidelines for ETL Project This document contains guidelines, requirements, and suggestions for Project 1. ## Team Effort Due… — — · 0 yıldız
-- [goldithakurr11/-COVID-19-Global-analysis](https://github.com/goldithakurr11/-COVID-19-Global-analysis) — SQL + Python analysis of global COVID-19 data across 190+ countries, comparing case fatality rates by continent and visualizing… — Python · 0 yıldız
-- [Gopalkholade/pubg_game_prediction](https://github.com/Gopalkholade/pubg_game_prediction) — PlayerUnknown’s Battlegrounds (PUBG) is a popular battle royale game where players compete against each other in a… — Jupyter Notebook · 0 yıldız
-- [Gopesh2210/Loan-Predictor](https://github.com/Gopesh2210/Loan-Predictor) — Application capable of predicting faulty loanee based on their past financial records. Developed in python with Random Forest as… — HTML · 0 yıldız
-- [gouravgodla/VectorShift-Node-Editor](https://github.com/gouravgodla/VectorShift-Node-Editor) — This project is a fully functional, node-based pipeline editor created for the VectorShift frontend technical assessment. It… — Python · 0 yıldız
-- [gourusumanth/FoodBasket_Web-Project](https://github.com/gourusumanth/FoodBasket_Web-Project) — A web-based system that connects diners with local restaurants like Grub Hub. Environment: Servlets, HTML, CSS, Bootstrap,… — Jupyter Notebook · 0 yıldız
-- [Gouthamaramanekoppa/Final-Evaluation-Visualization-Model-Saving](https://github.com/Gouthamaramanekoppa/Final-Evaluation-Visualization-Model-Saving) — the model was evaluated using test data to check final accuracy and loss. Performance was analyzed using graphs and a confusion… — Jupyter Notebook · 0 yıldız
-- [GouthamiPampurayam/public-transport-delay-prediction](https://github.com/GouthamiPampurayam/public-transport-delay-prediction) — A machine learning-based system that predicts public transport delays using transport data such as traffic, weather, passenger… — Python · 0 yıldız
-- [GouthumKharvi/Retail-Sales-ETL-Pipeline-with-Automated-Data-Quality](https://github.com/GouthumKharvi/Retail-Sales-ETL-Pipeline-with-Automated-Data-Quality) — End-to-end ETL pipeline for retail sales forecasting and analytics. It ingests raw CSV data (train, test, features, stores),… — Python · 0 yıldız
-- [goyaldivyansh/Heart-disease-prediction-and-compared-accuracy-using-5-algorithms](https://github.com/goyaldivyansh/Heart-disease-prediction-and-compared-accuracy-using-5-algorithms) — Trained and tested a machine learning model for predicting heart disease and compared the accuracy results of various algorithms… — Jupyter Notebook · 0 yıldız
-- [GPR-450-Fall-2023/gpr450-blendtree-nodegraph](https://github.com/GPR-450-Fall-2023/gpr450-blendtree-nodegraph) — Standalone node based editor for building blend tree JSON files that are read in through Animal3D — — · 0 yıldız
-- [GPUOpen-LibrariesAndSDKs/WorkGraphPlayground](https://github.com/GPUOpen-LibrariesAndSDKs/WorkGraphPlayground) — A DirectX12-based C++-application that allows graphics programmers to learn and experiment with the new Work Graphs feature using… — — · 0 yıldız
-- [GraCosPA/MergeRatePBH](https://github.com/GraCosPA/MergeRatePBH) — Code in phyton to plot and obtain the primordial black hole merge rate considering different models. — — · 0 yıldız
-- [grafov/imgui-node-editor](https://github.com/grafov/imgui-node-editor) — Node editor in Golang for Dear ImGui — — · 0 yıldız
-- [GravyPouch/RobloxTerrainCreator](https://github.com/GravyPouch/RobloxTerrainCreator) — A web-based terrain generation tool for Roblox Studio. Paint biomes on a 2D canvas, preview the result in 3D, and import the… — TypeScript · 0 yıldız
-- [Grisselbav/APEXlang](https://github.com/Grisselbav/APEXlang) — APEXlang railroad diagrams based on EBNF published on APEXlang API Reference — Java · 0 yıldız
-- [GRjadhav/Data-science-employee-salary-prediciton](https://github.com/GRjadhav/Data-science-employee-salary-prediciton) — The code describe the categories of job title, employee residence ,company location and also performed exploratory data analysis… — Jupyter Notebook · 0 yıldız
-- [groverburger/amenity](https://github.com/groverburger/amenity) — Chop songs and breaks into slices, play them from your keyboard, and loop them on a beat-snapped timeline. — C++ · 0 yıldız
-- [grx613/fire-charts](https://github.com/grx613/fire-charts) — Free open-source trading chart terminal: tabs, multi-chart layouts, 23 drawing tools, 45 indicators, saved layouts. Bring your… — JavaScript · 0 yıldız
-- [GrzegorzR/d3-hpp](https://github.com/GrzegorzR/d3-hpp) — HPP lattice gas model visualization with D3.js — JavaScript · 0 yıldız
-- [GTCP/Java-Springboot-Testing](https://github.com/GTCP/Java-Springboot-Testing) — Este proyecto fue para practicar springboot, esta orientado programacion en objetos. Considere un modelo de negocio de una… — — · 0 yıldız
-- [gucio321/singen](https://github.com/gucio321/singen) — a sinus / cosinus plot generator written in golang / imgui — Go · 0 yıldız · arşiv
-- [Guigor020/Geopolitical-Conflict-Analysis](https://github.com/Guigor020/Geopolitical-Conflict-Analysis) — Interactive Data Dashboard built with Python and Streamlit to analyze fatality trends in the Israeli-Palestinian conflict.… — Python · 0 yıldız
-- [gulshankdev/COVID-19-Data-Analysis-and-Visualization-in-R](https://github.com/gulshankdev/COVID-19-Data-Analysis-and-Visualization-in-R) — COVID-19 Data Analysis: Import dataset (CSV/online), clean missing values, filter by region. Analyze daily new cases, 7-day… — R · 0 yıldız
-- [gumolak/android-tv-racing-toolkit](https://github.com/gumolak/android-tv-racing-toolkit) — Asset-free C/C++ modules for two-controller routing, menu confirmation and race timing. Includes tests and original diagrams; no… — C++ · 0 yıldız
-- [GunnarDahm/e_sports_ml](https://github.com/GunnarDahm/e_sports_ml) — Scripts to train and evaluate regression machine learning algorithms on PUBG data-set. — Python · 0 yıldız
-- [GUNTOJUYASHWANTH/ai-ml_intern-Task-5](https://github.com/GUNTOJUYASHWANTH/ai-ml_intern-Task-5) — This project uses tree-based models to predict heart disease using the `heart.csv` dataset. The models implemented include a… — Jupyter Notebook · 0 yıldız
-- [Gurixnder/SBA-Loan-Approval-and-Data-Visualization](https://github.com/Gurixnder/SBA-Loan-Approval-and-Data-Visualization) — This project trains a ML model on a real world SBA loan data and predicts a successful loan using Random forest classifier. The… — Jupyter Notebook · 0 yıldız
-- [gurveergirn/COVID-19-Data-Analysis-and-Visualization-with-SQL-and-Tableau](https://github.com/gurveergirn/COVID-19-Data-Analysis-and-Visualization-with-SQL-and-Tableau) — A comprehensive SQL-based project that analyzes COVID-19 data, including cases, deaths, and vaccinations. The project utilizes… — — · 0 yıldız
-- [gvpandit546/Covide-19](https://github.com/gvpandit546/Covide-19) — The COVID-19 website offers real-time updates on the pandemic, highlighting affected regions, states, and counties. Users can… — HTML · 0 yıldız
-- [Hadzik-CS2420/cs2420-diagrams](https://github.com/Hadzik-CS2420/cs2420-diagrams) — Public diagram images for the CS 2420 Canvas pages. Sources of truth live in each CT repo; this repo exists so Canvas can hotlink… — — · 0 yıldız
-- [HaloFireAngel2385/STRUKk](https://github.com/HaloFireAngel2385/STRUKk) — Microsoft Graph REST API v1.0 reference07/19/20202 minutes to read +2In this articleCommon use casesOther API versionsCall the… — — · 0 yıldız
-- [halprez/IATTC-sample](https://github.com/halprez/IATTC-sample) — A set of open-sourced tools to explore IATTC Public domain datasets. — Python · 0 yıldız
-- [hameezG/aits-oci-deployment](https://github.com/hameezG/aits-oci-deployment) — AITS deployment on Oracle Cloud using Docker, Kubernetes, managed MySQL and load balancing, with architecture diagrams and… — JavaScript · 0 yıldız
-- [hamzaaslam276/random-forest-python-tutorial](https://github.com/hamzaaslam276/random-forest-python-tutorial) — A hands-on tutorial implementing the Random Forest algorithm using scikit-learn. Includes data loading, visualization, model… — Jupyter Notebook · 0 yıldız
-- [hamzairshad-cs/HospitalManagementSystem](https://github.com/hamzairshad-cs/HospitalManagementSystem) — -Hospital Management System -MySQL And Php -Proper CRUD -Joins and Cascade Using -Doctors Entry -Patients Entry -Room Entry… — PHP · 0 yıldız
-- [hanzala-afzal-dev/Suicide-Analysis-and-Statistics-Python-Notebook](https://github.com/hanzala-afzal-dev/Suicide-Analysis-and-Statistics-Python-Notebook) — EDA and classification models on WHO suicide statistics (1979–2016) trends by country/sex/age, plus models predicting… — Jupyter Notebook · 0 yıldız
-- [Hardeep097/WeatherAnalysisChart](https://github.com/Hardeep097/WeatherAnalysisChart) — This Project load weather data from text file, and create chart showing the variation in temperature or pressure. It uses C#… — C# · 0 yıldız
-- [hargunghai/Trend-of-Opioid-Related-Deaths-in-the-United-States](https://github.com/hargunghai/Trend-of-Opioid-Related-Deaths-in-the-United-States) — In this study, my goal was to examine the shifts in opioid overdose deaths in the United States between 1999 and 2000, with a… — — · 0 yıldız
-- [harishparimal-droid/Decision_Trees_and_Random_Forests](https://github.com/harishparimal-droid/Decision_Trees_and_Random_Forests) — This project trains Decision Tree and Random Forest classifiers on the Heart Disease dataset. It includes tree visualization with… — Python · 0 yıldız
-- [Harjappan-Singh/ParkSmart](https://github.com/Harjappan-Singh/ParkSmart) — IoT parking management system with real-time sensors, role-based access, PayPal subscriptions, and data visualisation. Built with… — HTML · 0 yıldız
-- [HARSH-SHARMA-04/Detecting-Network-Anomalies-via-Isolation-Forests-Autoencoders](https://github.com/HARSH-SHARMA-04/Detecting-Network-Anomalies-via-Isolation-Forests-Autoencoders) — **1. Iris Classifier** Trains a RandomForest on Iris data, saves the model, and runs a Streamlit app: sliders for input and… — Jupyter Notebook · 0 yıldız
-- [HarshavardhanKurtkoti/Penguins_species_prediction](https://github.com/HarshavardhanKurtkoti/Penguins_species_prediction) — This repository hosts a Streamlit-based ML app that predicts penguin species using a Random Forest classifier. The project… — Python · 0 yıldız
-- [harshitsri0405/HYROX-AI-Warfare-intelligence-system](https://github.com/harshitsri0405/HYROX-AI-Warfare-intelligence-system) — HYROX is an AI-powered hybrid warfare intelligence and battlefield simulation platform built using Python, Streamlit, HTML,… — Python · 0 yıldız
-- [Harvar1611/Prediction-of-Songs-Popularity-on-Spotify-Data](https://github.com/Harvar1611/Prediction-of-Songs-Popularity-on-Spotify-Data) — Created a predicting song popularity feature using the Python3 and Random Forest model on Kaggle’s Spotify data using dynamic… — Jupyter Notebook · 0 yıldız
-- [HasanCan6241/BERT-E-Commerce-Comment-Classifier](https://github.com/HasanCan6241/BERT-E-Commerce-Comment-Classifier) — I developed a classification project using user reviews from e-commerce platforms. The project included data analysis,… — Jupyter Notebook · 0 yıldız
-- [haseebjaved4212/Snake-Game](https://github.com/haseebjaved4212/Snake-Game) — A responsive Snake game built with HTML, CSS and vanilla JavaScript. The project includes a nice dark UI with header pills… — JavaScript · 0 yıldız
-- [Hashehri/EDA-MTA](https://github.com/Hashehri/EDA-MTA) — Detecting crowds based on stations exits, entries, and generate a graphs for spotting congestions. Furthermore, improving the… — Jupyter Notebook · 0 yıldız
-- [HasiniDilrangi/dataeng_Intern_customer_order_python](https://github.com/HasiniDilrangi/dataeng_Intern_customer_order_python) — This project demonstrates a data engineering solution to import customer and order data from CSV files into a MySQL database and… — Python · 0 yıldız
-- [HaylyePlaster/API-Project](https://github.com/HaylyePlaster/API-Project) — Project Objectives: Your objective is to build a series of scatter plots to showcase the following relationships: Temperature (F)… — Jupyter Notebook · 0 yıldız
-- [Hephzibah7/CodeFlow](https://github.com/Hephzibah7/CodeFlow) — **CodeFlow** is an interactive code execution visualization platform that helps students, programmers, and interview candidates… — — · 0 yıldız
-- [Himel564/Apex-Journey-Optimizer](https://github.com/Himel564/Apex-Journey-Optimizer) — Developed Apex Journey Optimizer, a web-based route optimization system using Python Flask and HERE Maps API. The application… — JavaScript · 0 yıldız
-- [Hina96/The_Dark_Lady_awakens](https://github.com/Hina96/The_Dark_Lady_awakens) — "The Dark Lady awakens" is a project created at the university for the "Game Design and Prototyping" examination, in which we had… — — · 0 yıldız
-- [hinalba15/Titenic](https://github.com/hinalba15/Titenic) — 1 Introduction 1.1 Load and Check data 2. Data Mining 2.1. Missing Value Tretment 2.2. Outlier Tretment 3. Freature Engineering… — R · 0 yıldız
-- [HinaMehboob/T20-Score-Prediction-App](https://github.com/HinaMehboob/T20-Score-Prediction-App) — An end-to-end Machine Learning project that predicts the final first-innings score of a T20 cricket match. It extracts… — Jupyter Notebook · 0 yıldız
-- [hiteshasoriya/react-saas-admin-dashboard](https://github.com/hiteshasoriya/react-saas-admin-dashboard) — A modern and responsive SaaS admin dashboard built with React, Vite, and Chakra UI. Includes charts, user management UI,… — JavaScript · 0 yıldız
-- [hiyoricy/ML-kickstarter](https://github.com/hiyoricy/ML-kickstarter) — My team's machine learning project where we developed a predictive classification model using R to forecast the success of… — — · 0 yıldız
-- [holo-q/imgui_vibekit](https://github.com/holo-q/imgui_vibekit) — Portable Python toolkit for building professional desktop applications with Dear ImGui — Python · 0 yıldız
-- [holo-q/oomfi](https://github.com/holo-q/oomfi) — Native ComfyUI workflow editor built on vibekit, targeting .NET 10 with Dear ImGui — C# · 0 yıldız
-- [HoneyBad3er/CS224W-Machine-Learning-with-Graphs](https://github.com/HoneyBad3er/CS224W-Machine-Learning-with-Graphs) — self-study based on Stanford / Fall 2021 course materials — Jupyter Notebook · 0 yıldız
-- [Hrithikrk007/Visualization-of-Aviation-Accident-Patterns-and-Fatalities-using-Power-BI](https://github.com/Hrithikrk007/Visualization-of-Aviation-Accident-Patterns-and-Fatalities-using-Power-BI) — This mini project uses Power BI to analyze global aviation accident data, highlighting trends in accident frequency and… — — · 0 yıldız
-- [HRK1/Support-vector-machine-cupcake-vs-muffin](https://github.com/HRK1/Support-vector-machine-cupcake-vs-muffin) — This project is based on support vector machine. SVM are supervised learning models. In this i used the recipes to predict… — Jupyter Notebook · 0 yıldız
-- [hshuoshuo/motor-vehicle-fatality-linear-models](https://github.com/hshuoshuo/motor-vehicle-fatality-linear-models) — Conducted exploratory data analysis, hypothesis testing, regression modeling, diagnostics, and time series analysis on auto… — R · 0 yıldız
