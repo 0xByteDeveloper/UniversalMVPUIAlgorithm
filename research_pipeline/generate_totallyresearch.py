@@ -50,9 +50,9 @@ R = lambda p: re.compile(p, re.I)
 CHEATSHEET = R(r"cheat[ -]?sheet|cheatsheet")
 EXAM = R(r"\b(exam|quiz|midterm|final ?(exam)?|sinav|sınav|vize|final)\b.*(cheat)|cheat.*(exam|quiz|sinav)")
 
-CHEAT_W = R(r"\b(cheats?|cheating|hacks?|hacking|aimbot|wallhack|esp|bypass(es)?|pasted|paste|leak(ed|s)?|crack(ed)?|trainer|mod.?menu|hvh|external|internal)\b")
+CHEAT_W = R(r"\b(cheats?|cheating|hacks?|hacking|aimbot|wallhack|esp|bypass(es)?|pasted|paste|leak(ed|s)?|crack(ed)?|trainer|mod.?menu|hvh|external|internal|multihack|farm.?bots?|anti.?cheat|clientless|hile(si|leri)?|script.?execut(or|ors))\b")
 GAMES_W = R(r"\b(csgo|cs2|cs:go|counter.?strike|valorant|fortnite|apex|pubg|gta|fivem|tarkov|eft|dayz|roblox|minecraft|warzone|call.?of.?duty|battlefield|halo|gmod|dota|deadlock|deadside|rust|escape from|r6|rainbow|dead by daylight|xdefiant|the finals|marvel rivals|delta force|arena breakout|hunt showdown|dark and darker|crossfire|warface|point blank|combat arms|critical ops|standoff 2|free fire|mobile legends|zula|wolfteam|metin2|knight online|silkroad|sudden attack|arma|overwatch|unturned|terraria|left 4 dead|team fortress|tf2|quake|insurgency|squad|planetside|apb|fall guys|among us)\b")
-MENULIKE = R(r"\b(menu|menus|cheat|hack|esp|loader|internal|external|base|mod.?menu|offsets?|injector|spoofer|bypass|radar|dma)\b")
+MENULIKE = R(r"\b(menu|menus|cheat|hack|esp|loader|internal|external|base|mod.?menu|offsets?|injector|spoofer|bypass|radar|dma|executor)\b")
 LOADER_W = R(r"\b(loader|loaders|keyauth|key.?auth|license|licence|licensing|lisans|hwid|injector|inject(ing|ion)?|subscription|key.?system|keysystem|auth|login|account|seller|sellix|shoppy|dashact|billing|stripe|panel)\b")
 THEME_W = R(r"\b(themes?|styles?|skins?|palettes?|colour|color(s|ing)?|theme)\b")
 ANIM_W = R(r"\b(animations?|animated|anim|easing|ease|lerp|transition(s)?|tween|motion)\b")
@@ -149,12 +149,12 @@ def categorize(r):
         return "tool"
     if EXAMPLE_W.search(s):
         return "example"
-    if r.get("via") in ("p5", "c1", "c2", "c3", "c4", "c5", "b"):
+    if r.get("via") in ("p5", "c1", "c2", "c3", "c4", "c5", "c6", "b"):
         return "other"
     return "genis"  # genis evren (g/u) — ilgililik sinamasi bekliyor
 
 
-CHEAT_VIA = ("p5", "c1", "c2", "c3", "c4", "c5", "b", "g", "u")
+CHEAT_VIA = ("p5", "c1", "c2", "c3", "c4", "c5", "c6", "b", "g", "u")
 
 # ---------------- P5 v1 filtresi ---------------- #
 kept, dropped_p5 = {}, 0

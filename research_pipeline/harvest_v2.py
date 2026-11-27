@@ -189,9 +189,35 @@ G_GENERIC = [
     "bypass", "injector", "spoofer", "trainer", "csgo cheat", "fivem menu",
 ]
 
+# FAZ 2.16 — KULLANICININ HAZIRLADIGI CHEAT SAHASI SORGUSU (birebir + dilimler)
+# GitHub arayuz sorgusu:
+#   "imgui" AND ("Cheat" OR "Farmbot" OR "Aimbot" OR "Bypass" OR "Multihack"
+#               OR "Anticheat" OR "Hile" OR "Executor" OR "Clientless") language:C++
+# NOT: REST /search/code boolean AND/OR'yi desteklemeyebilir (422 -> zararsiz
+# atlanir); o yuzden ayni sahalarin kelimeli dilimleri de bankada.
+USER_CODE = [
+    ('"imgui" AND ("Cheat" OR "Farmbot" OR "Aimbot" OR "Bypass" OR "Multihack" OR "Anticheat" OR "Hile" OR "Executor" OR "Clientless") language:C++', 10),
+    ('"imgui.h" farmbot', 8), ('"imgui.h" multihack', 8),
+    ('"imgui.h" anticheat', 8), ('"imgui.h" clientless', 8),
+    ('"imgui.h" executor', 8),
+    ('imgui farmbot', 8), ('imgui multihack', 8), ('imgui anticheat', 8),
+    ('imgui clientless', 8), ('imgui executor', 8), ('imgui hile', 8),
+]
+USER_REPO = [
+    "imgui farmbot", "imgui multihack", "imgui anticheat", "imgui clientless",
+    "imgui executor", "imgui hile", "farmbot", "multihack", "clientless",
+    "anticheat bypass", "anticheat c++", "cheat executor", "executor c++",
+    "csgo multihack", "rust multihack", "game executor", "bot farm",
+]
+
 
 def build_bank():
     bank = []  # (sorgu, sort, maxp, tag, kind)
+    # FAZ 2.16: kullanicinin cheat-sahasi sorgulari EN ONECE (en yuksek oncelik)
+    for q, maxp in USER_CODE:            # kod uzayi (tag b: dilimlenemez)
+        bank.append((q, "", maxp, "b", "code"))
+    for q in USER_REPO:                  # repo uzayi (tag c6: ay-dilkimeli)
+        bank.append((q, "stars", 6, "c6", "repo"))
     for item in PROBES:
         q, p = (item, 1) if isinstance(item, str) else item
         bank.append((q, "stars", p, "u", "repo"))
@@ -350,6 +376,12 @@ class GH:
                 continue
             if r.status_code in (422, 451):
                 return None
+            if r.status_code >= 500:
+                # GitHub tarafında geçici sunucu hatası (5xx) — döngüyü
+                # öldürmek yerine aynı deneme bütçesi içinde geri çekilerek tekrar dene
+                print(f"  [srv-{r.status_code}] sunucu hatası — 5s", flush=True)
+                time.sleep(5)
+                continue
             r.raise_for_status()
             time.sleep(SLEEP)
             return r.json()
