@@ -18,7 +18,9 @@ for REPO in MVP_GOD_SSS_TIER_IMGUI_UI_EDITOR UniversalMVPUIAlgorithm; do
   if ! git fetch -q origin "$BR" 2>/dev/null; then echo "$REPO: FETCH HATA"; continue; fi
   git reset -q --hard "origin/$BR" 2>/dev/null
   ADDED=0
-  for F in TotallyResearch.md DEV_MISSION_GOD_PIPELINE.md; do
+  # FAZ 2.17: ciltler de gitsin — 100K satir uzerinde MD ciltlere bolunuyor.
+  # NOT: glob DL (download/) tarafinda acilir — clone icinde Vol dosyasi henuz yok.
+  for F in $(cd "$DL" && ls TotallyResearch.md TotallyResearch_Vol*.md DEV_MISSION_GOD_PIPELINE.md 2>/dev/null); do
     if [ ! -f "$DL/$F" ]; then continue; fi
     if cmp -s "$DL/$F" "$D/$F"; then continue; fi
     cp "$DL/$F" "$D/$F"
