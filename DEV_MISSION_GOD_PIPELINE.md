@@ -1,13 +1,19 @@
 # DEV MISSION — GOD-TIER TOTAL PIPELINE
-## TotallyResearch → GlobalInfos → Olasılık Evreni → 1:1 Rekonstrüksiyon (v2.0)
+## TotallyResearch → GlobalInfos → Olasılık Evreni → 1:1 Rekonstrüksiyon (v2.1)
 
 > Bu belge, `UniversalMVPUIAlgorithm` (yapı-çözücü) ve `MVP_GOD_SSS_TIER_IMGUI_UI_EDITOR`
 > (menü yapıcı + kod derleyici) adlı iki aracı **durdurulamaz** yapan resmî görev tanımıdır.
 > İki repo da bu belgeyi referans alır; hasat çıktısı `TotallyResearch.md` ile birlikte yaşar.
 
 - **Tarih:** 2026-11-27
-- **Durum:** Faz 0 tamamlandı — **13.006 repo hasat edildi, 9.515 proje listelendi** (104 sorgu)
+- **Durum:** Faz 0.5 AKTİF — **50.955 repo hasat, 47.463 proje listelendi** (~420 sorgu; otonom hat çalışıyor)
 - **Nihai hedef:** 1.000.000+ imgui projesi, tam bilgi çıkarımı, **algoritma dışında neredeyse hiçbir şey kalmayacak**
+
+> **REKABET GERÇEĞİ (v2.1):** asıl savaş **cheat UI'ları ve cheat loader/lisans ekosisteminde**.
+> Geliştiriciler menülerini satılabilir yapmak için animasyonları ve objeleri sürekli güzelleştiriyor.
+> Bu yüzden hasat hattı **cheat-sahası-öncelikli** çalışır ve cheat sahaları oyun oyun dökülür:
+> CS/CS2 → FiveM/GTA → Fortnite → Valorant → Apex → Tarkov → Rust → HvH/paste → DMA ...
+> (tam rekabet haritası: TotallyResearch.md §2-A)
 
 ---
 
@@ -62,11 +68,14 @@ tanır; MVP_GOD_SSS_TIER_IMGUI_UI_EDITOR aynı menüyü **birebir (1:1)** VS2019
 | Kademe | Yöntem | Ölçek |
 |---|---|---|
 | 1 | GitHub Search API (104 sorgu varyasyonu — bitti) | 13.006 hasat / 9.515 listeli |
-| 2 | Sorgu uzayı genişletme: dil × oyun × tema × tarih katmanları | ~100.000 |
-| 3 | **BigQuery GH Archive + `github_repos` dataset** (`imgui.h` / `#include "imgui.h"` içeren tüm depolar SQL ile) | ~1.000.000+ |
-| 4 | **Sourcegraph / grep.app** kod-uzayı araması (`ImGui::Begin(`, `imgui.h` imzaları) | milyon+ referans |
-| 5 | **Fork grafiği madenciliği** (ocornut/imgui + cheat base'lerinin fork ağaçları) | yüzbinlerce özelleştirme |
+| 2 | **v2 hasat makinesi (ÇALIŞIYOR):** ~3.060 sorguluk cheat-öncelikli banka + **rekürsif yıl→çeyrek→ay→gün dilimleme** (1.000-sonuç sınırı kırılır) + **kod-uzayı araması** (`"imgui.h" aimbot`, `"ImGui::Begin" keyauth` ...) | 50.955+ (sürekli büyüyor) |
+| 3 | **Derin evren dilimleme:** `hack` (1.026.334 repo!) ve `cheat` (123.984) evrenlerinin gün-parçası seviyesine kadar taranması | ~1.000.000+ |
+| 4 | **BigQuery GH Archive + `github_repos` dataset** (`imgui.h` içeren tüm depolar SQL ile) | ~1.000.000+ |
+| 5 | **Fork grafiği madenciliği** (`imgui fork:true` = 46.087; cheat base'lerinin fork ağaçları) | yüzbinlerce özelleştirme |
 | 6 | **Software Heritage arşivi** (silinmiş/DMCA'lı repoların kayıtları) | geri kazanım |
+
+> **Otonom hat:** `harvest_v2.py` (durum kayıtlı, kaldığı yerden devam eder) her tur ~4-6K yeni repo ekler;
+> `run_cycle.sh harvest` + `run_cycle.sh publish` (MD yeniden üretim + iki repoya push) cron ile döngüde.
 
 **Kalite filtresi (P5 sahası):** imgui kelimesi geçmeyen projeler yalnızca
 `dil ∈ {C, C++, C#}` VE (açıklama VAR veya yıldız ≥ 1) ise listelenir; aksi atılır
@@ -262,7 +271,7 @@ tamamlar; 1:1 skor güven aralığıyla raporlanır.
 ## 10. Yol Haritası & Durum
 
 - [x] **Faz 0** — 13.006 repo hasat, 9.515 proje listelendi (104 sorgu, 2026-11-27)
-- [ ] **Faz 0.5** — BigQuery + fork grafiği ile korpusu 100.000+'ye büyüt
+- [~] **Faz 0.5** — **AKTİF:** 50.955 hasat / 47.463 listeli (cheat-sahası-öncelikli v2 makinesi + otonom cron hattı; 1M yolunda)
 - [ ] **Faz 1** — klonlayıcı + triyaj otomasyonu (öncelik kuyruğu)
 - [ ] **Faz 2** — GlobalInfos v2.0 statik üretici + UMVP JSON çıktısının şemaya genişletilmesi
 - [ ] **Faz 3** — olasılık evreni v1 (tema kümeleme + animasyon grameri + priors)
