@@ -1,0 +1,6040 @@
+- [twicnekrisa/hppp](https://github.com/twicnekrisa/hppp) — hp — HTML · 0 yıldız
+- [Twil1ght-L4D2/L4D2-CHEATER-DATABASE](https://github.com/Twil1ght-L4D2/L4D2-CHEATER-DATABASE) — A list of cheaters Caught by Twilight's Community — HTML · 0 yıldız
+- [TwilightFlower/nioresourcepack](https://github.com/TwilightFlower/nioresourcepack) — simple NIO-based minecraft resource pack implementation — Java · 0 yıldız
+- [TwinkieTweaks/TwinkieForever](https://github.com/TwinkieTweaks/TwinkieForever) — Fork of Twinkie for TrackMania Forever. — — · 0 yıldız
+- [TwinkieTweaks/TwinkieX](https://github.com/TwinkieTweaks/TwinkieX) — A modular Trackmania modification system for TM1.0, TMS, TMSX, TMO, ESWC, TMU, and TMCN. — — · 0 yıldız
+- [Twinklebear/topo-vol](https://github.com/Twinklebear/topo-vol) — Topology Guided Volume Exploration — — · 0 yıldız
+- [twinsson/Betterloadingscreen](https://github.com/twinsson/Betterloadingscreen) — Better loading screen for minecraft — — · 0 yıldız
+- [Twinyx/Truth](https://github.com/Twinyx/Truth) — Minecraft-Hacked-Client — — · 0 yıldız
+- [Twirlie/deadlock-basestats](https://github.com/Twirlie/deadlock-basestats) — (açıklama yok) — Svelte · 0 yıldız
+- [twistedgitbox/simple_vagrant_docker_web_provisioner](https://github.com/twistedgitbox/simple_vagrant_docker_web_provisioner) — This loads both a web and docker repository into the appropriate folders on Vagrant guest and then runs docker-compose detached… — Shell · 0 yıldız
+- [twistedgitbox/Vagrant_docker_web_selector](https://github.com/twistedgitbox/Vagrant_docker_web_selector) — This loads 14.04 on a Vagrant guest, installs docker and docker-compose, and then reads from a file `gitrepos` to determine which… — Shell · 0 yıldız
+- [TwistPlay2/TwistAuth](https://github.com/TwistPlay2/TwistAuth) — authbot for discord mine — JavaScript · 0 yıldız
+- [TwitterN0tifcationBot/SnakeHack](https://github.com/TwitterN0tifcationBot/SnakeHack) — Snake is a roblox script for fun — Lua · 0 yıldız
+- [twiztid4200/Primordial-Glyphweaver-Hub](https://github.com/twiztid4200/Primordial-Glyphweaver-Hub) — (açıklama yok) — HTML · 0 yıldız
+- [TwizzleFuzz/fatality-cs2-source](https://github.com/TwizzleFuzz/fatality-cs2-source) — (açıklama yok) — C++ · 0 yıldız
+- [Twlv20-AI/AI-OS-Command-Menu](https://github.com/Twlv20-AI/AI-OS-Command-Menu) — HTML Cheat Sheet Artifact — HTML · 0 yıldız
+- [Twobot7/stealth-driver-polymorphic-decoy-regions-EAC-VGK-VAC-ACE](https://github.com/Twobot7/stealth-driver-polymorphic-decoy-regions-EAC-VGK-VAC-ACE) — (açıklama yok) — — · 0 yıldız
+- [TwoBrake/roblox-ranking-bot](https://github.com/TwoBrake/roblox-ranking-bot) — Roblox points based group automation system interlinked with Discord. — TypeScript · 0 yıldız · arşiv
+- [TwoKites/fortnite-pandaware-source](https://github.com/TwoKites/fortnite-pandaware-source) — (açıklama yok) — C++ · 0 yıldız
+- [twomeyc4/CS270-Source-Files](https://github.com/twomeyc4/CS270-Source-Files) — (açıklama yok) — ActionScript · 0 yıldız
+- [TwoPointOvi/PhysicsGame](https://github.com/TwoPointOvi/PhysicsGame) — Game for the final assignment of Physics Based Games using JBox2D — Java · 0 yıldız
+- [twowwj/PoInit-of-View](https://github.com/twowwj/PoInit-of-View) — [CVPR-26🎉🎉🎉] This is the official repository for "PoInit-of-View: Poisoning Initialization of Views Transfers Across Multiple 3D… — — · 0 yıldız
+- [twqwctf/hash](https://github.com/twqwctf/hash) — This program is an employee record data retrieval system. It allows search by primary key on records stored externally using… — C · 0 yıldız
+- [twvl/Anti-AFK](https://github.com/twvl/Anti-AFK) — Anti AFK designed to work on Roblox fully open source. — Python · 0 yıldız
+- [TWVRdev2/BeatSaberProject](https://github.com/TWVRdev2/BeatSaberProject) — (açıklama yok) — — · 0 yıldız
+- [twwhatever/c--coroutine-load-balancer](https://github.com/twwhatever/c--coroutine-load-balancer) — Playing around with a C++ 20 coroutine implementation of a load balancer — C++ · 0 yıldız
+- [Txispitas/FotorutasEulen](https://github.com/Txispitas/FotorutasEulen) — App Fotorutas para Eulen — Dart · 0 yıldız
+- [txjas99/Edu_India_GenAI_Hackathon](https://github.com/txjas99/Edu_India_GenAI_Hackathon) — Final Project for the GenAI hackathon — — · 0 yıldız
+- [txst54/roblox_hackathon-accelerate](https://github.com/txst54/roblox_hackathon-accelerate) — (açıklama yok) — JavaScript · 0 yıldız
+- [txstc55/voronoi-minesweep](https://github.com/txstc55/voronoi-minesweep) — Minesweep with voronoi cell — — · 0 yıldız
+- [Txuritan/HTML.hpp](https://github.com/Txuritan/HTML.hpp) — A C++ HTML generator/DSL. — C++ · 0 yıldız · arşiv
+- [Txuritan/korbo](https://github.com/Txuritan/korbo) — Open source cross platform Minecraft mod manager — C++ · 0 yıldız · arşiv
+- [TY-Project-Group/Exam-Proctoring-System-with-Keystroke-Detection](https://github.com/TY-Project-Group/Exam-Proctoring-System-with-Keystroke-Detection) — (açıklama yok) — Python · 0 yıldız
+- [ty359/tyworld](https://github.com/ty359/tyworld) — a minecraft mod based on minecarft1.12.2 - forge14.23.5.2779 — Java · 0 yıldız
+- [tyagiakhilesh/key-transport](https://github.com/tyagiakhilesh/key-transport) — How to use RSA and AES to transfer keys across systems? — Java · 0 yıldız
+- [tyagian/Infrastructure-Automation-Ansible-Nginx](https://github.com/tyagian/Infrastructure-Automation-Ansible-Nginx) — Creating a POC of infrastructure using Ansible for configuration management, Nginx as proxy and load balancer, REST API web… — Python · 0 yıldız
+- [tyagik25/COVID19-Analysis](https://github.com/tyagik25/COVID19-Analysis) — Predicting the number of confirmed cases and resulting fatalities, for the upcoming dates within United States. — HTML · 0 yıldız
+- [tyajush/Random_Forests-vs-Decision_tress](https://github.com/tyajush/Random_Forests-vs-Decision_tress) — Using a data available on LendingClub.com (Lending Club connects people who need money (borrowers) with people who have money… — Jupyter Notebook · 0 yıldız
+- [Tyasuite/-Vendor-Management-Software](https://github.com/Tyasuite/-Vendor-Management-Software) — Is your business finding it harder and harder to monitor the performance of the vendor management or supply chain? Vender… — — · 0 yıldız
+- [tybayn/tos-cheat-sheet](https://github.com/tybayn/tos-cheat-sheet) — A client facing webapp guide for the horror video game The Other Side — JavaScript · 0 yıldız
+- [tyboymon/cheat-sheet](https://github.com/tyboymon/cheat-sheet) — (açıklama yok) — HTML · 0 yıldız
+- [Tycel27/nigeria-conflict-analysis](https://github.com/Tycel27/nigeria-conflict-analysis) — An end-to-end analysis of UCDP conflict event data filtered to Nigeria, 1990–2025. Includes data preparation in Power Query and… — — · 0 yıldız
+- [tychambers/CSharpWPF_GSTool](https://github.com/tychambers/CSharpWPF_GSTool) — This is the source code for the GUI hammer tool that uses COM API to help users into a hung EFT Admin GUI — C# · 0 yıldız
+- [tyeh-isu/COMS_CPRE_ME-557](https://github.com/tyeh-isu/COMS_CPRE_ME-557) — COM S/CPR E/ME 557 Computer Graphics and Geometric Modeling — — · 0 yıldız
+- [Tygerpos/gmodload](https://github.com/Tygerpos/gmodload) — Simple Gmod Loading screen — CSS · 0 yıldız
+- [TYH71/MA1521-Cheatsheet](https://github.com/TYH71/MA1521-Cheatsheet) — (açıklama yok) — Typst · 0 yıldız
+- [tyhh00/NUS-CS-CheatSheet-Guides-2526-2829](https://github.com/tyhh00/NUS-CS-CheatSheet-Guides-2526-2829) — (açıklama yok) — — · 0 yıldız
+- [Tyiba/DirectX11-Platformer](https://github.com/Tyiba/DirectX11-Platformer) — (açıklama yok) — — · 0 yıldız
+- [tyke-the-dev/esx_bikedealer](https://github.com/tyke-the-dev/esx_bikedealer) — working bike dealership for ESX. Doesn't interrupt esx_vehicleshop and you can also add custom cars to the menu. This is… — Lua · 0 yıldız
+- [tyler-kinneer/cheat-sheet](https://github.com/tyler-kinneer/cheat-sheet) — html & css cheat sheet — CSS · 0 yıldız
+- [tyler-santiago-vt/cs2114-project1-group31](https://github.com/tyler-santiago-vt/cs2114-project1-group31) — A category-based trivia game — Java · 0 yıldız
+- [tyleralgigi/CS2-Predictions](https://github.com/tyleralgigi/CS2-Predictions) — This repository contains a Jupyter Notebook with the primary data analysis script for my Counter-Strike esports prediction… — Jupyter Notebook · 0 yıldız
+- [tylerFA/client-cheatsheets](https://github.com/tylerFA/client-cheatsheets) — info on freight forwarders — HTML · 0 yıldız
+- [tylerhiggs/kendo-utilities-cheatsheet](https://github.com/tylerhiggs/kendo-utilities-cheatsheet) — Cheatsheet for Kendo CSS Utility classes built with Next, Shadcn, and Tailwind — TypeScript · 0 yıldız
+- [tylerhuntington222/BENS-Winners-Losers-Traits](https://github.com/tylerhuntington222/BENS-Winners-Losers-Traits) — Source code for an analysis of biodiversity responses to native habitat disturbance in the Brazilian Atlantic Forest. — R · 0 yıldız
+- [TylerJae-Perkins/csgo-sdk](https://github.com/TylerJae-Perkins/csgo-sdk) — (açıklama yok) — C · 0 yıldız
+- [tylerjamesmadsen/Skeet](https://github.com/tylerjamesmadsen/Skeet) — (açıklama yok) — C++ · 0 yıldız
+- [tylerjw22/linux-cheat-sheet](https://github.com/tylerjw22/linux-cheat-sheet) — This is an terminal based Arch Linux cheat sheet script i made to help me with remembering console commands and shortcuts. — Shell · 0 yıldız
+- [tylerjwatson/paper-tiger](https://github.com/tylerjwatson/paper-tiger) — Paper Tiger is an experimental Terraria server written in C for POSIX-based operating systems — C · 0 yıldız
+- [TylerKay/Zuul-Adventure-Game](https://github.com/TylerKay/Zuul-Adventure-Game) — A command-line text based adventure game named Zuul. Explore the map and beat the game inspired by minecraft! Used BlueJ as the… — Java · 0 yıldız
+- [tylerkenyon/shell-cheatsheet](https://github.com/tylerkenyon/shell-cheatsheet) — tldr-style cheatsheet generated from your own shell history — Python · 0 yıldız
+- [tylerlee/pulpr-web](https://github.com/tylerlee/pulpr-web) — The goal is to output pretty PDFs from a number of sources that laymen use: markdown, txt and then HTML as well. So far a very… — CSS · 0 yıldız
+- [tylerlynch23/FortniteTextBasedAdventure](https://github.com/tylerlynch23/FortniteTextBasedAdventure) — (açıklama yok) — C# · 0 yıldız
+- [Tylermcca/BED](https://github.com/Tylermcca/BED) — BED: edit, check, play and export BRUTAL games: data, 2D and 3D levels, physics — — · 0 yıldız
+- [tylerwinkler/msg-game](https://github.com/tylerwinkler/msg-game) — (açıklama yok) — — · 0 yıldız
+- [tylikwqq/cs2hackpass2024](https://github.com/tylikwqq/cs2hackpass2024) — (açıklama yok) — — · 0 yıldız
+- [tylikwqq/cs2hacks](https://github.com/tylikwqq/cs2hacks) — (açıklama yok) — — · 0 yıldız
+- [tylnoll/dino-game-loading-screen](https://github.com/tylnoll/dino-game-loading-screen) — Spice up your FiveM server's loading screen with a free, playable Dino game! — JavaScript · 0 yıldız
+- [TyMcMan/stem-cheat-sheet-skill](https://github.com/TyMcMan/stem-cheat-sheet-skill) — A Codex/Claude skill for exam-targeted STEM cheat sheets — HTML · 0 yıldız
+- [tyme0711/MinecraftEasyCheatX](https://github.com/tyme0711/MinecraftEasyCheatX) — Minecraft Bedrock Hacker client — — · 0 yıldız
+- [TymonPawelczyk/HackCar_ESP](https://github.com/TymonPawelczyk/HackCar_ESP) — (açıklama yok) — C++ · 0 yıldız
+- [TymoteuszTelinga/Fluid-Particle-Simulation](https://github.com/TymoteuszTelinga/Fluid-Particle-Simulation) — (açıklama yok) — — · 0 yıldız
+- [TymoteuszTelinga/RayTracing](https://github.com/TymoteuszTelinga/RayTracing) — (açıklama yok) — — · 0 yıldız
+- [tymshey/World-Generator](https://github.com/tymshey/World-Generator) — world generator with biomes based on moisture and temperature noise maps populated by trees and rocks — — · 0 yıldız
+- [type-tariq/data-vis](https://github.com/type-tariq/data-vis) — (açıklama yok) — — · 0 yıldız
+- [typeanysymbol/unicode-symbols-cheat-sheet](https://github.com/typeanysymbol/unicode-symbols-cheat-sheet) — A practical Unicode symbol reference with copy-and-paste characters, Unicode code points, HTML entities, and typing guides. — — · 0 yıldız
+- [typedwaves/MongoStore](https://github.com/typedwaves/MongoStore) — MongoStore is an open-source alternative to Roblox's DataStoreService — Lua · 0 yıldız
+- [TypePark/Yolov7-Minecraft-Tree-Farmer](https://github.com/TypePark/Yolov7-Minecraft-Tree-Farmer) — YOLOv7-based Minecraft tree (oak) farmer with custom tree detection. — Python · 0 yıldız
+- [typhonshambo/valo-shop](https://github.com/typhonshambo/valo-shop) — A Bot which will display in-game shop for specific players — Python · 0 yıldız
+- [TypImko/MLFinalProjectCode](https://github.com/TypImko/MLFinalProjectCode) — Contains the source code for the algorithms used and the data exploration of my ML Final Project. — Jupyter Notebook · 0 yıldız
+- [TYQ3939/Robot_War_Game](https://github.com/TYQ3939/Robot_War_Game) — This is an assignment I had done with my university groupmates in 2024 using C++. It is a Robot War Game that spawns several… — — · 0 yıldız
+- [tyreddev/tt-usermenu](https://github.com/tyreddev/tt-usermenu) — QBCore Support and Event İs Join Menu — — · 0 yıldız
+- [Tyrell6413/Official-KiddionsModMenuV0.8.7](https://github.com/Tyrell6413/Official-KiddionsModMenuV0.8.7) — (açıklama yok) — — · 0 yıldız
+- [Tyrell6413/OfficialKiddionsModMenuV0.8.7](https://github.com/Tyrell6413/OfficialKiddionsModMenuV0.8.7) — (açıklama yok) — — · 0 yıldız
+- [Tyrell6413/Warzone-HackBot](https://github.com/Tyrell6413/Warzone-HackBot) — (açıklama yok) — — · 0 yıldız
+- [tyrellw64/webdev-html-cheatsheet](https://github.com/tyrellw64/webdev-html-cheatsheet) — webdev class — — · 0 yıldız
+- [Tyrn/spickzettel](https://github.com/Tyrn/spickzettel) — Cheat sheet collection built with Typst — Typst · 0 yıldız
+- [Tyron-patterns/Cheatsheets](https://github.com/Tyron-patterns/Cheatsheets) — A personal collection of concise cheat sheets covering SQL, Python, Power BI, Git, and core data analysis concepts, created for… — — · 0 yıldız
+- [TyroneJohnson/ProjectRevival-Farewell](https://github.com/TyroneJohnson/ProjectRevival-Farewell) — (açıklama yok) — — · 0 yıldız
+- [Tyrox92/arcraiderssheet](https://github.com/Tyrox92/arcraiderssheet) — Arc Raiders Cheat Sheet — JavaScript · 0 yıldız
+- [TyrusTakacs/Bog_Turtle_Blitz](https://github.com/TyrusTakacs/Bog_Turtle_Blitz) — Bog turtle themed video game in collaboration with "The Role of Invasive Purple Loosestrife and Phragmites on Endangered Bog… — Python · 0 yıldız
+- [Tysanjohn/mta-sts.managed.hackerone.com](https://github.com/Tysanjohn/mta-sts.managed.hackerone.com) — (açıklama yok) — HTML · 0 yıldız
+- [Tyskalox/Blocker](https://github.com/Tyskalox/Blocker) — ROBLOX game code based on blender for modelling. — — · 0 yıldız
+- [Tyskalox/PlayerlistPlus](https://github.com/Tyskalox/PlayerlistPlus) — A playerlist module for roblox, based on the normal playerlist but improved. — Luau · 0 yıldız
+- [Tyskalox/RobloxCharacterLoader](https://github.com/Tyskalox/RobloxCharacterLoader) — Alternative for ROBLOX's :LoadCharacter() method that allows loading toolbox models and custom hats, with validation and… — — · 0 yıldız
+- [TyskM/tlib](https://github.com/TyskM/tlib) — Some headers I use a lot. — — · 0 yıldız
+- [tysonchamp/CS50-PSETS](https://github.com/tysonchamp/CS50-PSETS) — CS50 Psets (Course offered by Harvard University) Source codes — C · 0 yıldız · arşiv
+- [tysoncung/awesome-cheatsheets](https://github.com/tysoncung/awesome-cheatsheets) — 📚 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should… — JavaScript · 0 yıldız
+- [tysszl/sotto](https://github.com/tysszl/sotto) — Native macOS menu bar dictation app. Press a hotkey, speak, and Sotto pastes clean text into the app you were already using. — — · 0 yıldız · arşiv
+- [Tyuedfy/Tyuedfy-NeteaseMinecraft-CommandAntiCheat](https://github.com/Tyuedfy/Tyuedfy-NeteaseMinecraft-CommandAntiCheat) — (açıklama yok) — — · 0 yıldız
+- [tywenk/mta-times](https://github.com/tywenk/mta-times) — Get the train arrival times for a single MTA station direction — Rust · 0 yıldız
+- [tywhur/cssbhop](https://github.com/tywhur/cssbhop) — Counter-Strike Source humanized bunny hop script — — · 0 yıldız
+- [tyxchen/blimp-to](https://github.com/tyxchen/blimp-to) — My Grade 11 Computer Science final project. A keyboard-based game where the objective is to shoot down flying blimps. — Turing · 0 yıldız
+- [tyz20050812tyz/Wuzhanbuping](https://github.com/tyz20050812tyz/Wuzhanbuping) — 佟雨泽创建的无战不平仓库 — — · 0 yıldız
+- [tyzbit/AmongUsBot](https://github.com/tyzbit/AmongUsBot) — A bot for playing a text-based AmongUs game — Python · 0 yıldız
+- [tz-notes/cheatsheets](https://github.com/tz-notes/cheatsheets) — A repo of cheatsheets. — — · 0 yıldız
+- [tz70s/halo](https://github.com/tz70s/halo) — High level abstraction layer based on Solo5. (WIP) — C · 0 yıldız
+- [tzabbi/sheetcheat](https://github.com/tzabbi/sheetcheat) — Sheet cheat for all nice commands I find in my career for many different tools. — — · 0 yıldız
+- [Tzahile/ex_lb](https://github.com/Tzahile/ex_lb) — exercise 4 in C_Lab dealing with Load-Balancing using Sockets — C · 0 yıldız
+- [Tzeentchnet/KillzoneRecomp-Extended](https://github.com/Tzeentchnet/KillzoneRecomp-Extended) — Native PC port of Killzone (PS2) via static recompilation - mouse/keyboard, 120+ fps, upscaling. Bring your own disc. — — · 0 yıldız
+- [tzerok/python_uv_cheatsheet](https://github.com/tzerok/python_uv_cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [tzetzo/tzetzo-Hosted-Payment-Page-HPP](https://github.com/tzetzo/tzetzo-Hosted-Payment-Page-HPP) — (açıklama yok) — TypeScript · 0 yıldız
+- [tzhenghao/CheatSheets](https://github.com/tzhenghao/CheatSheets) — Cheat sheet for various programming tools that I use while coding. — — · 0 yıldız
+- [TzKarmelo/EspinosaJavierEjerciciosHackABoss](https://github.com/TzKarmelo/EspinosaJavierEjerciciosHackABoss) — Ejercicios prácticos bootcamp HackABoss — Java · 0 yıldız
+- [tzmughal/forest-cover-type-classification](https://github.com/tzmughal/forest-cover-type-classification) — Predict the type of forest cover based on cartographic and environmental features — Jupyter Notebook · 0 yıldız
+- [TzuChieh/Photon-v2](https://github.com/TzuChieh/Photon-v2) — A program that takes photographs of a virtual world. — — · 0 yıldız
+- [TzuChieh/Photon-v2-site](https://github.com/TzuChieh/Photon-v2-site) — (açıklama yok) — — · 0 yıldız
+- [tzx21100/InsightEngine](https://github.com/tzx21100/InsightEngine) — (açıklama yok) — — · 0 yıldız
+- [u12121awa/ETBArchon-Free](https://github.com/u12121awa/ETBArchon-Free) — (açıklama yok) — — · 0 yıldız
+- [u16sugar/MenuSample](https://github.com/u16sugar/MenuSample) — (açıklama yok) — Java · 0 yıldız
+- [u1824841515-hash/keysystem2](https://github.com/u1824841515-hash/keysystem2) — (açıklama yok) — HTML · 0 yıldız
+- [u1824841515-hash/keysystem_](https://github.com/u1824841515-hash/keysystem_) — (açıklama yok) — — · 0 yıldız
+- [U1F30A/Datadog-Cheatsheet](https://github.com/U1F30A/Datadog-Cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [U1F30A/Kusto-Query-Language-Cheatsheets](https://github.com/U1F30A/Kusto-Query-Language-Cheatsheets) — Kusto Query Language CHeatsheet — — · 0 yıldız
+- [U1F30A/Splunk-Query-Cheatsheet](https://github.com/U1F30A/Splunk-Query-Cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [U1F30A/SumoLogic-Cheatsheet](https://github.com/U1F30A/SumoLogic-Cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [u1i/ollama-cheatsheet](https://github.com/u1i/ollama-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [u20n/slock](https://github.com/u20n/slock) — discord+minecraft integration for session-based smp — JavaScript · 0 yıldız
+- [u36997112-rgb/FivemHACK](https://github.com/u36997112-rgb/FivemHACK) — (açıklama yok) — — · 0 yıldız
+- [u53r55/HackerTools](https://github.com/u53r55/HackerTools) — Tools backup. — — · 0 yıldız
+- [u8999200/Roblox-Code-Door](https://github.com/u8999200/Roblox-Code-Door) — Source code behind this mode — — · 0 yıldız
+- [u8u8u8l/Halocat](https://github.com/u8u8u8l/Halocat) — An open-source wifi RSSI monitor and security system — Python · 0 yıldız
+- [u9km/full](https://github.com/u9km/full) — (açıklama yok) — — · 0 yıldız
+- [UACC-renedherrera/NCHS-Leading-Causes-of-Death-USA](https://github.com/UACC-renedherrera/NCHS-Leading-Causes-of-Death-USA) — This dataset presents the age-adjusted death rates for the 10 leading causes of death in the United States beginning in 1999.… — R · 0 yıldız
+- [UACodeHorizon/Calculator_App](https://github.com/UACodeHorizon/Calculator_App) — The Calculator App is a web-based tool for performing basic arithmetic operations. It features a clean interface with functions… — CSS · 0 yıldız
+- [uakshaynayak/hpproect](https://github.com/uakshaynayak/hpproect) — (açıklama yok) — — · 0 yıldız
+- [uakshaynayak/HPproject](https://github.com/uakshaynayak/HPproject) — (açıklama yok) — Java · 0 yıldız
+- [UaSNYU/EngineLabel](https://github.com/UaSNYU/EngineLabel) — (açıklama yok) — — · 0 yıldız
+- [uatsehnakab/cheatsheet](https://github.com/uatsehnakab/cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [Ub8rm8nsch/skeet](https://github.com/Ub8rm8nsch/skeet) — (açıklama yok) — — · 0 yıldız
+- [Ubada-Alvi/CheatSheet-](https://github.com/Ubada-Alvi/CheatSheet-) — (açıklama yok) — CSS · 0 yıldız
+- [Ubaid01/The-Wild-Oasis](https://github.com/Ubaid01/The-Wild-Oasis) — A modern React-based hotel management dashboard for managing cabins, bookings, and guests with authentication, real-time stats,… — JavaScript · 0 yıldız
+- [ubaidur-dev/Macarroni-Ordering-System](https://github.com/ubaidur-dev/Macarroni-Ordering-System) — A premium, full-stack inspired Italian Gourmet ordering system featuring a modern dark-gold UI. Includes secure user… — CSS · 0 yıldız
+- [UBC-MDS-2023-24/GoT-fatality-prediction](https://github.com/UBC-MDS-2023-24/GoT-fatality-prediction) — (açıklama yok) — Jupyter Notebook · 0 yıldız
+- [UberJason/KeyboardUndoBugiPadOS](https://github.com/UberJason/KeyboardUndoBugiPadOS) — A project showing a possible bug with iPadOS keyboard shortcuts, specifically CMD+Z calling the system UndoManager twice. — Swift · 0 yıldız
+- [ubheamar/sampleDemoWithExternalService](https://github.com/ubheamar/sampleDemoWithExternalService) — (açıklama yok) — CAP CDS · 0 yıldız
+- [ubicakiller/SKEETONETAP](https://github.com/ubicakiller/SKEETONETAP) — (açıklama yok) — — · 0 yıldız
+- [ubipo/csts-node](https://github.com/ubipo/csts-node) — 'csts - Crowd Sourced Tech Support' Node.js Server — HTML · 0 yıldız
+- [ubmay/cpp](https://github.com/ubmay/cpp) — cpp, hpp, h — — · 0 yıldız
+- [UBs-thing/Storm-Analysis](https://github.com/UBs-thing/Storm-Analysis) — The purpose of this analysis is to answer two key questions: Which weather events were most harmful to the population health, and… — HTML · 0 yıldız
+- [ubuntulover09/HackingTool](https://github.com/ubuntulover09/HackingTool) — (açıklama yok) — — · 0 yıldız
+- [uc-grringo/RUST_OFFSETS](https://github.com/uc-grringo/RUST_OFFSETS) — (açıklama yok) — C# · 0 yıldız
+- [Ucanfindmeh/J4ke](https://github.com/Ucanfindmeh/J4ke) — Ethical hacker tools — Python · 0 yıldız
+- [ucarlos/CSC4370-Assignment01](https://github.com/ucarlos/CSC4370-Assignment01) — Source files for my first assignment for Web Programming. — HTML · 0 yıldız
+- [UCBEEHO/Halomonas-PHB-Ectoine-Model](https://github.com/UCBEEHO/Halomonas-PHB-Ectoine-Model) — Mathematical modelling of carbon and nitrogen source utilisation, cell growth and production of PHB and Ectoine in batch… — MATLAB · 0 yıldız
+- [uccu12/Hpp](https://github.com/uccu12/Hpp) — (açıklama yok) — JavaScript · 0 yıldız
+- [ucgmsim/quakecore_drupal](https://github.com/ucgmsim/quakecore_drupal) — QuakeCoRE Portal based on Drupal 9.5.9 — CSS · 0 yıldız
+- [UchennaUrom/Usage-Analytics-on-Ford-GoBike-Sharing-System](https://github.com/UchennaUrom/Usage-Analytics-on-Ford-GoBike-Sharing-System) — Analyse and identify key features affecting usage in the Ford GoBike Sharing system in the greater San Fransisco Bay Area in… — Jupyter Notebook · 0 yıldız
+- [ucheochuba/v6FileSystem](https://github.com/ucheochuba/v6FileSystem) — Built Unix V6 file system using C to support file disk reads and page replacement. The code is able to handle loading files in… — C · 0 yıldız
+- [uchiyama-shouta/base64-emoji-parser-rs](https://github.com/uchiyama-shouta/base64-emoji-parser-rs) — base64-emoji-parserのRustによる実装 — Rust · 0 yıldız
+- [UCIHPP/HPP](https://github.com/UCIHPP/HPP) — (açıklama yok) — CSS · 0 yıldız
+- [UCLU/commerce_worldnet_hpp](https://github.com/UCLU/commerce_worldnet_hpp) — [UNUSED] Provides a Drupal Commerce payment method for the WorldNet 'Hosted Payment Page' (HPP) gateway. — PHP · 0 yıldız
+- [UCM-FDI-DISIA/FuMonoStudios](https://github.com/UCM-FDI-DISIA/FuMonoStudios) — (açıklama yok) — — · 0 yıldız
+- [UCM-FDI-DISIA/LocoMotor](https://github.com/UCM-FDI-DISIA/LocoMotor) — (açıklama yok) — — · 0 yıldız
+- [UCM-FDI-DISIA/TapiocaEngine](https://github.com/UCM-FDI-DISIA/TapiocaEngine) — (açıklama yok) — — · 0 yıldız
+- [ucnr/hvhkit](https://github.com/ucnr/hvhkit) — (açıklama yok) — — · 0 yıldız
+- [ucon18/hppybdaysayang](https://github.com/ucon18/hppybdaysayang) — (açıklama yok) — CSS · 0 yıldız
+- [ucphhpc/hppc_practical_sessions](https://github.com/ucphhpc/hppc_practical_sessions) — HPPC Pratical Sessions — — · 0 yıldız
+- [UcrazyNess/CheatSheets](https://github.com/UcrazyNess/CheatSheets) — my amygdala — — · 0 yıldız
+- [ucsd-cse125-sp22/cse125-sp22-group3](https://github.com/ucsd-cse125-sp22/cse125-sp22-group3) — Farmer's Market, a top-down competitive farming game — — · 0 yıldız
+- [ucsd-cse125-sp25/group5](https://github.com/ucsd-cse125-sp25/group5) — (açıklama yok) — — · 0 yıldız
+- [ucsd-cse125-sp26/group2](https://github.com/ucsd-cse125-sp26/group2) — (açıklama yok) — — · 0 yıldız
+- [UCSD-E4E/AID-WTS-Pipeline](https://github.com/UCSD-E4E/AID-WTS-Pipeline) — The Weakly to Strongly Labeling Pipeline turns weakly labeled audio clips into timeseries based strongly labeled data. This repo… — Jupyter Notebook · 0 yıldız
+- [ucsd-wic-bpc/hackerrank-scraper](https://github.com/ucsd-wic-bpc/hackerrank-scraper) — A tool to get information from hackerrank leaderboards — Python · 0 yıldız
+- [ud1/cellWars](https://github.com/ud1/cellWars) — (açıklama yok) — — · 0 yıldız
+- [UdaraSembukuttiarachchi/enfermero](https://github.com/UdaraSembukuttiarachchi/enfermero) — This is an IoT base Medical Solution project done as a 3rd year University project. The final outcome of the project is to… — — · 0 yıldız
+- [uday-andra/Java-Programming-Notes](https://github.com/uday-andra/Java-Programming-Notes) — A comprehensive Java learning repository featuring Core Java programming notes, coding examples, interview questions, cheat… — — · 0 yıldız
+- [uday-andra/SQL-and-DBMS-Notes](https://github.com/uday-andra/SQL-and-DBMS-Notes) — A structured SQL and DBMS learning repository featuring fundamentals, SQL commands and queries, functions, joins, subqueries,… — — · 0 yıldız
+- [uday-tc/Python-SQL-CheatSheet](https://github.com/uday-tc/Python-SQL-CheatSheet) — Includes Python and SQL packages — — · 0 yıldız
+- [uday2004-cloud/telecom-churn-analysis](https://github.com/uday2004-cloud/telecom-churn-analysis) — Predicts customer churn probability using an ensemble ML model (SMOTEENN + RF/GB), loads data into a MySQL star schema, and… — Python · 0 yıldız
+- [uday457/Building-a-Simple-Movie-Data-Pipeline](https://github.com/uday457/Building-a-Simple-Movie-Data-Pipeline) — A fast ETL pipeline that loads MovieLens data, enriches movies using the OMDb API, cleans and transforms titles and genres, and… — Python · 0 yıldız
+- [UDAYAGIRILIKHITH/APB-Based-GPIO-Controller-Using-Verilog-HDL](https://github.com/UDAYAGIRILIKHITH/APB-Based-GPIO-Controller-Using-Verilog-HDL) — (açıklama yok) — Verilog · 0 yıldız
+- [udayakandula/Apex_4](https://github.com/udayakandula/Apex_4) — Created personal portfolio, To-Do App with Local Storage and build a product page where users can filter items by categories or… — CSS · 0 yıldız
+- [udayaseelanv2023-boop/DrivingLicenseSystem](https://github.com/udayaseelanv2023-boop/DrivingLicenseSystem) — (açıklama yok) — Java · 0 yıldız
+- [udayasri10435/Vanguard-Freight-TMS](https://github.com/udayasri10435/Vanguard-Freight-TMS) — Unified freight brokerage operating system uniting load boards, FMCSA carrier vetting, dynamic rate negotiations, and financial… — — · 0 yıldız
+- [udaybhaskar002/Pytorch-Implementation-of-DenseNet](https://github.com/udaybhaskar002/Pytorch-Implementation-of-DenseNet) — A PyTorch Implementation for Densely Connected Convolutional Networks (DenseNets) This repository contains a PyTorch… — — · 0 yıldız
+- [udaybhaskar717/PySpark-Cheat-Sheet](https://github.com/udaybhaskar717/PySpark-Cheat-Sheet) — (açıklama yok) — — · 0 yıldız
+- [udaydubai1704/habit-tracker-expo](https://github.com/udaydubai1704/habit-tracker-expo) — Dark-themed habit tracking mobile app built with Expo SDK 54 and React Native 0.81 — TypeScript · 0 yıldız
+- [udaykiranpujaari72/AutomaticTicketClassification](https://github.com/udaykiranpujaari72/AutomaticTicketClassification) — This assignment is to use one of the semantic method called Topic modelling and internally use Logistic regression, Naive Bayes,… — Jupyter Notebook · 0 yıldız
+- [udaymakawna/roblox-pea-game](https://github.com/udaymakawna/roblox-pea-game) — Pea Game Don't Get Caught! ???? - An open-source psychological thriller mini-game on Roblox built with Luau, Rojo, and… — Lua · 0 yıldız
+- [UdayrajDethe/JavaScript-Learning](https://github.com/UdayrajDethe/JavaScript-Learning) — Leveling up my JavaScript fundamentals and crafting the ultimate cheat sheet to document the journey! — JavaScript · 0 yıldız
+- [udayrana116/Lambda_RDS_Datatream](https://github.com/udayrana116/Lambda_RDS_Datatream) — ETL pipeline to use Amazon EventBridge schedule Lambda task, pulling API data and loading to MySQL RDS. — — · 0 yıldız
+- [Udbhabon/Uthao](https://github.com/Udbhabon/Uthao) — Uthao - The Ride Sharing JOB Fivem Script — TypeScript · 0 yıldız
+- [udenis12/cheatsheets](https://github.com/udenis12/cheatsheets) — List of syntax hints for fast recollection — — · 0 yıldız
+- [udhalde-star/git-fundamentaltoadvance](https://github.com/udhalde-star/git-fundamentaltoadvance) — describe all the command with cheat sheets — — · 0 yıldız
+- [UdiHackerClub/HackingTools](https://github.com/UdiHackerClub/HackingTools) — (açıklama yok) — — · 0 yıldız
+- [Udiiippppppt/Apex-audio-based-captcha](https://github.com/Udiiippppppt/Apex-audio-based-captcha) — (açıklama yok) — — · 0 yıldız
+- [uditchauhan29/Bloomberg](https://github.com/uditchauhan29/Bloomberg) — A small cheat sheet which can maybe save your some time. — HTML · 0 yıldız
+- [uditGhosh10/SteamWeaponNames](https://github.com/uditGhosh10/SteamWeaponNames) — Simple list the name of all weapons in csgo and their quality using bs4. — Python · 0 yıldız
+- [Udith-Gayan/FYP_Code_Comment_Quality_Analyzer](https://github.com/Udith-Gayan/FYP_Code_Comment_Quality_Analyzer) — This contains the codes for my Final year project on source code comment quality analyzer — Jupyter Notebook · 0 yıldız
+- [uditjain100/CheatSheets](https://github.com/uditjain100/CheatSheets) — A curated collection of essential developer cheat sheets including CMD, Linux, VS Code, HTML, and Java — quick reference guides… — — · 0 yıldız
+- [UditMathurWEBD/ShoppyGlobe](https://github.com/UditMathurWEBD/ShoppyGlobe) — (açıklama yok) — JavaScript · 0 yıldız
+- [uditth/Project-Based-on-Global-Air-Pollution](https://github.com/uditth/Project-Based-on-Global-Air-Pollution) — I Build a ETL pipeline where it Extracting data from Different Datasets do some filtration and load it in to MYSQL Databases — Python · 0 yıldız
+- [udoydeb/Bus-Ticket-Management](https://github.com/udoydeb/Bus-Ticket-Management) — The Bus Ticket Management System is a console-based application developed using the C programming language. This project helps… — C · 0 yıldız
+- [udoymistry2024/Udoy-Base](https://github.com/udoymistry2024/Udoy-Base) — Fast, lightweight, self-hosted multi-project database platform & Supabase alternative powered by PostgreSQL 15, Docker, dark-mode… — JavaScript · 0 yıldız
+- [Udyatbhanu/cheat-sheets](https://github.com/Udyatbhanu/cheat-sheets) — (açıklama yok) — — · 0 yıldız
+- [uebo/APISFeedSampleWithSDK](https://github.com/uebo/APISFeedSampleWithSDK) — (açıklama yok) — Objective-C · 0 yıldız
+- [uebtu1h474/neverlose](https://github.com/uebtu1h474/neverlose) — (açıklama yok) — — · 0 yıldız
+- [uedepyts/ued-hpp39](https://github.com/uedepyts/ued-hpp39) — GitHub Pages Site — — · 0 yıldız
+- [ueihp8w/CloudKeyManagementSystem](https://github.com/ueihp8w/CloudKeyManagementSystem) — Tìm hiểu về Hệ thống Quản lý Khóa của Google Cloud — — · 0 yıldız
+- [uet-iai-course/cheatsheet](https://github.com/uet-iai-course/cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [uetwd/html_css_assignment_sourcecode](https://github.com/uetwd/html_css_assignment_sourcecode) — (açıklama yok) — HTML · 0 yıldız
+- [ueyus/py_hack_sample](https://github.com/ueyus/py_hack_sample) — (açıklama yok) — Python · 0 yıldız
+- [uf0h/Collectors](https://github.com/uf0h/Collectors) — An alternative solution to alleviate server load caused by mass hopper usage. — Java · 0 yıldız
+- [ufanders/forestFrog](https://github.com/ufanders/forestFrog) — Here lies code for an interactive totem that makes sounds, lights up and comes in the shape of a psychedelic frog. Based on the… — C · 0 yıldız
+- [UFerminJamie/git-cheatsheet](https://github.com/UFerminJamie/git-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [ufftus/cs2rage](https://github.com/ufftus/cs2rage) — (açıklama yok) — — · 0 yıldız
+- [ufgtb24/tensorflow_cplus](https://github.com/ufgtb24/tensorflow_cplus) — c++ load models training by tensorflow — C++ · 0 yıldız
+- [ufi-daman/maturita-2026](https://github.com/ufi-daman/maturita-2026) — Příprava na praktickou maturitu Podnikání 16.5.2026 — prompts, témata, flashcards, samotesty, cheat sheets — — · 0 yıldız
+- [UfoKatze/SkeetSkeet](https://github.com/UfoKatze/SkeetSkeet) — (açıklama yok) — — · 0 yıldız
+- [ufonaft12/shoppyb2b](https://github.com/ufonaft12/shoppyb2b) — (açıklama yok) — TypeScript · 0 yıldız
+- [ufqan/bob-ai-hackathon-Apex-squad](https://github.com/ufqan/bob-ai-hackathon-Apex-squad) — (açıklama yok) — Python · 0 yıldız
+- [ufris/tf2](https://github.com/ufris/tf2) — Train model using tensorflow 2.0 — Python · 0 yıldız
+- [UgljesaJovina/cheat-sheets](https://github.com/UgljesaJovina/cheat-sheets) — (açıklama yok) — — · 0 yıldız
+- [ugo-filip/GreenSpark-Solutions-IT-system-upgrade-](https://github.com/ugo-filip/GreenSpark-Solutions-IT-system-upgrade-) — This project involved developing a comprehensive budget plan and resource allocation strategy for GreenSpark Solutions' IT system… — — · 0 yıldız
+- [ugoel/CSCI591_SoftwareTesting](https://github.com/ugoel/CSCI591_SoftwareTesting) — Source Code Analysis of a Mobile Network Measurement Testbed — PHP · 0 yıldız
+- [ugotsoul/oss_cs](https://github.com/ugotsoul/oss_cs) — Open Source Society's computer science masters — — · 0 yıldız
+- [ugozapad/hackathon](https://github.com/ugozapad/hackathon) — Gaijin hackaton game — — · 0 yıldız
+- [ugozapad/solunar_engine](https://github.com/ugozapad/solunar_engine) — (açıklama yok) — — · 0 yıldız
+- [UGPROJECTS-2023/FCP-CSC-18-1006](https://github.com/UGPROJECTS-2023/FCP-CSC-18-1006) — In this project a smart energy management system for a living room will be developed using IoT. The suitable way to do so is by… — — · 0 yıldız
+- [ugt5/gamesense](https://github.com/ugt5/gamesense) — (açıklama yok) — Lua · 0 yıldız
+- [ugtapetro-del/ug-mod-hub](https://github.com/ugtapetro-del/ug-mod-hub) — Open-source mod manager for UKRAINE GTA / MTA with verified downloads, backups and automatic updates. — Python · 0 yıldız
+- [UgurFutureCoder/Authorise](https://github.com/UgurFutureCoder/Authorise) — Oauth 2.0 to Discord — TypeScript · 0 yıldız
+- [ugurkocmen/CEH-Practical-Cheat-Sheet](https://github.com/ugurkocmen/CEH-Practical-Cheat-Sheet) — (açıklama yok) — — · 0 yıldız
+- [ugursensy/hppredict](https://github.com/ugursensy/hppredict) — (açıklama yok) — Python · 0 yıldız
+- [uhAlexz/Bypasssed-Roblox-MSGs](https://github.com/uhAlexz/Bypasssed-Roblox-MSGs) — (açıklama yok) — Lua · 0 yıldız
+- [uhere2025/cheatsheets](https://github.com/uhere2025/cheatsheets) — Quick-reference cheatsheets site built with Astro Starlight. Markdown content compiles to static HTML, served by nginx in a… — MDX · 0 yıldız
+- [uhhwhatii2381/RobloxPlayerMenuHack](https://github.com/uhhwhatii2381/RobloxPlayerMenuHack) — (açıklama yok) — Lua · 0 yıldız
+- [uhiiohioioh/BananaFarm2.0](https://github.com/uhiiohioioh/BananaFarm2.0) — A bot made for SuperJomBombo Discord — — · 0 yıldız
+- [uhokay00/keysystemm](https://github.com/uhokay00/keysystemm) — (açıklama yok) — Lua · 0 yıldız
+- [UHost-Indonesia/uhost-stash-fivem-sdk](https://github.com/UHost-Indonesia/uhost-stash-fivem-sdk) — (açıklama yok) — Lua · 0 yıldız
+- [uhq-sky/Loading-Screen](https://github.com/uhq-sky/Loading-Screen) — Loading screen for FiveM — CSS · 0 yıldız
+- [uhteddy/Interlab-Website](https://github.com/uhteddy/Interlab-Website) — An innovative website that allows users to integrate our cloud based services right into roblox! — JavaScript · 0 yıldız
+- [uhteddy/multiblox.js](https://github.com/uhteddy/multiblox.js) — A roblox user API node module based around classes and promises to ensure the best possible outcomes. — — · 0 yıldız
+- [UHU0710/ESP32-FreeRTOS-Fire-Alarm](https://github.com/UHU0710/ESP32-FreeRTOS-Fire-Alarm) — Lab 3 - ESP32 Fire Alarm using FreeRTOS, MQTT and Web Dashboard — HTML · 0 yıldız
+- [Uhyun0957/shoppy_react](https://github.com/Uhyun0957/shoppy_react) — React project to create shipping website. — JavaScript · 0 yıldız
+- [Uhziel-1/my-dev-cheatsheet](https://github.com/Uhziel-1/my-dev-cheatsheet) — My development knowledge cheat sheet. — — · 0 yıldız
+- [uid3v/FastXploitKeySystem](https://github.com/uid3v/FastXploitKeySystem) — (açıklama yok) — — · 0 yıldız
+- [uiro-uri/Onetap](https://github.com/uiro-uri/Onetap) — (açıklama yok) — — · 0 yıldız
+- [uItra/TF2Base-2012](https://github.com/uItra/TF2Base-2012) — (açıklama yok) — C++ · 0 yıldız · arşiv
+- [uiyt92/primordial-mariner](https://github.com/uiyt92/primordial-mariner) — (açıklama yok) — — · 0 yıldız
+- [ujade/BlazeEngine-IL2CPP](https://github.com/ujade/BlazeEngine-IL2CPP) — (açıklama yok) — — · 0 yıldız
+- [ujang201/gta6-trophy-guide](https://github.com/ujang201/gta6-trophy-guide) — Leonida Trophy Guide: every GTA VI trophy with a guide in my own words and cited sources, a roadmap to the platinum, and an… — JavaScript · 0 yıldız
+- [ujangsrio/FinalProject](https://github.com/ujangsrio/FinalProject) — Halo, Saya Ujang Supriono Mahasiswa Politeknik Negeri Banyuwangi atau biasa dikenal dengan sebutan Poliwangi, Repository ini… — Java · 0 yıldız
+- [ujjaval01/CheatSheet-For-android](https://github.com/ujjaval01/CheatSheet-For-android) — android recources — — · 0 yıldız
+- [Ujjawalmaurya/HackSquad-YUKTI](https://github.com/Ujjawalmaurya/HackSquad-YUKTI) — Precision Agricuture AI — TypeScript · 0 yıldız
+- [ujju-crypto/Email-management-system](https://github.com/ujju-crypto/Email-management-system) — Features Implemented ✔ Send Email → Adds entry into MySQL table. ✔ Receive/Inbox → Loads all stored emails into a Swing JTable. ✔… — — · 0 yıldız
+- [ujjvaltiwari-arch/sif-precursor-detection](https://github.com/ujjvaltiwari-arch/sif-precursor-detection) — AI-powered Serious Injury & Fatality (SIF) precursor detection platform for Oil India Limited. Uses NLP + ML to analyze safety… — TypeScript · 0 yıldız
+- [ujjwal6615/Lucky-Customers-of-Restaurant](https://github.com/ujjwal6615/Lucky-Customers-of-Restaurant) — • A C++ program in which customers have to order their food a/c to their choices from the menu. • At last, at the time of bill… — C++ · 0 yıldız
+- [ujjwalkumarraj121/Banker-s-Algorithm-Simulator](https://github.com/ujjwalkumarraj121/Banker-s-Algorithm-Simulator) — This project is based on the concept of Banker's Algorithm, which is a fundamental algorithm used in Operating Systems for… — HTML · 0 yıldız
+- [ujjwalr27/BlockDAG-AI-Agent](https://github.com/ujjwalr27/BlockDAG-AI-Agent) — A conversational and DeFi agent powered by Gemini, running on the BlockDAG Primordial Testnet. — JavaScript · 0 yıldız
+- [ujkharel/FlaskProject-Occupational-Fatality-WorldWide](https://github.com/ujkharel/FlaskProject-Occupational-Fatality-WorldWide) — Visualizes results from my research-Fatal occupational injuries worldwide estimated using a negative binomial regression model. — HTML · 0 yıldız
+- [ujwalanettam15/apex](https://github.com/ujwalanettam15/apex) — Computer Vision based context aware data annotation labeling — — · 0 yıldız
+- [ujwalta/Final_Project](https://github.com/ujwalta/Final_Project) — This repository contains the source code and documentation for my Final Project. It includes all necessary files, scripts, and… — — · 0 yıldız
+- [ujwalta/final_task](https://github.com/ujwalta/final_task) — This repository contains the source code and documentation for my Final task of Jobaxle. It includes all necessary files,… — Jupyter Notebook · 0 yıldız
+- [ujwaltekie/classXExamCheatsheet](https://github.com/ujwaltekie/classXExamCheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [UjwalWtg/CheatSheets](https://github.com/UjwalWtg/CheatSheets) — This Repository is to share Software Development related tips, Git commands and templates — — · 0 yıldız
+- [ukaaaai/chord_sample_sound_source](https://github.com/ukaaaai/chord_sample_sound_source) — (açıklama yok) — Python · 0 yıldız
+- [ukashceyner/hidden-gems-newsletter](https://github.com/ukashceyner/hidden-gems-newsletter) — (açıklama yok) — — · 0 yıldız
+- [ukaushik-ebay/RustHack](https://github.com/ukaushik-ebay/RustHack) — (açıklama yok) — — · 0 yıldız
+- [UKBey/Advanced-Matrix-Algorithm](https://github.com/UKBey/Advanced-Matrix-Algorithm) — A C++ program that generates input and core matrices, then calculates an output matrix using a custom convolution-based… — C++ · 0 yıldız
+- [Ukendtx/kr_loading](https://github.com/Ukendtx/kr_loading) — kr_loading er en stilren og moderne FiveM loading screen til enhver server. Den har et mørkt, minimalistisk design med centralt… — HTML · 0 yıldız
+- [ukgamer/gmod-arcademachines-model](https://github.com/ukgamer/gmod-arcademachines-model) — Source files for GMod arcade machine model. — — · 0 yıldız
+- [Ukhadija/Fruit-hunt](https://github.com/Ukhadija/Fruit-hunt) — game made with threads for operating system course. Uses separate threads for two players and uses WASD and arrow keys for… — C++ · 0 yıldız
+- [UkiOnna/ClientLesson](https://github.com/UkiOnna/ClientLesson) — (açıklama yok) — C# · 0 yıldız
+- [ukiTechnologySchool/es6-es2021-Cheatsheet](https://github.com/ukiTechnologySchool/es6-es2021-Cheatsheet) — JavaScript ES6+ & Modern (up to ES2021) Features — Teacher Cheatsheet (Examples & Use Cases) — — · 0 yıldız
+- [ukkasha2000/Getting-Job-Posts-using-Hacker-News-API](https://github.com/ukkasha2000/Getting-Job-Posts-using-Hacker-News-API) — When the project loads there will be 9 job posts shown with a load more button, the load more will show 6 new job posts on each… — — · 0 yıldız
+- [ukkk500-tech/CheatSheetWeb](https://github.com/ukkk500-tech/CheatSheetWeb) — gg — Java · 0 yıldız
+- [ukmax/SampleEspressoProject](https://github.com/ukmax/SampleEspressoProject) — homework — Java · 0 yıldız
+- [UKMeng/Spiegel](https://github.com/UKMeng/Spiegel) — (açıklama yok) — — · 0 yıldız
+- [ukputsav/Janus_hse](https://github.com/ukputsav/Janus_hse) — we used random forest algorithm to predict the HSE based band gap of Janus monolayer — Jupyter Notebook · 0 yıldız
+- [ukrtrip/alb-hpp-donations](https://github.com/ukrtrip/alb-hpp-donations) — (açıklama yok) — PHP · 0 yıldız
+- [ulascannacaksiz/LisansSistemi](https://github.com/ulascannacaksiz/LisansSistemi) — LisansSistemi — PHP · 0 yıldız
+- [ulawil/cheatsheets](https://github.com/ulawil/cheatsheets) — (açıklama yok) — — · 0 yıldız
+- [ulcuber/video-to-brightness](https://github.com/ulcuber/video-to-brightness) — Switches between dark and light modes based on webcam brightness using `xsettingsd` — Python · 0 yıldız
+- [ulianaren/strokeprediction](https://github.com/ulianaren/strokeprediction) — Logistic regression (binomial family) and random forest models to predict stroke based on a Kaggle dataset. Cleaning the data,… — R · 0 yıldız
+- [uligat0oo0/HPPUM](https://github.com/uligat0oo0/HPPUM) — Documentación del proyecto — TeX · 0 yıldız
+- [Ulincsys/spawnable-mod-MC](https://github.com/Ulincsys/spawnable-mod-MC) — Highlights spawnable spaces in Minecraft based upon light level — Java · 0 yıldız
+- [ulissescomonian/codex-remote](https://github.com/ulissescomonian/codex-remote) — Native macOS menu bar app for managing Codex Remote Control, with auto-start, update recovery, status monitoring, restart… — Swift · 0 yıldız
+- [ULL-ESIT-PL-2223/espree-logging-francisco-marques-armas-alu0101438412](https://github.com/ULL-ESIT-PL-2223/espree-logging-francisco-marques-armas-alu0101438412) — espree-logging-francisco-marques-armas-alu0101438412 created by GitHub Classroom — JavaScript · 0 yıldız
+- [ULL-ESIT-PL-2223/espree-logging-jose-lozano-armas-alu0101392561](https://github.com/ULL-ESIT-PL-2223/espree-logging-jose-lozano-armas-alu0101392561) — espree-logging-jose-lozano-armas-alu0101392561 created by GitHub Classroom — JavaScript · 0 yıldız
+- [ulolol/aurora](https://github.com/ulolol/aurora) — Aurora is a modern web-based chatbot that combines the power of Google's Gemini AI with real-time web search capabilities via… — HTML · 0 yıldız
+- [UlrichAbiguime/LoadingFragmentSample](https://github.com/UlrichAbiguime/LoadingFragmentSample) — loading — Java · 0 yıldız
+- [Ulsbold12/cs2hackscanner](https://github.com/Ulsbold12/cs2hackscanner) — (açıklama yok) — JavaScript · 0 yıldız
+- [Ultimatedrubend/hvhicrah](https://github.com/Ultimatedrubend/hvhicrah) — (açıklama yok) — — · 0 yıldız
+- [ultimatekanhaiya/cheat-sheets](https://github.com/ultimatekanhaiya/cheat-sheets) — (açıklama yok) — — · 0 yıldız
+- [UltimateROM/android_system_keymaster](https://github.com/UltimateROM/android_system_keymaster) — (açıklama yok) — C++ · 0 yıldız
+- [UltrabrainDev/ZYGISK-SAUSAGEMAN](https://github.com/UltrabrainDev/ZYGISK-SAUSAGEMAN) — (açıklama yok) — — · 0 yıldız
+- [Ultrabyte/Red-Matter](https://github.com/Ultrabyte/Red-Matter) — A minecraft mod based around the power of magic and tech! — — · 0 yıldız
+- [UltraCart/rest_api_v2_sdk_samples](https://github.com/UltraCart/rest_api_v2_sdk_samples) — (açıklama yok) — JavaScript · 0 yıldız
+- [ultracomp111-del/clean-cheat-sheet](https://github.com/ultracomp111-del/clean-cheat-sheet) — (açıklama yok) — Vue · 0 yıldız
+- [UltraFictiOn420/world-of-final-fantasy-launcher](https://github.com/UltraFictiOn420/world-of-final-fantasy-launcher) — Open-source Windows launcher for the Steam edition of World of Final Fantasy. Starts from the correct folder without requesting… — Python · 0 yıldız
+- [ultraKelevra/PrimordialChaos](https://github.com/ultraKelevra/PrimordialChaos) — Playing with vertex displacement and vertex generation in geometry shader to make a modifiable, explosive and stylish terrain — ShaderLab · 0 yıldız
+- [UltrakerUnity/RustSDKnewunity](https://github.com/UltrakerUnity/RustSDKnewunity) — (açıklama yok) — — · 0 yıldız
+- [ultramandk/dataBase](https://github.com/ultramandk/dataBase) — csgo 皮肤展示和开箱模拟 — — · 0 yıldız
+- [UltramixSecondDev/Crucible-0.02](https://github.com/UltramixSecondDev/Crucible-0.02) — Crucible sword based on the video game "Doom Eternal" now adapted for Roblox Crucible sword based on the video game "Doom… — Lua · 0 yıldız
+- [UltraSoundGuys/CS413-Embedded-System](https://github.com/UltraSoundGuys/CS413-Embedded-System) — Source code for our CS413 Embedded Systems project — Arduino · 0 yıldız
+- [UltraTechX/AutoTrains](https://github.com/UltraTechX/AutoTrains) — The Minecraft Forge 1.7.10 Automatic Trains Mod — Java · 0 yıldız
+- [UlviBayram/FinalProject-Front-UrbapShoppy](https://github.com/UlviBayram/FinalProject-Front-UrbapShoppy) — (açıklama yok) — HTML · 0 yıldız
+- [ulyanako/IT-Cheat-Sheet](https://github.com/ulyanako/IT-Cheat-Sheet) — platform is a helpful mix of a technical glossary and an interactive quiz designed for people who are just starting to learn… — JavaScript · 0 yıldız
+- [Ulyzses/cs21-mp1](https://github.com/Ulyzses/cs21-mp1) — A solver for a Tetris-based puzzle made using MIPS — Assembly · 0 yıldız
+- [UM-CSS/um-css.github.io-src](https://github.com/UM-CSS/um-css.github.io-src) — Source for website for UM CSS course. — Python · 0 yıldız
+- [Umabharathi30/AHB_APB_Bridge_VIP](https://github.com/Umabharathi30/AHB_APB_Bridge_VIP) — AHB to APB Bridge VIP: A UVM-based Verification IP for validating AHB-to-APB bridge functionality. Supports constrained-random… — Verilog · 0 yıldız
+- [Umabharathi30/APB_UART_IP_Core](https://github.com/Umabharathi30/APB_UART_IP_Core) — RTL implementation of a UART (Universal Asynchronous Receiver/Transmitter) IP core with an APB (Advanced Peripheral Bus)… — SystemVerilog · 0 yıldız
+- [Umaigenomu/Car-Accidents](https://github.com/Umaigenomu/Car-Accidents) — Building a predictive model on car accident fatalities — HTML · 0 yıldız
+- [Umair-Ansari/Wealth-Pakistan-Property-System](https://github.com/Umair-Ansari/Wealth-Pakistan-Property-System) — Wealth Pakistan is a property related web based project designed for our client i.e. Wealth Estate Pakistan (p) ltd as well as we… — HTML · 0 yıldız
+- [UmairAbideen/Git-GitHub-Cheatsheet](https://github.com/UmairAbideen/Git-GitHub-Cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [umairfarooq21/Chronic-Disease-Idicator](https://github.com/umairfarooq21/Chronic-Disease-Idicator) — The dashboard made on Power-BI represnets visuals related to chronic diseases in United States. It shows most common disease,… — — · 0 yıldız
+- [umairkhan-ssuet/CS226-PBI-SP25](https://github.com/umairkhan-ssuet/CS226-PBI-SP25) — CS226 - Software Engineering - Spring 2025 - Problem based Instruction — Python · 0 yıldız
+- [umairkhawaja/paxos](https://github.com/umairkhawaja/paxos) — A distributed key-value storage system that uses the paxos algorithm for consensus — Go · 0 yıldız
+- [umalbaneinyusuf/Notes-App](https://github.com/umalbaneinyusuf/Notes-App) — A lightweight and intuitive web-based notes application that allows users to add, edit, delete, search, and pin notes. It… — JavaScript · 0 yıldız
+- [Umang-orpadia/ShoppyMaster](https://github.com/Umang-orpadia/ShoppyMaster) — (açıklama yok) — HTML · 0 yıldız
+- [umangdadhaniya/apex-subtracton-addtion](https://github.com/umangdadhaniya/apex-subtracton-addtion) — siple apex class to perform addtion and subtracton based on the button you have clicked — — · 0 yıldız
+- [Umangi-webdev/Git-Cheat-Sheet](https://github.com/Umangi-webdev/Git-Cheat-Sheet) — (açıklama yok) — — · 0 yıldız
+- [Umar-Sajid/task-manager](https://github.com/Umar-Sajid/task-manager) — A React-based task manager with Firebase authentication and Firestore database. Built with Tailwind CSS for responsive styling,… — JavaScript · 0 yıldız
+- [Umar151515/cheat-sheets](https://github.com/Umar151515/cheat-sheets) — IT cheat sheets — — · 0 yıldız
+- [umar2010ee/sample_api](https://github.com/umar2010ee/sample_api) — play with the MYNT AI sdk — C++ · 0 yıldız
+- [umar7228/CS201L_LAB2](https://github.com/umar7228/CS201L_LAB2) — program for converting decimal to binary and vice versa using java by user asked menu — Java · 0 yıldız
+- [umar7228/CS201R_Program2](https://github.com/umar7228/CS201R_Program2) — 7 Games based on menu selections and loops — Java · 0 yıldız
+- [umar7228/CS201R_Program3](https://github.com/umar7228/CS201R_Program3) — This Java program analyzes the sentiment of multiple review files using a dictionary of word sentiment values, then rewrites each… — Java · 0 yıldız
+- [umarahad2005/cheatsheet](https://github.com/umarahad2005/cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [umarbhasan/tabular-llm-nls-rta](https://github.com/umarbhasan/tabular-llm-nls-rta) — Official code for "On the Representation of Tabular Data for Explainable LLM-based Road Fatality Prediction" — Python · 0 yıldız
+- [UmarFarooqChohan/personal-blog-homepage](https://github.com/UmarFarooqChohan/personal-blog-homepage) — React-based personal blog homepage with post cards, category filtering, search, pagination, responsive grid layout, and dark mode. — CSS · 0 yıldız
+- [UmarKasan/Cheat-Sheet](https://github.com/UmarKasan/Cheat-Sheet) — (açıklama yok) — — · 0 yıldız
+- [UmarKatongole/Forest-carbon-Offsets-in-Africa](https://github.com/UmarKatongole/Forest-carbon-Offsets-in-Africa) — This dashboard shows forest carbon offset areas in parts of Africa. It aims at the potential growth for carbon trading in Africa… — HTML · 0 yıldız
+- [umarmughal824/bootstrap-video-carousel](https://github.com/umarmughal824/bootstrap-video-carousel) — I use rest api to load the videos in this code — PHP · 0 yıldız
+- [UmarQureshi7422/Feature-Based-Ship-Classification-in-Remote-Sensing-Images-Using-HOG-SVM-and-Random-Forest](https://github.com/UmarQureshi7422/Feature-Based-Ship-Classification-in-Remote-Sensing-Images-Using-HOG-SVM-and-Random-Forest) — The approach focuses on capturing shape and structural information from satellite images, converting them into high-dimensional… — Python · 0 yıldız
+- [umarsiddiqui74204-droid/ONETAP](https://github.com/umarsiddiqui74204-droid/ONETAP) — (açıklama yok) — HTML · 0 yıldız
+- [UmarUMahmood/ow2-map-survey](https://github.com/UmarUMahmood/ow2-map-survey) — A web-based application that allows users to vote for their favourite Overwatch 2 maps. — JavaScript · 0 yıldız · arşiv
+- [umarzaib1/Super-Hero-Name-Generator-Using-TensorFlow-](https://github.com/umarzaib1/Super-Hero-Name-Generator-Using-TensorFlow-) — A convolutional Neural network that is trained on superheroes names and that generate name of a superhero from single character… — Jupyter Notebook · 0 yıldız
+- [Umasankar192/Analyzing-US-Economic-Data-and-Building-a-Dashboard](https://github.com/Umasankar192/Analyzing-US-Economic-Data-and-Building-a-Dashboard) — Extracting essential data from a dataset and displaying it is a necessary part of data science; therefore individuals can make… — Jupyter Notebook · 0 yıldız
+- [UMAtaullin/Material-UI](https://github.com/UMAtaullin/Material-UI) — This repository was created for my Material-UI cheat sheets. — — · 0 yıldız
+- [Umberlaw/Kick-Dash](https://github.com/Umberlaw/Kick-Dash) — Physic Based Roblox Fighting Game ARCHIEVED — Lua · 0 yıldız
+- [UmbertoFasci/gbm-churn-prediction](https://github.com/UmbertoFasci/gbm-churn-prediction) — Procedure outlining the prediction of customer churn as a binary target. Models such as Random Forest Classifier, LightGBM,… — — · 0 yıldız
+- [UmbrellaSC/eulen-racing](https://github.com/UmbrellaSC/eulen-racing) — (açıklama yok) — C# · 0 yıldız
+- [UmbrellaSC/Modelle_EulenRacing](https://github.com/UmbrellaSC/Modelle_EulenRacing) — - — — · 0 yıldız
+- [umbrjel/cheatsheets](https://github.com/umbrjel/cheatsheets) — (açıklama yok) — HTML · 0 yıldız
+- [umdcs4212/RayTracer-CheatSheet](https://github.com/umdcs4212/RayTracer-CheatSheet) — (açıklama yok) — — · 0 yıldız
+- [umeaimanMerchant/CheatSheet-AI-ML-Concepts](https://github.com/umeaimanMerchant/CheatSheet-AI-ML-Concepts) — (açıklama yok) — Jupyter Notebook · 0 yıldız
+- [umeehoonyaar34291/e-commerce](https://github.com/umeehoonyaar34291/e-commerce) — 🛒 C++ console-based e-commerce simulation using core data structures: Linked List (cart), Stack (undo), Queue (orders), and N-ary… — C++ · 0 yıldız
+- [umer99ahmed/the-shoppies](https://github.com/umer99ahmed/the-shoppies) — Nominate your favorite movies for The Shoppies, this simple and intuitive web app allows you to easily search, nominate, and… — JavaScript · 0 yıldız
+- [Umerrrdo/Primordial](https://github.com/Umerrrdo/Primordial) — (açıklama yok) — JavaScript · 0 yıldız
+- [umershahid21/HOTEL-ROOM-MANAGEMENT-SYSTEM](https://github.com/umershahid21/HOTEL-ROOM-MANAGEMENT-SYSTEM) — A C++ console-based Hotel Room Management System using object-oriented programming and linked lists. It allows room booking,… — C++ · 0 yıldız
+- [UmerShujaDev/mta-sts.hackerone.com](https://github.com/UmerShujaDev/mta-sts.hackerone.com) — (açıklama yok) — HTML · 0 yıldız
+- [umerzafar4598/Full-Stack-Todo-App](https://github.com/umerzafar4598/Full-Stack-Todo-App) — 🚀 A modern, responsive full-stack todo application with deadline management, dark mode, and session-based authentication. Built… — JavaScript · 0 yıldız
+- [umesh04061997/ApexSourceCode](https://github.com/umesh04061997/ApexSourceCode) — This is apex related source code repository — — · 0 yıldız
+- [umesh128/Automatic_Ticket_classification](https://github.com/umesh128/Automatic_Ticket_classification) — With the help of topic modelling, you will be able to map each ticket to its respective department/category. You can then use… — Jupyter Notebook · 0 yıldız
+- [umesh812000-sys/apex-wholesale-app](https://github.com/umesh812000-sys/apex-wholesale-app) — ApexBooks is a cloud-based wholesale management platform for grocery and beauty businesses. Manage invoices, estimates,… — HTML · 0 yıldız
+- [Umh205/Tree-Based-Models-for-Diabetes-Prediction](https://github.com/Umh205/Tree-Based-Models-for-Diabetes-Prediction) — Applied Random Forest and XGBoost to predict diabetes from health data, comparing performance and selecting the most reliable… — Jupyter Notebook · 0 yıldız
+- [umin135/Polaris_TKDataModEditor](https://github.com/umin135/Polaris_TKDataModEditor) — (açıklama yok) — — · 0 yıldız
+- [uminislam/solved-cs251-assignment-3-base-conversion](https://github.com/uminislam/solved-cs251-assignment-3-base-conversion) — (açıklama yok) — — · 0 yıldız
+- [umitakpinarr/OnLisansBiz](https://github.com/umitakpinarr/OnLisansBiz) — (açıklama yok) — C# · 0 yıldız
+- [umitaltintas/cyclone2-cheatsheet](https://github.com/umitaltintas/cyclone2-cheatsheet) — GameSir Cyclone 2 · kumanda üzeri (uygulamasız) tuş kombinasyonları cheat sheet'i — HTML · 0 yıldız
+- [UmitRock/Action-Menu-with-Custom-Dark-and-Light-Mode](https://github.com/UmitRock/Action-Menu-with-Custom-Dark-and-Light-Mode) — Action Menu with Custom Dark and Light Mode — CSS · 0 yıldız
+- [UMM-CSci-4553-S25/tree-based-gp-in-deap-armando_jakob_jaden](https://github.com/UMM-CSci-4553-S25/tree-based-gp-in-deap-armando_jakob_jaden) — tree-based-gp-in-deap-armando_jakob_jaden created by GitHub Classroom — Python · 0 yıldız
+- [umm/cafu_kvs](https://github.com/umm/cafu_kvs) — :green_book: Simple file based key value store system — C# · 0 yıldız · arşiv
+- [umppazspeanin/collection-cheatsheet560](https://github.com/umppazspeanin/collection-cheatsheet560) — My configuration files and dotfiles. — — · 0 yıldız
+- [Umpriel/swagger-api-viewer-darkmode](https://github.com/Umpriel/swagger-api-viewer-darkmode) — Simple HTML file that allows you to load swagger doc files yaml yml json txt and view them in dark mode. — HTML · 0 yıldız
+- [umrover/mrover-ros2](https://github.com/umrover/mrover-ros2) — MRover ROS2 Source Code — — · 0 yıldız
+- [umuham258-ai/ethical-fashion-traceability](https://github.com/umuham258-ai/ethical-fashion-traceability) — A blockchain-based smart contract system for tracking garment production from raw material sourcing through manufacturing,… — — · 0 yıldız
+- [umurcg/farmbotPythonCodes](https://github.com/umurcg/farmbotPythonCodes) — (açıklama yok) — Python · 0 yıldız
+- [umut7/British-Airways-Customer-Behaviour-Prediction-Project](https://github.com/umut7/British-Airways-Customer-Behaviour-Prediction-Project) — This project involves building a predictive model using Random Forest to classify data based on specific features. The dataset… — Jupyter Notebook · 0 yıldız
+- [umutbal/VertigoGames-DataAnalyst-Case](https://github.com/umutbal/VertigoGames-DataAnalyst-Case) — Final submission including source codes, analysis notebooks, and the README file. — Jupyter Notebook · 0 yıldız
+- [umutjs/RobloxAllGameHacks](https://github.com/umutjs/RobloxAllGameHacks) — (açıklama yok) — — · 0 yıldız
+- [umys1/Nexus](https://github.com/umys1/Nexus) — Nexus is a secure and reliable server-to-server communication module for Roblox. It provides HMAC-based verification, duplicate… — Luau · 0 yıldız
+- [un0btanium/ootss-cheatsheet](https://github.com/un0btanium/ootss-cheatsheet) — Interactive Website for the puzzle game Order of the Sinking Star — TypeScript · 0 yıldız
+- [Un1versality/Crazy-Balls-ROBLOX-MATH-](https://github.com/Un1versality/Crazy-Balls-ROBLOX-MATH-) — Roblox Math, my first project based on roblox's math. Fun tbh. — Lua · 0 yıldız
+- [un1xr00t/GameVoiceGuard](https://github.com/un1xr00t/GameVoiceGuard) — 🔇 Network-level parental controls for game voice chat. Block voice in Fortnite, Roblox, and Vivox-based games while keeping… — Python · 0 yıldız
+- [un4ckn0wl3z/Stewardkeylogger](https://github.com/un4ckn0wl3z/Stewardkeylogger) — Steward KL - Research Purpose Keylogger — — · 0 yıldız
+- [una-tapa/was-support-cheatsheets](https://github.com/una-tapa/was-support-cheatsheets) — My notes — — · 0 yıldız
+- [unai-dev/Unai-s-Development-Guidelines](https://github.com/unai-dev/Unai-s-Development-Guidelines) — Este manual establece los estándares técnicos de arquitectura, nomenclatura y estructuración de código definidos por mi. El… — — · 0 yıldız
+- [unaiszian/HackTools](https://github.com/unaiszian/HackTools) — (açıklama yok) — Python · 0 yıldız
+- [unarmed1618/sample_app](https://github.com/unarmed1618/sample_app) — I use this as a resource when I need to pull down a base app to mess with — Ruby · 0 yıldız
+- [Unas-Narayan/Motorcycle-Crashes-in-the-UK](https://github.com/Unas-Narayan/Motorcycle-Crashes-in-the-UK) — A study on motorcycle accidents and fatalities in the UK (from 2017 to 2021) — Jupyter Notebook · 0 yıldız
+- [Unblonded/packet-edit-menu](https://github.com/Unblonded/packet-edit-menu) — (açıklama yok) — — · 0 yıldız
+- [unbrraise/YimMenuV2-nightly-zh-CN](https://github.com/unbrraise/YimMenuV2-nightly-zh-CN) — gta增强版YimMenuV2汉化自用,大肥鱼自己汉化的 — — · 0 yıldız
+- [unc0mm0n/sundawn](https://github.com/unc0mm0n/sundawn) — Sunshine T2, remade by myself to fit newer API. Remade it as the original sunshine failed to load for me... — Java · 0 yıldız
+- [Uncharted0110/SplineEngine](https://github.com/Uncharted0110/SplineEngine) — (açıklama yok) — — · 0 yıldız
+- [unclebey/menuSample](https://github.com/unclebey/menuSample) — sail — JavaScript · 0 yıldız
+- [UncleD0886475978/networking-cheatsheet](https://github.com/UncleD0886475978/networking-cheatsheet) — A comprehensive, production-ready networking cheat sheet covering core protocols, CLI commands, subnetting, and architecture… — Shell · 0 yıldız
+- [unclejames2610/Real-Estate](https://github.com/unclejames2610/Real-Estate) — Real estate website made with React and Tailwind. The website also allows the user to choose between light and dark mode. The… — JavaScript · 0 yıldız
+- [Uncraftbar/SMTC-Gamesense](https://github.com/Uncraftbar/SMTC-Gamesense) — (açıklama yok) — C# · 0 yıldız
+- [uncultivatedrabbit/coronavirus-in-the-usa](https://github.com/uncultivatedrabbit/coronavirus-in-the-usa) — Map that tracks daily cases in the USA along with fatalities — JavaScript · 0 yıldız
+- [UnderAchiever12/3D_Model_Three.js_Sample](https://github.com/UnderAchiever12/3D_Model_Three.js_Sample) — Here I have used Three.js along with Vite-React to Load a 3D Beetle Model. — JavaScript · 0 yıldız
+- [Undercat037/Math-and-Physics-Formulas-Cheatsheet](https://github.com/Undercat037/Math-and-Physics-Formulas-Cheatsheet) — Дошка з формулами для алгебри, геометрії, фізики. Коротше шпаргалка — — · 0 yıldız
+- [underchemist/qc-timelimit-duel-draft](https://github.com/underchemist/qc-timelimit-duel-draft) — Django based web app for Quake Champions time limit duel draft — Python · 0 yıldız
+- [undercoatdev/ballistics-gamemode](https://github.com/undercoatdev/ballistics-gamemode) — Critical Shot — round-based GMod arena on Player Ballistics + TacRP — Lua · 0 yıldız
+- [undercover1338h/Gamesense](https://github.com/undercover1338h/Gamesense) — (açıklama yok) — — · 0 yıldız
+- [underdog-7k7/Security_System_Keypad](https://github.com/underdog-7k7/Security_System_Keypad) — (açıklama yok) — C++ · 0 yıldız
+- [underdogliu/FYP-FastSLAM](https://github.com/underdogliu/FYP-FastSLAM) — The source code of my Final Year Project - Monocular FastSLAM using separated vision system and multiple SLAM solutions. To use… — Matlab · 0 yıldız · arşiv
+- [underGIE/shinobi-blast](https://github.com/underGIE/shinobi-blast) — Shinobi Blast — turn-based artillery castle siege. Play free in your browser. — HTML · 0 yıldız
+- [UndertakerW/Distributed-and-Parallel-Computing](https://github.com/UndertakerW/Distributed-and-Parallel-Computing) — (açıklama yok) — — · 0 yıldız
+- [UneBaguette/MagicLoad-Screen](https://github.com/UneBaguette/MagicLoad-Screen) — MagicLoad - Loading Screen for GMod — PHP · 0 yıldız
+- [UneebGithub/Loading-Screen-In-c-](https://github.com/UneebGithub/Loading-Screen-In-c-) — Loading Screen In c#... — C# · 0 yıldız
+- [UnerterYT/Whitecode-Minecraft-Source-Last-Build](https://github.com/UnerterYT/Whitecode-Minecraft-Source-Last-Build) — (açıklama yok) — — · 0 yıldız
+- [Unes27/google-dorking-cheatsheet](https://github.com/Unes27/google-dorking-cheatsheet) — Google search operators and authorized site-audit cheatsheet by Younes Ait Faraji. — HTML · 0 yıldız
+- [unesaeko/Hpp](https://github.com/unesaeko/Hpp) — (açıklama yok) — HTML · 0 yıldız
+- [Unexp1ainable/PGR-Project](https://github.com/Unexp1ainable/PGR-Project) — (açıklama yok) — — · 0 yıldız
+- [UnfinishedExperimental/FarmDorf](https://github.com/UnfinishedExperimental/FarmDorf) — A little Bot for the browser MMOG Die Stämme/Tribal Wars, little pet project for first steps with scala, slick(functional db… — Scala · 0 yıldız
+- [UnfortunateCode/DarkSpaceTools](https://github.com/UnfortunateCode/DarkSpaceTools) — Tools for the Homebrew Dark Space TTRPG. Dark Space is an implementation of the Dark Matter TV Show using FATE and Diaspora as a… — Java · 0 yıldız
+- [UNFOX3213/LoadingVideo](https://github.com/UNFOX3213/LoadingVideo) — Local video and audio loading screen for Minecraft 1.12.2 Forge and Cleanroom — Java · 0 yıldız
+- [ungatedlife/recovery](https://github.com/ungatedlife/recovery) — a menu of recovery meetings across fellowships — HTML · 0 yıldız
+- [Unhero767/Primordial](https://github.com/Unhero767/Primordial) — (açıklama yok) — Jupyter Notebook · 0 yıldız
+- [Unholy-Mary/UnholyPicker](https://github.com/Unholy-Mary/UnholyPicker) — Overwatch 2 hero picker based on enemy comp & map — JavaScript · 0 yıldız
+- [unicorefw-org/rust-cheatsheet](https://github.com/unicorefw-org/rust-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [Unicorn0512/Cell_Confluence_Prediction](https://github.com/Unicorn0512/Cell_Confluence_Prediction) — A tool developed based on the Random Forest Regression algorithm for predicting cell growth. — Python · 0 yıldız
+- [unicornbread/cheaterbee](https://github.com/unicornbread/cheaterbee) — Tool with web interface to find (and email) a set of words containing a required character and made up of additional acceptable… — JavaScript · 0 yıldız
+- [UnicornDrive/mission](https://github.com/UnicornDrive/mission) — An Free "Keep Forever" cloud drive that Pays You! Mark content as either "Public" or Private and weAnd 'll Indexing & allow your… — — · 0 yıldız
+- [UnicornMotors/Hacksaw-Blade.Consumable.Tool](https://github.com/UnicornMotors/Hacksaw-Blade.Consumable.Tool) — sch: https://www.harborfreight.com/search?q=hacksaw%20blades Market: $4.99/50 pcs… — — · 0 yıldız
+- [unicorny-gaming/unicorny-gaming.github.io](https://github.com/unicorny-gaming/unicorny-gaming.github.io) — Leave your mail to get more info: — HTML · 0 yıldız
+- [UniCoti/inflearn](https://github.com/UniCoti/inflearn) — 인프런 강의 "AI 시대의 혁신적인 게임 개발 입문 with Unity6" 을 위한 자료 모음 — — · 0 yıldız
+- [unicrox/old-developer-cheat-sheets](https://github.com/unicrox/old-developer-cheat-sheets) — “Concise cheat sheets for multiple programming languages to quickly review syntax, functions, and patterns; — — · 0 yıldız
+- [Unidx1/CS2600_Cipher](https://github.com/Unidx1/CS2600_Cipher) — Final Project for CS 2600 based on ciphers — C · 0 yıldız
+- [unieagle/dsp-mod-BattlefieldAnalysisBaseDeliver](https://github.com/unieagle/dsp-mod-BattlefieldAnalysisBaseDeliver) — (açıklama yok) — C# · 0 yıldız
+- [unikShe/UkS_GTALoading](https://github.com/unikShe/UkS_GTALoading) — GTA Loading for FunRP modified and customised in french by unikShe. — HTML · 0 yıldız
+- [UniqueApricot8662/TLOU-exp](https://github.com/UniqueApricot8662/TLOU-exp) — messing around with tlou — — · 0 yıldız
+- [uniquearina/study-quiz](https://github.com/uniquearina/study-quiz) — Claude Code skill that turns any study material — handwritten notes, PDFs, saved course pages, text — into a memorization… — JavaScript · 0 yıldız
+- [uniquehuman/pbh](https://github.com/uniquehuman/pbh) — Primordial black holes modeling kit — Python · 0 yıldız
+- [uniquehuman/primordial-nests](https://github.com/uniquehuman/primordial-nests) — (açıklama yok) — — · 0 yıldız
+- [unitecodes/outdated-primordial-luas](https://github.com/unitecodes/outdated-primordial-luas) — (açıklama yok) — Lua · 0 yıldız
+- [UnitedCommunities/hub](https://github.com/UnitedCommunities/hub) — The Roblox United Communities Website Source — — · 0 yıldız
+- [UnitedPQ/Music-Press](https://github.com/UnitedPQ/Music-Press) — (In-Dev) When Someone Press Any 'Key' From Keyboard The System Would Send A Specific Sound. — JavaScript · 0 yıldız
+- [Unitedthedev/kryterion](https://github.com/Unitedthedev/kryterion) — the gmod server loading screen — — · 0 yıldız
+- [Unitghit/prey2006-reawakened](https://github.com/Unitghit/prey2006-reawakened) — Enhanced Prey (2006) source port: unlocked FPS, better portals and lighting, a portal gun and optional Doom 3 weapons. — — · 0 yıldız
+- [UnitornsReal/Survive-the-Disasters](https://github.com/UnitornsReal/Survive-the-Disasters) — This is my Roblox Survive the Disasters game's source code! — Lua · 0 yıldız
+- [UnityGameDesigner/CS236](https://github.com/UnityGameDesigner/CS236) — Code for Transformer Based Emotion Deepfake — Python · 0 yıldız
+- [UnityTech/cloudsave-sdk-sampleapp](https://github.com/UnityTech/cloudsave-sdk-sampleapp) — (açıklama yok) — C# · 0 yıldız
+- [univerlsallchetas-droid/ExternalMTA](https://github.com/univerlsallchetas-droid/ExternalMTA) — (açıklama yok) — — · 0 yıldız
+- [Univers42/cheatsheets](https://github.com/Univers42/cheatsheets) — (açıklama yok) — — · 0 yıldız
+- [UNIVERSAL2108/GameSenseAI](https://github.com/UNIVERSAL2108/GameSenseAI) — Artificial Intelligence model that predicts whether a specific group of people will buy a game or no. — — · 0 yıldız
+- [universaltechnologies/deeptag](https://github.com/universaltechnologies/deeptag) — (açıklama yok) — — · 0 yıldız
+- [UniversalXHubforroblox/Universal-X-Hub-Source-code](https://github.com/UniversalXHubforroblox/Universal-X-Hub-Source-code) — The original code [or script] of universal X hub for Roblox — Lua · 0 yıldız
+- [unix-follower/frontend-cheat-sheet](https://github.com/unix-follower/frontend-cheat-sheet) — (açıklama yok) — Mermaid · 0 yıldız
+- [UnkindGoose/Computer-Vision-Cheat-Sheet](https://github.com/UnkindGoose/Computer-Vision-Cheat-Sheet) — Jupyter notebook with explainations of CV concepts and models — Jupyter Notebook · 0 yıldız
+- [unklxr/neverlose](https://github.com/unklxr/neverlose) — a clone of neverlose.cc — HTML · 0 yıldız
+- [unknowmonoo-design/hvhjvkh](https://github.com/unknowmonoo-design/hvhjvkh) — (açıklama yok) — CSS · 0 yıldız
+- [Unknown-dll/Fivem-Tool-Collector](https://github.com/Unknown-dll/Fivem-Tool-Collector) — Downloads basic and day to day use fivem tools. These tools are verified and downloaded from verified sources. — PowerShell · 0 yıldız
+- [unknown-gd/docker-source-gmod](https://github.com/unknown-gd/docker-source-gmod) — (açıklama yok) — Shell · 0 yıldız
+- [Unknown-User-Info/Final-Project](https://github.com/Unknown-User-Info/Final-Project) — Final Project isn't finished. Couldn't fix an issue where if there were too many platforms or base rectangles the code doesn't… — JavaScript · 0 yıldız
+- [Unknown56406516401563456/Laugh-Executor-On-Script-Only-Works-On-Back-Doored-Game](https://github.com/Unknown56406516401563456/Laugh-Executor-On-Script-Only-Works-On-Back-Doored-Game) — yes very good very nice — — · 0 yıldız
+- [unknownaloy/shopify_movie_award](https://github.com/unknownaloy/shopify_movie_award) — Shoppies: Shopify Movies Awards — JavaScript · 0 yıldız
+- [unknownappsxyz/external_apex_legends_may2023](https://github.com/unknownappsxyz/external_apex_legends_may2023) — https://unknownp.mysellix.io/ — — · 0 yıldız
+- [UnknownCr1ppl3/GulfCheats-Beamware](https://github.com/UnknownCr1ppl3/GulfCheats-Beamware) — (açıklama yok) — — · 0 yıldız
+- [UnknownCr1ppl3/legendware](https://github.com/UnknownCr1ppl3/legendware) — legendware v4 src fix $$$ — — · 0 yıldız
+- [UnknownCr1ppl3/r6_external-outlines-](https://github.com/UnknownCr1ppl3/r6_external-outlines-) — everything updated expect overwrite. discord overhead123 — — · 0 yıldız
+- [UnknownCr1ppl3/VoxPrivate](https://github.com/UnknownCr1ppl3/VoxPrivate) — (açıklama yok) — — · 0 yıldız
+- [UnknownGenie/cricket_team_recommendation](https://github.com/UnknownGenie/cricket_team_recommendation) — Recommend 11 player team from a squad of variable number of players based on past experiences. — Jupyter Notebook · 0 yıldız
+- [UNKNOWNGHOSTMODZ/UNKNOWN-GHOST-Modloader-Source-](https://github.com/UNKNOWNGHOSTMODZ/UNKNOWN-GHOST-Modloader-Source-) — This Is My Modloader Source For GTA V (PS3) — — · 0 yıldız
+- [unknownking2002/HackFreeFire](https://github.com/unknownking2002/HackFreeFire) — (açıklama yok) — — · 0 yıldız
+- [unknownsteamuser/AHAnonymous](https://github.com/unknownsteamuser/AHAnonymous) — All files for the AHAnonymous Steam Group — — · 0 yıldız
+- [UnknownTBAG/esx_menu_default](https://github.com/UnknownTBAG/esx_menu_default) — ESX Menu Redesigned — JavaScript · 0 yıldız
+- [unknownun0/onetap](https://github.com/unknownun0/onetap) — (açıklama yok) — JavaScript · 0 yıldız
+- [unknowxui/ExternalCheatBase](https://github.com/unknowxui/ExternalCheatBase) — (açıklama yok) — C++ · 0 yıldız
+- [Unknxwn007/Apex](https://github.com/Unknxwn007/Apex) — 2take1 script focused on in-depth recovery and fun features! — Lua · 0 yıldız
+- [UnlegitMC/EventAPI](https://github.com/UnlegitMC/EventAPI) — a event api for minecraft hacked client and other project — Java · 0 yıldız · arşiv
+- [UnmaskedShinobi/Hatch](https://github.com/UnmaskedShinobi/Hatch) — A game I made based on the dark horse and ridley scotts adaptation of the books by H.R. Giger — — · 0 yıldız
+- [UNMCCC/MV_Staging_Export_Queries](https://github.com/UNMCCC/MV_Staging_Export_Queries) — Queries to extract key data out of UNMCCC eVelos Clinical Trial Management System — Perl · 0 yıldız
+- [unmykr/MC-GC](https://github.com/unmykr/MC-GC) — Having trouble loading minecraft galacticraft 1.12.2 — — · 0 yıldız
+- [UnNamedRBScripts/RobloxChatBypass](https://github.com/UnNamedRBScripts/RobloxChatBypass) — (açıklama yok) — — · 0 yıldız
+- [UnnamedWorks/UnnamedEngine](https://github.com/UnnamedWorks/UnnamedEngine) — (açıklama yok) — — · 0 yıldız
+- [unnathi-sakha/AddressBook-using-C](https://github.com/unnathi-sakha/AddressBook-using-C) — A console-based Address Book application in C that manages contacts using structures. It supports add, search, edit, delete, and… — C · 0 yıldız
+- [Unnati-23/github-cheat-sheet](https://github.com/Unnati-23/github-cheat-sheet) — Free GitHub cheat sheet for vibe coders: the exact Claude prompts to save, undo, and test safely. — HTML · 0 yıldız
+- [Unnati-23/github-tricks-guide](https://github.com/Unnati-23/github-tricks-guide) — GitHub URL Tricks Cheat Sheet — 6 URL-swap tools for faster repo navigation and AI context. A free guide by Unnati Tripathi… — HTML · 0 yıldız
+- [Unnati-Tripathi/ShoppyGlobe](https://github.com/Unnati-Tripathi/ShoppyGlobe) — (açıklama yok) — — · 0 yıldız
+- [Unnati2603/AliceAndMe](https://github.com/Unnati2603/AliceAndMe) — (açıklama yok) — — · 0 yıldız
+- [unnatigoyal29/Railway-Reservation-System-CPP](https://github.com/unnatigoyal29/Railway-Reservation-System-CPP) — A console-based Railway Reservation System developed in C ++ arrays ,function, loops, string, and menu driver programming. — C++ · 0 yıldız
+- [unnatikdm/DiseaseFatalityPredictor](https://github.com/unnatikdm/DiseaseFatalityPredictor) — (açıklama yok) — Jupyter Notebook · 0 yıldız
+- [UnoAphex/StuntRaceFXEnhancedWindows](https://github.com/UnoAphex/StuntRaceFXEnhancedWindows) — Stunt Race FX Windows enhanced — — · 0 yıldız
+- [unofficialbox/box-open-apex-sdk](https://github.com/unofficialbox/box-open-apex-sdk) — Box Open SDK for Apex (open source, community, punk rock). Generated by box-gantry. — Apex · 0 yıldız
+- [unofficialmohit/C-Snake-Game-with-Graphics-using-Linked-List](https://github.com/unofficialmohit/C-Snake-Game-with-Graphics-using-Linked-List) — C Snake game with a main menu, high score, etc. I used Linked list for movement of snake. — C · 0 yıldız
+- [unolinus/HPP-A4](https://github.com/unolinus/HPP-A4) — PARALLELIZATION WITH PTHREADS AND OPENMP IN C — C · 0 yıldız
+- [unolinus/HPP_Project_Bucketsort](https://github.com/unolinus/HPP_Project_Bucketsort) — Parallel bucketsort in c — C · 0 yıldız
+- [unqxl/cs2assets](https://github.com/unqxl/cs2assets) — konular: cs2, cs2-assets, csgo — JavaScript · 0 yıldız
+- [Unrealf1/algos_visualization](https://github.com/Unrealf1/algos_visualization) — (açıklama yok) — — · 0 yıldız
+- [unreleaseddots/AttackSharkR6](https://github.com/unreleaseddots/AttackSharkR6) — A open source version of Attack Shark R6 program for windows — C# · 0 yıldız
+- [Unrhuly/StudentResultsProcessingSystem](https://github.com/Unrhuly/StudentResultsProcessingSystem) — A c# console application that allows users to enter student details, enter scores for selected courses, calculate the student's… — C# · 0 yıldız
+- [UnsereKleineHacker/baimless.xyz](https://github.com/UnsereKleineHacker/baimless.xyz) — Source of latest baimless — — · 0 yıldız
+- [Unsolouso3/Hotline-Hud-Tf2](https://github.com/Unsolouso3/Hotline-Hud-Tf2) — An TF2 hud based on The series of Hotline miami — — · 0 yıldız
+- [Unsolouso3/HotlineMiamiHud_TF2](https://github.com/Unsolouso3/HotlineMiamiHud_TF2) — An TF2 hud based on The series of Hotline miami — — · 0 yıldız
+- [Unsolouso3/MiamiHud-TeamFortress2](https://github.com/Unsolouso3/MiamiHud-TeamFortress2) — HotlineMiami Based Hud — — · 0 yıldız
+- [UnstableX/UNBXTourney](https://github.com/UnstableX/UNBXTourney) — konular: csgo, esports, team, valorant — CSS · 0 yıldız
+- [Unstopable18/Find-out-smallest-Number-among-the-Three-Number-provided-by-the-user-by-using-command-line-operation](https://github.com/Unstopable18/Find-out-smallest-Number-among-the-Three-Number-provided-by-the-user-by-using-command-line-operation) — In this JAVA program we are using ternary operator to find smallest number among three. It is a part of the Java conditional… — Java · 0 yıldız
+- [unsupervisedlearner1123/703-final-project](https://github.com/unsupervisedlearner1123/703-final-project) — This analysis uses the Sentiment140 dataset and trains a Naive Bayes classifier and a Bi-directional LSTM to classify positive… — Jupyter Notebook · 0 yıldız
+- [UnTanukii/tnLocation](https://github.com/UnTanukii/tnLocation) — 🚗 A Location Script for FiveM in RageUI V2 — Lua · 0 yıldız
+- [UnTanukii/tnLTD](https://github.com/UnTanukii/tnLTD) — 🛒 A LTD script for FiveM in RageUI V2 — Lua · 0 yıldız
+- [UnTanukii/tnMoneyWash](https://github.com/UnTanukii/tnMoneyWash) — 💵 A Money wash Script For FiveM — Lua · 0 yıldız
+- [UnTanukii/tnNoClip](https://github.com/UnTanukii/tnNoClip) — 🧍‍♂️ Lightweight NoClip/Freecam Script for FiveM (like txAdmin) — Lua · 0 yıldız
+- [UnTanukii/tnTeleport](https://github.com/UnTanukii/tnTeleport) — 🔗 A Teleport script for Fivem — Lua · 0 yıldız
+- [Untileduser/RobloxScript-Kill-all-source](https://github.com/Untileduser/RobloxScript-Kill-all-source) — (açıklama yok) — — · 0 yıldız
+- [untitled-boxing-game-gn87/.github](https://github.com/untitled-boxing-game-gn87/.github) — Untitled Boxing Game scripts executor rare + fast — Top Untitled Boxing Game scripts executor with rare and fast. Verified, — HTML · 0 yıldız
+- [UntitledEntity/P2C-Client](https://github.com/UntitledEntity/P2C-Client) — A simple, P2C Client made in C++ — — · 0 yıldız
+- [UntouchedOdin0/mc-status](https://github.com/UntouchedOdin0/mc-status) — Simple terminal based JVM application that gives the status of a Minecraft server. — — · 0 yıldız
+- [untrustedadmin/red_team_cheat_sheets](https://github.com/untrustedadmin/red_team_cheat_sheets) — A growing collection of easy-to-read cheat sheets for penetration testing, red teaming, and cybersecurity tools. Built from my… — — · 0 yıldız
+- [unuserv01-lab/gta6-trophy-guide-01](https://github.com/unuserv01-lab/gta6-trophy-guide-01) — Offline GTA 6 trophy guide and tracker: all 55 trophies, sourced guides, platinum roadmap and missables. Built by an AI agent for… — JavaScript · 0 yıldız
+- [Unusuario2/Raytest-CS2](https://github.com/Unusuario2/Raytest-CS2) — the source of all the assets seen in https://steamcommunity.com/sharedfiles/filedetails/?id=3162758029 — — · 0 yıldız
+- [UnveiledLayers/PrimeHUD](https://github.com/UnveiledLayers/PrimeHUD) — Custom TF2 HUD based on Metroid — — · 0 yıldız
+- [uNwinD-Development/ethicalpixel-hackingdevice](https://github.com/uNwinD-Development/ethicalpixel-hackingdevice) — Standalone Fivem hackign device minigame ( NoPixel 3.5 ) Inspired — JavaScript · 0 yıldız
+- [uocazizah/rblx](https://github.com/uocazizah/rblx) — Source Code for every roblox game as my role "Developer" for that games — — · 0 yıldız
+- [UOS-By-Uteam/platform_system_keymaster](https://github.com/UOS-By-Uteam/platform_system_keymaster) — (açıklama yok) — — · 0 yıldız
+- [uosq/skill-issue-linux](https://github.com/uosq/skill-issue-linux) — TF2 training software for Linux — — · 0 yıldız
+- [uosyph/alx-low_level_programming](https://github.com/uosyph/alx-low_level_programming) — ALX Low-Level Programming Repository - A collection of C programs and scripts developed during the ALX Software Engineering… — C · 0 yıldız
+- [upadhysh/CHORD-Distributed-Peer-to-peer](https://github.com/upadhysh/CHORD-Distributed-Peer-to-peer) — A fundamental problem that confronts peer-to-peer applications is to efficiently locate the node that stores a particular data… — C++ · 0 yıldız
+- [upaternostro/upaternostro-x509](https://github.com/upaternostro/upaternostro-x509) — A Puppet module to manage X.509 certificates and PEM private keys on Debian systems — Puppet · 0 yıldız
+- [upc-dev-labs/202402-si729-eb-blueyonder](https://github.com/upc-dev-labs/202402-si729-eb-blueyonder) — Practice for Final Exam of the Open Source course. Implementation of the "Blue Yonder" case — Java · 0 yıldız
+- [upc-dev-labs/202510-1asi0729-eb-plasser-theurer](https://github.com/upc-dev-labs/202510-1asi0729-eb-plasser-theurer) — Practice for Final Exam of the Open Source course. Implementation of the "Plasser & Theurer" case. — Java · 0 yıldız
+- [upc-dev-labs/202510-1asi0729-eb-spire](https://github.com/upc-dev-labs/202510-1asi0729-eb-spire) — Practice for Final Exam of the Open Source course. Implementation of the "Spire" case. — Java · 0 yıldız
+- [updates735/JHqf5nZI4SgpMmdQgxlziVtZF0wi3hvh](https://github.com/updates735/JHqf5nZI4SgpMmdQgxlziVtZF0wi3hvh) — (açıklama yok) — HTML · 0 yıldız
+- [Updating1337/FruityPaste2020External](https://github.com/Updating1337/FruityPaste2020External) — (açıklama yok) — — · 0 yıldız
+- [upendra062/Car-Price-Prediction](https://github.com/upendra062/Car-Price-Prediction) — Prediction of car price based on the feature using random forest / — Jupyter Notebook · 0 yıldız
+- [Upendraj16/hppvtlimited](https://github.com/Upendraj16/hppvtlimited) — (açıklama yok) — Java · 0 yıldız
+- [upimariani/metode_abc](https://github.com/upimariani/metode_abc) — SPK HPP Metode ABC — PHP · 0 yıldız
+- [upitsplit/hpps](https://github.com/upitsplit/hpps) — Pedijatrijska škola — PHP · 0 yıldız
+- [uppalanihalraj2008-rgb/bob-ai-hackathon-apex-geek](https://github.com/uppalanihalraj2008-rgb/bob-ai-hackathon-apex-geek) — (açıklama yok) — Python · 0 yıldız
+- [Upparimanasa-12/ApexPlanet_DataAnalytics_internship](https://github.com/Upparimanasa-12/ApexPlanet_DataAnalytics_internship) — The data analytics task-1 at ApexPlanet based on data immersion and wrangling which includes the steps like Data Access &… — Jupyter Notebook · 0 yıldız
+- [uppulaharshith2-rgb/fixture-lineage](https://github.com/uppulaharshith2-rgb/fixture-lineage) — Chain-of-custody for LLM eval fixtures. Signed Ed25519 manifest tying every fixture to source trace + redaction pipeline +… — Python · 0 yıldız
+- [upskilltogether/ShoppyGo](https://github.com/upskilltogether/ShoppyGo) — Ecommerce Website — HTML · 0 yıldız
+- [uptudev/hamisNice](https://github.com/uptudev/hamisNice) — A mod for Noita that gives the Hämis a 👍 For more info, see README.md — — · 0 yıldız
+- [UQompress/uqompress](https://github.com/UQompress/uqompress) — UQCS 2026 Hackathon Project - Cheat sheet AI-powered generator for UQ courses — TypeScript · 0 yıldız
+- [ur-dude/gamesensefgds.github.io](https://github.com/ur-dude/gamesensefgds.github.io) — (açıklama yok) — PHP · 0 yıldız
+- [ur782341-alt/apex-browser](https://github.com/ur782341-alt/apex-browser) — Apex Browser is a lightweight, privacy-focused Chromium-based desktop browser built for speed, simplicity, and security. It… — — · 0 yıldız
+- [UralGuru/FoodCourtReactNative](https://github.com/UralGuru/FoodCourtReactNative) — A mobile application for food court visitors. The app will show the nearest cafes/restaurants and their menus. The app will save… — TypeScript · 0 yıldız
+- [UraniumTF2/tf2basehudfiles](https://github.com/UraniumTF2/tf2basehudfiles) — (açıklama yok) — — · 0 yıldız
+- [Urantij/CounterStrikeSourceLogReader](https://github.com/Urantij/CounterStrikeSourceLogReader) — Читает строки файла, парсит строки и пишет их куда то — C# · 0 yıldız
+- [urassh/MinecraftHackathon](https://github.com/urassh/MinecraftHackathon) — (açıklama yok) — — · 0 yıldız
+- [uravitej/Amazon-Web-Services---Memcache](https://github.com/uravitej/Amazon-Web-Services---Memcache) — Amazon Web Services - Load a huge CSV file from Amazon S3 into Amazon RDB using EC2 instance and identifying more static data… — Python · 0 yıldız
+- [uraway/Browsersync-Webpack-ReactHotLoader](https://github.com/uraway/Browsersync-Webpack-ReactHotLoader) — (açıklama yok) — JavaScript · 0 yıldız
+- [UraYukimitsu/cs2-3DS](https://github.com/UraYukimitsu/cs2-3DS) — Play cs2-based VNs on your 3DS! — C · 0 yıldız
+- [UrbanDEV0/keysystemtest](https://github.com/UrbanDEV0/keysystemtest) — (açıklama yok) — — · 0 yıldız
+- [urbanmove8-qatar/scrolling-destination-roblox](https://github.com/urbanmove8-qatar/scrolling-destination-roblox) — An open sourced simple scrolling destination script for your bus — Luau · 0 yıldız
+- [UrbanTsuchikage/Cs2-Osiris-2026](https://github.com/UrbanTsuchikage/Cs2-Osiris-2026) — Cross-platform (Windows, Linux) game hacck for Counter-Strike 2 with GUI and rendering based on game's Panorama UI. Compatible… — — · 0 yıldız
+- [urbanware-org/cs-soundmixer](https://github.com/urbanware-org/cs-soundmixer) — Random game sound file mixer for Counter-Strike 1.6 and Counter-Strike: Source — C# · 0 yıldız · arşiv
+- [urchent8375/osu-KawataFuquila-CheatList](https://github.com/urchent8375/osu-KawataFuquila-CheatList) — Repository dedicated to providing resources for enhancing the osu! gameplay experience on Kawata and Fuquila private servers.… — — · 0 yıldız
+- [UREKA-Play4Change/play4chage-report](https://github.com/UREKA-Play4Change/play4chage-report) — Official LaTeX source code and assets for the Play4Change final year project report, developed in partnership with Ureka at ISEL. — TeX · 0 yıldız
+- [urfavstud/CCNA-Q79](https://github.com/urfavstud/CCNA-Q79) — Interactive CCNA Networking Exam Cheat-Sheet built with HTML, CSS, and JavaScript. Features a Cisco-style dashboard for quick… — HTML · 0 yıldız
+- [Uri0210/Assignment](https://github.com/Uri0210/Assignment) — Read Fatality Analysis Reporting System (FARS) data — R · 0 yıldız
+- [UriasCascante/IntroProgra](https://github.com/UriasCascante/IntroProgra) — This repository contains my notes, practice exercises, cheat sheets, and small coding examples created while learning the… — C++ · 0 yıldız
+- [Urii98/SheeeshEngine](https://github.com/Urii98/SheeeshEngine) — SheeeshEngine — — · 0 yıldız
+- [urkatowilver/hvhvnb](https://github.com/urkatowilver/hvhvnb) — (açıklama yok) — — · 0 yıldız
+- [URlocal-fivemSCRIPTER/Fivem-citizen-game-dll-missing-fix](https://github.com/URlocal-fivemSCRIPTER/Fivem-citizen-game-dll-missing-fix) — this is a fix for the CitizenGame.dll if you are getting the error "could not load CitizenGame.dll" — — · 0 yıldız
+- [urlocalbred/minecraft-2](https://github.com/urlocalbred/minecraft-2) — (açıklama yok) — — · 0 yıldız
+- [UrmilaRupesh/scaling-octo-fortnight](https://github.com/UrmilaRupesh/scaling-octo-fortnight) — Many of the most popular multiplayer shooters have a way to keep you with other players who match your skill level. This keeps… — — · 0 yıldız
+- [urosidoki/htn_planner](https://github.com/urosidoki/htn_planner) — Ahead-of-time compiled HTN planner and C++ SDK for game AI. — — · 0 yıldız
+- [URRealHero/DDG-Crane](https://github.com/URRealHero/DDG-Crane) — Assignments of course CMU 15-458/768 — — · 0 yıldız
+- [ursa37/SampleSource](https://github.com/ursa37/SampleSource) — (açıklama yok) — — · 0 yıldız
+- [urvagandhi/RWEsearch-Hackathon](https://github.com/urvagandhi/RWEsearch-Hackathon) — 🏥 Advanced Healthcare Analytics Platform for Hospital Readmission Prediction ML Pipeline with Smart Model Loading 30/60/90-day… — Jupyter Notebook · 0 yıldız
+- [urvi3012/SQL-CheatSheet](https://github.com/urvi3012/SQL-CheatSheet) — (açıklama yok) — HTML · 0 yıldız
+- [urvi367/Transformer-Chatbot](https://github.com/urvi367/Transformer-Chatbot) — A transformer based TherapyBot made using TF2.0 — Jupyter Notebook · 0 yıldız
+- [UrviGawas1/MostFloodsInaRiverusingSupervisedML2models](https://github.com/UrviGawas1/MostFloodsInaRiverusingSupervisedML2models) — 🌧️ Flood Prediction (Decision Tree & Random Forest) Merged 4 river datasets, cleaned the data, trained Decision Tree and Random… — Jupyter Notebook · 0 yıldız
+- [usacs/aristotle](https://github.com/usacs/aristotle) — Remote development environment to remove setup from Hacker Hours, Self-Guided Projects. — Python · 0 yıldız · arşiv
+- [usafhulk/git-cheatsheet](https://github.com/usafhulk/git-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [Usagi25/shiny-FARS](https://github.com/Usagi25/shiny-FARS) — App involving Fatality Analysis Reporting System data — R · 0 yıldız
+- [usakgun/rf_voice_prediction](https://github.com/usakgun/rf_voice_prediction) — A gender recognition system based on voice acoustic properties using Decision Tree and Random Forest classifiers. Achieves high… — Python · 0 yıldız
+- [usama-autonomous/Projects-CheatSheets](https://github.com/usama-autonomous/Projects-CheatSheets) — (açıklama yok) — JavaScript · 0 yıldız
+- [usama-qadoos/SmartFireAlarm-Audio-Processing-WiFi-Alert-with-ESP32-FreeRTOS-](https://github.com/usama-qadoos/SmartFireAlarm-Audio-Processing-WiFi-Alert-with-ESP32-FreeRTOS-) — The project is a sound monitoring system using ESP32 microcontroller, detecting specific sound events, and generating… — C++ · 0 yıldız
+- [usamahassangd/grocery_shoppy](https://github.com/usamahassangd/grocery_shoppy) — This is online grocery store. — HTML · 0 yıldız
+- [usamakasuri/hpp](https://github.com/usamakasuri/hpp) — (açıklama yok) — — · 0 yıldız
+- [usamakasuri/hpp-mailer](https://github.com/usamakasuri/hpp-mailer) — (açıklama yok) — Vue · 0 yıldız
+- [usamanaveed900/Fake-News-Detection](https://github.com/usamanaveed900/Fake-News-Detection) — In the following code it is intended to use the sentence embedding technique in addition to word embedding for the purpose of… — Jupyter Notebook · 0 yıldız
+- [UsamaSarwar/CS22](https://github.com/UsamaSarwar/CS22) — FYP Project Source Code — JavaScript · 0 yıldız
+- [usamn5/usamnhacking](https://github.com/usamn5/usamnhacking) — Pubg hacker — — · 0 yıldız
+- [USBAkimbo/ansible-minecraft](https://github.com/USBAkimbo/ansible-minecraft) — Ansible config for a Minecraft server on an Ubuntu-based VM — HCL · 0 yıldız
+- [uscfhq/CrowdRescue-App](https://github.com/uscfhq/CrowdRescue-App) — The US civilian crowd source community I have been active in for the past 4 years in 14 hurricanes and dozens of floods, fires… — — · 0 yıldız
+- [usdogu/awesome-stars](https://github.com/usdogu/awesome-stars) — A curated list of my GitHub stars! — — · 0 yıldız
+- [usedtobesaint/CSSW](https://github.com/usedtobesaint/CSSW) — ПЗКС аналізатор математичних виразів — — · 0 yıldız
+- [USEPA/VRDecon](https://github.com/USEPA/VRDecon) — (açıklama yok) — — · 0 yıldız
+- [User-1998/SeviceNow-CheatSheet](https://github.com/User-1998/SeviceNow-CheatSheet) — (açıklama yok) — — · 0 yıldız
+- [user-acs24/cheatsheet](https://github.com/user-acs24/cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [user-alien/-Processed-E-commerce-Dataset-Day-9-](https://github.com/user-alien/-Processed-E-commerce-Dataset-Day-9-) — In this assignment, I used Pandas to load and process e-commerce data. I combined the datasets using merge(), demonstrated… — Jupyter Notebook · 0 yıldız
+- [user-grinch/BetterLawEnforcements](https://github.com/user-grinch/BetterLawEnforcements) — (açıklama yok) — — · 0 yıldız
+- [user-mahesh-gupta/HarvesterBot](https://github.com/user-mahesh-gupta/HarvesterBot) — Farm Harvester bot for finding different types of fruit and harvesting them. — Python · 0 yıldız
+- [user23333/kaka](https://github.com/user23333/kaka) — For personal use only — — · 0 yıldız
+- [user299792458/100-Mechanical-keyboard](https://github.com/user299792458/100-Mechanical-keyboard) — This is a full size mechanical keyboard project based around the Lenovo Preferred Pro II. It uses MX stye switches which are pcb… — — · 0 yıldız
+- [user2GX/oldbutter-source](https://github.com/user2GX/oldbutter-source) — old butterhub source (roblox lt2 script) — Lua · 0 yıldız
+- [userAlex110/math-cheatsheet](https://github.com/userAlex110/math-cheatsheet) — 考研数学二背诵小抄：只留公式、判定、触发词；content.py 单一内容源，生成网页版与 Word 版 — Python · 0 yıldız
+- [userandreasl/onetap](https://github.com/userandreasl/onetap) — (açıklama yok) — — · 0 yıldız
+- [UserAnon91/Alchemical-Enchantments](https://github.com/UserAnon91/Alchemical-Enchantments) — Fabric based Minecraft mod focused around influencing enchantments that roll — Java · 0 yıldız
+- [userddssilva/cheatsheet](https://github.com/userddssilva/cheatsheet) — Save general notes — — · 0 yıldız
+- [userElaina/computer-graphics](https://github.com/userElaina/computer-graphics) — 计算机图形学相关算法的实现. — C++ · 0 yıldız · arşiv
+- [usergemoroi/Dumpimng](https://github.com/usergemoroi/Dumpimng) — (açıklama yok) — — · 0 yıldız
+- [userknnqnklnqnknl/n-hvhj](https://github.com/userknnqnklnqnknl/n-hvhj) — genial — — · 0 yıldız
+- [usermusic/hpps-github.com-ITZ-ZAID-ZAID-USERBOT](https://github.com/usermusic/hpps-github.com-ITZ-ZAID-ZAID-USERBOT) — (açıklama yok) — — · 0 yıldız
+- [usernamelpc/project202010](https://github.com/usernamelpc/project202010) — load data to mysql — — · 0 yıldız
+- [usernamescriptps/EndOfTransmission-](https://github.com/usernamescriptps/EndOfTransmission-) — A Chat Bypasser for Roblox — — · 0 yıldız
+- [UserNammy/fivem-server-ops](https://github.com/UserNammy/fivem-server-ops) — Production-grade deployment and operations for a FiveM game server: Docker, MariaDB backups, Prometheus exporter, Grafana,… — Shell · 0 yıldız
+- [useroftermux92/Free-fire-source-code](https://github.com/useroftermux92/Free-fire-source-code) — (açıklama yok) — — · 0 yıldız
+- [UserRogues/Primordial-0.0.1.1.21.1](https://github.com/UserRogues/Primordial-0.0.1.1.21.1) — (açıklama yok) — Java · 0 yıldız
+- [UserRogues/Primordial-1.21.8](https://github.com/UserRogues/Primordial-1.21.8) — (açıklama yok) — — · 0 yıldız
+- [UserRogues/Primordial-1.21.8.0.0.1](https://github.com/UserRogues/Primordial-1.21.8.0.0.1) — (açıklama yok) — Java · 0 yıldız
+- [userstool/userslovetool](https://github.com/userstool/userslovetool) — (açıklama yok) — — · 0 yıldız
+- [usertest133104/pycub](https://github.com/usertest133104/pycub) — A transpiler of simplified source code (the pycub language dedicated to coding on Minecraft) into Java code, the project was… — — · 0 yıldız
+- [UserUnreal/lol-hvhvzcg](https://github.com/UserUnreal/lol-hvhvzcg) — https://github.com/UserUnreal/Piotr-s-Web2.git — HTML · 0 yıldız
+- [userxxppssd22/Translations](https://github.com/userxxppssd22/Translations) — (açıklama yok) — — · 0 yıldız
+- [Usha-2712/sales-insights-](https://github.com/Usha-2712/sales-insights-) — i have plugged mysql database with Power BI. In power BI data cleaning and ETL (Extract, transform, load) were done. This process… — — · 0 yıldız
+- [UshaBethampudi/AI-Powered-News-Summarizer](https://github.com/UshaBethampudi/AI-Powered-News-Summarizer) — A full-stack web application that fetches real-time news using NewsAPI and summarizes each article using built-in NLP techniques.… — JavaScript · 0 yıldız
+- [UshanGo/NZtrafficanalysis](https://github.com/UshanGo/NZtrafficanalysis) — This project analyses 25 years of New Zealand traffic crash data to identify patterns, predict fatalities using a Naive Bayes… — R · 0 yıldız
+- [USharma002/CUDA-PathTracer](https://github.com/USharma002/CUDA-PathTracer) — Path Tracer created in CUDA — — · 0 yıldız
+- [ushiiiwattaa-svg/google-colab-data-acquisition-cheatsheet](https://github.com/ushiiiwattaa-svg/google-colab-data-acquisition-cheatsheet) — A comprehensive cheat sheet for data acquisition techniques in Google Colab — — · 0 yıldız
+- [Ushio/MathBasedCoverFlow](https://github.com/Ushio/MathBasedCoverFlow) — (açıklama yok) — — · 0 yıldız
+- [Ushio/MofuMofuRender](https://github.com/Ushio/MofuMofuRender) — (açıklama yok) — — · 0 yıldız
+- [Ushio/prlib](https://github.com/Ushio/prlib) — (açıklama yok) — — · 0 yıldız
+- [UshMask/Corpse-Tow](https://github.com/UshMask/Corpse-Tow) — Corpse Tow mod source for Project Zomboid Build 42 — Python · 0 yıldız
+- [Ushnika09/ShoppyGlobe](https://github.com/Ushnika09/ShoppyGlobe) — (açıklama yok) — JavaScript · 0 yıldız
+- [Ushnika09/ShoppyGlobe-front-end-](https://github.com/Ushnika09/ShoppyGlobe-front-end-) — (açıklama yok) — JavaScript · 0 yıldız
+- [Ushnika09/ShoppyGlobe-Full-Stack-](https://github.com/Ushnika09/ShoppyGlobe-Full-Stack-) — (açıklama yok) — JavaScript · 0 yıldız
+- [usize/kagenti-cheatsheets](https://github.com/usize/kagenti-cheatsheets) — (açıklama yok) — — · 0 yıldız
+- [usjskeet/USJ-Skeet-website](https://github.com/usjskeet/USJ-Skeet-website) — USJ Skeet Website — HTML · 0 yıldız
+- [uslu16/EarthQuake_base](https://github.com/uslu16/EarthQuake_base) — base — Java · 0 yıldız
+- [uslu16/ud843-QuakeReport_20190804_base](https://github.com/uslu16/ud843-QuakeReport_20190804_base) — base — — · 0 yıldız
+- [uslu16/ud843-QuakeReport_20190804_base_1](https://github.com/uslu16/ud843-QuakeReport_20190804_base_1) — (açıklama yok) — — · 0 yıldız
+- [uslygirls-ui/neverlose](https://github.com/uslygirls-ui/neverlose) — neverlose — C++ · 0 yıldız
+- [usman-369/linux-terminal-basics](https://github.com/usman-369/linux-terminal-basics) — A comprehensive beginner-friendly cheat sheet for Linux terminal commands designed for new Linux users. — — · 0 yıldız
+- [usman2x/Cheatsheets](https://github.com/usman2x/Cheatsheets) — (açıklama yok) — — · 0 yıldız
+- [Usman75/Final-Lab-Project](https://github.com/Usman75/Final-Lab-Project) — The final Lab project programes with the source code — C++ · 0 yıldız
+- [usmand19/RECSSurvey](https://github.com/usmand19/RECSSurvey) — Using a Random Forest to predict energy usage of households based on data provided by the U.S. Residential Energy Consumption… — Jupyter Notebook · 0 yıldız
+- [UsmanJ-Graphics/Statistical-tool](https://github.com/UsmanJ-Graphics/Statistical-tool) — (açıklama yok) — — · 0 yıldız
+- [usmansial2637-gif/Hostel-Management-System](https://github.com/usmansial2637-gif/Hostel-Management-System) — A complete Hostel Management System built with Oracle APEX and Oracle Database featuring 12 entities, role-based access,… — — · 0 yıldız
+- [usmanUA/42-philosophers](https://github.com/usmanUA/42-philosophers) — 42-philosophers is a C-based project that addresses the Dining Philosophers Problem in computer science using multithreading. It… — C · 0 yıldız
+- [usmcziegler-lang/HLHS-MCJROTC](https://github.com/usmcziegler-lang/HLHS-MCJROTC) — Dark-themed cadet workout tracking app with calendar-based workout posting and logging — JavaScript · 0 yıldız
+- [usmleexplained/usmleexplained.github.io](https://github.com/usmleexplained/usmleexplained.github.io) — Free USMLE practice questions, cheat sheets and study tools — HTML · 0 yıldız
+- [usnistgov/seized-material-sampling-app-redeployment](https://github.com/usnistgov/seized-material-sampling-app-redeployment) — Source code for redeployment version of shiny app for aiding in the statistical analysis of seized drug exhibits — R · 0 yıldız
+- [usnistgov/seized-material-sampling-app-v1-source](https://github.com/usnistgov/seized-material-sampling-app-v1-source) — Source code for the 1.0 version of the NIST seized material sampling app deployed using shinylive and launched on SWGDRUG on… — R · 0 yıldız
+- [usshaa/Cheatsheets](https://github.com/usshaa/Cheatsheets) — (açıklama yok) — Jupyter Notebook · 0 yıldız
+- [UssiaK/Drax.FATALITY](https://github.com/UssiaK/Drax.FATALITY) — (açıklama yok) — Lua · 0 yıldız
+- [USTC-CG/USTC_CG_24](https://github.com/USTC-CG/USTC_CG_24) — Homework repo for the course "Computer Graphics" in the 2024 spring @USTC — — · 0 yıldız
+- [usueiipf/cheat-sheet-terraria](https://github.com/usueiipf/cheat-sheet-terraria) — In-game item spawning and cheat interface for Terraria creators — — · 0 yıldız
+- [Usuy-Leon/Microscopy_Dark-Field-Filters](https://github.com/Usuy-Leon/Microscopy_Dark-Field-Filters) — An open source filter for a costume dark field that can be adapted to any compound microscope. This 3D file / lasser cutting is… — OpenSCAD · 0 yıldız
+- [usyd-soles-edu/cheatsheet-jamovi-flexplot](https://github.com/usyd-soles-edu/cheatsheet-jamovi-flexplot) — Moved to usyd-soles-edu/cheatsheets — Typst · 0 yıldız · arşiv
+- [usyd-soles-edu/cheatsheet-jamovi-linearmodels](https://github.com/usyd-soles-edu/cheatsheet-jamovi-linearmodels) — Moved to usyd-soles-edu/cheatsheets — Typst · 0 yıldız · arşiv
+- [usyd-soles-edu/cheatsheet-r-two-sample-ttest](https://github.com/usyd-soles-edu/cheatsheet-r-two-sample-ttest) — Moved to usyd-soles-edu/cheatsheets — HTML · 0 yıldız · arşiv
+- [usyd-soles-edu/cheatsheets](https://github.com/usyd-soles-edu/cheatsheets) — SOLES cheatsheets for R, Jamovi, and SPSS — Lua · 0 yıldız
+- [Utada47/CheatSheet](https://github.com/Utada47/CheatSheet) — (açıklama yok) — Java · 0 yıldız
+- [Utaiuta/HackingSmsTool](https://github.com/Utaiuta/HackingSmsTool) — (açıklama yok) — — · 0 yıldız
+- [utdcsg/csg-website](https://github.com/utdcsg/csg-website) — Jekyll source for csg.utdallas.edu — HTML · 0 yıldız
+- [Utida0250035/TD2_01](https://github.com/Utida0250035/TD2_01) — (açıklama yok) — — · 0 yıldız
+- [Utikeles/MiscMinecraft](https://github.com/Utikeles/MiscMinecraft) — Random things for minecraft such as my texture packs / schematics / image2map source images — — · 0 yıldız
+- [utilmint/formula-cheat-sheet](https://github.com/utilmint/formula-cheat-sheet) — (açıklama yok) — HTML · 0 yıldız
+- [UtilsBoy/Fatality_AntiVirus](https://github.com/UtilsBoy/Fatality_AntiVirus) — (açıklama yok) — — · 0 yıldız
+- [utk-14/synapse_squad_vit_hackathon](https://github.com/utk-14/synapse_squad_vit_hackathon) — (açıklama yok) — JavaScript · 0 yıldız
+- [utkarsh-101-tech/Vanguard-ESP32_Current_Sensor](https://github.com/utkarsh-101-tech/Vanguard-ESP32_Current_Sensor) — (açıklama yok) — — · 0 yıldız
+- [Utkarsh-Sinha11/IndianRail](https://github.com/Utkarsh-Sinha11/IndianRail) — IndianRail has decided to improve its efficiency by automating not just its trains but also its passengers. Each passenger and… — C · 0 yıldız
+- [utkarsh-tibrewal/intelligent-traffic-signal-simulator-](https://github.com/utkarsh-tibrewal/intelligent-traffic-signal-simulator-) — A menu-driven C project that simulates traffic signal green-time allocation based on vehicle and pedestrian counts. — C · 0 yıldız
+- [Utkarsh21-hub/Team-Apex-Coding-SIH-Hackathon-2026](https://github.com/Utkarsh21-hub/Team-Apex-Coding-SIH-Hackathon-2026) — Verify Metro - 1st SIH project — TypeScript · 0 yıldız
+- [utkarsh2127/Customer-Segmentation-and-Product-Recommendation](https://github.com/utkarsh2127/Customer-Segmentation-and-Product-Recommendation) — This project focuses on Customer Segmentation and Product Recommendation, utilizing clustering techniques like K-Means and… — Jupyter Notebook · 0 yıldız
+- [utkarsh232005/Basic_To_Adv_Linux](https://github.com/utkarsh232005/Basic_To_Adv_Linux) — This repo is a curated, hands-on collection of Linux and DevOps fundamentals. It pairs a structured cheat sheet with runnable… — Shell · 0 yıldız
+- [Utkarsh4610/Hand-Written-Character-Recognition](https://github.com/Utkarsh4610/Hand-Written-Character-Recognition) — The aim of this project was to recognise the given single character from the image. The images were downloaded from NIST. After… — Python · 0 yıldız
+- [utkarsh512/User-Authentication-using-Keystroke-Dynamics](https://github.com/utkarsh512/User-Authentication-using-Keystroke-Dynamics) — EC60091 - Machine Intelligence and Expert Systems Term Project — Python · 0 yıldız
+- [UtkarshC99/me212-course-project](https://github.com/UtkarshC99/me212-course-project) — Investigatory project on vertical compressive structures, as part of the final project work in the ME212 Solid Mechanics-I course… — Jupyter Notebook · 0 yıldız
+- [utkarshgoyal08/algerian_forest_dataset_project_ml](https://github.com/utkarshgoyal08/algerian_forest_dataset_project_ml) — This project involves comprehensive Exploratory Data Analysis (EDA) and Feature Engineering to enhance dataset quality and… — Jupyter Notebook · 0 yıldız
+- [UtkarshHarit/RailwayBooking](https://github.com/UtkarshHarit/RailwayBooking) — A program to find the trains, availability, tracks and to book tickets with final summary — — · 0 yıldız
+- [utkarshk1707/hotel-booking](https://github.com/utkarshk1707/hotel-booking) — Final Assignment [A SAILOR]: Description: Create a simple hotel room booking website where you need to collect a user’s personal… — TypeScript · 0 yıldız
+- [utkarshkherwal/Masters-in-Economics-CUET-cheat-sheets](https://github.com/utkarshkherwal/Masters-in-Economics-CUET-cheat-sheets) — (açıklama yok) — HTML · 0 yıldız
+- [Utkarshmhn/Student-management-system](https://github.com/Utkarshmhn/Student-management-system) — Console-based Student Management System in C++ with file handling for persistent storage. Add, update, delete, search, and… — C++ · 0 yıldız
+- [UtkarshNigam11/DiscordAuthenticator](https://github.com/UtkarshNigam11/DiscordAuthenticator) — (açıklama yok) — JavaScript · 0 yıldız
+- [utkarshraghav99/AUTOMATI_LICENSE_NUMBER_PLATE_DETECTION_SYSTEM](https://github.com/utkarshraghav99/AUTOMATI_LICENSE_NUMBER_PLATE_DETECTION_SYSTEM) — (açıklama yok) — Python · 0 yıldız
+- [UtkarshSinghSFD/Loan-Insurace-Claim](https://github.com/UtkarshSinghSFD/Loan-Insurace-Claim) — A Salesforce-based Loan & Insurance Claim Processing System that automates application submission, document verification, risk… — Apex · 0 yıldız
+- [UtkarshSinghSFD/Mindtrip-Website](https://github.com/UtkarshSinghSFD/Mindtrip-Website) — MindTripE — Salesforce Experience Cloud site (LWC + Apex) for a Nagpur-based events/education/software company. Includes custom… — Apex · 0 yıldız
+- [UtkarshVIT/AdvDistSystems](https://github.com/UtkarshVIT/AdvDistSystems) — Scalable Key-Value Store — Python · 0 yıldız
+- [utkrisht25/ShoppyGlobe_ShoppingCart](https://github.com/utkrisht25/ShoppyGlobe_ShoppingCart) — this is a shopping cart application using redux and tailwind css — JavaScript · 0 yıldız
+- [utkuysr/lisansustuback](https://github.com/utkuysr/lisansustuback) — (açıklama yok) — TypeScript · 0 yıldız
+- [utndniel7000-del/anime-streaming-app](https://github.com/utndniel7000-del/anime-streaming-app) — A premium dark-themed anime streaming app with dub-focused features, multi-source support, and offline downloads — — · 0 yıldız
+- [Utopi-a/skeet-practice](https://github.com/Utopi-a/skeet-practice) — スキート射撃据銃練習用アプリ — C++ · 0 yıldız
+- [utopia-repository/looking-glass](https://github.com/utopia-repository/looking-glass) — (Old) Debian packaging for looking-glass: please see https://salsa.debian.org/lhw-guest/looking-glass — — · 0 yıldız
+- [utopianet1337/utopianet_loadscreen](https://github.com/utopianet1337/utopianet_loadscreen) — Simple FiveM loading screen with youtube video and mp3 music. — — · 0 yıldız
+- [utoybatotoy7-cloud/Apex-Business-Co](https://github.com/utoybatotoy7-cloud/Apex-Business-Co) — Professional business website designed to increase customer inquiries, showcase services, and establish a strong online presence.… — — · 0 yıldız
+- [utroy/cs401-website](https://github.com/utroy/cs401-website) — website source code — HTML · 0 yıldız
+- [utsavshrivastav/Resturent-Page](https://github.com/utsavshrivastav/Resturent-Page) — Resturent Menu In C++ With Source Code — C++ · 0 yıldız
+- [Utso-Roy/git-CheatSheet](https://github.com/Utso-Roy/git-CheatSheet) — (açıklama yok) — — · 0 yıldız
+- [Uttam-Mahata/devops-cheatsheet](https://github.com/Uttam-Mahata/devops-cheatsheet) — A curated, production-ready reference library covering the essential DevOps tools and platforms — each with real-world examples,… — — · 0 yıldız
+- [UttamKiran/sample_internal](https://github.com/UttamKiran/sample_internal) — (açıklama yok) — — · 0 yıldız
+- [UttejRavirala/CS50x_PSet1](https://github.com/UttejRavirala/CS50x_PSet1) — Contains the source code for the problems in Problem Set 1 — C · 0 yıldız
+- [UtterVitriol/ReadyOrNot](https://github.com/UtterVitriol/ReadyOrNot) — (açıklama yok) — — · 0 yıldız
+- [Uttkarsh09/Change-Detection-HPP](https://github.com/Uttkarsh09/Change-Detection-HPP) — (açıklama yok) — C · 0 yıldız
+- [UttU28/Amazing-Loginpage-HTML-CSS-for-Mini-Projects-with-Source-Code](https://github.com/UttU28/Amazing-Loginpage-HTML-CSS-for-Mini-Projects-with-Source-Code) — (açıklama yok) — CSS · 0 yıldız
+- [UttU28/How-to-create-a-Homepage-Website-using-HTML-and-CSS-and-Photoshop-Step-By-Step-Guide-Source-Code](https://github.com/UttU28/How-to-create-a-Homepage-Website-using-HTML-and-CSS-and-Photoshop-Step-By-Step-Guide-Source-Code) — (açıklama yok) — HTML · 0 yıldız
+- [uuabdulloh519-pixel/cs16-inspired-game](https://github.com/uuabdulloh519-pixel/cs16-inspired-game) — A small browser-based tactical shooter inspired by CS 1.6 — — · 0 yıldız
+- [uugspb/AI_HACK_2018-halo9000](https://github.com/uugspb/AI_HACK_2018-halo9000) — (açıklama yok) — ASP · 0 yıldız · arşiv
+- [uumar421/Brain-Tumor-Segmentation-](https://github.com/uumar421/Brain-Tumor-Segmentation-) — Implementation of the segmentation model created as part of my bachelor's Final Year Project titled as "Brain Tumor Segmentation… — Python · 0 yıldız
+- [Uvacoder/aaa-json-collect](https://github.com/Uvacoder/aaa-json-collect) — (açıklama yok) — — · 0 yıldız
+- [Uvacoder/uva-awesome-search-old](https://github.com/Uvacoder/uva-awesome-search-old) — (açıklama yok) — — · 0 yıldız
+- [uvdivergence/cheatsheets](https://github.com/uvdivergence/cheatsheets) — Highly condensed information on various sciency topics — Python · 0 yıldız
+- [uvec3/ipte](https://github.com/uvec3/ipte) — (açıklama yok) — — · 0 yıldız
+- [uvishka/Driving_License_Verification_System](https://github.com/uvishka/Driving_License_Verification_System) — (açıklama yok) — JavaScript · 0 yıldız
+- [uw-cmg/model_thermalexp_aflow](https://github.com/uw-cmg/model_thermalexp_aflow) — Random forest model to predict the thermal expansion coefficient of materials, trained from AFLOW database — Python · 0 yıldız
+- [uw-madison-chem-shops/hvhf](https://github.com/uw-madison-chem-shops/hvhf) — High voltage high frequency switching circuit. — Shell · 0 yıldız
+- [uwangraph/onetap](https://github.com/uwangraph/onetap) — (açıklama yok) — Svelte · 0 yıldız
+- [uwaterregistry/Project-567](https://github.com/uwaterregistry/Project-567) — Nabil Hydro (Sahas Urja & HPP) — — · 0 yıldız
+- [Uwihanganyeobed/html-css-js-cheatsheet](https://github.com/Uwihanganyeobed/html-css-js-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [Uwillxlz/gta6-meme-x-01](https://github.com/Uwillxlz/gta6-meme-x-01) — A GTA 6 loading-screen meme (make.fun ghost over a Vice City beach, 99% after 13 years), posted on X by @nodepaar. Built by an AI… — Python · 0 yıldız
+- [uwl-tzuleger/Dental-Office-Project](https://github.com/uwl-tzuleger/Dental-Office-Project) — Final Submission of Source Code for the project — Java · 0 yıldız
+- [uwsampa/cse590g](https://github.com/uwsampa/cse590g) — Source for CSE 590G (Architecture Seminar) — Makefile · 0 yıldız
+- [uwu-loli/AuthNexus-OAuth](https://github.com/uwu-loli/AuthNexus-OAuth) — Полнофункциональная OAuth система с Discord авторизацией и MongoDB — JavaScript · 0 yıldız · arşiv
+- [uwu2025/Project-Reboot-](https://github.com/uwu2025/Project-Reboot-) — S3-S15 Game server for Fortnite — — · 0 yıldız
+- [uwulyumi/neverlose-csgo](https://github.com/uwulyumi/neverlose-csgo) — (açıklama yok) — C++ · 0 yıldız
+- [UwUza/fn](https://github.com/UwUza/fn) — (açıklama yok) — — · 0 yıldız
+- [Uxelf/humangl](https://github.com/Uxelf/humangl) — 3D animator for an humanoid character. Follow up of Scop. — — · 0 yıldız
+- [UXinCode/Advanced-MySQL-based-Report-System-for-Counter-Strike-1.6-servers.-Built-with-AMX-Mod-X-by-aKaRi.](https://github.com/UXinCode/Advanced-MySQL-based-Report-System-for-Counter-Strike-1.6-servers.-Built-with-AMX-Mod-X-by-aKaRi.) — Advanced Report System for Counter-Strike 1.6 AMX Mod X — Pawn · 0 yıldız
+- [Uz1Cantf1ndme/neverlose-config](https://github.com/Uz1Cantf1ndme/neverlose-config) — (açıklama yok) — — · 0 yıldız
+- [UzairArain2003/Python-Cheatsheets](https://github.com/UzairArain2003/Python-Cheatsheets) — Cheatheets for NumPy,Pandas,Matplotlib to help learners and professionals. — Jupyter Notebook · 0 yıldız
+- [UzairJ99/DeltaHacksVI](https://github.com/UzairJ99/DeltaHacksVI) — Web application for McMaster students to carpool to/from McMaster and neighbouring cities in the GTA. Uses React.js and Bootstrap… — JavaScript · 0 yıldız
+- [uzairnaveed04/hpp](https://github.com/uzairnaveed04/hpp) — (açıklama yok) — — · 0 yıldız
+- [uzairramey/cheatsheets](https://github.com/uzairramey/cheatsheets) — (açıklama yok) — — · 0 yıldız
+- [uzairshahid99/Counter-strike](https://github.com/uzairshahid99/Counter-strike) — de_dust2 , de_inferno,de_nuke, de_train — — · 0 yıldız
+- [UzayAnil/fortnite-map-1](https://github.com/UzayAnil/fortnite-map-1) — Source code for interactive website that shows locations of apples, mushrooms, and rifts on the Fortnite map — — · 0 yıldız
+- [Uzbekunknown/dlss-nr-on-intel](https://github.com/Uzbekunknown/dlss-nr-on-intel) — Now you can run DLSS 5 NR on Intel Arc GPU. Code only. No NVIDIA binaries, no weights. — — · 0 yıldız
+- [uzerai/tictactoe-java-neverlose](https://github.com/uzerai/tictactoe-java-neverlose) — Small repository to show my implementation of an interview question, implementation time was 2h48min — Java · 0 yıldız
+- [UZK24/CSEEE04-Report](https://github.com/UZK24/CSEEE04-Report) — All of our final source code that is referenced in the report — C++ · 0 yıldız
+- [Uzmoderntv/UzbekFarmBot](https://github.com/Uzmoderntv/UzbekFarmBot) — (açıklama yok) — — · 0 yıldız
+- [uzwall/multi-source-cyber-threat-detection](https://github.com/uzwall/multi-source-cyber-threat-detection) — A multi-source intrusion detection system using Random Forest and score-level data fusion on the TON-IoT dataset — Jupyter Notebook · 0 yıldız
+- [uzyasin/apex-hackathon-2026](https://github.com/uzyasin/apex-hackathon-2026) — Turkcell AI Hackaton amacıyla oluşturuldu. — Java · 0 yıldız
+- [uzzu/monodevelop-codingstyle4csharp](https://github.com/uzzu/monodevelop-codingstyle4csharp) — Policy files for formatting C# source code on MonoDevelop. — — · 0 yıldız
+- [V-M4K4R0V-zz/The-Ghost-Writer2.0](https://github.com/V-M4K4R0V-zz/The-Ghost-Writer2.0) — Loading... but in C — C · 0 yıldız
+- [v-p-b/codeql-cheat-sheet](https://github.com/v-p-b/codeql-cheat-sheet) — konular: codeql — C · 0 yıldız
+- [v-p-b/ghidra-cheat-sheet](https://github.com/v-p-b/ghidra-cheat-sheet) — Cheat sheet focusing on Ghidra development — Python · 0 yıldız
+- [v-shel/Simple-Reactive-Endpoint](https://github.com/v-shel/Simple-Reactive-Endpoint) — Just a cheat sheet about the reactive approach — Java · 0 yıldız
+- [V-Sisyphus2012/b_mode_lsst](https://github.com/V-Sisyphus2012/b_mode_lsst) — Delensing Primordial B-mode with LSST — — · 0 yıldız
+- [v-srimathi/HomeAssist](https://github.com/v-srimathi/HomeAssist) — An Arduino-based assistive smart home prototype for affordable, autonomous, and hands-free home automation, featuring RFID… — C++ · 0 yıldız
+- [v-srimathi/LDR-Based-Automatic-Light-Control-Circuit](https://github.com/v-srimathi/LDR-Based-Automatic-Light-Control-Circuit) — Automatic light control circuit using an LDR to switch a light ON in darkness and OFF in daylight. — — · 0 yıldız
+- [v-zero-x/vibe-cheatsheet](https://github.com/v-zero-x/vibe-cheatsheet) — The definitive guide to vibe coding with Claude Code - build software by describing what you want — — · 0 yıldız
+- [v0112358/ansible-role-keydb-cluster](https://github.com/v0112358/ansible-role-keydb-cluster) — Ansible role to Install and configure KeyDB cluster on your system. — Jinja · 0 yıldız
+- [v0285218-ai/PBLJ-5th-Experiment-](https://github.com/v0285218-ai/PBLJ-5th-Experiment-) — Part a: Sum of Integers Using Autoboxing and Unboxing Part b: Serialization and Deserialization of a Student Object Part c:… — Java · 0 yıldız
+- [V17465ssr/gamesensetksourcenihagaga](https://github.com/V17465ssr/gamesensetksourcenihagaga) — (açıklama yok) — — · 0 yıldız
+- [V1ad0sik/get_offsets](https://github.com/V1ad0sik/get_offsets) — Модуль обновления оффсетов для CSGO. — C++ · 0 yıldız
+- [v1nay18/shoppyglobe-users-api](https://github.com/v1nay18/shoppyglobe-users-api) — RESTfull API — JavaScript · 0 yıldız
+- [v1rs3/gameserver-v1](https://github.com/v1rs3/gameserver-v1) — Modded erbium — — · 0 yıldız
+- [V1SiX12/ad-esports-website](https://github.com/V1SiX12/ad-esports-website) — Official website of AD esports – Rainbow Six Siege — CSS · 0 yıldız
+- [V1z4rdExec/cheatsheets](https://github.com/V1z4rdExec/cheatsheets) — (açıklama yok) — — · 0 yıldız
+- [v2-sude078/HPPOoKn71.mp4](https://github.com/v2-sude078/HPPOoKn71.mp4) — (açıklama yok) — HTML · 0 yıldız
+- [v28k/hackathon-squad](https://github.com/v28k/hackathon-squad) — (açıklama yok) — C++ · 0 yıldız
+- [v3kad/v3kad.github.io](https://github.com/v3kad/v3kad.github.io) — loading screen for gmod server Homi-Work — HTML · 0 yıldız
+- [V3OS/Minecraft-ChamsESP](https://github.com/V3OS/Minecraft-ChamsESP) — (açıklama yok) — Java · 0 yıldız
+- [v3sp4n/pie-binder](https://github.com/v3sp4n/pie-binder) — GTA:SAMP binder pie_menu — — · 0 yıldız
+- [V3xOwnYou/SKEET.WIN](https://github.com/V3xOwnYou/SKEET.WIN) — (açıklama yok) — — · 0 yıldız
+- [v4ex/v4ex-api-key](https://github.com/v4ex/v4ex-api-key) — V4EX API System: Key microservice. — JavaScript · 0 yıldız · arşiv
+- [V4LKdev/HackAndSlash_SampleProject](https://github.com/V4LKdev/HackAndSlash_SampleProject) — Yes — C# · 0 yıldız
+- [v4m3rrr/piksel](https://github.com/v4m3rrr/piksel) — (açıklama yok) — — · 0 yıldız
+- [v60x/Boombox-Hangout-List-2436-Audios-](https://github.com/v60x/Boombox-Hangout-List-2436-Audios-) — A compile of bypassed audios me and some friends have collected over the years, with some special additions like asset permission… — — · 0 yıldız
+- [vaaast-lake/shoppy_e](https://github.com/vaaast-lake/shoppy_e) — (açıklama yok) — JavaScript · 0 yıldız
+- [vaaast-lake/shoppy_k](https://github.com/vaaast-lake/shoppy_k) — shopping mall by myself — JavaScript · 0 yıldız
+- [Vaakom/multithreading-core-concepts](https://github.com/Vaakom/multithreading-core-concepts) — Multithreading cheatsheet. Locks, synchronization, semaphores, executors, concurrent collections e.t.c — Java · 0 yıldız
+- [Vaaruni19/A-SYSTEMATIC-REVIEW-OF-ENCRYPTION-AND-KEYLOGGING-FOR-COMPUTER-SYSTEM-SECURITY](https://github.com/Vaaruni19/A-SYSTEMATIC-REVIEW-OF-ENCRYPTION-AND-KEYLOGGING-FOR-COMPUTER-SYSTEM-SECURITY) — (açıklama yok) — — · 0 yıldız
+- [VaastavTalwar/-RIO125-Side-effect-of-Drugs](https://github.com/VaastavTalwar/-RIO125-Side-effect-of-Drugs) — This repository is created for internship project. RIO-125: Classification Model - Build a Model that Classifies the Side Effects… — — · 0 yıldız
+- [VaastavTalwar/-RIO125-Side-effect-of-Drugs-1-00](https://github.com/VaastavTalwar/-RIO125-Side-effect-of-Drugs-1-00) — This repository is created for internship project. RIO-125: Classification Model - Build a Model that Classifies the Side Effects… — Jupyter Notebook · 0 yıldız
+- [vabtree/boost_1_31](https://github.com/vabtree/boost_1_31) — Boost tokenizer.hpp error fix — C++ · 0 yıldız
+- [Vacancyo/Dont-Make-Me-See-Red](https://github.com/Vacancyo/Dont-Make-Me-See-Red) — The open source code of a Minecraft mod used to disable the incomplete recipe warning generated by Mekanism. — Java · 0 yıldız
+- [VacantFanatic/bearded-dangerzone](https://github.com/VacantFanatic/bearded-dangerzone) — Web app to manage staff vacations and project resource loads — Ruby · 0 yıldız · arşiv
+- [vaccie/vaccie_tunerdlc](https://github.com/vaccie/vaccie_tunerdlc) — konular: fivem, fivem-scripts, scripts — Lua · 0 yıldız
+- [vachanmn123/BillingPanelBackend](https://github.com/vachanmn123/BillingPanelBackend) — (açıklama yok) — Python · 0 yıldız
+- [vacharich1/HardwareTemp](https://github.com/vacharich1/HardwareTemp) — C# app to check CPU and GPU temps/loads — C# · 0 yıldız
+- [VacheDesNeiges/Jellyfish-Idle](https://github.com/VacheDesNeiges/Jellyfish-Idle) — a jellyfish themed incremental game — — · 0 yıldız
+- [Vachek100/DS2-cheatsheet](https://github.com/Vachek100/DS2-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [Vachi-Jain/House-Price-Prediction](https://github.com/Vachi-Jain/House-Price-Prediction) — House Price Prediction is a linear regression model which predicts the final output-dependent value based on the given… — — · 0 yıldız
+- [Vacilli/js-react-cheat-sheet](https://github.com/Vacilli/js-react-cheat-sheet) — Ract Cheat Sheet — JavaScript · 0 yıldız
+- [Vacoom12/battlefield-project](https://github.com/Vacoom12/battlefield-project) — battleship-based game for oop mini-project — Java · 0 yıldız
+- [vacrun/skeetmafia](https://github.com/vacrun/skeetmafia) — (açıklama yok) — Lua · 0 yıldız
+- [vAcs-reborn/script](https://github.com/vAcs-reborn/script) — (açıklama yok) — — · 0 yıldız
+- [VadanShah/aes-apb-ctr](https://github.com/VadanShah/aes-apb-ctr) — An AES-128 encryption module in CTR mode with APB interface, implemented in Verilog for FPGA-based secure data communication… — Verilog · 0 yıldız
+- [vadapallikavya/Cheatsheet](https://github.com/vadapallikavya/Cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [Vademan/Galaxyhud](https://github.com/Vademan/Galaxyhud) — I am trying to make Super Mario galaxy based hud to Team Fortress 2. — — · 0 yıldız
+- [vaderjunior/CheatSheets](https://github.com/vaderjunior/CheatSheets) — Cheatsheets of Various Tech I use daily — — · 0 yıldız
+- [vadhub/nn_classification_disease_vegetables](https://github.com/vadhub/nn_classification_disease_vegetables) — (experimental section of the dissertation) Classification of open-field vegetable diseases using the pre-trained MobileNetV2/V3,… — Jupyter Notebook · 0 yıldız
+- [Vadim-Kamalov/GAdmin](https://github.com/Vadim-Kamalov/GAdmin) — (açıklama yok) — — · 0 yıldız
+- [vadimkotov/winexe_cheatsheet](https://github.com/vadimkotov/winexe_cheatsheet) — My old cheatsheet for Win32 PE format and PEB. — TeX · 0 yıldız
+- [vadimsabadosh/shoppy_backend](https://github.com/vadimsabadosh/shoppy_backend) — (açıklama yok) — JavaScript · 0 yıldız
+- [Vadiraj-19/_shoppyGlobe_](https://github.com/Vadiraj-19/_shoppyGlobe_) — (açıklama yok) — JavaScript · 0 yıldız
+- [Vadiraj-19/shoppyGlobe](https://github.com/Vadiraj-19/shoppyGlobe) — (açıklama yok) — JavaScript · 0 yıldız
+- [Vadiraj-19/shoppyglobe_backend](https://github.com/Vadiraj-19/shoppyglobe_backend) — (açıklama yok) — JavaScript · 0 yıldız
+- [Vadiraj-19/shoppyglobe_frontend](https://github.com/Vadiraj-19/shoppyglobe_frontend) — (açıklama yok) — JavaScript · 0 yıldız
+- [Vadlaakhilchary/data-vedhi-developer-showcase](https://github.com/Vadlaakhilchary/data-vedhi-developer-showcase) — My technical submission for Data Vedhi club featuring responsive landing page, interactive feedback form, Python algorithms, and… — HTML · 0 yıldız
+- [Vadlamudi2002/FLIGHT-DELAY-PREDICTION-USING-ML](https://github.com/Vadlamudi2002/FLIGHT-DELAY-PREDICTION-USING-ML) — The code reads flight data, preprocesses it, trains a random forest classifier model, evaluates the model's performance, and… — Jupyter Notebook · 0 yıldız
+- [Vadographer/Privately-Maintained-Cheater-List](https://github.com/Vadographer/Privately-Maintained-Cheater-List) — My personally-maintained list of cheaters in TF2, for use with Pazer's Bot Detector. — — · 0 yıldız
+- [vadtrex/Projekt_GRK](https://github.com/vadtrex/Projekt_GRK) — Wizualizacja Wiatrów Świata — — · 0 yıldız
+- [Vadym-kse/CS201_hackathon](https://github.com/Vadym-kse/CS201_hackathon) — (açıklama yok) — Python · 0 yıldız
+- [vadymdiakonov-payroc/wnet-hpp_generators](https://github.com/vadymdiakonov-payroc/wnet-hpp_generators) — (açıklama yok) — HTML · 0 yıldız
+- [vadymmusiienko/tmux_cheat_sheet](https://github.com/vadymmusiienko/tmux_cheat_sheet) — My personal Tmux CheatSheet — TypeScript · 0 yıldız
+- [vae1118/cmd-cheatsheet](https://github.com/vae1118/cmd-cheatsheet) — (açıklama yok) — TypeScript · 0 yıldız
+- [Vaema/Ultraconyx](https://github.com/Vaema/Ultraconyx) — A port and remaster of the Ultraconyx mod for Terraria. The original source was made by Zee. — C# · 0 yıldız
+- [Vaerix/dbChests](https://github.com/Vaerix/dbChests) — Database based chests for TShock Terraria servers. — — · 0 yıldız
+- [vafaakhtarkhavari-jpg/sans504-cheatsheets](https://github.com/vafaakhtarkhavari-jpg/sans504-cheatsheets) — Bilingual (EN/FA) study notes & cheat sheets for SANS SEC504 - Hacker Tools, Techniques, and Incident Handling — — · 0 yıldız
+- [Vafanaso/RTAPP](https://github.com/Vafanaso/RTAPP) — (açıklama yok) — — · 0 yıldız
+- [vaghelachirag/NebulaShoppyfyI](https://github.com/vaghelachirag/NebulaShoppyfyI) — (açıklama yok) — Dart · 0 yıldız
+- [vaghelachirag/NebulaShoppyfyIos](https://github.com/vaghelachirag/NebulaShoppyfyIos) — NebulaShoppyfyIos — Objective-C · 0 yıldız
+- [vagnerbarros/css-dedicado](https://github.com/vagnerbarros/css-dedicado) — Servidor CS Source Dedicado — Dockerfile · 0 yıldız
+- [vagnerx/excel-python-sql-powerbi-cheatsheet](https://github.com/vagnerx/excel-python-sql-powerbi-cheatsheet) — (açıklama yok) — Jupyter Notebook · 0 yıldız
+- [Vagrants/blackbird-elb](https://github.com/Vagrants/blackbird-elb) — Get Amazon Web Service Elastic Load Balancing ClaudWatch metrics. — Python · 0 yıldız
+- [VAHEDABDUL/HackerrankSample](https://github.com/VAHEDABDUL/HackerrankSample) — (açıklama yok) — Java · 0 yıldız
+- [Vahid-Rahmani/network-to-cloud-sheets](https://github.com/Vahid-Rahmani/network-to-cloud-sheets) — Visual cheat sheets and architecture references connecting CCNA networking with Azure and DevOps infrastructure. — — · 0 yıldız
+- [vahidngh/dagger2Sample](https://github.com/vahidngh/dagger2Sample) — Simple usage of Dagger2 to load a simple image by Picasso. — Java · 0 yıldız
+- [VaHoa03/acb-crm-cheatsheet](https://github.com/VaHoa03/acb-crm-cheatsheet) — (açıklama yok) — TypeScript · 0 yıldız
+- [Vai147/dag-executor](https://github.com/Vai147/dag-executor) — Real-time C++20 DAG executor with lock-free channels — CMake · 0 yıldız
+- [vai4507/house-price-prediction](https://github.com/vai4507/house-price-prediction) — This project predicts housing prices using the California Housing dataset. It includes data cleaning, EDA, log transformations,… — Jupyter Notebook · 0 yıldız
+- [vaibhav-kumar-10/iFocus](https://github.com/vaibhav-kumar-10/iFocus) — Human Computer Interactions final group project, this is a reuploaded version of the source code for viewing since the original… — Python · 0 yıldız
+- [vaibhav06062005-ctrl/ai-model-deepset-deberta-v3-base-squad2](https://github.com/vaibhav06062005-ctrl/ai-model-deepset-deberta-v3-base-squad2) — AI model catalog entry for deepset/deberta-v3-base-squad2 on Hugging Face — — · 0 yıldız
+- [vaibhav06062005-ctrl/ai-model-deepset-roberta-base-squad2](https://github.com/vaibhav06062005-ctrl/ai-model-deepset-roberta-base-squad2) — AI model catalog entry for deepset/roberta-base-squad2 on Hugging Face — — · 0 yıldız
+- [vaibhav06062005-ctrl/ai-model-timpal0l-mdeberta-v3-base-squad2](https://github.com/vaibhav06062005-ctrl/ai-model-timpal0l-mdeberta-v3-base-squad2) — AI model catalog entry for timpal0l/mdeberta-v3-base-squad2 on Hugging Face — — · 0 yıldız
+- [vaibhav0806/tech-digest](https://github.com/vaibhav0806/tech-digest) — Aggregates top posts from Hacker News and Product Hunt into a single feed with a clean dark UI. Optionally sends a daily digest… — Python · 0 yıldız
+- [vaibhav200319/linux-cheat-sheet](https://github.com/vaibhav200319/linux-cheat-sheet) — (açıklama yok) — — · 0 yıldız
+- [vaibhav410/Sellix_01](https://github.com/vaibhav410/Sellix_01) — (açıklama yok) — TypeScript · 0 yıldız
+- [Vaibhav8997/linux-cheatsheet](https://github.com/Vaibhav8997/linux-cheatsheet) — A curated list of Linux commands I frequently use in my daily workflow, with practical examples — — · 0 yıldız
+- [vaibhavantil/Vigilant](https://github.com/vaibhavantil/Vigilant) — Vigilant is a free and open source Roblox game. It's a cooperative twin-stick hero-based horde-survival game. — — · 0 yıldız
+- [vaibhavarora123/VANET-Simulation-using-OMNET-](https://github.com/vaibhavarora123/VANET-Simulation-using-OMNET-) — This project is my pre-final year project based on the study of VANETs — Makefile · 0 yıldız
+- [vaibhavbai1/gymnasium-base-siege](https://github.com/vaibhavbai1/gymnasium-base-siege) — A customizable Gymnasium strategy environment for army selection and deployment, with legal-action masks. — Python · 0 yıldız
+- [VaibhavBhandari2999/Banking-System-with-Keystroke-Authentication](https://github.com/VaibhavBhandari2999/Banking-System-with-Keystroke-Authentication) — (açıklama yok) — HTML · 0 yıldız
+- [vaibhavdanao/EarthQuake_Analysis](https://github.com/vaibhavdanao/EarthQuake_Analysis) — Earthquake Realtime Global Seismic Activity Tracker Earthquake Analysis is dynamic web application that visualizes global… — Python · 0 yıldız
+- [vaibhavi9-ai/License_Mgmt_System](https://github.com/vaibhavi9-ai/License_Mgmt_System) — (açıklama yok) — JavaScript · 0 yıldız
+- [VaibhaviS123/aws-3-tier-high-availability](https://github.com/VaibhaviS123/aws-3-tier-high-availability) — Highly Available 3-Tier Web Application deployed on AWS using EC2, RDS MySQL, Application Load Balancer, Auto Scaling, VPC, Route… — — · 0 yıldız
+- [VaibhaviS123/three-tier-web-application-aws](https://github.com/VaibhaviS123/three-tier-web-application-aws) — 3-Tier Web Application deployed on AWS using EC2, RDS MySQL, Application Load Balancer, VPC, Route 53 and CloudWatch. — JavaScript · 0 yıldız
+- [VaibhavJagtap9/HibernateOperation](https://github.com/VaibhavJagtap9/HibernateOperation) — I made Hibernate connection to MySQL database and perform get, load, save, update, delete operations on user data. — — · 0 yıldız
+- [vaibhavkollipara/Apex](https://github.com/vaibhavkollipara/Apex) — Multistage Apex pipelined simulator for Computer Architecture in Java for 5 stages viz (Fetch, Decode, Execute, Memory and… — Java · 0 yıldız
+- [vaibhavkrjha/hackingtools](https://github.com/vaibhavkrjha/hackingtools) — The Best collection of Information Gathering tools along with latest frameworks. — — · 0 yıldız
+- [vaibhavm99/Door_Lock_Numpad_RFID](https://github.com/vaibhavm99/Door_Lock_Numpad_RFID) — Home locking system that unlocks with RFID band or ring, with numeric key as failsafe. — C++ · 0 yıldız
+- [vaibhavnirmal2001/Datastructure-and-algorithm-programs](https://github.com/vaibhavnirmal2001/Datastructure-and-algorithm-programs) — no. of programs : 1. linier binary and fibonacci search(string operations) 3.polynomial addition (multivariable) 4. vegetable… — C++ · 0 yıldız
+- [vaibhavrakheja11/Pixel_Wise_Deep_Sequence_Learning_Wildifire_Prediction_With_External_Features](https://github.com/vaibhavrakheja11/Pixel_Wise_Deep_Sequence_Learning_Wildifire_Prediction_With_External_Features) — Convo-LSTM2D Model that predicts the n+1th frame keeping in consideration the environmental factors like wind, forest type etc,… — Jupyter Notebook · 0 yıldız
+- [Vaibhavs006/Deadlock-Detection-and-Recovery-System-using-Banker-s-Algorithm](https://github.com/Vaibhavs006/Deadlock-Detection-and-Recovery-System-using-Banker-s-Algorithm) — A production-grade implementation of Banker's Algorithm for deadlock detection and recovery in operating systems, featuring an… — C · 0 yıldız
+- [Vaibhavverma3301/keylogger_for_windows_and_linux](https://github.com/Vaibhavverma3301/keylogger_for_windows_and_linux) — A keystroke logging software/program to log keystroke of the operating system — C++ · 0 yıldız
+- [vaibhs92/mumbai_hpp](https://github.com/vaibhs92/mumbai_hpp) — This is project mumbai house Price predition — Python · 0 yıldız
+- [vaibhs92/pune_hpp](https://github.com/vaibhs92/pune_hpp) — (açıklama yok) — Python · 0 yıldız
+- [vaillaBhargav/Emotion-Based-Music-Recommendation-System](https://github.com/vaillaBhargav/Emotion-Based-Music-Recommendation-System) — Developed a real-time facial emotion detection system using CNN, SVM, and Random Forest models to accurately classify emotions… — Python · 0 yıldız
+- [Vain21s/CPP-CheatSheet-](https://github.com/Vain21s/CPP-CheatSheet-) — (açıklama yok) — — · 0 yıldız
+- [VainAsher/project-zomboid-kb](https://github.com/VainAsher/project-zomboid-kb) — Evidence-based, source-cited Project Zomboid knowledge base (Build 41 & 42). Unofficial fan project, not affiliated with The… — Python · 0 yıldız
+- [vaiorabbit/imgui_fork](https://github.com/vaiorabbit/imgui_fork) — (açıklama yok) — — · 0 yıldız
+- [vairalsupriya15-sys/Aman_Shoppy](https://github.com/vairalsupriya15-sys/Aman_Shoppy) — (açıklama yok) — JavaScript · 0 yıldız
+- [vairalsupriya15-sys/AMAN_Shoppy-](https://github.com/vairalsupriya15-sys/AMAN_Shoppy-) — (açıklama yok) — HTML · 0 yıldız
+- [vaish2604/ChiCrashAnalysis](https://github.com/vaish2604/ChiCrashAnalysis) — SQL-based analysis of over 686,000 traffic crashes in Chicago (2018–2022) to uncover trends, causes, and fatality insights using… — — · 0 yıldız
+- [vaishali33/CS691](https://github.com/vaishali33/CS691) — Project source code for CS691 — — · 0 yıldız
+- [vaishdesh2001/InventoryApp](https://github.com/vaishdesh2001/InventoryApp) — This application helps build an efficient database and look-up system of products. It will be able to implement a hash-table of… — Java · 0 yıldız
+- [vaishnav127/House-Prices-Prediction](https://github.com/vaishnav127/House-Prices-Prediction) — Predicts the final price of each house using regression techniques based on their attributes. — Python · 0 yıldız
+- [VAISHNAVI-090/sales-etl-pipeline](https://github.com/VAISHNAVI-090/sales-etl-pipeline) — ETL pipeline for cleaning and loading sales data from CSV and JSON sources into MySQL. — Python · 0 yıldız
+- [vaishnavi-53/Vehicle_registration_and_license_monitoring_system](https://github.com/vaishnavi-53/Vehicle_registration_and_license_monitoring_system) — (açıklama yok) — HTML · 0 yıldız
+- [Vaishnavi-Dontula/online-payment-fraud-detection](https://github.com/Vaishnavi-Dontula/online-payment-fraud-detection) — Detection of the fraud payment through trained random forest model with csv files and detects it's percentage also — Python · 0 yıldız
+- [vaishnavi-parodkar/JAVAFX_JDBC](https://github.com/vaishnavi-parodkar/JAVAFX_JDBC) — A JavaFX + MySQL desktop app for employee registration with JDBC connectivity, input validation, dynamic department loading, and… — Java · 0 yıldız
+- [vaishnavi-s7/EmployeeManagementSystem](https://github.com/vaishnavi-s7/EmployeeManagementSystem) — A role-based React.js web app with a clean, dark-themed interface that makes task management simple and intuitive. Admins can… — JavaScript · 0 yıldız
+- [Vaishnavi002-ux/Deadlock-Analysis-Dashboard-Source-Code](https://github.com/Vaishnavi002-ux/Deadlock-Analysis-Dashboard-Source-Code) — (açıklama yok) — — · 0 yıldız
+- [vaishnavi162330/Restaurant-Menu-Application](https://github.com/vaishnavi162330/Restaurant-Menu-Application) — Restaurant Menu Ordering System :- This Java program simulates an interactive restaurant menu, allowing users to select from… — Java · 0 yıldız
+- [Vaishnavi22401/Inventory-management-system-by-using-key-and-value](https://github.com/Vaishnavi22401/Inventory-management-system-by-using-key-and-value) — (açıklama yok) — — · 0 yıldız
+- [VAISHNAVIAHER1/Address-Book](https://github.com/VAISHNAVIAHER1/Address-Book) — A simple C program to manage contacts. It allows users to add, edit, delete, and search for contacts. The project also includes… — C · 0 yıldız
+- [VaishnaviAlavalapati/FitLifePro-Health-Fitness-CRM-using-Salesforce](https://github.com/VaishnaviAlavalapati/FitLifePro-Health-Fitness-CRM-using-Salesforce) — FitLifePro is a Salesforce-based CRM solution for managing memberships, trainers, workout & diet plans, and customer engagement… — — · 0 yıldız
+- [VaishnaviBandaru24/Matrix-Operations-Calculator](https://github.com/VaishnaviBandaru24/Matrix-Operations-Calculator) — Develop a console-based, menu-driven application in C to perform basic matrix operations. — — · 0 yıldız
+- [vaishnavibarate26-design/ai-electricity-theft-detection](https://github.com/vaishnavibarate26-design/ai-electricity-theft-detection) — AI-based electricity theft detection using Random Forest + Streamlit dashboard — Python · 0 yıldız
+- [vaishnavididewar74-png/Selectors](https://github.com/vaishnavididewar74-png/Selectors) — A clean, educational single-page web document built using semantic HTML5 and styled with internal CSS to demonstrate fundamental… — HTML · 0 yıldız
+- [vaishnaviDixit/WebDev-Cheatsheets](https://github.com/vaishnaviDixit/WebDev-Cheatsheets) — (açıklama yok) — — · 0 yıldız
+- [vaishnavig1155/Interview-cheatsheet-generator](https://github.com/vaishnavig1155/Interview-cheatsheet-generator) — (açıklama yok) — Python · 0 yıldız
+- [Vaishnavii1501/aws_learning](https://github.com/Vaishnavii1501/aws_learning) — Welcome to my personal AWS learning journey! This repo contains weekly notes, hands-on setups, and cheat sheets as I learn AWS,… — — · 0 yıldız
+- [vaishnavijaddu5-boop/calculator](https://github.com/vaishnavijaddu5-boop/calculator) — it is a simple menu based calculator developrd by using c programming. — C · 0 yıldız
+- [Vaishnaviprabhu07/AI-EBPL-Supply-Chain-Management](https://github.com/Vaishnaviprabhu07/AI-EBPL-Supply-Chain-Management) — Businesses are increasingly leveraging AI to optimize the flow of goods—from sourcing raw materials to manufacturing and final… — Python · 0 yıldız
+- [vaishrai/LicensePlateDetectionSystem_CV](https://github.com/vaishrai/LicensePlateDetectionSystem_CV) — (açıklama yok) — Jupyter Notebook · 0 yıldız
+- [vaishuadi28-tech/Online-Sales-SQL-project](https://github.com/vaishuadi28-tech/Online-Sales-SQL-project) — A complete SQL project on Online Sales Data — includes database creation, data loading, data cleaning, and analysis of sales… — — · 0 yıldız
+- [Vajreshwari-Chaudhari/ApexShield-IMS](https://github.com/Vajreshwari-Chaudhari/ApexShield-IMS) — AI-powered insurance management system for managing customers, policies, claims, payments, and ML-based risk prediction. — Python · 0 yıldız
+- [vakhariaheet/saa-cheatsheet](https://github.com/vakhariaheet/saa-cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [vakostylevgml/git-cheat-sheet](https://github.com/vakostylevgml/git-cheat-sheet) — (açıklama yok) — — · 0 yıldız
+- [vakulverma01/C-Users-hpPython_Group_Assignment_3](https://github.com/vakulverma01/C-Users-hpPython_Group_Assignment_3) — (açıklama yok) — Jupyter Notebook · 0 yıldız
+- [Val0id/hackertools](https://github.com/Val0id/hackertools) — Hacker Api Tools — Python · 0 yıldız
+- [val1/mirror-tracy](https://github.com/val1/mirror-tracy) — Mirror of wolfpld/tracy (frozen snapshot for VirtualSpaceEngine builds; nothing of ours) — — · 0 yıldız
+- [Val767/pastel-2eftkwi](https://github.com/Val767/pastel-2eftkwi) — (açıklama yok) — — · 0 yıldız
+- [Valantin/scepRecovery](https://github.com/Valantin/scepRecovery) — Recovery menu for pspcfw — C · 0 yıldız
+- [valchetski/polish-cheat-sheet](https://github.com/valchetski/polish-cheat-sheet) — (açıklama yok) — TypeScript · 0 yıldız
+- [valdecircarvalho/guia-do-steam-deck](https://github.com/valdecircarvalho/guia-do-steam-deck) — O Guia do Steam Deck em Português — — · 0 yıldız
+- [valdepeace/translate_csvtofile](https://github.com/valdepeace/translate_csvtofile) — translate text from csv files to source code — — · 0 yıldız
+- [valdoratorz/zorara](https://github.com/valdoratorz/zorara) — zorara exec website source code (i think) — TypeScript · 0 yıldız
+- [vale-ponick/Cheatsheets](https://github.com/vale-ponick/Cheatsheets) — My cheatsheets on Swift: syntax, errors, pseuvdocode — — · 0 yıldız
+- [vale-ponick/SwiftCheats](https://github.com/vale-ponick/SwiftCheats) — Swift cheatsheets, snippets and tasks — — · 0 yıldız
+- [vale-ponick/SwiftCheatsheets](https://github.com/vale-ponick/SwiftCheatsheets) — (açıklama yok) — Swift · 0 yıldız
+- [valeair/linkedin-headline-cheatsheet](https://github.com/valeair/linkedin-headline-cheatsheet) — Free cheatsheet of LinkedIn headline formulas, templates, and before/after examples for job seekers and professionals. Complement… — — · 0 yıldız
+- [valeair/linkedin-headline-faq-cheatsheet](https://github.com/valeair/linkedin-headline-faq-cheatsheet) — Quick answers to the most common LinkedIn headline questions. Character limits, emoji usage, keyword strategy, and update… — — · 0 yıldız
+- [ValencoSilva/FallingBlocks_Vulkan](https://github.com/ValencoSilva/FallingBlocks_Vulkan) — Team project developed during college — — · 0 yıldız
+- [valent33/Halo-Infinite-MEDAL-MASHUP](https://github.com/valent33/Halo-Infinite-MEDAL-MASHUP) — Source code for the extraction and processing of a player's medal in Halo Infinite — Jupyter Notebook · 0 yıldız
+- [ValentinDutin/Arkanoid-Game](https://github.com/ValentinDutin/Arkanoid-Game) — 2D-game — — · 0 yıldız
+- [Valentineed/Minecraft](https://github.com/Valentineed/Minecraft) — 3 weekend — — · 0 yıldız
+- [valentinka222/Java-Cheat-Sheet](https://github.com/valentinka222/Java-Cheat-Sheet) — It is a cheat sheet for Java — — · 0 yıldız
+- [Valentino217/CompGraf-lab1](https://github.com/Valentino217/CompGraf-lab1) — (açıklama yok) — — · 0 yıldız
+- [valentinodh/Fatality](https://github.com/valentinodh/Fatality) — (açıklama yok) — Lua · 0 yıldız
+- [valentinoXDXD/GameSense.v2.3.1](https://github.com/valentinoXDXD/GameSense.v2.3.1) — (açıklama yok) — — · 0 yıldız
+- [valentintesta/LM-Hackers-Spanish](https://github.com/valentintesta/LM-Hackers-Spanish) — This material is a beginner introduction to Language Models [A Hackers' Guide to Language Models](https://youtu.be/jkrNMKz9pWU).… — Jupyter Notebook · 0 yıldız
+- [valentinzubok/ResolveOnce](https://github.com/valentinzubok/ResolveOnce) — A market resolution nobody is trusted to announce: final only after separated GenLayer consensus rounds read the same result on… — Python · 0 yıldız
+- [valentinzubok/ResolveOnceCore](https://github.com/valentinzubok/ResolveOnceCore) — ResolveOnce Intelligent Contract: a market outcome is final only after separated GenLayer consensus rounds read the same result… — Python · 0 yıldız
+- [valenxd123propaso/mineraft-hhistoria](https://github.com/valenxd123propaso/mineraft-hhistoria) — historia minecraft pro creado por anonymus pro hacker secret 123.exe — HTML · 0 yıldız
+- [ValePV/Hackathon-MoviSquad](https://github.com/ValePV/Hackathon-MoviSquad) — Aplicación web ideada para realizar una investigación previa a ver una película, en ella encontrarás datos de las películas y… — JavaScript · 0 yıldız
+- [Valer1an-plog/LiSanShuXue](https://github.com/Valer1an-plog/LiSanShuXue) — (açıklama yok) — Python · 0 yıldız
+- [Valeradhruvi/AI-CheatSheet](https://github.com/Valeradhruvi/AI-CheatSheet) — (açıklama yok) — TypeScript · 0 yıldız
+- [ValeraSetrakov/ExternalCameraSample](https://github.com/ValeraSetrakov/ExternalCameraSample) — (açıklama yok) — Kotlin · 0 yıldız
+- [valeriach30/FatalityGame](https://github.com/valeriach30/FatalityGame) — (açıklama yok) — Java · 0 yıldız
+- [valeriakostova-source/travel-hacker](https://github.com/valeriakostova-source/travel-hacker) — Travel Hacker Guide — — · 0 yıldız
+- [valeriew58520/cheatsheets](https://github.com/valeriew58520/cheatsheets) — small tool — — · 0 yıldız
+- [ValerioGerardiPortfolio/Rosmarino-Restaurant-UI-Project](https://github.com/ValerioGerardiPortfolio/Rosmarino-Restaurant-UI-Project) — A full set of low- and high-fidelity UI screens showing the complete restaurant journey: menu browsing, reservations, takeaway… — — · 0 yıldız
+- [valerisn/fivem-filter-v3](https://github.com/valerisn/fivem-filter-v3) — XDP/eBPF DDoS filter for FiveM and RedM servers, v3 rewrite — C · 0 yıldız
+- [valerun543/deathrun](https://github.com/valerun543/deathrun) — konular: csgo, css, deathrun, sourcemod, sourcepawn — SourcePawn · 0 yıldız
+- [valeryatmake/launch-agent-cheatsheet](https://github.com/valeryatmake/launch-agent-cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [valeryjacobs/HackaLab](https://github.com/valeryjacobs/HackaLab) — Tool for hosting hands-on labs / hackathon events. — JavaScript · 0 yıldız
+- [valeste/stat-cheatsheets](https://github.com/valeste/stat-cheatsheets) — Contains various functions to conduct common statistical tests in R using both functions or doing the test the "long way" — R · 0 yıldız
+- [valgaze/df-cheatchat](https://github.com/valgaze/df-cheatchat) — A fun DialogFlow frontend & conversational design tool supercharged with "df-cheatcodes" — HTML · 0 yıldız
+- [ValiantWind/Open-Sourced-Scripts](https://github.com/ValiantWind/Open-Sourced-Scripts) — A Repository with a set of Luau scripts I use for my Roblox games. You're free to take them if you wish. — Lua · 0 yıldız
+- [ValidusOs/system_keymaster](https://github.com/ValidusOs/system_keymaster) — (açıklama yok) — C++ · 0 yıldız
+- [Valiev-Koyiljon/tmux-cheatsheet](https://github.com/Valiev-Koyiljon/tmux-cheatsheet) — Tmux cheatsheet — — · 0 yıldız
+- [ValjeaunG/Skeet_Shooting](https://github.com/ValjeaunG/Skeet_Shooting) — Skeet shooting game. Can also shoot trap but its kind of a secret — C · 0 yıldız
+- [Valknjoggr/foundry-vtt-cheat-sheet](https://github.com/Valknjoggr/foundry-vtt-cheat-sheet) — Shortcuts and tips for Foundry VTT — — · 0 yıldız
+- [valkryant/primordial.space](https://github.com/valkryant/primordial.space) — primordial.space — Lua · 0 yıldız
+- [Valkyra54/gta6-trophy-guide-01](https://github.com/Valkyra54/gta6-trophy-guide-01) — Leonida Trophy Guide — offline guide and tracker for all 55 GTA VI PS5 trophies, with cited sources, a roadmap to the platinum… — — · 0 yıldız
+- [Valkyrie-Corporation/Crazy-Murder-Content](https://github.com/Valkyrie-Corporation/Crazy-Murder-Content) — GMOD Content Installer (🇫🇷 french community) — Batchfile · 0 yıldız
+- [valle550055/samp_sources](https://github.com/valle550055/samp_sources) — (açıklama yok) — — · 0 yıldız
+- [vallegrande/R6_Espinoza_RobertoCarlos_dbGamarraMarket](https://github.com/vallegrande/R6_Espinoza_RobertoCarlos_dbGamarraMarket) — (açıklama yok) — — · 0 yıldız
+- [ValleyWorx/Locky](https://github.com/ValleyWorx/Locky) — A Raspberry Pi based key code lock system. — JavaScript · 0 yıldız
+- [vallieres/transmission-keydnap-checker](https://github.com/vallieres/transmission-keydnap-checker) — Simple Homebrew command to scan your system for Keydnap — Shell · 0 yıldız
+- [Vallmerka/PasteWare--](https://github.com/Vallmerka/PasteWare--) — Universal roblox script — Lua · 0 yıldız
+- [Valluru-Abhinaya/Time-Series-Forecasting-Adv-Research-](https://github.com/Valluru-Abhinaya/Time-Series-Forecasting-Adv-Research-) — ## Project Overview This project forecasts German electricity load using weekly and hourly data. The project compares: -… — Jupyter Notebook · 0 yıldız
+- [Valmir008/robloxrecreation](https://github.com/Valmir008/robloxrecreation) — A Game based on Roblox just made by Me — — · 0 yıldız
+- [valmont2k/newkeydebianrepo](https://github.com/valmont2k/newkeydebianrepo) — add new key from ubuntu com to apt-get system — Shell · 0 yıldız
+- [valor352/Baseball-Hall-of-Fame-Classification-Model](https://github.com/valor352/Baseball-Hall-of-Fame-Classification-Model) — Selected appropriate datasets, cleaned the datasets, and prepared the data for merging datasets. Executed data exploration,… — Jupyter Notebook · 0 yıldız
+- [valorant-esports-tracker/valorant-esports-tracker](https://github.com/valorant-esports-tracker/valorant-esports-tracker) — (açıklama yok) — Ruby · 0 yıldız
+- [Valoriom/CheatBreaker-Modpack](https://github.com/Valoriom/CheatBreaker-Modpack) — Make your Minecraft look like CheatBreaker — — · 0 yıldız
+- [valotips/valotips.github.io](https://github.com/valotips/valotips.github.io) — Community sourced tips and setups for the videogame VALORANT — Ruby · 0 yıldız
+- [ValpoACM/Dunecraft](https://github.com/ValpoACM/Dunecraft) — Dune inspired elements for Minecraft, produced on an open source basis by ACM Valparaiso. — Java · 0 yıldız
+- [valsin132/to-do-app](https://github.com/valsin132/to-do-app) — This project is set up using Vite with React and features a dark/light mode toggle implemented via React Context. Tasks are… — JavaScript · 0 yıldız
+- [valtersgutmans2-cyber/TeamLexikaOriginal](https://github.com/valtersgutmans2-cyber/TeamLexikaOriginal) — team.LEXIKA is a new CS2 e-sports team based in Latvia. It got created on february 18 2026. Team.LEXIKA has not played an… — HTML · 0 yıldız
+- [valtinaio/Dynamic-Prices-for-Hotels](https://github.com/valtinaio/Dynamic-Prices-for-Hotels) — Optimization Algorithm to maximize revenue based on the current demand level using a Random Forest. — HTML · 0 yıldız
+- [valtttu/MTAG](https://github.com/valtttu/MTAG) — This repo contains a MATLAB-based text Text Adventure Game, the MTAG. The game world is based on the undergraduate center of… — MATLAB · 0 yıldız
+- [valxe/skeetless](https://github.com/valxe/skeetless) — (açıklama yok) — Python · 0 yıldız · arşiv
+- [Valxor/morestairs-1.20.4](https://github.com/Valxor/morestairs-1.20.4) — A simple Minecraft mod based on Fabric adding some new few stairs — Java · 0 yıldız
+- [Vam-ma/FiveMServerBase](https://github.com/Vam-ma/FiveMServerBase) — Controls basic systems, like hud, player & vehicle damage and lot more. — Lua · 0 yıldız
+- [vamika19singh/shoppyglobe](https://github.com/vamika19singh/shoppyglobe) — (açıklama yok) — JavaScript · 0 yıldız
+- [vamologl/My-Project-at-42](https://github.com/vamologl/My-Project-at-42) — 42 cursus — — · 0 yıldız
+- [Vamoss/convergencia](https://github.com/Vamoss/convergencia) — (açıklama yok) — — · 0 yıldız
+- [VampiricOz/gmod-loading-screen](https://github.com/VampiricOz/gmod-loading-screen) — this is just for my gmod loading screen. nothing to see here — HTML · 0 yıldız
+- [Vamshi-Srinivasareddy/Loan-Repayment-Prediction-using-Random-Forest](https://github.com/Vamshi-Srinivasareddy/Loan-Repayment-Prediction-using-Random-Forest) — This project predicts loan repayment using the LendingClub dataset. A Random Forest model is trained to classify borrowers based… — Jupyter Notebook · 0 yıldız
+- [Vamshi1077/AI-Genomic-s-for-Noval-Therapeutics](https://github.com/Vamshi1077/AI-Genomic-s-for-Noval-Therapeutics) — model trained by using Random Forest Classifier — — · 0 yıldız
+- [vamshi455/AzureDatabricksDWLoad](https://github.com/vamshi455/AzureDatabricksDWLoad) — This repo contains code for creating ADW(ASA) objects which is the final destination for exploring the load with Azure Databricks. — — · 0 yıldız
+- [vamshi50-sys/Employee-Management-System](https://github.com/vamshi50-sys/Employee-Management-System) — SQL data analysis project built using MySQL Workbench. Multiple CSV datasets were imported into relational tables and analyzed… — — · 0 yıldız
+- [VamshiChary05/Courier-Management-System](https://github.com/VamshiChary05/Courier-Management-System) — For a seamless eCommerce shopping experience, it is essential to deliver the product promptly to the customer. And that’s where a… — Jupyter Notebook · 0 yıldız
+- [vamshikota/WebMon](https://github.com/vamshikota/WebMon) — Quick scan of the linux server, gives you the tech spec of web services, current status, load and make some suggestions — — · 0 yıldız
+- [VamshiKrishna-117/shoppyGlobe](https://github.com/VamshiKrishna-117/shoppyGlobe) — (açıklama yok) — JavaScript · 0 yıldız
+- [VamshiKrishna-117/shoppyGlobe__backend](https://github.com/VamshiKrishna-117/shoppyGlobe__backend) — (açıklama yok) — JavaScript · 0 yıldız
+- [vamshinalla/Board-Game-Review-Prediction](https://github.com/vamshinalla/Board-Game-Review-Prediction) — Average rating of a board game is predicted based various features of the game using Linear Regression and Random Forest… — Jupyter Notebook · 0 yıldız
+- [vamshireddy/Image-Convolution-Kernel-CUDA](https://github.com/vamshireddy/Image-Convolution-Kernel-CUDA) — This is an assignment from HPP-UIUC Coursera course. In this an image will be blurred by using a filter mask. — Cuda · 0 yıldız
+- [Vamsi-krishna-4/Capstone_Project_HPPCS](https://github.com/Vamsi-krishna-4/Capstone_Project_HPPCS) — HAAI+ project for multimodal medical assistant — Python · 0 yıldız
+- [Vamsi-rocky/Address-book](https://github.com/Vamsi-rocky/Address-book) — Address Book is a C-based console application that allows users to create, search, edit, delete, list, and save contacts. It… — C · 0 yıldız
+- [vamsikrishna125/Kafka-Cheat-Sheet](https://github.com/vamsikrishna125/Kafka-Cheat-Sheet) — Kafka Cheat Sheet — — · 0 yıldız
+- [vamsikrishna125/Snowflake-Cheat-Sheet-for-DE](https://github.com/vamsikrishna125/Snowflake-Cheat-Sheet-for-DE) — Snowflake cheat sheet for Data Engineering — — · 0 yıldız
+- [vamsikrishnasatyasai88-alt/Smart-IT-Helpdesk-Ticketing-and-SLA-Tracking-System](https://github.com/vamsikrishnasatyasai88-alt/Smart-IT-Helpdesk-Ticketing-and-SLA-Tracking-System) — The Smart IT Helpdesk Ticketing and SLA Tracking System is a Java-based desktop application designed to streamline IT support at… — — · 0 yıldız
+- [vamsipenmetsa/cheatsheet-generator](https://github.com/vamsipenmetsa/cheatsheet-generator) — generate the cheatsheet — Vue · 0 yıldız
+- [vamsivanama2222/LoadCSFtoMySQLDB](https://github.com/vamsivanama2222/LoadCSFtoMySQLDB) — The project is to load the comma separated file into Mysql DB — — · 0 yıldız
+- [VamsiYerupalle/algorithms-and-data-structures-cheat-sheet](https://github.com/VamsiYerupalle/algorithms-and-data-structures-cheat-sheet) — (açıklama yok) — Python · 0 yıldız
+- [van-con/bloodborne-cheat-sheet](https://github.com/van-con/bloodborne-cheat-sheet) — (açıklama yok) — — · 0 yıldız
+- [Vanaja-K08/ShoppyGlobe-E-commerce-Application](https://github.com/Vanaja-K08/ShoppyGlobe-E-commerce-Application) — (açıklama yok) — JavaScript · 0 yıldız
+- [vanapillimanasa/Keyboard-Monitoring-System](https://github.com/vanapillimanasa/Keyboard-Monitoring-System) — Keyboard monitoring system built in Java that logs keystrokes and sends captured data via email. This project demonstrates… — Python · 0 yıldız
+- [VanchoPiki/HFT](https://github.com/VanchoPiki/HFT) — Uniswap V3 arbitrage bot on Arbitrum: C++20 hot path, Java analytics, Solidity flash-swap executor — C++ · 0 yıldız
+- [Vandalord12/CircleAnimation](https://github.com/Vandalord12/CircleAnimation) — A simple C script that animates a loading circle as ASCII art — C · 0 yıldız
+- [vandanachauhanv60-design/GTA_BHARAT](https://github.com/vandanachauhanv60-design/GTA_BHARAT) — THIS IS MY FIRST GAME BASED ON INDIA. — TypeScript · 0 yıldız
+- [Vandanagupta123/React_Portfolio](https://github.com/Vandanagupta123/React_Portfolio) — A portfolio with a React-based GST Invoice Generator and Calculator with light/dark mode toggle, dynamic calculations, and PDF… — JavaScript · 0 yıldız
+- [VandanaMathi/Systematic-Analysis-of-Keyword-Extraction-Algorithms](https://github.com/VandanaMathi/Systematic-Analysis-of-Keyword-Extraction-Algorithms) — (açıklama yok) — Jupyter Notebook · 0 yıldız
+- [vandanaPGaallee/ImageClassification](https://github.com/vandanaPGaallee/ImageClassification) — Classifies Images to predefined categories using different classifiers and the final prediction is based on ensemble of… — Jupyter Notebook · 0 yıldız
+- [VandanaSV/HackathonSampleApp](https://github.com/VandanaSV/HackathonSampleApp) — (açıklama yok) — Java · 0 yıldız
+- [Vandenberghe-Leo/cheatsheet](https://github.com/Vandenberghe-Leo/cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [VanderCat/gmodhtmlhud](https://github.com/VanderCat/gmodhtmlhud) — Garry's Mod HTML based HUD proof of concept (pls use it only for implementing it yourself (code is very poorly made and probably… — JavaScript · 0 yıldız
+- [VanderleyJ/ProjectZomboid](https://github.com/VanderleyJ/ProjectZomboid) — Site criado com base das aulas da disciplina de Introdução a Tecnologia Web do 1° Período de Sistemas de Informação do UniRios. — HTML · 0 yıldız
+- [VanditaSoni/AI-text-summarizer](https://github.com/VanditaSoni/AI-text-summarizer) — A web-based AI Text Summarizer using Flask and Hugging Face's BART transformer model. Supports both voice and typed input, with… — — · 0 yıldız
+- [Vandna-Shobran/State-of-Maryland-Vehicle-Accident-Report](https://github.com/Vandna-Shobran/State-of-Maryland-Vehicle-Accident-Report) — The State of Maryland experiences thousands of vehicle accidents each year, resulting in significant economic, social, and human… — Jupyter Notebook · 0 yıldız
+- [vandrada/csb](https://github.com/vandrada/csb) — Source code for Summer 2014 internship at UTHSCSA; excuse all the commits — Python · 0 yıldız
+- [vanechkavanya15-max/m2dev-client-x64](https://github.com/vanechkavanya15-max/m2dev-client-x64) — Metin2 Dev Client x64 Modern C++23 Architecture (2026) — — · 0 yıldız
+- [Vanessa-Vela/grupo1-nube-so](https://github.com/Vanessa-Vela/grupo1-nube-so) — Arquitectura de Software - Grupo 1 (cheat sheet) — HCL · 0 yıldız
+- [VanessaMtzMtz/EcoGuardiansOfOlympus](https://github.com/VanessaMtzMtz/EcoGuardiansOfOlympus) — (açıklama yok) — — · 0 yıldız
+- [VanFanelia/darkest-dungeon-cheat-sheet](https://github.com/VanFanelia/darkest-dungeon-cheat-sheet) — Contains a Cheat Sheet for the first version of Darkest Dungeon — HTML · 0 yıldız
+- [vangajunas/git-cheat-sheet](https://github.com/vangajunas/git-cheat-sheet) — (açıklama yok) — — · 0 yıldız
+- [Vanguard-Apps/VanguardPlayer](https://github.com/Vanguard-Apps/VanguardPlayer) — Open-source music player — — · 0 yıldız
+- [vanguardco/Vanguardian](https://github.com/vanguardco/Vanguardian) — Open-source modern EDC platform for clinical research data management and auditability. — Python · 0 yıldız
+- [vanguardesports/vanguard-esports](https://github.com/vanguardesports/vanguard-esports) — Official Vanguard Esports Website — HTML · 0 yıldız
+- [vanguardesports/vanguard-esports-website](https://github.com/vanguardesports/vanguard-esports-website) — Official website of Vanguard Esports — Counter-Strike 2 organization. — HTML · 0 yıldız
+- [vanguardim/vanguard_loader](https://github.com/vanguardim/vanguard_loader) — (açıklama yok) — Lua · 0 yıldız
+- [vanhelvoirt/biab-ascii-cheatsheet](https://github.com/vanhelvoirt/biab-ascii-cheatsheet) — Printable BIAB ASCII Shotcuts cheatsheet (A4 landscape, 4 pages) — HTML · 0 yıldız
+- [vanhientran19/HVHP-BLT-WIP-MORNITOR-2](https://github.com/vanhientran19/HVHP-BLT-WIP-MORNITOR-2) — (açıklama yok) — TypeScript · 0 yıldız
+- [vanhoa2191/strokepilot](https://github.com/vanhoa2191/strokepilot) — (açıklama yok) — — · 0 yıldız
+- [vanhoa282/hvhvz](https://github.com/vanhoa282/hvhvz) — (açıklama yok) — Python · 0 yıldız
+- [vanhong-luy/Search-System](https://github.com/vanhong-luy/Search-System) — A Terraria boss assistant, powered by RAG-Based AI Search System — Python · 0 yıldız
+- [Vanhung3012/Nhom4_HVH_UngDungLichCaNhan_JAVA](https://github.com/Vanhung3012/Nhom4_HVH_UngDungLichCaNhan_JAVA) — Lập Trình Java K45 — — · 0 yıldız
+- [vaniaramirezromero/Logica-de-programacion-Conceptos-primordiales](https://github.com/vaniaramirezromero/Logica-de-programacion-Conceptos-primordiales) — Take this course for the Oracle ONE Education program - Programming Logic: Fundamental Concepts — HTML · 0 yıldız
+- [vanichx/minishell](https://github.com/vanichx/minishell) — Developed a simplified Unix shell in plain C, implementing key functionalities such as command execution, file system navigation,… — C · 0 yıldız
+- [VaniLSatc/cheatsheet](https://github.com/VaniLSatc/cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [VanirAOSP/external_quake](https://github.com/VanirAOSP/external_quake) — (açıklama yok) — C · 0 yıldız
+- [vanis1980/System-32-Cracker-](https://github.com/vanis1980/System-32-Cracker-) — System 32 Cracker / Cracks Windows 10.. System 32 Windows Keys .Bat / Cracks Windows 10 Systrem 32 Exe 64 Keys — Batchfile · 0 yıldız
+- [vanishdevstore/docs](https://github.com/vanishdevstore/docs) — Documentation for all of my paid resources. — — · 0 yıldız
+- [VanitasQQ/Excellent-World-Rp](https://github.com/VanitasQQ/Excellent-World-Rp) — Source code EXRP SAMP — Pawn · 0 yıldız · arşiv
+- [Vanitha-Thoram/ApexPlanet-WebDevelopment-Task-5](https://github.com/Vanitha-Thoram/ApexPlanet-WebDevelopment-Task-5) — Integrates all previous tasks into a comprehensive, optimized web app. Includes dynamic cart, total cost calculation, responsive… — HTML · 0 yıldız
+- [Vanjinathan23/Hackzilla-Squad-Buildathon-25](https://github.com/Vanjinathan23/Hackzilla-Squad-Buildathon-25) — Buildathon-25 (NxtWave x OpenAIacademy) — — · 0 yıldız
+- [VanKalanchoe/testingstuff](https://github.com/VanKalanchoe/testingstuff) — (açıklama yok) — — · 0 yıldız
+- [vankarjahnavi820-jpg/Automatic-street-light-using-an-LDR](https://github.com/vankarjahnavi820-jpg/Automatic-street-light-using-an-LDR) — This project automatically turns ON the street light when it gets dark and turns it OFF during daylight using an LDR sensor. It… — — · 0 yıldız
+- [vankhoa-gubit/hppd](https://github.com/vankhoa-gubit/hppd) — (açıklama yok) — CSS · 0 yıldız
+- [vanminhle/CSharp_Source_Code_Uni](https://github.com/vanminhle/CSharp_Source_Code_Uni) — (açıklama yok) — C# · 0 yıldız
+- [vanminhphan2/CoreSampleSourceMvvmKoinKotlin](https://github.com/vanminhphan2/CoreSampleSourceMvvmKoinKotlin) — core source — Kotlin · 0 yıldız
+- [VanNoah/Minecraft-Cmd-Computer](https://github.com/VanNoah/Minecraft-Cmd-Computer) — A datapack and world for Minecraft with a command based programmable computer — mcfunction · 0 yıldız
+- [VanorFeadiel/SpawnChunkChallenges](https://github.com/VanorFeadiel/SpawnChunkChallenges) — Project Zomboid mod that traps players in chunks area until they accomplish certain conditions to leave their chunk based on the… — Lua · 0 yıldız
+- [VanoStreyPracticum/GitCheatSheet](https://github.com/VanoStreyPracticum/GitCheatSheet) — (açıklama yok) — — · 0 yıldız
+- [vansangnina/source_sample_new](https://github.com/vansangnina/source_sample_new) — source_sample_new — PHP · 0 yıldız
+- [vansh496/APEX-EXTERNALL-DLL-0B55](https://github.com/vansh496/APEX-EXTERNALL-DLL-0B55) — (açıklama yok) — — · 0 yıldız
+- [vansh5126/minecraft-themed-hackathon](https://github.com/vansh5126/minecraft-themed-hackathon) — (açıklama yok) — JavaScript · 0 yıldız
+- [vanshbhutani1405/Quora-Question-Pairs-NLP](https://github.com/vanshbhutani1405/Quora-Question-Pairs-NLP) — Built an end-to-end NLP system to detect duplicate questions using feature engineering + text vectorization. Experimented with… — Jupyter Notebook · 0 yıldız
+- [vanshgupta06/Python-CheatSheet](https://github.com/vanshgupta06/Python-CheatSheet) — (açıklama yok) — Python · 0 yıldız
+- [VanshhShah/RoastMyTaste](https://github.com/VanshhShah/RoastMyTaste) — roasts you based on your Spotify, GitHub, Chess or VALORANT — JavaScript · 0 yıldız
+- [Vanshika200314/Image-Quality-Analyzer-](https://github.com/Vanshika200314/Image-Quality-Analyzer-) — An AI-powered web application built with Streamlit and TensorFlow to classify the quality of images. The model is trained to… — Python · 0 yıldız
+- [Vanshika200314/ImageQualityAnalyzer-](https://github.com/Vanshika200314/ImageQualityAnalyzer-) — An AI-powered web application built with Streamlit and TensorFlow to classify the quality of images. The model is trained to… — Python · 0 yıldız
+- [Vanshikasaini2808/COVID-19-Mortality-Statstical-Insights-Using-R-](https://github.com/Vanshikasaini2808/COVID-19-Mortality-Statstical-Insights-Using-R-) — This project utilizes statistical methods in R to evaluate COVID-19 mortality trends. It examines demographic factors like age… — R · 0 yıldız
+- [vanshjain198/Customer-Behavior-Analysis](https://github.com/vanshjain198/Customer-Behavior-Analysis) — End-to-end data analytics project involving data loading, cleaning, exploratory data analysis (EDA), SQL querying using… — Jupyter Notebook · 0 yıldız
+- [vanshR18/Twitter_Sentiment-Using-LSTM](https://github.com/vanshR18/Twitter_Sentiment-Using-LSTM) — Trained a Bidirectional LSTM on 1.6 million tweets from the Sentiment140 dataset to classify text as Positive or Negative. Built… — Jupyter Notebook · 0 yıldız
+- [vanshraghav17/gta-cheatcodes.](https://github.com/vanshraghav17/gta-cheatcodes.) — (açıklama yok) — HTML · 0 yıldız
+- [vanshsehgal08/Cheatsheets](https://github.com/vanshsehgal08/Cheatsheets) — A collection of cheatsheets for various infosec tools and topics. — — · 0 yıldız
+- [vanshsharma-2005/Sentiment-Analysis-amazon-alexa](https://github.com/vanshsharma-2005/Sentiment-Analysis-amazon-alexa) — Built an NLP-based sentiment analysis system using classical text preprocessing techniques. Applied text cleaning, stopword… — Jupyter Notebook · 0 yıldız
+- [Vanshu-codes/Salary-Prediction](https://github.com/Vanshu-codes/Salary-Prediction) — The project involved salary prediction: data loading, cleaning (handling duplicates, NaNs), Label Encoding, data splitting,… — Python · 0 yıldız
+- [vanshvarshney2016-linux/vanshvarshney2016-linux.github.io](https://github.com/vanshvarshney2016-linux/vanshvarshney2016-linux.github.io) — This is a python cheat sheet — — · 0 yıldız
+- [vanshvmehta/SQuAD-Question-Answering-with-GPT2](https://github.com/vanshvmehta/SQuAD-Question-Answering-with-GPT2) — Implemented and fine-tuned a GPT2-based question-answering model on the Stanford Question Answering Dataset (SQuAD), achieving… — Jupyter Notebook · 0 yıldız
+- [vansyson1308/push-in-boots-web](https://github.com/vansyson1308/push-in-boots-web) — Push In Boots - web build (deploy-only, GitHub Pages). Source lives in jam-siege@boots. — JavaScript · 0 yıldız
+- [VantageEX/infamous-first-light-pc](https://github.com/VantageEX/infamous-first-light-pc) — Unofficial native PC port of inFAMOUS First Light (PS4). Bring your own game dump - no game files included. — — · 0 yıldız
+- [vantastudios-dot/hikari-restaurant](https://github.com/vantastudios-dot/hikari-restaurant) — Premium sushi restaurant website featuring reservation system, menu showcase, and luxury dark aesthetic. Demonstrates full-stack… — JavaScript · 0 yıldız
+- [VANTHIYATHEVANN/Forest-Fire-Burnt-Area-Prediction](https://github.com/VANTHIYATHEVANN/Forest-Fire-Burnt-Area-Prediction) — Contains the data and the Models used for predicting burnt area in a region based on environmental factors. — Jupyter Notebook · 0 yıldız
+- [Vanwater/ZyWoO_Play](https://github.com/Vanwater/ZyWoO_Play) — Counter Striker2(反恐精英2)游戏逆向工程实例 （模仿游戏"外挂"、读取游戏数据结构） 特此声明：本程序仅用于演示程序逆向工程，如有损失与本人无关 — — · 0 yıldız
+- [Vanya-tech279/shoppyglobe](https://github.com/Vanya-tech279/shoppyglobe) — (açıklama yok) — JavaScript · 0 yıldız
+- [Vanya-tech279/shoppyglobe_backend](https://github.com/Vanya-tech279/shoppyglobe_backend) — (açıklama yok) — JavaScript · 0 yıldız
+- [VanZhang-SN9037/HPPaaS_3rdLibs](https://github.com/VanZhang-SN9037/HPPaaS_3rdLibs) — 第三方库依赖库 — — · 0 yıldız
+- [Vapex1337/skeet](https://github.com/Vapex1337/skeet) — locations — — · 0 yıldız
+- [Vaporjawn/awesome-esports-apis](https://github.com/Vaporjawn/awesome-esports-apis) — Curated esports and game stats APIs: Riot, Valve, Blizzard, PandaScore, Liquipedia, OpenDota, STRATZ, SDKs, bots and datasets for… — JavaScript · 0 yıldız
+- [vaporsoftwares/Client](https://github.com/vaporsoftwares/Client) — How to make a minecraft client (no, not a hacked client, smh) — — · 0 yıldız · arşiv
+- [vaporvee/BoundlessHorizons](https://github.com/vaporvee/BoundlessHorizons) — The Boundless Horizons modpack config files, issue tracker and server source — Java · 0 yıldız · arşiv
+- [vaporxx255/Airodi-Base_Fivem](https://github.com/vaporxx255/Airodi-Base_Fivem) — (açıklama yok) — — · 0 yıldız
+- [vapour-a/minecraft-iposp](https://github.com/vapour-a/minecraft-iposp) — The source code for minecraft-iposp — — · 0 yıldız
+- [vaqel/SCT-Smart-Car-Tool.-Spawner-DV](https://github.com/vaqel/SCT-Smart-Car-Tool.-Spawner-DV) — Smart Car Tool / Spawner & DV — Lua · 0 yıldız
+- [Var4ynn/CSS-Cheatsheet](https://github.com/Var4ynn/CSS-Cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [Var4ynn/HTML-Cheatsheet](https://github.com/Var4ynn/HTML-Cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [Vara-234/Customer-Churn-Prediction-in-the-Telecom-using-ML](https://github.com/Vara-234/Customer-Churn-Prediction-in-the-Telecom-using-ML) — Developed an ML-based customer churn prediction system using the IBM Telco dataset. Compared Logistic Regression, Decision Tree,… — — · 0 yıldız
+- [vara910/Azure-PowerShell-CheatSheet](https://github.com/vara910/Azure-PowerShell-CheatSheet) — Cheatsheet with the most common Microsoft Azure PowerShell commands with examples. — — · 0 yıldız
+- [Varad2812/ResourceGuard](https://github.com/Varad2812/ResourceGuard) — C-based Banker's Algorithm deadlock avoidance simulator with a React dashboard — TypeScript · 0 yıldız
+- [VaradanKumar/apb-systemverilog-verification](https://github.com/VaradanKumar/apb-systemverilog-verification) — Class-based SystemVerilog APB verification testbench and APB slave design. — SystemVerilog · 0 yıldız
+- [varalakshmi-2007/Food-ordering-system](https://github.com/varalakshmi-2007/Food-ordering-system) — Food Ordering System is a console-based C++ application that allows users to view the food menu, select food items, enter… — — · 0 yıldız
+- [vardhancode/Heart-Disease-Dataset](https://github.com/vardhancode/Heart-Disease-Dataset) — Worked on the Heart Disease Dataset to train a Decision Tree Classifier and a Random Forest Classifier — Jupyter Notebook · 0 yıldız
+- [Vardkor/-Prototype-Make-A-Mess](https://github.com/Vardkor/-Prototype-Make-A-Mess) — (açıklama yok) — — · 0 yıldız
+- [VarduhiGalstyan/hvhdesigner](https://github.com/VarduhiGalstyan/hvhdesigner) — 3D CAD Design Software for Industrial Equipment — Vue · 0 yıldız
+- [VarelaIT/podmanCommands](https://github.com/VarelaIT/podmanCommands) — Podman cheat sheet — — · 0 yıldız
+- [VarezY/Minecraft-Backbone-Server](https://github.com/VarezY/Minecraft-Backbone-Server) — Source Code untuk Backbone Minecraft Server — Python · 0 yıldız
+- [Variadicism-zz/CSE340Project](https://github.com/Variadicism-zz/CSE340Project) — This is the C source code for Project #1 of CSE340 in Spring 2015. — Objective-C · 0 yıldız
+- [Variadicism-zz/CSE434-UDP-BlackJack](https://github.com/Variadicism-zz/CSE434-UDP-BlackJack) — This is the source code for a school assignment; nothing to see here! — C · 0 yıldız
+- [varigeri92/project_genesis](https://github.com/varigeri92/project_genesis) — (açıklama yok) — — · 0 yıldız
+- [Varis125/ChatbotMitigasiSampahKKN](https://github.com/Varis125/ChatbotMitigasiSampahKKN) — Repository ini berisi source code untuk ChatbotMitigasiSampahKKN. Chatbot ini merupakan salah satu program kerja KKN yang… — Python · 0 yıldız
+- [varitomirandacr/cybersec](https://github.com/varitomirandacr/cybersec) — cybersec tools cheat sheet — JavaScript · 0 yıldız
+- [VARL46/Rodriguez-Victor-M08-Final-Project](https://github.com/VARL46/Rodriguez-Victor-M08-Final-Project) — This is a final project in which the user will be able to add items from a menu and get the price and total for those items… — — · 0 yıldız
+- [Varma1819/hvhvh-](https://github.com/Varma1819/hvhvh-) — vhv — — · 0 yıldız
+- [varnika-saini/Cheatsheet-template](https://github.com/varnika-saini/Cheatsheet-template) — (açıklama yok) — HTML · 0 yıldız
+- [varraadd/wine_quality_prediction](https://github.com/varraadd/wine_quality_prediction) — Wine Quality Prediction using a Random Forest model: loads and preprocesses the dataset, performs exploratory analysis, and… — Jupyter Notebook · 0 yıldız
+- [Varsha-Boddapati-24/shoppyGlobe](https://github.com/Varsha-Boddapati-24/shoppyGlobe) — (açıklama yok) — JavaScript · 0 yıldız
+- [varsha852/new-repo-HPP](https://github.com/varsha852/new-repo-HPP) — (açıklama yok) — Jupyter Notebook · 0 yıldız
+- [varshaakulandaivelu/Keyless-Doorlocking-System](https://github.com/varshaakulandaivelu/Keyless-Doorlocking-System) — In houses, apartment complexes, fraternities ,owner should maintain their door lock keys safely. If they get to miss the door… — Python · 0 yıldız
+- [varshaavk/KEYLESS-DOORLOCKING-SYSTEM](https://github.com/varshaavk/KEYLESS-DOORLOCKING-SYSTEM) — An IoT based Application that provides authentication to the user for opening the door locks. Its will categorized the… — Python · 0 yıldız
+- [varshabiradar028/git-cheatsheet-for-github](https://github.com/varshabiradar028/git-cheatsheet-for-github) — (açıklama yok) — — · 0 yıldız
+- [varsharamesh82/AnalyzeBirdStrikes](https://github.com/varsharamesh82/AnalyzeBirdStrikes) — Built a database that can be used to analyze bird strikes on aircraft logical data model, a relational schema, realize the… — HTML · 0 yıldız
+- [varshasrishankar-droid/dark-kitchen-operations-intelligence](https://github.com/varshasrishankar-droid/dark-kitchen-operations-intelligence) — A SQL and Power BI-based business intelligence platform that analyzes dark-kitchen food delivery operations, customer experience,… — — · 0 yıldız
+- [varshathejes/ipl-analysis](https://github.com/varshathejes/ipl-analysis) — The project calculates overall scores for each player and team based on the provided weights and selects the team with the… — — · 0 yıldız
+- [varshathejes/Prediction-of-best-team-in-CLF](https://github.com/varshathejes/Prediction-of-best-team-in-CLF) — The project calculates overall scores for each player and team based on the provided weights and selects the team with the… — Jupyter Notebook · 0 yıldız
+- [varshik2554/SRMS_AP24110011542](https://github.com/varshik2554/SRMS_AP24110011542) — Student Management System in C with file-based storage and role-based logins. Supports CRUD operations on student records and… — C · 0 yıldız
+- [Varshik7/shoppyglobe](https://github.com/Varshik7/shoppyglobe) — (açıklama yok) — JavaScript · 0 yıldız
+- [Varshik7/shoppyglobe-api](https://github.com/Varshik7/shoppyglobe-api) — (açıklama yok) — JavaScript · 0 yıldız
+- [varshini-svg/Shell---Forest-Fire-Detection](https://github.com/varshini-svg/Shell---Forest-Fire-Detection) — The main idea is that forest fires are strongly influenced by factors such as temperature, humidity, wind speed, rainfall, soil… — Jupyter Notebook · 0 yıldız
+- [Varshini-Thota/Employee-Management-System](https://github.com/Varshini-Thota/Employee-Management-System) — A C-based Employee Management System that allows adding, searching, updating, and deleting employee records using structures and… — C · 0 yıldız
+- [varshini311/AI-Based-Current-Estimation-during-Current-sensor-failure-in-power-system](https://github.com/varshini311/AI-Based-Current-Estimation-during-Current-sensor-failure-in-power-system) — AI Based cuurent Estimation During current sensor failure in power system using random forest regression in this we used to find… — — · 0 yıldız
+- [Varshinin87/APB_Based_UART](https://github.com/Varshinin87/APB_Based_UART) — This project implements a UART (Universal Asynchronous Receiver Transmitter) with an AMBA APB (Advanced Peripheral Bus)… — Verilog · 0 yıldız
+- [Varshiniprabagaran/LDR-automatic-Light-Detector](https://github.com/Varshiniprabagaran/LDR-automatic-Light-Detector) — An LDR-based automatic lighting circuit that detects darkness and turns the LED ON using a transistor. — — · 0 yıldız
+- [Varshitcode14/student-management-portal](https://github.com/Varshitcode14/student-management-portal) — The provided C code is a menu-based system for students to cast votes on meals, check marks, attendance, and other details. It… — C · 0 yıldız
+- [varshithachelluru/QuizApplication-C](https://github.com/varshithachelluru/QuizApplication-C) — Console-based Quiz Application in C with a menu, scoring, and rules display. Suitable for beginners and STEP applicants. — C · 0 yıldız
+- [VarshithG/thewaragain](https://github.com/VarshithG/thewaragain) — APUSH 2022-2023 final, text based ww2 simulator game — Java · 0 yıldız
+- [Varshithkumars03/react-routing-showcase](https://github.com/Varshithkumars03/react-routing-showcase) — A React-based multi-page Single Page Application demonstrating client-side routing using React Router. Features Dashboard,… — JavaScript · 0 yıldız
+- [VarSiv/SQL-cheatsheet](https://github.com/VarSiv/SQL-cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [vartak17/linux](https://github.com/vartak17/linux) — The Unix operating system was conceived and implemented in 1969, at AT&T's Bell Labs, in the United States by Ken Thompson,… — — · 0 yıldız
+- [VartikaaJoshi/Fatality_Analysis_Reporting_System](https://github.com/VartikaaJoshi/Fatality_Analysis_Reporting_System) — (açıklama yok) — HTML · 0 yıldız
+- [varu-tyagi/Restauraunt-menu](https://github.com/varu-tyagi/Restauraunt-menu) — A c language based code on the menu of a restauraunt — C · 0 yıldız
+- [Varun-Gambhir/Latency-Aware-PR-Benchmarking](https://github.com/Varun-Gambhir/Latency-Aware-PR-Benchmarking) — Latency-Aware PR Benchmarking is an agentic system for HFT C++. It mines GitHub PRs for intent, using a Multi-Agent ReAct loop… — Python · 0 yıldız
+- [varun-official/cheatsheet](https://github.com/varun-official/cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [Varun-Pattalachinti/CS50-Mobile](https://github.com/Varun-Pattalachinti/CS50-Mobile) — Source code from CS50 mobile lecture — JavaScript · 0 yıldız
+- [varun-v2021/HackerRankSample](https://github.com/varun-v2021/HackerRankSample) — (açıklama yok) — Java · 0 yıldız
+- [Varun0530/Heart-Diseases-Detection](https://github.com/Varun0530/Heart-Diseases-Detection) — The Heart Disease Detection ML Web Application uses Random Forest ML algorithm and Flask to predict the likelihood of heart… — Python · 0 yıldız
+- [varun07-io/hpp](https://github.com/varun07-io/hpp) — (açıklama yok) — Jupyter Notebook · 0 yıldız
+- [varun07-io/hpp1](https://github.com/varun07-io/hpp1) — (açıklama yok) — Jupyter Notebook · 0 yıldız
+- [varun5041/GitCheatSheetPractice](https://github.com/varun5041/GitCheatSheetPractice) — timepass learning git — — · 0 yıldız
+- [varunathithiya300/GUVI_Project_3_Energy_Efficiency](https://github.com/varunathithiya300/GUVI_Project_3_Energy_Efficiency) — A comparison of Linear Regression and Random Forest in predicting the Heating & Cooling Load of buidings. — Jupyter Notebook · 0 yıldız
+- [VarunBallal-0912/Hotel-Management-System](https://github.com/VarunBallal-0912/Hotel-Management-System) — Hotel Management System (C++) 🏨 A console-based project developed in C++ that helps manage basic hotel operations. 🔹 Features:… — C++ · 0 yıldız
+- [varunchoudhary/sentiment_analysis](https://github.com/varunchoudhary/sentiment_analysis) — an app that predicts nature of data given to it based on the voted classifier algorithm where every selected classifier has its… — Python · 0 yıldız
+- [VarunDaBirb/Varun-s-Everything-Pack](https://github.com/VarunDaBirb/Varun-s-Everything-Pack) — Minecraft Resource Pack Custom Made By Varun! DON'T TRUST ANY OTHER SOURCES — HTML · 0 yıldız
+- [varunjain999/Arcade_Zone](https://github.com/varunjain999/Arcade_Zone) — A C++ console game hub “Arcade Zone” with four mini-games: Rock-Paper-Scissors, Lottery Guess, Math-o-Meter quiz, and Snake &… — C++ · 0 yıldız
+- [Varunkmr481/The-React-Cheatsheet-2025](https://github.com/Varunkmr481/The-React-Cheatsheet-2025) — (açıklama yok) — JavaScript · 0 yıldız
+- [varunkumargera/reggression-and-classification-models-car-sales-data](https://github.com/varunkumargera/reggression-and-classification-models-car-sales-data) — This project uses three regression models namely linear regressor, random forest regressor and gradient boosting regressor to… — Jupyter Notebook · 0 yıldız
+- [varunkumarr-cv/SampleHackerRank](https://github.com/varunkumarr-cv/SampleHackerRank) — (açıklama yok) — — · 0 yıldız
+- [VarunMoorjani/Article-Spam-Classification](https://github.com/VarunMoorjani/Article-Spam-Classification) — Converted json files to a dataset of articles. Using blacklisted companies to classify the existing dataset as spam or not.… — Jupyter Notebook · 0 yıldız
+- [VarunNShenoy/KQL-CheatSheet](https://github.com/VarunNShenoy/KQL-CheatSheet) — A practical KQL cheat sheet for SOC analysts covering day-to-day tasks. — — · 0 yıldız
+- [VarunNShenoy/Notes](https://github.com/VarunNShenoy/Notes) — This repository contains my personal notes, tryhackme lab walkthroughs, cheat sheets, and research gathered while learning and… — — · 0 yıldız
+- [varunpra97/CS229-Project](https://github.com/varunpra97/CS229-Project) — Experiments to perform fine tunning on GLUE tasks for ROBERTa base model — TeX · 0 yıldız
+- [varunSinghGIT/CKD_trained_models](https://github.com/varunSinghGIT/CKD_trained_models) — Trained multiple models (KNN, Decision Tree, Random Forest, Logistic Regression, AdaBoost, Naive Bayes) on the Chronic Kidney… — Jupyter Notebook · 0 yıldız
+- [varunsrivastav832-cpu/Java-AI-Chatbot](https://github.com/varunsrivastav832-cpu/Java-AI-Chatbot) — Java Swing-based educational chatbot with a modern dark GUI, rule-based responses, and Java programming help. — Java · 0 yıldız
+- [VarunSunderRajan/Google-HTML-CSS-Clone](https://github.com/VarunSunderRajan/Google-HTML-CSS-Clone) — Cloning Google's simple yet effective front-end — HTML · 0 yıldız
+- [varunvijayv/Car_License_Plate_Detection_System_YOLOv10](https://github.com/varunvijayv/Car_License_Plate_Detection_System_YOLOv10) — repository for multimedia project — Jupyter Notebook · 0 yıldız
+- [Varuuna/ComboShip](https://github.com/Varuuna/ComboShip) — An OOTMM randomizer experience using Ship of Harkinian and 2 Ship 2 Harkinian — — · 0 yıldız
+- [VaruunK/MatrixEngine](https://github.com/VaruunK/MatrixEngine) — (açıklama yok) — — · 0 yıldız
+- [varya/bem-css-workshop-source](https://github.com/varya/bem-css-workshop-source) — (açıklama yok) — — · 0 yıldız
+- [vas0011/char-rnn-tv-scripts](https://github.com/vas0011/char-rnn-tv-scripts) — Character-level LSTM trained on Game of Thrones and The Office scripts — COGS181A Final Project — Python · 0 yıldız
+- [vas2525/HTML-CSS-Cheatsheet](https://github.com/vas2525/HTML-CSS-Cheatsheet) — HTML&CSS Cheatsheet. — HTML · 0 yıldız
+- [vasa2009/gamesensesu](https://github.com/vasa2009/gamesensesu) — skeetlesasdcdewdsacfea — — · 0 yıldız
+- [vasa2009/niggahack](https://github.com/vasa2009/niggahack) — primordial nigga dukari — — · 0 yıldız
+- [vasa2009/skeetless](https://github.com/vasa2009/skeetless) — skeetless — — · 0 yıldız
+- [VASABIcz/logitech_rust_sdk](https://github.com/VASABIcz/logitech_rust_sdk) — (açıklama yok) — Rust · 0 yıldız
+- [vasanth3/Linux-commands](https://github.com/vasanth3/Linux-commands) — Linux commands cheat sheet with practical examples for beginners, Linux System Administrators, and RHCSA learners. — — · 0 yıldız
+- [vascoalexander/mainframe-cheatsheet](https://github.com/vascoalexander/mainframe-cheatsheet) — (açıklama yok) — COBOL · 0 yıldız
+- [VascoFierce22/Hppoa](https://github.com/VascoFierce22/Hppoa) — (açıklama yok) — — · 0 yıldız
+- [vascokk/squash-ball-detector](https://github.com/vascokk/squash-ball-detector) — Original source code can be found at: https://nol.cs.nctu.edu.tw:234/open-source/TrackNet/ — — · 0 yıldız
+- [vascov032-rgb/OverlayCheat](https://github.com/vascov032-rgb/OverlayCheat) — (açıklama yok) — Java · 0 yıldız
+- [Vaseem546/DSA-Cheatsheet](https://github.com/Vaseem546/DSA-Cheatsheet) — (açıklama yok) — Python · 0 yıldız
+- [vasekagressor/kingtools](https://github.com/vasekagressor/kingtools) — (açıklama yok) — — · 0 yıldız
+- [vaserwopol/personal_cheatsheet-459](https://github.com/vaserwopol/personal_cheatsheet-459) — Personal study notes and code snippets. — — · 0 yıldız
+- [vasetskiy99/HackathonDigitalRegionAgroKomplexESP32-2019](https://github.com/vasetskiy99/HackathonDigitalRegionAgroKomplexESP32-2019) — (açıklama yok) — C++ · 0 yıldız
+- [vashish09/llm-Apex](https://github.com/vashish09/llm-Apex) — Apex LLM is a web-based platform that allows users to compare multiple Large Language Models side-by-side by giving the same… — Python · 0 yıldız
+- [vashking/GMenu-Source](https://github.com/vashking/GMenu-Source) — Repository for open source version GMenu — — · 0 yıldız
+- [Vashusinghtomar02/linux-command-cheatsheet](https://github.com/Vashusinghtomar02/linux-command-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [vasia2808/linux-cheatsheets](https://github.com/vasia2808/linux-cheatsheets) — (açıklama yok) — — · 0 yıldız
+- [VasigaranS/Virtual_Keyboard](https://github.com/VasigaranS/Virtual_Keyboard) — The Virtual Keyboard is a LASER keyboard and it has no physical buttons. Placing the finger in the paths of LASER light implies… — — · 0 yıldız
+- [Vasik96/metrics_widget](https://github.com/Vasik96/metrics_widget) — (açıklama yok) — — · 0 yıldız
+- [vasile-rares/MemoryGame](https://github.com/vasile-rares/MemoryGame) — Classic memory card matching game in C# WPF using MVVM, with multiple categories, customizable boards, timer, and save/load… — C# · 0 yıldız
+- [vasileboris/nvim-cheat-sheet](https://github.com/vasileboris/nvim-cheat-sheet) — (açıklama yok) — — · 0 yıldız
+- [Vasilis414/YimMenuV2-Autopilot](https://github.com/Vasilis414/YimMenuV2-Autopilot) — Advanced waypoint autopilot for YimMenu V2 with configurable driving modes, avoidance, recovery, and arrival stopping. — — · 0 yıldız
+- [VasilisKilindris/java-match-simulator](https://github.com/VasilisKilindris/java-match-simulator) — A Java-based Object-Oriented application simulating football matches with dynamic statistics, squad management, and algorithmic… — Java · 0 yıldız
+- [vasilnv/KnowledgeBases](https://github.com/vasilnv/KnowledgeBases) — Final project for the Knowledge Bases course in FMI — — · 0 yıldız
+- [Vasily-Olegovich/orpheum-fps](https://github.com/Vasily-Olegovich/orpheum-fps) — ORPHEUM — Midnight Siege. A sprite-based FPS in a true 3D cinema. Play in the browser via GitHub Pages. — HTML · 0 yıldız
+- [vasiread/Shoppycart](https://github.com/vasiread/Shoppycart) — (açıklama yok) — JavaScript · 0 yıldız
+- [vasishtneti/gamesense](https://github.com/vasishtneti/gamesense) — GameSense- A web-based platform that uses tagged video footage from local games to generate interactive, visual statistics. — — · 0 yıldız
+- [vasistseo/On-Page-SEO](https://github.com/vasistseo/On-Page-SEO) — ON PAGE SEO TIPS A site with psyche blowing substance can <a href="http://www.vasist.com/">business directory services in… — — · 0 yıldız
+- [vasko6d/finite-element-solver](https://github.com/vasko6d/finite-element-solver) — the source code for the finite element code I wrote for my final project in MAE261B at UCLA — Matlab · 0 yıldız · arşiv
+- [Vasoyasharan/Git-Cheat-Sheet](https://github.com/Vasoyasharan/Git-Cheat-Sheet) — (açıklama yok) — — · 0 yıldız
+- [VassiliSuhov/Dream-Game](https://github.com/VassiliSuhov/Dream-Game) — (açıklama yok) — — · 0 yıldız
+- [vasu-636/AdminPanelAuthWithChangePassword](https://github.com/vasu-636/AdminPanelAuthWithChangePassword) — (açıklama yok) — EJS · 0 yıldız
+- [vasu-636/AdminPanelAuthWithCookie](https://github.com/vasu-636/AdminPanelAuthWithCookie) — (açıklama yok) — EJS · 0 yıldız
+- [vasu-636/AdminPanelAuthWithPasswordHashing](https://github.com/vasu-636/AdminPanelAuthWithPasswordHashing) — (açıklama yok) — EJS · 0 yıldız
+- [vasuans/llm-framework-cheatsheet](https://github.com/vasuans/llm-framework-cheatsheet) — A complete cheat sheet for connecting OpenAI, Claude, Gemini, and Cohere with LangChain, LangGraph, CrewAI, and AutoGen - from… — Python · 0 yıldız
+- [VasuBB/Gamesense-AI-Mined](https://github.com/VasuBB/Gamesense-AI-Mined) — (açıklama yok) — Python · 0 yıldız
+- [vasul111/Script-sourse](https://github.com/vasul111/Script-sourse) — Open source codes for Roblox injectors that might help developers (All scripts have been removed from protection, scripts may… — — · 0 yıldız
+- [vatratabaku/shoppygrid](https://github.com/vatratabaku/shoppygrid) — (açıklama yok) — SCSS · 0 yıldız · arşiv
+- [vatsaljoshi/git-cheatsheet](https://github.com/vatsaljoshi/git-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [vatsaljoshi/vim-quick-reference-cheatsheet](https://github.com/vatsaljoshi/vim-quick-reference-cheatsheet) — vim-quick-reference-cheathseet curated by vatsal — — · 0 yıldız
+- [VatsalSDE/QuickCourt-Odoo-Hackathon2025](https://github.com/VatsalSDE/QuickCourt-Odoo-Hackathon2025) — This repository is for the final round of Odoo Hackathon 2025 Gandhinagar. — JavaScript · 0 yıldız
+- [vatstechnologies/AXI-APB-based-SoC-Integration](https://github.com/vatstechnologies/AXI-APB-based-SoC-Integration) — This Is An AXI / APB based SoC with cache implementation using verilog and simulated using Icarus Verilog — Verilog · 0 yıldız
+- [vattanac/ML-Algorithms-Cheatsheet](https://github.com/vattanac/ML-Algorithms-Cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [vaughan-collab/draft-tracker](https://github.com/vaughan-collab/draft-tracker) — Fantasy football auction draft cheat sheet app — Python · 0 yıldız
+- [Vaultz/gladiator](https://github.com/Vaultz/gladiator) — A basic console C# game. No interface and interactions, just a nice load of classes and game loops. — C# · 0 yıldız
+- [vauncent/ApexControl](https://github.com/vauncent/ApexControl) — Open-source Windows control app for the wired SteelSeries Apex Pro Mini. Early alpha: actuation, Rapid Trigger, profiles,… — Rust · 0 yıldız
+- [vavaloock/vavaloockinjected](https://github.com/vavaloock/vavaloockinjected) — INJECTED FEITO PARA O MTA — — · 0 yıldız
+- [vavlani/esports-purdue-hackathon-pubg](https://github.com/vavlani/esports-purdue-hackathon-pubg) — Created a new real-time metric to predict success of a player and drive viewer engagement — Jupyter Notebook · 0 yıldız
+- [Vawx/cobble](https://github.com/Vawx/cobble) — (açıklama yok) — — · 0 yıldız
+- [Vawx/skate](https://github.com/Vawx/skate) — (açıklama yok) — — · 0 yıldız
+- [vaxtro/bhop-maps-css](https://github.com/vaxtro/bhop-maps-css) — Bhop maps I made for Counter-Strike: Source. — — · 0 yıldız
+- [vayne1125/Social-Force-Model](https://github.com/vayne1125/Social-Force-Model) — (açıklama yok) — — · 0 yıldız
+- [vaynetian/FabricSamples-gRPC-](https://github.com/vaynetian/FabricSamples-gRPC-) — fabric node sdk练习 魔改了下官方sample 远程grpc调用 — Shell · 0 yıldız
+- [VayTheMan/KeysystemScripts](https://github.com/VayTheMan/KeysystemScripts) — (açıklama yok) — Lua · 0 yıldız
+- [VayTheMan/RobloxOffsetsAPI](https://github.com/VayTheMan/RobloxOffsetsAPI) — (açıklama yok) — — · 0 yıldız
+- [VazquezLab/Cheatsheets](https://github.com/VazquezLab/Cheatsheets) — Cheatsheets that summarize and link to trainings and tips useful for lab members — — · 0 yıldız
+- [VB6Hobbyst7/Tesla-Automation-XG-X-Interface](https://github.com/VB6Hobbyst7/Tesla-Automation-XG-X-Interface) — Remote Desktop Interface for Keyence XG-X Vision Systems — — · 0 yıldız
+- [vbaron98/HackathonFundacionEsplai](https://github.com/vbaron98/HackathonFundacionEsplai) — (açıklama yok) — HTML · 0 yıldız
+- [vbeakovic/fars](https://github.com/vbeakovic/fars) — An R package with functions to explore the US National Highway Traffic Safety Administration's Fatality Analysis Reporting System… — R · 0 yıldız
+- [vbevans94/lastfm-cher](https://github.com/vbevans94/lastfm-cher) — Last FM API app that loads albums and tracks. And caches — Java · 0 yıldız
+- [vbomfim/ballistic-missile-duel](https://github.com/vbomfim/ballistic-missile-duel) — Turn-based WW2 artillery duel in the browser: real ballistics, weather, six historical battlefields. No dependencies, no build… — JavaScript · 0 yıldız
+- [vbox-Ai/Seagull](https://github.com/vbox-Ai/Seagull) — 海鸥V8·破甲版 - AI 破甲投递与逆向工作台 — — · 0 yıldız
+- [VbsmRobotic/ROS2_SamplePkg_cpp](https://github.com/VbsmRobotic/ROS2_SamplePkg_cpp) — A simple ROS2 C++ package that demonstrates object-oriented programming concepts by creating a publisher and subscriber system.… — C++ · 0 yıldız
+- [Vc9002/markets-cheat-sheet](https://github.com/Vc9002/markets-cheat-sheet) — (açıklama yok) — Python · 0 yıldız
+- [VChaitanyaKumar/Forest_Fire_Detection_Using_Deep_Learning](https://github.com/VChaitanyaKumar/Forest_Fire_Detection_Using_Deep_Learning) — This project uses Convolutional Neural Networks to detect forest fires in images, aiming to provide early detection and reduce… — Jupyter Notebook · 0 yıldız
+- [vcheah/hacky_intel_gpu_tools-1.3](https://github.com/vcheah/hacky_intel_gpu_tools-1.3) — This is a hacked type of intel-gpu-tools-1.3 with VLV support. We can use it to read MMIO registers but the drawback is that this… — — · 0 yıldız
+- [vcheruk2/EarthQuakeReporter](https://github.com/vcheruk2/EarthQuakeReporter) — A Java based application which displays real-time earth quake information across the globe. — Java · 0 yıldız
+- [vchiuu/the-shoppies](https://github.com/vchiuu/the-shoppies) — Front-End Developer Intern Summer 2021 Challenge. A React web app to help manage Shopify's movie nominations for the upcoming… — JavaScript · 0 yıldız
+- [VChuckShunA/NashCoreEngine](https://github.com/VChuckShunA/NashCoreEngine) — (açıklama yok) — — · 0 yıldız
+- [VCNMB-Classwork/opsc-ice-task-2-2024-lisan-al-gaib](https://github.com/VCNMB-Classwork/opsc-ice-task-2-2024-lisan-al-gaib) — ST10079970 + ST10059013 opsc-ice-task-2-2024-lisan-al-gaib created by GitHub Classroom — Kotlin · 0 yıldız
+- [VCodeP/Lydian_HWID_Spoofer_1.8.4-main](https://github.com/VCodeP/Lydian_HWID_Spoofer_1.8.4-main) — (açıklama yok) — — · 0 yıldız
+- [vCore420/vRP-NZ](https://github.com/vCore420/vRP-NZ) — vCore FiveM Server, my own server left to open source for anyone to do as they please with, current WIP — JavaScript · 0 yıldız
+- [vcsawant/vh-hacker-guide](https://github.com/vcsawant/vh-hacker-guide) — Hacker Guide — CSS · 0 yıldız
+- [VCSoldier/GM13-Construct-Archive](https://github.com/VCSoldier/GM13-Construct-Archive) — Archive of All Gmod 13 Construct VMF build sources. — — · 0 yıldız
+- [vcxnith/APB-Protocol-Based-SV-Verification](https://github.com/vcxnith/APB-Protocol-Based-SV-Verification) — (açıklama yok) — — · 0 yıldız
+- [vcxnith/APB-Protocol-Based-UVM-Verification](https://github.com/vcxnith/APB-Protocol-Based-UVM-Verification) — (açıklama yok) — — · 0 yıldız
+- [vd3us/cs2cheat](https://github.com/vd3us/cs2cheat) — (açıklama yok) — — · 0 yıldız
+- [vdappdev2/vcharacter-sales](https://github.com/vdappdev2/vcharacter-sales) — sales-themed game in the spirit of the primordial trial, using vcharacter-prime created characters — TypeScript · 0 yıldız
+- [Vdasgasd/Cheatsheet-command](https://github.com/Vdasgasd/Cheatsheet-command) — My personal Cheatsheet Command as .... — JavaScript · 0 yıldız
+- [vdbxio/skeet](https://github.com/vdbxio/skeet) — Touchscreen dictation for GNOME on Wayland: a floating, dancing parrot that types what you say. Offline speech recognition. — JavaScript · 0 yıldız
+- [vdmeer/skb-java-configuration](https://github.com/vdmeer/skb-java-configuration) — Keys for configuration of an SKB system. — Java · 0 yıldız
+- [vdvman1/PackJIT](https://github.com/vdvman1/PackJIT) — A mod for Minecraft that compiles data/resource packs to Java Bytecode on load for improved performance — Java · 0 yıldız
+- [vdyalex/ssl-forceserver](https://github.com/vdyalex/ssl-forceserver) — Simple development server for Force.com, based on force-server, from Christophe Coenraets (https://github.com/ccoenraets). CORS… — JavaScript · 0 yıldız
+- [veasn98/pcileech](https://github.com/veasn98/pcileech) — (açıklama yok) — — · 0 yıldız
+- [Vebinco/Minimal-Flexbox-Cheatsheet](https://github.com/Vebinco/Minimal-Flexbox-Cheatsheet) — A clean and minimal Flexbox Cheatsheet with elegant documentation (Markdown repo) and a simple live demo page. Designed with a… — — · 0 yıldız
+- [VebzDeveloper/HTML-CheatSheet](https://github.com/VebzDeveloper/HTML-CheatSheet) — (açıklama yok) — HTML · 0 yıldız
+- [vecna47/CS2102_Project-2PassAssembler](https://github.com/vecna47/CS2102_Project-2PassAssembler) — SIMPLE Assembler and Emulator - A two-pass assembler and emulator for the SIMPLE assembly language, featuring label management,… — C++ · 0 yıldız
+- [Vector-Badger/roblox-badge-deleter](https://github.com/Vector-Badger/roblox-badge-deleter) — An elegant, open-source instrument to effortlessly mass-delete unwanted Roblox badges from your inventory. — JavaScript · 0 yıldız
+- [Ved1232/important-cheatsheet](https://github.com/Ved1232/important-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [ved7482/git-cheatsheet](https://github.com/ved7482/git-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [Vedang914/ShoppyGlobeBackend](https://github.com/Vedang914/ShoppyGlobeBackend) — (açıklama yok) — JavaScript · 0 yıldız
+- [Vedang914/ShoppyGlove](https://github.com/Vedang914/ShoppyGlove) — (açıklama yok) — JavaScript · 0 yıldız
+- [Vedangbuilds-318/Fitness-App](https://github.com/Vedangbuilds-318/Fitness-App) — Apex Fit is a modern Flutter-based fitness and health tracking app designed to help users achieve their goals through smart… — Dart · 0 yıldız
+- [Vedanshu2004/finance-dashboard](https://github.com/Vedanshu2004/finance-dashboard) — A React-based finance dashboard to track income, expenses, and spending patterns with role-based UI, dark mode, and data… — JavaScript · 0 yıldız
+- [vedant-agre/quiz-app-c](https://github.com/vedant-agre/quiz-app-c) — Menu-driven console-based quiz application in C using file handling and structures. — C · 0 yıldız
+- [Vedant003/My-Linux-Administration-Cheat-Sheet](https://github.com/Vedant003/My-Linux-Administration-Cheat-Sheet) — Linux Administrator Cheat sheet for RHEL & Cent OS — — · 0 yıldız
+- [Vedant0605/de_inferno-positioning](https://github.com/Vedant0605/de_inferno-positioning) — A simple yet comprehensive EDA on competitive matchmaking data from the game 'CSGO' — Jupyter Notebook · 0 yıldız
+- [VedantAndhale/cheatsheets](https://github.com/VedantAndhale/cheatsheets) — all my compelete cheatsheets for data (WIP) — — · 0 yıldız
+- [vedantb23/APB-Based-Multi-Channel-Sensor-Monitoring](https://github.com/vedantb23/APB-Based-Multi-Channel-Sensor-Monitoring) — (açıklama yok) — Verilog · 0 yıldız
+- [VedantChauhan101612/Shoppy_Main](https://github.com/VedantChauhan101612/Shoppy_Main) — (açıklama yok) — Java · 0 yıldız
+- [VedantHanda771/myShoppy](https://github.com/VedantHanda771/myShoppy) — (açıklama yok) — TypeScript · 0 yıldız
+- [Vedanthchimurka51-debug/delta-esports](https://github.com/Vedanthchimurka51-debug/delta-esports) — Delta Clan - Call of Duty: Mobile esports website — — · 0 yıldız
+- [VedantKulkarni4/CrackHack-HackathonCoPilot](https://github.com/VedantKulkarni4/CrackHack-HackathonCoPilot) — CrackHack is an AI-powered hackathon copilot designed to help teams transform ideas into complete, submission-ready projects… — TypeScript · 0 yıldız
+- [vedantmane/humanActivityRecognition](https://github.com/vedantmane/humanActivityRecognition) — Human Activity Recognition - HAR - has emerged as a key research area in the last years and is gaining increasing attention by… — HTML · 0 yıldız
+- [vedantmane/Storm-Analysis-Report](https://github.com/vedantmane/Storm-Analysis-Report) — Storms and other severe weather events can cause both public health and economic problems for communities and municipalities.… — HTML · 0 yıldız
+- [VedantPawar01/CardSlider](https://github.com/VedantPawar01/CardSlider) — This slider based on Valorant Characters. — CSS · 0 yıldız
+- [VedantShettyy/Team-Balancing-Algorithm](https://github.com/VedantShettyy/Team-Balancing-Algorithm) — Advanced Valorant 5v5 matchmaking algorithm using greedy initialization + local search optimization + multi-objective cost… — Python · 0 yıldız
+- [VedantSingh-dev/Cheat-Code](https://github.com/VedantSingh-dev/Cheat-Code) — cheat sheet — HTML · 0 yıldız
+- [Vedavarshini-Karthikeyan/prometheus-promql-queries](https://github.com/Vedavarshini-Karthikeyan/prometheus-promql-queries) — A practical PromQL cheat sheet covering metric selectors, label filtering, regex matching, time ranges, offsets, aggregation,… — — · 0 yıldız
+- [Vedclove/Cheat-Sheet](https://github.com/Vedclove/Cheat-Sheet) — (açıklama yok) — TeX · 0 yıldız
+- [VeDigga/Debian-To-Do-After-Installation-2025](https://github.com/VeDigga/Debian-To-Do-After-Installation-2025) — Cheat sheet for me after Installing Debian To Do 2025 — — · 0 yıldız
+- [Vedpatel2701/SAMP---HACKOUT-24](https://github.com/Vedpatel2701/SAMP---HACKOUT-24) — (açıklama yok) — — · 0 yıldız
+- [vedranvuk/cheatsheets](https://github.com/vedranvuk/cheatsheets) — cheatsheets, ai friendly — — · 0 yıldız
+- [vedzter/gradient_compensation_algorithm](https://github.com/vedzter/gradient_compensation_algorithm) — This project implements an iterative algorithm to compensate MRI gradient waveforms for eddy-current distortions. It loads system… — C++ · 0 yıldız
+- [vee-ai-researcher/MedGPT-Insights](https://github.com/vee-ai-researcher/MedGPT-Insights) — This project involves scraping doctors' details from various hospitals. The scraped data is cleaned and processed using pandas to… — Jupyter Notebook · 0 yıldız
+- [veee994/GitCheatSheet](https://github.com/veee994/GitCheatSheet) — My git cheatsheet yo — — · 0 yıldız
+- [Veemoworks/RobloxAPI](https://github.com/Veemoworks/RobloxAPI) — An open-source GUI App that allows you to interact with Roblox's API freely! — C# · 0 yıldız
+- [veenus93/command-line-cheat-sheet](https://github.com/veenus93/command-line-cheat-sheet) — Ubuntu/Linux Command Line Cheat Sheet: Essential commands, shortcuts, and tips for developers on Ubuntu/Linux. Enhance… — — · 0 yıldız
+- [Veer-2010/hvhggnh](https://github.com/Veer-2010/hvhggnh) — (açıklama yok) — JavaScript · 0 yıldız
+- [veer-gif/Hackeindonedial](https://github.com/veer-gif/Hackeindonedial) — tools-darkv1 — — · 0 yıldız
+- [VeeraEverApps/user_subscription_system](https://github.com/VeeraEverApps/user_subscription_system) — (açıklama yok) — PHP · 0 yıldız
+- [VeeraMaddy/user_subscription_system](https://github.com/VeeraMaddy/user_subscription_system) — user_subscription_system — — · 0 yıldız
+- [VeerSahil/git-cheat-sheet-modified](https://github.com/VeerSahil/git-cheat-sheet-modified) — (açıklama yok) — — · 0 yıldız
+- [Veerzeng/GraphicAlgorithm](https://github.com/Veerzeng/GraphicAlgorithm) — :octopus: :octopus:图形学论文实现 — — · 0 yıldız
+- [vegasdude/sql-cheet-sheet](https://github.com/vegasdude/sql-cheet-sheet) — A collection of SQL commands, examples, and quick reference cheat sheets. — — · 0 yıldız
+- [vegasystem545-lab/git-cheatsheet](https://github.com/vegasystem545-lab/git-cheatsheet) — Mi hoja de referencia personal de Git — — · 0 yıldız
+- [vegeta2102/sdkSample](https://github.com/vegeta2102/sdkSample) — (açıklama yok) — Kotlin · 0 yıldız
+- [Vegnics/farmbot_thesis](https://github.com/Vegnics/farmbot_thesis) — (açıklama yok) — Python · 0 yıldız
+- [Veikko1983/Steel-Bone](https://github.com/Veikko1983/Steel-Bone) — The final big school project, lasting about three months (Game Menus was my job as u can see) — C# · 0 yıldız
+- [veil-protocol/arsenal](https://github.com/veil-protocol/arsenal) — Native terminal cheat launcher for pentesters - fast curses TUI for managing and executing commands — Python · 0 yıldız
+- [Veitchie/ESP8266-minectaft-monitor](https://github.com/Veitchie/ESP8266-minectaft-monitor) — A project using the NodeMCU ESP8266 that monitors and displays minecraft server stats. — C++ · 0 yıldız
+- [Vekasssss/RoadAccident_Excel](https://github.com/Vekasssss/RoadAccident_Excel) — Engineered Excel dashboard for road accidents, can result in 10% decrease in fatalities through targeted safety measures based on… — — · 0 yıldız
+- [vekonyat/developer-cheatsheets](https://github.com/vekonyat/developer-cheatsheets) — (açıklama yok) — HTML · 0 yıldız
+- [Vektor010/cs2-autoexec](https://github.com/Vektor010/cs2-autoexec) — ⚡ CS2 Competitive Autoexec (2026 Edition) · Esports Settings (donk, ZywOo, sh1ro, m0NESY), Zero Input Lag, High-FPS Boost,… — — · 0 yıldız
+- [Vektor010/FiiO-JT1-PEQ-Presets](https://github.com/Vektor010/FiiO-JT1-PEQ-Presets) — Точные научно обоснованные PEQ пресеты для наушников FiiO / JadeAudio JT1. Устранение бубнящего мидбаса, профили для музыки и CS2… — — · 0 yıldız
+- [vel0w1/Logica-de-programacion-Primordiales](https://github.com/vel0w1/Logica-de-programacion-Primordiales) — (açıklama yok) — HTML · 0 yıldız
+- [Velasc0ar/zombie-holocaust](https://github.com/Velasc0ar/zombie-holocaust) — Zombie-Holocaust is a survival game where you can loot, build and survive a long the time, you eventually can build bases along… — Python · 0 yıldız
+- [veldan123/race-sim](https://github.com/veldan123/race-sim) — Apex Rush — web-based multiplayer race car simulator. Host a session, share a 6-digit PIN, race. Car garage, mystery box unlocks,… — JavaScript · 0 yıldız
+- [velessavun/gtag-for-mods-only-for-iis-menu](https://github.com/velessavun/gtag-for-mods-only-for-iis-menu) — gtag for mods only for iis menu — C++ · 0 yıldız
+- [velicanu/pi_18335_final_project](https://github.com/velicanu/pi_18335_final_project) — Source code for calculating millions of digits of pi in the Julia programming language for my final project for Numerical Methods. — Julia · 0 yıldız · arşiv
+- [velikiyktoto/maybe-Team-Fortress-2-source-code-idk](https://github.com/velikiyktoto/maybe-Team-Fortress-2-source-code-idk) — lmao — — · 0 yıldız
+- [VelioSource/PetHotelProject](https://github.com/VelioSource/PetHotelProject) — A project based on c++ OOP, making a CLI based menu — C++ · 0 yıldız
+- [vellen/Exam-Final-Prep](https://github.com/vellen/Exam-Final-Prep) — The source code for the final exam prep for C# part 1 at Telerik Academy 01/12/2013 — C# · 0 yıldız
+- [velnox-m/git-github-guide](https://github.com/velnox-m/git-github-guide) — Git & GitHub guide, cheat sheet, and collaboration workflow tutorial. — HTML · 0 yıldız
+- [VelocityRa/awesome-game-file-format-reversing](https://github.com/VelocityRa/awesome-game-file-format-reversing) — Collection of docs/tools/resources for reverse engineering and working with video game file formats. — — · 0 yıldız
+- [velotican/Teknomancy](https://github.com/velotican/Teknomancy) — A modification for Minecraft based on the Minecraft Forge API that allows players to use the power of the natural world and… — — · 0 yıldız
+- [velppa/cheatsheet](https://github.com/velppa/cheatsheet) — Cheat sheets for tools that I'm using — — · 0 yıldız
+- [velsonly/roblox-multi-instance](https://github.com/velsonly/roblox-multi-instance) — An open source multi instance for roblox — — · 0 yıldız
+- [Velutas/SentimentAnalysis](https://github.com/Velutas/SentimentAnalysis) — Source Files for the 419 Final Project — Python · 0 yıldız · arşiv
+- [vemarun/Scm-Scrapper](https://github.com/vemarun/Scm-Scrapper) — Steam Community Market Scrapper — PHP · 0 yıldız
+- [vemulasukrit/agentic-ai-cheatsheet](https://github.com/vemulasukrit/agentic-ai-cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [venayack-paatil/EDA](https://github.com/venayack-paatil/EDA) — ## Description A beginner-friendly EDA notebook containing concise notes, pandas and visualization examples, data preprocessing… — Jupyter Notebook · 0 yıldız
+- [vender9764-source/rivals](https://github.com/vender9764-source/rivals) — a rivals based game from roblox — HTML · 0 yıldız
+- [VenerableCreator/VenerableModLoader](https://github.com/VenerableCreator/VenerableModLoader) — VenerableModLoader is a Minecraft modloader that aims to make mods version agnostic — — · 0 yıldız
+- [venk8/SimpleDynamo-venkatsvpr](https://github.com/venk8/SimpleDynamo-venkatsvpr) — Implementation of a fault tolerant distributed key-value storage system providing linearizability and availability. Inspired by… — Java · 0 yıldız
+- [venkareddygudibandi25/springbatch_partioning](https://github.com/venkareddygudibandi25/springbatch_partioning) — A high-performance Spring Boot and Spring Batch application demonstrating multithreaded step partitioning to concurrently load… — CSS · 0 yıldız
+- [venkat7796/Linear-Regression](https://github.com/venkat7796/Linear-Regression) — A simple illustration of linear regression. The objective of this program is to predict the final grade values for a student… — Jupyter Notebook · 0 yıldız
+- [Venkata-Reddy-2002/myShoppy](https://github.com/Venkata-Reddy-2002/myShoppy) — (açıklama yok) — TypeScript · 0 yıldız
+- [venkatamadhu07/SubscriptionManagement_system](https://github.com/venkatamadhu07/SubscriptionManagement_system) — (açıklama yok) — JavaScript · 0 yıldız
+- [VenkataNikhil/open-source-cs](https://github.com/VenkataNikhil/open-source-cs) — (açıklama yok) — — · 0 yıldız
+- [venkatesan2004-mod/MYSQL-LOAD-BALANCER](https://github.com/venkatesan2004-mod/MYSQL-LOAD-BALANCER) — Auto-Load Handler for Mysql Service Stop Problem . — Python · 0 yıldız
+- [venkatesh-v19/APB-based-SPI-Core---Design-and-Verification](https://github.com/venkatesh-v19/APB-based-SPI-Core---Design-and-Verification) — (açıklama yok) — SystemVerilog · 0 yıldız
+- [venkatesh-v19/APB-based-SPI-Core-UVM-Verification](https://github.com/venkatesh-v19/APB-based-SPI-Core-UVM-Verification) — (açıklama yok) — SystemVerilog · 0 yıldız
+- [VenkateshArvind/CS633-Parallel-Computing](https://github.com/VenkateshArvind/CS633-Parallel-Computing) — MPI-based distributed 3D stencil simulation with non-blocking halo exchange and isovalue edge-crossing detection for CS633… — C · 0 yıldız
+- [venkateshavvaru/Privacy-protection-issues-on-cloud-with-key-management](https://github.com/venkateshavvaru/Privacy-protection-issues-on-cloud-with-key-management) — This project proposed new system that secures information and give protection to the client in cloud. In this Admin will upload… — — · 0 yıldız
+- [venkateshcodes/Cheatsheets](https://github.com/venkateshcodes/Cheatsheets) — (açıklama yok) — — · 0 yıldız
+- [VenkateshKad05/Coupon-Code-Page](https://github.com/VenkateshKad05/Coupon-Code-Page) — A web-based application that allows users to apply discount coupons and dynamically calculates the final price of a product. — HTML · 0 yıldız
+- [venkateshP-12/python--cheatsheet](https://github.com/venkateshP-12/python--cheatsheet) — Comprehensive Python Cheatsheet — Python · 0 yıldız
+- [venkateshP-12/python-cheatsheet](https://github.com/venkateshP-12/python-cheatsheet) — Comprehensive Python Cheatsheet — HTML · 0 yıldız
+- [VenkateshP-K/Shoppy_be](https://github.com/VenkateshP-K/Shoppy_be) — (açıklama yok) — JavaScript · 0 yıldız
+- [venkateswarluyendoti/DevOps-Cheat-Sheet-2025](https://github.com/venkateswarluyendoti/DevOps-Cheat-Sheet-2025) — (açıklama yok) — — · 0 yıldız
+- [venkatramankcse/Smart-Pad](https://github.com/venkatramankcse/Smart-Pad) — The main goal of Smart-Pad is to enhance and simplify logistics and maintenance of stock. Smart-Pad automates the process of… — — · 0 yıldız
+- [venkatviswa/sf-cheatsheets](https://github.com/venkatviswa/sf-cheatsheets) — Generator for beautiful, Salesforce-branded cheatsheet posters (Markdown → PNG/JPG/PDF) — JavaScript · 0 yıldız
+- [venktesh11/sampledemos](https://github.com/venktesh11/sampledemos) — generate the source codes — — · 0 yıldız
+- [Venky-eleven/ApeXtream-Releases](https://github.com/Venky-eleven/ApeXtream-Releases) — Official ApeXtream TV APK releases and update information. Application source code is maintained separately. — — · 0 yıldız
+- [VennDev/BeastClient](https://github.com/VennDev/BeastClient) — Badly made minecraft client — — · 0 yıldız
+- [VennelaBoda/Subscription_management_system](https://github.com/VennelaBoda/Subscription_management_system) — (açıklama yok) — JavaScript · 0 yıldız
+- [VeNoM18unil/UVM](https://github.com/VeNoM18unil/UVM) — UVM Cheat Sheet — — · 0 yıldız
+- [venom4ek/BonusTestCsvFileSource](https://github.com/venom4ek/BonusTestCsvFileSource) — (açıklama yok) — Java · 0 yıldız
+- [Venomraw/cheatsheet-](https://github.com/Venomraw/cheatsheet-) — JavaScript Programming for Web Applications — Python · 0 yıldız
+- [venoyxivivaphase/MarvelRivalsAimbotX](https://github.com/venoyxivivaphase/MarvelRivalsAimbotX) — (açıklama yok) — — · 0 yıldız
+- [venu54t/cheat-sheet](https://github.com/venu54t/cheat-sheet) — (açıklama yok) — — · 0 yıldız
+- [venuja2-RE/tuitionera-data-warehouse](https://github.com/venuja2-RE/tuitionera-data-warehouse) — Data warehouse & BI project for a fictional tuition institute (TuitionEra). Integrates MySQL, CSV, and Excel sources using Apache… — — · 0 yıldız
+- [venukalyan241-png/AI-Based-Text-to-Speech-System-Using-ESP32-and-I2C-Audio-Output-](https://github.com/venukalyan241-png/AI-Based-Text-to-Speech-System-Using-ESP32-and-I2C-Audio-Output-) — In modern embedded and IoT ecosystems, enabling natural and intuitive interaction between humans and machines is increasingly… — Python · 0 yıldız
+- [venumech/LoadLargeData](https://github.com/venumech/LoadLargeData) — Efficient way of loading large data into Mysql — Java · 0 yıldız
+- [venusrosiecheeks/Aegisub-Cheat-Sheet](https://github.com/venusrosiecheeks/Aegisub-Cheat-Sheet) — Aegisub Cheat Sheet — HTML · 0 yıldız
+- [Venvalve/Open-Source-ROBLOX-Project](https://github.com/Venvalve/Open-Source-ROBLOX-Project) — Maybe gonna upload the models somehow. — Lua · 0 yıldız
+- [VenxmHG/Overwatch-2-Hero-Picker-WIP](https://github.com/VenxmHG/Overwatch-2-Hero-Picker-WIP) — Choose the best hero in every scenario based on the enemy team and the map pick for 5v5 and 6v6 — JavaScript · 0 yıldız
+- [Vera-Firefly/mesa-25.2.0](https://github.com/Vera-Firefly/mesa-25.2.0) — (açıklama yok) — — · 0 yıldız
+- [Vera-Marie/eulen-projekt](https://github.com/Vera-Marie/eulen-projekt) — (açıklama yok) — HTML · 0 yıldız
+- [veragluscevic/mx_bounds](https://github.com/veragluscevic/mx_bounds) — dark matter mass bounds (ACTPol + Planck + primordial abundance analysis): paper materials. — Jupyter Notebook · 0 yıldız
+- [verakochiwebdeveloper/burger__menu_standart](https://github.com/verakochiwebdeveloper/burger__menu_standart) — (açıklama yok) — CSS · 0 yıldız
+- [VeraShi17/CIS6220CheatSheet_Midterm1](https://github.com/VeraShi17/CIS6220CheatSheet_Midterm1) — (açıklama yok) — TeX · 0 yıldız
+- [VerboseBard/Umbra-Against-the-Darkness](https://github.com/VerboseBard/Umbra-Against-the-Darkness) — Umbra Against the Darkness Research Wiki: historical events, people, places, sources and optional story possibilities. — JavaScript · 0 yıldız
+- [verdammnis/csgo-reportbot](https://github.com/verdammnis/csgo-reportbot) — Node Report Bot 2019 (PATCHED / the only one who fixed this script in 2019, lol) — JavaScript · 0 yıldız
+- [verdantkid/roblox-games](https://github.com/verdantkid/roblox-games) — Free open source Roblox games/maps — — · 0 yıldız
+- [VerifyHalo/HALOReader](https://github.com/VerifyHalo/HALOReader) — GUI-based FPGA Bitstream Loading, Processing, and Detection Tracking — C++ · 0 yıldız
+- [verityResearch/mcAgent](https://github.com/verityResearch/mcAgent) — A 1.7B model trained to query a verified Minecraft game-data oracle instead of recalling facts — with live-execution evals and a… — Python · 0 yıldız
+- [vermagav/bombersquad](https://github.com/vermagav/bombersquad) — Bombersquad: Squad-based AI for Bomberman — C# · 0 yıldız
+- [vermagav/gtaosp3](https://github.com/vermagav/gtaosp3) — CS 6210: RPC-Based Proxy Server — C++ · 0 yıldız
+- [vermashubham0202/Cheatsheets](https://github.com/vermashubham0202/Cheatsheets) — All DevOps tools and technologies cheatsheets. — — · 0 yıldız
+- [vermetra/GmodPlaytimeCoChapter1](https://github.com/vermetra/GmodPlaytimeCoChapter1) — All source files for the Playtime Co Chapter 1 Map — — · 0 yıldız
+- [vermilion4/cheat-sheet-app](https://github.com/vermilion4/cheat-sheet-app) — (açıklama yok) — TypeScript · 0 yıldız
+- [vermosen/dataLoaders](https://github.com/vermosen/dataLoaders) — a bunch of script/services in C# to load data — C# · 0 yıldız
+- [vernalkick/DiffableDataSourceSampleProject](https://github.com/vernalkick/DiffableDataSourceSampleProject) — (açıklama yok) — Swift · 0 yıldız
+- [VeroBc/hackaton-squad2](https://github.com/VeroBc/hackaton-squad2) — (açıklama yok) — JavaScript · 0 yıldız
+- [veronica-soreano/hvhk](https://github.com/veronica-soreano/hvhk) — (açıklama yok) — — · 0 yıldız
+- [Veronica-Wakileh/dark-light-indicator-circuit](https://github.com/Veronica-Wakileh/dark-light-indicator-circuit) — Analog Electronics project: LDR-based dark and light indicator circuit designed, calculated, and simulated using PSpice. — Scheme · 0 yıldız
+- [Veronica1207/Spell-Checker](https://github.com/Veronica1207/Spell-Checker) — This program in C that loads words from a dictionary, checks words from a separate file against the dictionary and prints out… — C · 0 yıldız
+- [veronikagupta/MeterAndSourceSampling](https://github.com/veronikagupta/MeterAndSourceSampling) — (açıklama yok) — C++ · 0 yıldız
+- [veronikastarodub/Predict-whether-a-mammogram-mass-is-benign-or-malignant](https://github.com/veronikastarodub/Predict-whether-a-mammogram-mass-is-benign-or-malignant) — The main idea of the project is to identify the best ML method: Decision Trees, Random Forest, KNN, Naive Base, Support Vector… — Jupyter Notebook · 0 yıldız
+- [Veronike98/PBHs-Seminar](https://github.com/Veronike98/PBHs-Seminar) — Seminar about Primordial Black Holes as DM candidates, prepared for the final exam of the Physical Cosmology course at SNS. — TeX · 0 yıldız
+- [veronique-01/cheat-sheet](https://github.com/veronique-01/cheat-sheet) — (açıklama yok) — — · 0 yıldız
+- [veronique-01/cheatsheet](https://github.com/veronique-01/cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [versarchery/angolahook](https://github.com/versarchery/angolahook) — improved dt, predict & resolver. LW V3 source — — · 0 yıldız
+- [versetty777/regex-cheatsheets](https://github.com/versetty777/regex-cheatsheets) — (açıklama yok) — — · 0 yıldız
+- [vershagarg2809/Hackathon-Squad](https://github.com/vershagarg2809/Hackathon-Squad) — (açıklama yok) — Python · 0 yıldız
+- [versieux-flavien/Primordial-Table](https://github.com/versieux-flavien/Primordial-Table) — (açıklama yok) — — · 0 yıldız
+- [versta33/gamesense](https://github.com/versta33/gamesense) — (açıklama yok) — PHP · 0 yıldız
+- [vert-gallant/erlang-hpp](https://github.com/vert-gallant/erlang-hpp) — (açıklama yok) — — · 0 yıldız
+- [Verteennn/executor](https://github.com/Verteennn/executor) — (açıklama yok) — — · 0 yıldız
+- [Verteennn/rob-xexternal](https://github.com/Verteennn/rob-xexternal) — (açıklama yok) — — · 0 yıldız
+- [Vertexia57/Lost-rework](https://github.com/Vertexia57/Lost-rework) — (açıklama yok) — — · 0 yıldız
+- [Vertexzoeliminate/CS2-Ultimate-Optimization](https://github.com/Vertexzoeliminate/CS2-Ultimate-Optimization) — CS2 Ultimate Optimization Script - 2026 — — · 0 yıldız
+- [Vertigo-GX/CleanerMenus](https://github.com/Vertigo-GX/CleanerMenus) — A Minecraft mod that makes certain GUI elements easier on the eyes. — Java · 0 yıldız
+- [VertigoXY/Key-Management-System](https://github.com/VertigoXY/Key-Management-System) — Key management and encrypted document sharing system (second project of the Advanced Computer Networks course) — Python · 0 yıldız
+- [vertver/Dynation](https://github.com/vertver/Dynation) — Open-source release of Dynation — — · 0 yıldız
+- [Veruh/Fusion-](https://github.com/Veruh/Fusion-) — (açıklama yok) — — · 0 yıldız
+- [vervain00ds/mta-sts.forwarding.hackerone.com](https://github.com/vervain00ds/mta-sts.forwarding.hackerone.com) — taken by v3rvain0001 — — · 0 yıldız
+- [vervain00ds/mta-sts.hackerone.com](https://github.com/vervain00ds/mta-sts.hackerone.com) — takeove-1 — — · 0 yıldız
+- [vervain00ds/mta-sts.managed.hackerone.github.io](https://github.com/vervain00ds/mta-sts.managed.hackerone.github.io) — TEST1 — — · 0 yıldız
+- [VeryCuteLookingCat/PEEntropy](https://github.com/VeryCuteLookingCat/PEEntropy) — Visualize PE section entropy for malware and binary analysis. — — · 0 yıldız
+- [verymysteriousacc/roactsetup](https://github.com/verymysteriousacc/roactsetup) — Source code for React-Devtools Roact Roblox Server connect Service. — — · 0 yıldız
+- [Verzivolli/CheatSheets](https://github.com/Verzivolli/CheatSheets) — Cheatsheet collection and drafting — — · 0 yıldız
+- [vesamet/key-siege](https://github.com/vesamet/key-siege) — An attempt to make a key-based retro siege defence game. — JavaScript · 0 yıldız
+- [vesirvit/PUBGMESP](https://github.com/vesirvit/PUBGMESP) — (açıklama yok) — — · 0 yıldız
+- [VESPIR0391/weatch_loadingscreen](https://github.com/VESPIR0391/weatch_loadingscreen) — Kendimin Yaptığı Fivem Loading Screen — — · 0 yıldız
+- [vesslanjin/PerfAnalyzer](https://github.com/vesslanjin/PerfAnalyzer) — based on an extensive scaling study and a simple ML model, we predict different SKU performance and list the HW knobs impaction… — Python · 0 yıldız
+- [VestraCode/cs1.6hackes.github.io](https://github.com/VestraCode/cs1.6hackes.github.io) — (açıklama yok) — HTML · 0 yıldız
+- [VetalM84/pentester_cheat_sheet](https://github.com/VetalM84/pentester_cheat_sheet) — Pentester tools cheat sheet — — · 0 yıldız
+- [vetementsvmnts/API-Penetration-Testing](https://github.com/vetementsvmnts/API-Penetration-Testing) — Comprehensive API Penetration Testing repository. Focused on identifying, exploiting, and mitigating vulnerabilities across REST,… — — · 0 yıldız
+- [VeteranoSecurity/penaporta](https://github.com/VeteranoSecurity/penaporta) — Pe na porta e uma plataforma educacional de cybersecurity focada em Pentest Cheat Sheets — TypeScript · 0 yıldız
+- [vetleandreas/Ridderspillet](https://github.com/vetleandreas/Ridderspillet) — yeet skeet — JavaScript · 0 yıldız
+- [vetolmedzol/react-cheat-sheet](https://github.com/vetolmedzol/react-cheat-sheet) — (açıklama yok) — — · 0 yıldız
+- [vetonJCoders/ShoppyGrid](https://github.com/vetonJCoders/ShoppyGrid) — (açıklama yok) — — · 0 yıldız
+- [VETRIVELAbishek/Fruits-Counter](https://github.com/VETRIVELAbishek/Fruits-Counter) — All components you implement should go in the src/components directory. Don't change the component folder names as those are the… — HTML · 0 yıldız
+- [Vetropack-AG/hppm_delivery_list](https://github.com/Vetropack-AG/hppm_delivery_list) — HPPM Delivery List — JavaScript · 0 yıldız
+- [Vetropack-AG/s4h-hppm_delivery_create](https://github.com/Vetropack-AG/s4h-hppm_delivery_create) — HPPM Delivery Create — JavaScript · 0 yıldız
+- [Vetropack-AG/s4h-hppm_delivery_create_internal](https://github.com/Vetropack-AG/s4h-hppm_delivery_create_internal) — (açıklama yok) — JavaScript · 0 yıldız
+- [vetxi1710/Random-Forest](https://github.com/vetxi1710/Random-Forest) — I worked on the Iris and Digits datasets from sklearn using the Random Forest algorithm. I trained and tested the model to… — Jupyter Notebook · 0 yıldız
+- [Veuchh/TP_anim_procedurale](https://github.com/Veuchh/TP_anim_procedurale) — (açıklama yok) — — · 0 yıldız
+- [VevoxDigital/Bloki](https://github.com/VevoxDigital/Bloki) — The Open-Source Minecraft Server Manager — JavaScript · 0 yıldız
+- [VevoxDigital/TakingInventory](https://github.com/VevoxDigital/TakingInventory) — An advanced, open-source, and free-to-use Minecraft launcher — JavaScript · 0 yıldız
+- [Vexeem/Fivem-Loading-Screen-V1p](https://github.com/Vexeem/Fivem-Loading-Screen-V1p) — Fivem-Loading-Screen V1p — — · 0 yıldız
+- [vexify1337/FiveM-PhysicalTherapy](https://github.com/vexify1337/FiveM-PhysicalTherapy) — Crutch Removal Script, Multiple issues fixed and functionality improved. The original script had several broken or unsupported… — Lua · 0 yıldız
+- [veyro0n/Cookie-roblox-verificator](https://github.com/veyro0n/Cookie-roblox-verificator) — Check if your cookie has been hacked ! — — · 0 yıldız
+- [Vezir92/Eziriz_Lisanslama](https://github.com/Vezir92/Eziriz_Lisanslama) — Lisanslama sistemi çalışması — — · 0 yıldız
+- [Vezir92/Eziriz_Lisanslama_1](https://github.com/Vezir92/Eziriz_Lisanslama_1) — Lisanslama sistemi çalışması — C# · 0 yıldız
+- [vezone/SimpleEngine](https://github.com/vezone/SimpleEngine) — (açıklama yok) — — · 0 yıldız
+- [vfaxian/rsyncScript](https://github.com/vfaxian/rsyncScript) — this is a shell script, used by rsync some files from a server to another server. it should use ssh key, run "ssh-keygen -t rsa… — Shell · 0 yıldız
+- [vfigunn/laravel-cheatsheet](https://github.com/vfigunn/laravel-cheatsheet) — Laravel 13 Cheat Sheet — HTML · 0 yıldız
+- [VFPhotography/pose-cheatsheet](https://github.com/VFPhotography/pose-cheatsheet) — (açıklama yok) — JavaScript · 0 yıldız
+- [vfxbdbbvcf-spec/neverlose-files](https://github.com/vfxbdbbvcf-spec/neverlose-files) — Neverlose files — — · 0 yıldız
+- [Vgarcan/Cheatsheets](https://github.com/Vgarcan/Cheatsheets) — (açıklama yok) — — · 0 yıldız
+- [vgfreak95/BloodstainedAPClient](https://github.com/vgfreak95/BloodstainedAPClient) — Official AP Client for Bloodstained: Ritual of the Night — — · 0 yıldız
+- [VGMENTAL/VG-MENT4L-](https://github.com/VGMENTAL/VG-MENT4L-) — VG MENT4L - Free Fire MAX device-based sensitivity generator and OB sensitivity update system. — HTML · 0 yıldız
+- [vgmoose/fingerpad](https://github.com/vgmoose/fingerpad) — Provides directional mouse-based movement that presses system keys (think onscreen controller instead of keyboard) — C++ · 0 yıldız
+- [vgora-frontend/angular-interview-questions](https://github.com/vgora-frontend/angular-interview-questions) — 🚀 An ultimate, high-end interactive Angular & Frontend interview cheat sheet. Features multi-version insights (Angular JS/22+),… — TypeScript · 0 yıldız
+- [vgrangep/art6022-hackathon](https://github.com/vgrangep/art6022-hackathon) — The ART6022 final hackathon project — Processing · 0 yıldız
+- [vgrankin1/rns_DH_example](https://github.com/vgrankin1/rns_DH_example) — Diffie–Hellman key exchange with residue number system — C++ · 0 yıldız
+- [vgreg/cheat-sheets](https://github.com/vgreg/cheat-sheets) — Cheat sheets in Markdown format designed to be read in the terminal or browser — — · 0 yıldız
+- [vgXhc/FARS](https://github.com/vgXhc/FARS) — Fatality Analysis Reporting System data — HTML · 0 yıldız
+- [vhai2801/BetterCheatsheet](https://github.com/vhai2801/BetterCheatsheet) — (açıklama yok) — Swift · 0 yıldız
+- [Vhcmorais/Valorant_Hackaton_Semcomp29](https://github.com/Vhcmorais/Valorant_Hackaton_Semcomp29) — This repository hosts my Valorant Observatory project, a platform for analyzing VALORANT competitive data and team performance,… — TypeScript · 0 yıldız
+- [vhkarpuk/cyber-labs-notes](https://github.com/vhkarpuk/cyber-labs-notes) — Hands-on cybersecurity labs (TryHackMe/HTB), notes and tool cheat sheets. — — · 0 yıldız
+- [vHoLanguage/CSGO_roundWinnerPred](https://github.com/vHoLanguage/CSGO_roundWinnerPred) — Modelo preditivo com a intenção de prever qual time vai ganhar o round baseado em 21 features selecionadas com base em qual tem… — Jupyter Notebook · 0 yıldız
+- [vhollo/skeetr](https://github.com/vhollo/skeetr) — (açıklama yok) — TypeScript · 0 yıldız
+- [vhorvath2010/esport_predictor](https://github.com/vhorvath2010/esport_predictor) — A neural network to predict CSGO matches — Python · 0 yıldız
+- [vhtml/skeeter](https://github.com/vhtml/skeeter) — rss订阅app — Dart · 0 yıldız
+- [viacheslav-davydenko-26-kse/hackathon-cs201-2026](https://github.com/viacheslav-davydenko-26-kse/hackathon-cs201-2026) — (açıklama yok) — Python · 0 yıldız
+- [Viacoldmenu/SAMPERIO-S](https://github.com/Viacoldmenu/SAMPERIO-S) — menú para Samperio's — HTML · 0 yıldız
+- [viajor/p2p](https://github.com/viajor/p2p) — A key-value based peer-to-peer system — Python · 0 yıldız
+- [ViAn-Monsieur/BomberGame](https://github.com/ViAn-Monsieur/BomberGame) — (açıklama yok) — — · 0 yıldız
+- [vibec-studios/RocketLoad](https://github.com/vibec-studios/RocketLoad) — Fabric client mod for faster Minecraft resource pack loading — Kotlin · 0 yıldız
+- [vibeiwthkaustubh/html-cheat-sheet](https://github.com/vibeiwthkaustubh/html-cheat-sheet) — (açıklama yok) — HTML · 0 yıldız
+- [viberblx83/Primordial.dev](https://github.com/viberblx83/Primordial.dev) — (açıklama yok) — — · 0 yıldız
+- [vibessex/lisans_Sistemi](https://github.com/vibessex/lisans_Sistemi) — (açıklama yok) — — · 0 yıldız
+- [vibhakar2007/UIDAI_Hackathon_2026](https://github.com/vibhakar2007/UIDAI_Hackathon_2026) — My first UIDAI Hackathon. This repo was made to provide the final anomalies to the report. — — · 0 yıldız
+- [vibham9876/Flood-Prediction-using-Voting-Classifier](https://github.com/vibham9876/Flood-Prediction-using-Voting-Classifier) — Made a projct which can predict the probability of Flood in an area if the data available is fed to the system and using models… — Jupyter Notebook · 0 yıldız
+- [VIBHAS777/rnn-deadlock-detection](https://github.com/VIBHAS777/rnn-deadlock-detection) — Enhancing CPU Benchmark Scores Using RNN-Based Deadlock Detection from System Logs (16th ICCCNT 2025, IIT Indore) — HTML · 0 yıldız
+- [vibhav44/HackathonNLP](https://github.com/vibhav44/HackathonNLP) — Summarization and questionaire tool — — · 0 yıldız
+- [vibhor0024/Java](https://github.com/vibhor0024/Java) — Java Cheat Sheet — Java · 0 yıldız
+- [vibhu444/loan-prediction-problem-](https://github.com/vibhu444/loan-prediction-problem-) — using random forest and decision tree predict the loan status based on given feature as attributes — Jupyter Notebook · 0 yıldız
+- [VibinToast/JetForceGemini-Recompiled](https://github.com/VibinToast/JetForceGemini-Recompiled) — Jet Force Gemini on the N64 ported to PC & Steam Deck. Supports Mouse & Keyboard, 60+ FPS and HD texture support. 100% Playable. — — · 0 yıldız
+- [VibolboliChhean/MIDTERM-LEAK](https://github.com/VibolboliChhean/MIDTERM-LEAK) — Cheat Sheet — HTML · 0 yıldız
+- [vibosphere360/itar-ear-cui-training](https://github.com/vibosphere360/itar-ear-cui-training) — Employee training: slides, quiz, cheat sheets, ITAD vendor scorecard — — · 0 yıldız
+- [Vibrant-Planet-Open-Science/growth-and-yield-ecosystem](https://github.com/Vibrant-Planet-Open-Science/growth-and-yield-ecosystem) — The emergent Open Source Ecosystem for Forest Growth & Yield — — · 0 yıldız
+- [vic-pay/jumpserver-cheat-sheet](https://github.com/vic-pay/jumpserver-cheat-sheet) — Install, configure and usage of Jumpserver PAM — — · 0 yıldız
+- [vic-pay/wsl-cheat-sheet](https://github.com/vic-pay/wsl-cheat-sheet) — (açıklama yok) — — · 0 yıldız
+- [Vic16/TFM_PurchasePrediction](https://github.com/Vic16/TFM_PurchasePrediction) — This repo contains all source code and result of my final work on the Data Science Master Degree — Jupyter Notebook · 0 yıldız
+- [Vic92548/Armalytics](https://github.com/Vic92548/Armalytics) — An open source analytics tool for arma refoerger game servers — — · 0 yıldız
+- [vice-forge/best-fivem-loading-screen-2026](https://github.com/vice-forge/best-fivem-loading-screen-2026) — Ranked as the best free FiveM loading screen script for 2026 featuring video backgrounds. — HTML · 0 yıldız
+- [vice-forge/fivem-server-loading-screen-free](https://github.com/vice-forge/fivem-server-loading-screen-free) — A premium dark-mode FiveM server loading screen, provided completely free. — HTML · 0 yıldız
+- [viced-1920/OpenSIREN](https://github.com/viced-1920/OpenSIREN) — OpenSIREN est un outil OSINT en ligne de commande écrit en Fazer (.fz) pour récupérer rapidement des informations publiques sur… — — · 0 yıldız
+- [vicenguzmann/Automated-CheatSheet-for-Active-Directory-Enumeration](https://github.com/vicenguzmann/Automated-CheatSheet-for-Active-Directory-Enumeration) — Interactive CheatSheet in Bash for Active Directory enumeration in CTFs and pentesting. — Shell · 0 yıldız
+- [Vicent00/AuthenticationPanels](https://github.com/Vicent00/AuthenticationPanels) — (açıklama yok) — TypeScript · 0 yıldız
+- [VicentBaut/Curso-2-_Logica-Programacion-Conceptos-Primordiales](https://github.com/VicentBaut/Curso-2-_Logica-Programacion-Conceptos-Primordiales) — (açıklama yok) — — · 0 yıldız
+- [vicentcorrecher/CheatSheet_SQL](https://github.com/vicentcorrecher/CheatSheet_SQL) — (açıklama yok) — — · 0 yıldız
+- [vicente-david/Circuit-Breaker](https://github.com/vicente-david/Circuit-Breaker) — (açıklama yok) — — · 0 yıldız
+- [vicenterusso/EFI-AsRock-H87-Fatality-Performance](https://github.com/vicenterusso/EFI-AsRock-H87-Fatality-Performance) — EFI Partition for AsRock Fatality Performance with H87 chipset — — · 0 yıldız
+- [vicentevendramin/Skills-and-Notes](https://github.com/vicentevendramin/Skills-and-Notes) — A personal knowledge base containing notes, summaries, cheat sheets, and hands-on examples from the technologies I study and use… — — · 0 yıldız
+- [ViceWatercolour/TextureResources](https://github.com/ViceWatercolour/TextureResources) — Pull request any textures you would like for people to use in this repository. Must be at least 16x16 and no larger than 256x256.… — — · 0 yıldız
+- [vichare/rust-cheatsheet](https://github.com/vichare/rust-cheatsheet) — Rust Cheatsheet — — · 0 yıldız
+- [vichofps/FiveM_Loader](https://github.com/vichofps/FiveM_Loader) — (açıklama yok) — — · 0 yıldız
+- [vicio-code/hackerrank-tool](https://github.com/vicio-code/hackerrank-tool) — (açıklama yok) — Python · 0 yıldız
+- [Vickey005/hpp.github.io](https://github.com/Vickey005/hpp.github.io) — (açıklama yok) — HTML · 0 yıldız
+- [Vicky-T-867/react-native-cheatsheet](https://github.com/Vicky-T-867/react-native-cheatsheet) — Copy-paste React Native (Expo) cheatsheet: buttons, inputs, layout, navigation, and reusable components. — — · 0 yıldız
+- [vicky1412/Hacking_tools](https://github.com/vicky1412/Hacking_tools) — (açıklama yok) — Python · 0 yıldız
+- [Vicky282004/SQL-CHEAT-SHEET](https://github.com/Vicky282004/SQL-CHEAT-SHEET) — (açıklama yok) — — · 0 yıldız
+- [vickyad/mouse-trap](https://github.com/vickyad/mouse-trap) — Final project of the Algoritmo e Programação course. The objective is create a C game based on the game MouseTrap, or Pacman. You… — C · 0 yıldız
+- [vickylu0929/Newspaper_subscription_management_system](https://github.com/vickylu0929/Newspaper_subscription_management_system) — (açıklama yok) — VBA · 0 yıldız
+- [vickysingh36/Automated-Mobile-Key](https://github.com/vickysingh36/Automated-Mobile-Key) — Here you can access ur door locking system though your mobile having NFC enabled. — — · 0 yıldız
+- [vickytechkey/Airflow_ETL_pyspark](https://github.com/vickytechkey/Airflow_ETL_pyspark) — Designed Data pipeline to transform the data suing pyspark and load the data in mysql db — Python · 0 yıldız
+- [vickythtaa-ux/gta6-trophy-guide](https://github.com/vickythtaa-ux/gta6-trophy-guide) — An offline GTA 6 trophy guide and tracker for PlayStation 5: all 55 trophies with sourced guides, a road to the platinum, and a… — JavaScript · 0 yıldız
+- [vickyvassilopoulou02/ornithopanida-neraidochori](https://github.com/vickyvassilopoulou02/ornithopanida-neraidochori) — Η ορνιθοπανίδα του δάσους Νεραϊδόχωρίου της ΠΕ Τρικάλων ως πηγή έμπνευσης για την δημιουργία πρότυπου εκπαιδευτικού υλικού για… — HTML · 0 yıldız
+- [vickyXuzhou/Adding-Dark-and-Light-mode](https://github.com/vickyXuzhou/Adding-Dark-and-Light-mode) — Adding Dark and Light mode to an existing code base — JavaScript · 0 yıldız
+- [Vickyymcq/Fittypro](https://github.com/Vickyymcq/Fittypro) — Fitty Pro Application Frontend — JavaScript · 0 yıldız
+- [vicmrtnz112/Linux-and-GIT-Command-Cheat-Sheet](https://github.com/vicmrtnz112/Linux-and-GIT-Command-Cheat-Sheet) — Module 1 Assignment: Python For Web API Development — — · 0 yıldız
+- [vicson1778-hue/qual-year-cheatsheet](https://github.com/vicson1778-hue/qual-year-cheatsheet) — Шпаргалка: планирование на новый квалификационный год — HTML · 0 yıldız
+- [vicswu/shoppies-award-nomination](https://github.com/vicswu/shoppies-award-nomination) — Web app that allows users to nominate 5 movies for the Shoppies Award — JavaScript · 0 yıldız
+- [victor-andreev/bash_cheatsheet](https://github.com/victor-andreev/bash_cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [Victor-Haefner/polyvr](https://github.com/Victor-Haefner/polyvr) — PolyVR - a shortcut to virtual reality — — · 0 yıldız
+- [Victor-Justin/Gitignore-Cheatsheet](https://github.com/Victor-Justin/Gitignore-Cheatsheet) — Assignment 2 — — · 0 yıldız
+- [victor-kipyegon-koech/gitignore-cheatsheet](https://github.com/victor-kipyegon-koech/gitignore-cheatsheet) — git ignore cheatsheet assigment — — · 0 yıldız
+- [VICTOR-OMEGA/Vegan-Recipe-Contest-Web-App](https://github.com/VICTOR-OMEGA/Vegan-Recipe-Contest-Web-App) — Dynamic web application for a vegan recipe contest. Uses AWS VPC for secure networking, S3 for config files and static assets,… — — · 0 yıldız
+- [victor0302/git-cheatsheet](https://github.com/victor0302/git-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [victor10days/apexive-hackaton-odoo](https://github.com/victor10days/apexive-hackaton-odoo) — AI Business Process Optimizer for Odoo - Hackathon Project — Python · 0 yıldız
+- [victoraixala/cifo](https://github.com/victoraixala/cifo) — Partial contents of the final project for the web development course of CIFO La Violeta 2019-2020 (didn't find the html sources) — JavaScript · 0 yıldız
+- [victorbarrientosboccardo/fatalitycheck](https://github.com/victorbarrientosboccardo/fatalitycheck) — Checklist de seguridad para mantención minera — HTML · 0 yıldız
+- [victorbetoni/SurvivalBases](https://github.com/victorbetoni/SurvivalBases) — Player bases mod for Minecraft — Java · 0 yıldız
+- [victorBrylystyi/cs2-weapon-viewer](https://github.com/victorBrylystyi/cs2-weapon-viewer) — CS2 weapons viewer — TypeScript · 0 yıldız
+- [VictorCabrejos/cognitive-coevolution-with-ai](https://github.com/VictorCabrejos/cognitive-coevolution-with-ai) — Author's companion to Cognitive Co-Evolution with AI: framework, chapter practice, cheat sheets, and the complete preliminary… — — · 0 yıldız
+- [victorcarvalhosp/log-parser](https://github.com/victorcarvalhosp/log-parser) — A parser in Java that parses web server access log file, loads the log to MySQL and checks if a given IP makes more than a… — Java · 0 yıldız
+- [victorcatto/Capivara-Booster](https://github.com/victorcatto/Capivara-Booster) — Windows 10/11 system optimization suite for competitive gaming: debloat, cache cleaning, latency tuning, game profiles, backups,… — Rust · 0 yıldız
+- [victorcodez997/SHOPPYCHECK](https://github.com/victorcodez997/SHOPPYCHECK) — (açıklama yok) — HTML · 0 yıldız
+- [Victorcollin123/gta6-cover-art-01-r5](https://github.com/Victorcollin123/gta6-cover-art-01-r5) — Leonida Nights — a GTA 6 loading-screen cover studio: turn a photo and a caption into Vice City neon-sunset cover art, offline in… — JavaScript · 0 yıldız
+- [VictorComitti/resplendor_2024](https://github.com/VictorComitti/resplendor_2024) — This repo contains the code used in the analysis of the Influence of the Aimorés HPP Backwater on the Groundwater Variation in… — R · 0 yıldız
+- [victord03/apex_drop_speed](https://github.com/victord03/apex_drop_speed) — Speed calculation of the drop off sequence in the game Apex Legends. Calculate different arrival times based on the angle and… — Python · 0 yıldız
+- [victoremerick/prettyquakelogger](https://github.com/victoremerick/prettyquakelogger) — This repository contains the source code for the Preety Quake Logger system, which is a web application for processing and… — Java · 0 yıldız
+- [victorenyo/shoppy_market_app](https://github.com/victorenyo/shoppy_market_app) — A simple market-place-app for buyers and sellers — PHP · 0 yıldız
+- [victorfisherww8824/apex-detailing-studio-2026](https://github.com/victorfisherww8824/apex-detailing-studio-2026) — Apex Detailing Studio v2026: a web-based HTML detailing studio site built as a polished static page for presenting the brand in a… — HTML · 0 yıldız
+- [victorgms3/Yim](https://github.com/victorgms3/Yim) — (açıklama yok) — — · 0 yıldız
+- [victorgrt/Class_creation.sh](https://github.com/victorgrt/Class_creation.sh) — To quickly create a canonical class with a Makefile, .cpp, .hpp and main.cpp. — Shell · 0 yıldız
+- [VictorH3x/Expert-Level-Linux-Networking-Cheat-Sheet](https://github.com/VictorH3x/Expert-Level-Linux-Networking-Cheat-Sheet) — (açıklama yok) — — · 0 yıldız
+- [VictorH3x/LINUX-Cheat-Sheet-](https://github.com/VictorH3x/LINUX-Cheat-Sheet-) — Cheatsheet of most used linux comands — — · 0 yıldız
+- [Victoria0414/p-astro-classification](https://github.com/Victoria0414/p-astro-classification) — The final project of Physics 527: the classification of gravitational wave based on its astronomical source — — · 0 yıldız
+- [VictoriaSedig/HPP](https://github.com/VictoriaSedig/HPP) — A school project — Assembly · 0 yıldız
+- [victoriatascau/CS-Problems](https://github.com/victoriatascau/CS-Problems) — Source codes for problems — C++ · 0 yıldız
+- [VictorIntensify/custom-cheatsheet](https://github.com/VictorIntensify/custom-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [VictorIntensify/shell_cheatsheet782](https://github.com/VictorIntensify/shell_cheatsheet782) — Experiments and small side projects. — — · 0 yıldız
+- [victoriya-06/Heart-Disease-Prediction-ML-Models](https://github.com/victoriya-06/Heart-Disease-Prediction-ML-Models) — This project build and compare several classification models such as Logistic Regression, Decision Tree, Random Forest, and… — Jupyter Notebook · 0 yıldız
+- [VictorKarp/Quake3Maps](https://github.com/VictorKarp/Quake3Maps) — .map source files of my Quake 3 maps — — · 0 yıldız
+- [victorlhr/git-cheat-sheet](https://github.com/victorlhr/git-cheat-sheet) — Comandos básicos do Git Hub — — · 0 yıldız
+- [VictorMaccoy/sampfuncs-gta3script](https://github.com/VictorMaccoy/sampfuncs-gta3script) — Ainda estou adaptando mas quando estiver pronto divulgarei no fórum da mixmods, ug base e blasthack — — · 0 yıldız
+- [VictorMaccoy/SampfuncsGTA3SCRIPT](https://github.com/VictorMaccoy/SampfuncsGTA3SCRIPT) — Ainda estou adaptando mas quando estiver pronto divulgarei no fórum da mixmods, ug base e blasthack — — · 0 yıldız
+- [Victormegaju/teste](https://github.com/Victormegaju/teste) — (açıklama yok) — — · 0 yıldız
+- [victormelladobuvinic-cpu/cheat-sheet](https://github.com/victormelladobuvinic-cpu/cheat-sheet) — creación de una tabla resumen usando HTML y CSS — HTML · 0 yıldız
+- [victoroprica/MinecraftBases](https://github.com/victoroprica/MinecraftBases) — (açıklama yok) — Java · 0 yıldız
+- [victorpauloti/extract_data_proesc](https://github.com/victorpauloti/extract_data_proesc) — Extract Tranform and Load Mysql — Jupyter Notebook · 0 yıldız
+- [VictorPorcelli/leaflet-nyc-biking-map](https://github.com/VictorPorcelli/leaflet-nyc-biking-map) — A Leaflet map coded in html which shows bike lanes, cyclist fatalities and median income by census tract in New York City. — HTML · 0 yıldız
+- [victorrm-git/git-cheatsheet](https://github.com/victorrm-git/git-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [victoryamaykin/ETL-project-cryptocurrency](https://github.com/victoryamaykin/ETL-project-cryptocurrency) — Extract, Transform, Load Datasets into MySQL — Jupyter Notebook · 0 yıldız
+- [Victorzinn704/fork-task-runner-c](https://github.com/Victorzinn704/fork-task-runner-c) — Executor multiprocessos em C com fork, fila, lista, pilha, testes e CI — C · 0 yıldız
+- [victus2705/digital-menu](https://github.com/victus2705/digital-menu) — Tiffyn Pure Vegetarian offers delicious North Indian , Chinese , Fast food , Beverages , and more. Fresh ingredients, hygienic… — — · 0 yıldız
+- [victus2705/Tiffyn-digital-menu-](https://github.com/victus2705/Tiffyn-digital-menu-) — Tiffyn Pure Vegetarian offers delicious North Indian , Chinese , Fast food , Beverages , and more. Fresh ingredients, hygienic… — — · 0 yıldız
+- [victus2705/Tiffyn-menu](https://github.com/victus2705/Tiffyn-menu) — Tiffyn Pure Vegetarian offers delicious North Indian , Chinese , Fast food , Beverages , and more. Fresh ingredients, hygienic… — — · 0 yıldız
+- [VicXyShi/Responsible-DS_ADS-Auditing](https://github.com/VicXyShi/Responsible-DS_ADS-Auditing) — A project auditing the fairness and performance of a Random Forest-based loan repayment prediction system. The project evaluates… — Jupyter Notebook · 0 yıldız
+- [VidapanakalSwetha/Smart-Task-Management-Dashboard](https://github.com/VidapanakalSwetha/Smart-Task-Management-Dashboard) — A React-based task management dashboard with filtering, sorting, dark mode, and localStorage persistence. — JavaScript · 0 yıldız
+- [videobeau/godoggo](https://github.com/videobeau/godoggo) — (açıklama yok) — — · 0 yıldız
+- [videodromm/videodromm-router-cinder](https://github.com/videodromm/videodromm-router-cinder) — Router for OSC, Midi, Websocket server — — · 0 yıldız
+- [videovault1/Vin-cheatsheet](https://github.com/videovault1/Vin-cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [videyvidey/hvHFhKVq1.mp4](https://github.com/videyvidey/hvHFhKVq1.mp4) — (açıklama yok) — HTML · 0 yıldız
+- [Vidhul-S/MysqlCheatSheetOnGit](https://github.com/Vidhul-S/MysqlCheatSheetOnGit) — (açıklama yok) — — · 0 yıldız
+- [vidhyabathi-002/Weather-Data-Processing-API-connection-ass-3-scurine](https://github.com/vidhyabathi-002/Weather-Data-Processing-API-connection-ass-3-scurine) — A small FastAPI-based service that loads a CSV weather dataset into a MySQL database and exposes simple endpoints to query… — Python · 0 yıldız
+- [Vidhyashree7/Student-Management-System](https://github.com/Vidhyashree7/Student-Management-System) — A simple C++ project developed as a console-based Student Management System using file handling to add, display, update and… — C++ · 0 yıldız
+- [Vidi-Labs/airport_authority_admin_panel](https://github.com/Vidi-Labs/airport_authority_admin_panel) — (açıklama yok) — TypeScript · 0 yıldız
+- [Vidit10/CS214-Team7](https://github.com/Vidit10/CS214-Team7) — This is the official repository for Team-7 of the course CS214 (AI Lab) for the year 2024-25. The problem being handled is… — Jupyter Notebook · 0 yıldız
+- [vidura-supun/ES-Logger_CheatSheet](https://github.com/vidura-supun/ES-Logger_CheatSheet) — Commands and a cheat sheet for MacOS endpoint security via ESLogger — — · 0 yıldız
+- [vidyadhari4/OneTap](https://github.com/vidyadhari4/OneTap) — A place for all your links. Acees them just with one tap. — CSS · 0 yıldız
+- [vidyareddy1/Amaravathi-Quantum-Valley-Hackathon--2k25](https://github.com/vidyareddy1/Amaravathi-Quantum-Valley-Hackathon--2k25) — 🏆 Amaravati Quantum Valley Hackathon 2025 – Finalist Participated in the Amaravati Quantum Valley Hackathon 2025 and developed a… — — · 0 yıldız
+- [vidyatibrewala-bot/apex_code](https://github.com/vidyatibrewala-bot/apex_code) — Chatbot for FAQs is a natural language processing (NLP) project focused on building an intelligent conversational agent that can… — HTML · 0 yıldız
+- [Vidzhet/p2ce-autosplitter](https://github.com/Vidzhet/p2ce-autosplitter) — LiveSplit autosplitter for strata source portal mods. — — · 0 yıldız
+- [Viehr/KeysystemsInt_TODOlist](https://github.com/Viehr/KeysystemsInt_TODOlist) — (açıklama yok) — Vue · 0 yıldız
+- [vieiracaiobruno/ai-squad](https://github.com/vieiracaiobruno/ai-squad) — Sistema open source para gestão e orquestração de squads dinâmicos de agentes IA usando CrewAI, com interface visual para… — TypeScript · 0 yıldız
+- [viera1337/primordial](https://github.com/viera1337/primordial) — smallest-pixel — — · 0 yıldız
+- [viesibeanness1982/cs2labs](https://github.com/viesibeanness1982/cs2labs) — cs2-latest — — · 0 yıldız
+- [VietAnh23903/Financial-Risk-Prediction-App-with-Random-Forest](https://github.com/VietAnh23903/Financial-Risk-Prediction-App-with-Random-Forest) — This project implements a financial risk prediction application using a Random Forest classifier. The application predicts… — Python · 0 yıldız
+- [VietDucNg/biomass-from-TCH](https://github.com/VietDucNg/biomass-from-TCH) — The study aims to create a forest biomass map based on mean top-of-canopy height (TCH) raster model — HTML · 0 yıldız
+- [viethai-dev/get-discord-authorization-token](https://github.com/viethai-dev/get-discord-authorization-token) — Extract Discord authorization token. — JavaScript · 0 yıldız
+- [viethoang206/hvh2006](https://github.com/viethoang206/hvh2006) — (açıklama yok) — — · 0 yıldız
+- [VietHungDev07/NeacSafe-HWID_BAN](https://github.com/VietHungDev07/NeacSafe-HWID_BAN) — (açıklama yok) — — · 0 yıldız
+- [VietNgocAmbition/Cheat-Sheet-v2](https://github.com/VietNgocAmbition/Cheat-Sheet-v2) — (açıklama yok) — HTML · 0 yıldız
+- [VietNgocAmbition/HTML-CSS-JS-Reacjs-Tailwindcss-Nodejs-Cheat-Sheet](https://github.com/VietNgocAmbition/HTML-CSS-JS-Reacjs-Tailwindcss-Nodejs-Cheat-Sheet) — Quick-reference cheat sheet for HTML, CSS, JavaScript, ReactJS, TailwindCSS, and Node.js — HTML · 0 yıldız
+- [vifon/autocompiler](https://github.com/vifon/autocompiler) — A script automatically running `make' when when any of the *.c/*.h/*.cpp/*.hpp files change — Perl · 0 yıldız
+- [viggotw/Optimization](https://github.com/viggotw/Optimization) — Cheat sheets, proof of concepts, theory and general testing of frameworks, concepts and hypotheses — Jupyter Notebook · 0 yıldız
+- [Vignantechsolutions/vignan_techsolutions_officialwebsite](https://github.com/Vignantechsolutions/vignan_techsolutions_officialwebsite) — Vignan Tech Solutions Official Website Source Code & Resource Hub. This repository contains the complete web application code and… — TypeScript · 0 yıldız
+- [vignesan-siva/read-write-mysql-to-pyspark-integration](https://github.com/vignesan-siva/read-write-mysql-to-pyspark-integration) — this file used to you can connect your mysql or sql source data and then do transformation load into destination using… — Python · 0 yıldız
+- [vignesh-shankar/House_Prices_Regression](https://github.com/vignesh-shankar/House_Prices_Regression) — One of my very first projects: participated in one of the Kaggle competitions to predict the house price based on a variety of… — Python · 0 yıldız
+- [vignesh125e/Blood-Sugar-AI-Chatbot-for-Diabetes-Prediction](https://github.com/vignesh125e/Blood-Sugar-AI-Chatbot-for-Diabetes-Prediction) — Blood-Sugar is an interactive AI-powered chatbot built with Streamlit that predicts the risk of diabetes using health parameters… — Jupyter Notebook · 0 yıldız
+- [vignesh64/EDA-hackathon-on-PUBG-data](https://github.com/vignesh64/EDA-hackathon-on-PUBG-data) — (açıklama yok) — Jupyter Notebook · 0 yıldız
+- [Vignesh6v/Distributed-Key-Value-Store](https://github.com/Vignesh6v/Distributed-Key-Value-Store) — Distributed System - Course Project — Java · 0 yıldız
+- [vignesh753/hvhgj](https://github.com/vignesh753/hvhgj) — (açıklama yok) — — · 0 yıldız
+- [vigneshsparky/yuro_shoppy_demo](https://github.com/vigneshsparky/yuro_shoppy_demo) — (açıklama yok) — HTML · 0 yıldız
+- [VigneshTheNode/bandit-cheatsheet](https://github.com/VigneshTheNode/bandit-cheatsheet) — Cheats for playing the bandit wargames and easily accessible through an URL setup by me — HTML · 0 yıldız
+- [vigneshvarma0504/linux-git-cheatsheet](https://github.com/vigneshvarma0504/linux-git-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [vigneshveera/hppp](https://github.com/vigneshveera/hppp) — (açıklama yok) — — · 0 yıldız
+- [vigneshveera/hppp2](https://github.com/vigneshveera/hppp2) — (açıklama yok) — — · 0 yıldız
+- [vigneshveera/hppp5](https://github.com/vigneshveera/hppp5) — (açıklama yok) — C · 0 yıldız
+- [Vigneshwara3/CH-HPP](https://github.com/Vigneshwara3/CH-HPP) — (açıklama yok) — Jupyter Notebook · 0 yıldız
+- [Vigneshwaran-crypto/shoppyConfigProps](https://github.com/Vigneshwaran-crypto/shoppyConfigProps) — (açıklama yok) — — · 0 yıldız
+- [vigneshwds/Industrial_Copper_Modeling](https://github.com/vigneshwds/Industrial_Copper_Modeling) — The copper industry often encounters difficulties in predicting selling prices and classifying leads accurately. To address these… — Jupyter Notebook · 0 yıldız
+- [Vigneswari184/hud_apb_rtl](https://github.com/Vigneswari184/hud_apb_rtl) — To implement and verify an APB RTL debugging task using automated cocotb-based verification. — — · 0 yıldız
+- [Vigurov/Traincraft-NeoForge-1.21.1-port](https://github.com/Vigurov/Traincraft-NeoForge-1.21.1-port) — Unofficial port of Traincraft to Minecraft 1.21.1 (NeoForge) with reworked train physics and an overhead line for electric… — Java · 0 yıldız
+- [VihaanVerma89/BasicSampleEspresso](https://github.com/VihaanVerma89/BasicSampleEspresso) — (açıklama yok) — Java · 0 yıldız
+- [VihanSingh4271/Smart-Wildlife-Monitoring-System-with-Animal-Recognition-and-Human-Intrusion-Alerts-Using-ESP32](https://github.com/VihanSingh4271/Smart-Wildlife-Monitoring-System-with-Animal-Recognition-and-Human-Intrusion-Alerts-Using-ESP32) — This project provides an affordable and scalable solution for wildlife monitoring and human intrusion detection. By leveraging… — Jupyter Notebook · 0 yıldız
+- [viharika-Chinthapalli/Cheatsheet-Manager](https://github.com/viharika-Chinthapalli/Cheatsheet-Manager) — (açıklama yok) — TypeScript · 0 yıldız
+- [VihenTheekshadha/DriverWallet_oracleApex](https://github.com/VihenTheekshadha/DriverWallet_oracleApex) — Oracle APEX-based secure digital wallet with admin verification and QR access features — — · 0 yıldız
+- [VihenTheekshadha/vehicle-affordability-checker-sri-lanka](https://github.com/VihenTheekshadha/vehicle-affordability-checker-sri-lanka) — oracle apex app created to check if a vehicle is affordable based on users input parameters. — — · 0 yıldız
+- [viidyasagar/Analyze_Phishing_EmailSample](https://github.com/viidyasagar/Analyze_Phishing_EmailSample) — Analyze a phishing email by examining the sender's address, email headers, and body content. Identify suspicious links, urgent… — — · 0 yıldız
+- [viii-fn/simple-dotnet-cheat-sheet](https://github.com/viii-fn/simple-dotnet-cheat-sheet) — crud template and cheat sheet docs i refer to when building C# APIs — C# · 0 yıldız
+- [viille/authentik-discord-role-sync](https://github.com/viille/authentik-discord-role-sync) — (açıklama yok) — JavaScript · 0 yıldız
+- [ViinayKumaarMamidi/Azure_EventHub_StreamAnalytics_RealTime_Project](https://github.com/ViinayKumaarMamidi/Azure_EventHub_StreamAnalytics_RealTime_Project) — This repo contains details about BookMyShow Mock data leveraging Azure Event Hub Bookings and Payments Streams and Azure Stream… — Python · 0 yıldız
+- [viitaliich/Renderer](https://github.com/viitaliich/Renderer) — (açıklama yok) — — · 0 yıldız
+- [VIJAY-0/OS](https://github.com/VIJAY-0/OS) — Developed a custom bootloader to initialize hardware and load a monolithic, object-oriented kernel in C/C++. — C++ · 0 yıldız
+- [Vijay-1010110/PariticleSimulation](https://github.com/Vijay-1010110/PariticleSimulation) — (açıklama yok) — — · 0 yıldız
+- [Vijay0510kumar/classification-of-Laterite-Type-using-Random-Forest](https://github.com/Vijay0510kumar/classification-of-Laterite-Type-using-Random-Forest) — • Developed a Random Forest-based ML model for laterite classification using geotechnical properties, achieving 95% accuracy •… — Jupyter Notebook · 0 yıldız
+- [vijay1002v-stack/aws-end-to-end-data-engineering-pipeline](https://github.com/vijay1002v-stack/aws-end-to-end-data-engineering-pipeline) — Built an end-to-end AWS Data Engineering pipeline that ingests raw log files and MySQL ticket data, transforms the data using AWS… — Jupyter Notebook · 0 yıldız
+- [Vijay2341/ShoppyGlobe](https://github.com/Vijay2341/ShoppyGlobe) — (açıklama yok) — JavaScript · 0 yıldız
+- [vijayabhaskarvb/Batch31_Final_Year_Project](https://github.com/vijayabhaskarvb/Batch31_Final_Year_Project) — It Contains all the source code, datasets and all other required files of my Final Year Project — Jupyter Notebook · 0 yıldız
+- [Vijayadharshini0705/ldr-based-automatic-light-control](https://github.com/Vijayadharshini0705/ldr-based-automatic-light-control) — An LDR-based automatic lighting circuit that detects darkness and turns the LED ON using a transistor. — — · 0 yıldız
+- [vijayakrishnans/security-reference-notes](https://github.com/vijayakrishnans/security-reference-notes) — Security cheat sheets — — · 0 yıldız
+- [Vijayalakshmi2704/Covid-Fatality-and-vaccination-Analysis](https://github.com/Vijayalakshmi2704/Covid-Fatality-and-vaccination-Analysis) — (açıklama yok) — — · 0 yıldız
+- [VijayaLakshmi37/HTML-COURSERA](https://github.com/VijayaLakshmi37/HTML-COURSERA) — Final Project: The assignment will be graded based on the presence of all the required tags. Specifically the grading rubric… — HTML · 0 yıldız
+- [vijayansaravanan/dark-detecting-sensor-using-IC741](https://github.com/vijayansaravanan/dark-detecting-sensor-using-IC741) — This project demonstrates the design and implementation of a dark detecting sensor using the operational amplifier IC 741 and a… — — · 0 yıldız
+- [vijayarajan514/SYSTEM-SURVEILLANCE-USING-KEYLOGGER-mini-project](https://github.com/vijayarajan514/SYSTEM-SURVEILLANCE-USING-KEYLOGGER-mini-project) — (açıklama yok) — — · 0 yıldız
+- [vijayasunkireddy/APB-Protocol-](https://github.com/vijayasunkireddy/APB-Protocol-) — APB Protocol Verification Using a Verilog-Based Testbench — Verilog · 0 yıldız
+- [vijaygawade96/Devtools-Cheat-Sheet](https://github.com/vijaygawade96/Devtools-Cheat-Sheet) — This repo will contails al imp & usefull cheatcode/shortcut for different tools — — · 0 yıldız
+- [Vijaygurung1/License_Management_System](https://github.com/Vijaygurung1/License_Management_System) — (açıklama yok) — Python · 0 yıldız
+- [vijayjag-repo/Weather-App](https://github.com/vijayjag-repo/Weather-App) — Web based Weather Application which fetches the weather updates for a location using Google Maps API and Dark Sky Weather API. — JavaScript · 0 yıldız
+- [vijayk0747/ENGRFinalProject](https://github.com/vijayk0747/ENGRFinalProject) — Created a videogame based on Pacman for the final assignment in ENGR. — — · 0 yıldız
+- [vijayk1210/RCAF](https://github.com/vijayk1210/RCAF) — Reducing Commercial Aviation Fatalities — Jupyter Notebook · 0 yıldız
+- [vijaykrishnajd/KeypointTechSystemTask](https://github.com/vijaykrishnajd/KeypointTechSystemTask) — (açıklama yok) — — · 0 yıldız
+- [VIJAYKUMAR-007/Grootan-Tech-CSV-file](https://github.com/VIJAYKUMAR-007/Grootan-Tech-CSV-file) — Create a web application with an option to upload a CSV file of 1 lakh or more records, where the application should read the… — — · 0 yıldız
+- [VIJAYKUMAR-007/GROOTAN-TECHNOLOGIES-CSV-FILE](https://github.com/VIJAYKUMAR-007/GROOTAN-TECHNOLOGIES-CSV-FILE) — Create a web application with an option to upload a CSV file of 1 lakh or more records, where the application should read the… — HTML · 0 yıldız
+- [vijayn1990/AntiBombSquadGame.github.io](https://github.com/vijayn1990/AntiBombSquadGame.github.io) — Based on the classic minesweeper game. — HTML · 0 yıldız
+- [vijaysammeta/Multi-region-AWS-disaster-recovery](https://github.com/vijaysammeta/Multi-region-AWS-disaster-recovery) — Multi-region AWS disaster recovery project using Route 53 failover, EC2 Auto Scaling, Application Load Balancers, Aurora MySQL… — — · 0 yıldız
+- [vijaythakor28464/Linux-Privilege-Escalation-Cheat-Sheet](https://github.com/vijaythakor28464/Linux-Privilege-Escalation-Cheat-Sheet) — (açıklama yok) — — · 0 yıldız
+- [VijeshVS/bolo-ai](https://github.com/VijeshVS/bolo-ai) — Bolo AI is a macOS menu-bar voice assistant that records speech, transcribes it, intelligently formats the text, and pastes it… — TypeScript · 0 yıldız
+- [Vijnd47/hackes](https://github.com/Vijnd47/hackes) — The most powerful tools — — · 0 yıldız
+- [Vikaas29/ShoppyGlobe](https://github.com/Vikaas29/ShoppyGlobe) — (açıklama yok) — JavaScript · 0 yıldız
+- [vikaasa/chord-protocol-scala](https://github.com/vikaasa/chord-protocol-scala) — Implemented the chord protocol, which is a distributed lookup protocol that addresses the problem of determining the location of… — Scala · 0 yıldız
+- [Vikalp981/Policy_Sales_Channel](https://github.com/Vikalp981/Policy_Sales_Channel) — In this we need to predict the policy sales of various vehicles based on the dataset provided which can be accessed from here… — Jupyter Notebook · 0 yıldız
+- [vikas-git1/The-Rise-News](https://github.com/vikas-git1/The-Rise-News) — A dynamic and responsive News App built with React.js that fetches real-time news articles from multiple sources using News API.… — JavaScript · 0 yıldız
+- [vikas379/Tools-Technology-Cheatshee](https://github.com/vikas379/Tools-Technology-Cheatshee) — This repository is a personal cheat sheet for development tools and utilities used by developers nowadays — — · 0 yıldız
+- [vikas9111/Ruby-Literal-Syntax](https://github.com/vikas9111/Ruby-Literal-Syntax) — Add Ruby Literal Syntax Cheat Sheet in Markdown This file contains a concise reference for Ruby's literal syntax, including… — — · 0 yıldız
+- [vikasaragam/cmb-spectra](https://github.com/vikasaragam/cmb-spectra) — Code to compute CMB primordial power spectrum for multi-field cosmological inflation models — Python · 0 yıldız
+- [vikasbagoria/Fitness-Forest](https://github.com/vikasbagoria/Fitness-Forest) — Developed an application using the MERN stack to facilitate seamless communication between trainers and trainees via video calls.… — — · 0 yıldız
+- [Vikash224209/DockerCheatSheet-for-Devops](https://github.com/Vikash224209/DockerCheatSheet-for-Devops) — This is a repository for DOCKER — — · 0 yıldız
+- [vikash28/FileSteamMysqlLoad](https://github.com/vikash28/FileSteamMysqlLoad) — The file is access from ftp in steam of pipe data and then load to mysql using Node js File Stream. — JavaScript · 0 yıldız
+- [vikashrao12/ShoppyGlobe](https://github.com/vikashrao12/ShoppyGlobe) — (açıklama yok) — JavaScript · 0 yıldız
+- [vikashvsp/CheatSheet.ai](https://github.com/vikashvsp/CheatSheet.ai) — (açıklama yok) — TypeScript · 0 yıldız
+- [VIKASKUMAR123789/Hpppy_Diwali](https://github.com/VIKASKUMAR123789/Hpppy_Diwali) — (açıklama yok) — HTML · 0 yıldız
+- [Vikaskumar221416/ShoppyGlobe](https://github.com/Vikaskumar221416/ShoppyGlobe) — (açıklama yok) — JavaScript · 0 yıldız
+- [vikaspatel-25/BharatShoppy](https://github.com/vikaspatel-25/BharatShoppy) — (açıklama yok) — JavaScript · 0 yıldız
+- [vikassasatti/Synapse-Squade_14](https://github.com/vikassasatti/Synapse-Squade_14) — 💊 AI-Powered Smart Medicine Locator & Price Optimizer — An intelligent app that uses AI, OCR, and geolocation to find nearby… — TypeScript · 0 yıldız
+- [VikasSingh2011/CheatSheetHTML](https://github.com/VikasSingh2011/CheatSheetHTML) — (açıklama yok) — HTML · 0 yıldız
+- [vikasTmz/Obj_loader](https://github.com/vikasTmz/Obj_loader) — Load .obj (object) files into this C program and see the rendered output. — C · 0 yıldız
+- [VikasVarshney/mta-sts.forwarding.hackerone.com](https://github.com/VikasVarshney/mta-sts.forwarding.hackerone.com) — (açıklama yok) — — · 0 yıldız
+- [VikasVarshney/mta-sts.hackerone.com](https://github.com/VikasVarshney/mta-sts.hackerone.com) — (açıklama yok) — — · 0 yıldız
+- [VikasVarshney/mta-sts.managed.hackerone.com](https://github.com/VikasVarshney/mta-sts.managed.hackerone.com) — (açıklama yok) — — · 0 yıldız
+- [vikaxh17/mta-sts.managed.hackerone.com](https://github.com/vikaxh17/mta-sts.managed.hackerone.com) — (açıklama yok) — — · 0 yıldız
+- [VIKHYAT2804/Stock-Market-Analysis-C](https://github.com/VIKHYAT2804/Stock-Market-Analysis-C) — A C program analyzes company financial data to calculate metrics like average return, volatility, debt ratio, P/E ratio, revenue… — C · 0 yıldız
+- [vikibond11/HPP](https://github.com/vikibond11/HPP) — (açıklama yok) — — · 0 yıldız
+- [VikingTheDev/pDiscord_deprecated](https://github.com/VikingTheDev/pDiscord_deprecated) — API allowing you to use some discord.js features on a FiveM server. — JavaScript · 0 yıldız
+- [vikiswaimer/posthog-selfhost-cheatsheet](https://github.com/vikiswaimer/posthog-selfhost-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [viknade886/lordran-archives](https://github.com/viknade886/lordran-archives) — a website based on the videogame Dark Souls 1 to help players and chosen undead on building their knowledge and collections with… — HTML · 0 yıldız
+- [vikpe/cparse](https://github.com/vikpe/cparse) — Parse C source files for stuff. — Go · 0 yıldız
+- [vikram-ksk/University-Management-SQL](https://github.com/vikram-ksk/University-Management-SQL) — SQL-based University Management System demonstrating database design, constraints, data loading, DQL queries, joins, subqueries,… — — · 0 yıldız
+- [vikram-kv/HDL-Project-CS2310](https://github.com/vikram-kv/HDL-Project-CS2310) — Project based on nand2tetris HDL — Scilab · 0 yıldız
+- [Vikraman-U/RAG_Sample-Project](https://github.com/Vikraman-U/RAG_Sample-Project) — A Retrieval-Augmented Generation (RAG) system that loads documents, chunks and embeds them locally, stores vectors in ChromaDB,… — Python · 0 yıldız
+- [VikramChoudhury17/ShoppyGlobe-E-commerce-Application-api](https://github.com/VikramChoudhury17/ShoppyGlobe-E-commerce-Application-api) — (açıklama yok) — JavaScript · 0 yıldız
+- [vikramgudihal/PyPath-Cheatsheet](https://github.com/vikramgudihal/PyPath-Cheatsheet) — Python begin to expert Path Cheat sheet — HTML · 0 yıldız
+- [VikramJaiswal1202/C-interview-cheat-sheet](https://github.com/VikramJaiswal1202/C-interview-cheat-sheet) — (açıklama yok) — C · 0 yıldız
+- [vikramP2/license_plate_detection_and_management_systems](https://github.com/vikramP2/license_plate_detection_and_management_systems) — (açıklama yok) — Jupyter Notebook · 0 yıldız
+- [Vikrampothireedy/Google-Cloud-GCloud-Cheat-Sheet](https://github.com/Vikrampothireedy/Google-Cloud-GCloud-Cheat-Sheet) — Google Cloud GCloud Cheat Sheet — — · 0 yıldız
+- [Vikramreddy17/esp32-capacitive-touch-dashboard](https://github.com/Vikramreddy17/esp32-capacitive-touch-dashboard) — ESP32 capacitive touch sensor using a copper plate electrode, built-in Wi-Fi SoftAP, REST API, and a real-time glassmorphic… — C++ · 0 yıldız
+- [Vikramsaho/Hacking-Cheat-Sheet](https://github.com/Vikramsaho/Hacking-Cheat-Sheet) — This Cheat sheet includes almost all tools for hacking. — — · 0 yıldız
+- [vikramsaxena/query-plan-executor](https://github.com/vikramsaxena/query-plan-executor) — C++ database executors using the Iterator model for tasks like sequential scans and hash joins, boosting query efficiency. — C++ · 0 yıldız
+- [vikramsinghnegi/cheat-sheet-](https://github.com/vikramsinghnegi/cheat-sheet-) — code sheet js — JavaScript · 0 yıldız
+- [vikrant-vikram/Advance-keylogger-for-automation](https://github.com/vikrant-vikram/Advance-keylogger-for-automation) — This project implements an advanced keylogger in JAVA designed for monitoring and automation purposes. Key features include:… — Java · 0 yıldız
+- [Vikranttyagi95/Black_Friday_Sales_Prediction](https://github.com/Vikranttyagi95/Black_Friday_Sales_Prediction) — In this project, I have analyzed a dataset on the purchase behavior of different users based on the features like their Gender,… — Jupyter Notebook · 0 yıldız
+- [ViksyAsenov/particle-simulation](https://github.com/ViksyAsenov/particle-simulation) — (açıklama yok) — — · 0 yıldız
+- [viktalduyeoon/hvhxaq](https://github.com/viktalduyeoon/hvhxaq) — (açıklama yok) — — · 0 yıldız
+- [ViktarTilichkin/SQLFileExecutor](https://github.com/ViktarTilichkin/SQLFileExecutor) — C#, .NET, MySQL, Postman — C# · 0 yıldız
+- [viktor-05/WasteTrade-Material-Fraud-Detection](https://github.com/viktor-05/WasteTrade-Material-Fraud-Detection) — Visual fraud detection MVP comparing listing photos vs load photos using DINOv2 image embeddings plus a VLM verifier (Gemini 2.5… — JavaScript · 0 yıldız
+- [viktor-podolskiy/primordial_metamaterials](https://github.com/viktor-podolskiy/primordial_metamaterials) — Implementation of Nonlocal Transfer Matrix formalism — MATLAB · 0 yıldız
+- [Viktor286/tailwind-v4-theming-cheatsheet](https://github.com/Viktor286/tailwind-v4-theming-cheatsheet) — Interactive mapping of @theme namespaces → CSS variables → utility classes → rendered CSS — JavaScript · 0 yıldız
+- [viktorbcu/hacker-tools](https://github.com/viktorbcu/hacker-tools) — (açıklama yok) — — · 0 yıldız
+- [ViktoriaMasl/BonusService-CsvFileSource-](https://github.com/ViktoriaMasl/BonusService-CsvFileSource-) — (açıklama yok) — Java · 0 yıldız
+- [ViktoriaVodovozova/Squadaconda_hackathon_itmo](https://github.com/ViktoriaVodovozova/Squadaconda_hackathon_itmo) — Репозиторий команды Squadaconda для хакатона от проектной школы. — Jupyter Notebook · 0 yıldız
+- [viktorivanovsigma1-hue/Stun-Slam-Macro-Minecraft](https://github.com/viktorivanovsigma1-hue/Stun-Slam-Macro-Minecraft) — This is an stunslam macro that gets on with F3 you need to set your mace keybind in minecraft settings after you load with the… — — · 0 yıldız
+- [viktoriya-ermakovich-idf/flasha](https://github.com/viktoriya-ermakovich-idf/flasha) — ssh-keygen –t rsa –b 4096 -C — — · 0 yıldız
+- [viktormoe/csgo2-rcon-webui](https://github.com/viktormoe/csgo2-rcon-webui) — A simple webui for sending rcon commands to your csgo2 server — HTML · 0 yıldız
+- [Viktorrium/ChronicleMod](https://github.com/Viktorrium/ChronicleMod) — A Terraria mod that adds many subworlds based on the game's official lore. — C# · 0 yıldız
+- [viktorsht/teste](https://github.com/viktorsht/teste) — (açıklama yok) — — · 0 yıldız
+- [vikuchen/Cafe](https://github.com/vikuchen/Cafe) — Brew & Bean Coffee House - A modern, responsive cafe website with dark mode, menu grid, image gallery, and contact form. — CSS · 0 yıldız
+- [Vikum97/Weight-conveyor-with-corrugate-printer](https://github.com/Vikum97/Weight-conveyor-with-corrugate-printer) — The final process on each production machine is to load the manufactured goods in to corrugate box. The project was planned to… — — · 0 yıldız
+- [vilbeyli/VQEngine](https://github.com/vilbeyli/VQEngine) — Multi-threaded DirectX12 renderer w/ HDR, PBR & Multi-monitor support — — · 0 yıldız
+- [VildanWW/WinAPI-Process-Debugger](https://github.com/VildanWW/WinAPI-Process-Debugger) — (açıklama yok) — — · 0 yıldız
+- [vilenarios/hackernoon-arweave-showcase](https://github.com/vilenarios/hackernoon-arweave-showcase) — A simple page that loads recent Hackernoon articles uploaded to Arweave. https://hackernoon.ar.io — TypeScript · 0 yıldız
+- [vilhelmprytz/minecraftserverstatus-api](https://github.com/vilhelmprytz/minecraftserverstatus-api) — Simple web-based JSON API for retrieving the server status of any Minecraft Server (using provided IP). — Python · 0 yıldız
+- [ViliHun609/Commands-Cheat-Sheet-Mac](https://github.com/ViliHun609/Commands-Cheat-Sheet-Mac) — This is a mostly AI built app that can help you find codes for certain uses. — Swift · 0 yıldız · arşiv
+- [VillaArreola/CheatSheet](https://github.com/VillaArreola/CheatSheet) — Comandos Rapidos — Astro · 0 yıldız
+- [villainhackers-pcs/villainempire-pcs](https://github.com/villainhackers-pcs/villainempire-pcs) — VILLAIN world here you are meet to best hackers, Cyber-security experts, coders, and Dark-web executives. — HTML · 0 yıldız
+- [villalon-jc/C-Programming-Menu](https://github.com/villalon-jc/C-Programming-Menu) — C based Menu with Discount Codes and Integrated Mask Password Functionality — C · 0 yıldız
+- [villarspoulsen-hash/Fredsplan---Cheatsheets](https://github.com/villarspoulsen-hash/Fredsplan---Cheatsheets) — HTML-filer om Netanyahu-Trump-Gaza fredsplan — HTML · 0 yıldız
+- [Vilohit0135/Java-Script-CheatSheet](https://github.com/Vilohit0135/Java-Script-CheatSheet) — (açıklama yok) — HTML · 0 yıldız
+- [Vilohit0135/React-Cheat-Sheet-Phase-2](https://github.com/Vilohit0135/React-Cheat-Sheet-Phase-2) — (açıklama yok) — JavaScript · 0 yıldız
+- [Vilohit0135/React-Cheatsheet-phase-1](https://github.com/Vilohit0135/React-Cheatsheet-phase-1) — (açıklama yok) — JavaScript · 0 yıldız
+- [viloljoshibigstep-cloud/claude-code-workshop-tools](https://github.com/viloljoshibigstep-cloud/claude-code-workshop-tools) — Interactive tools for Claude Code workshops — Cheat Sheet, CLAUDE.md Generator, Skill Builder — HTML · 0 yıldız
+- [Viloll22/esx_menu_default-V2](https://github.com/Viloll22/esx_menu_default-V2) — (açıklama yok) — JavaScript · 0 yıldız
+- [Vilpen1/Ai-assisted-career-and-skill-recommendation-system](https://github.com/Vilpen1/Ai-assisted-career-and-skill-recommendation-system) — This is the repository for our group project alongside Leo Brown and Kabanshi Kabalata. All versions files will be stored here,… — Java · 0 yıldız
+- [vilua-dot/cheatbase](https://github.com/vilua-dot/cheatbase) — cheatbase 1.16.5 minecraft — — · 0 yıldız
+- [Vimal4hckr/cheat-sheet](https://github.com/Vimal4hckr/cheat-sheet) — (açıklama yok) — — · 0 yıldız
+- [Vimal4hckr/nodejs-cheatsheet](https://github.com/Vimal4hckr/nodejs-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [vimala-rp/AddressBook-C-Project](https://github.com/vimala-rp/AddressBook-C-Project) — A menu-driven terminal-based Address Book application developed in C with contact management, validation, searching, sorting,… — C · 0 yıldız
+- [vimala-rp/C-Tic-Tac-Toe-Game](https://github.com/vimala-rp/C-Tic-Tac-Toe-Game) — A menu-driven two-player Tic-Tac-Toe game developed in C with persistent score tracking using file handling. — C · 0 yıldız
+- [vimaladhithya/chess-board](https://github.com/vimaladhithya/chess-board) — This web-based interface displays a standard 8×8 chessboard layout using HTML and CSS. The board consists of alternating light… — HTML · 0 yıldız
+- [vimalraj-sec/pentest-cheatsheet](https://github.com/vimalraj-sec/pentest-cheatsheet) — Offensive security reference compiled from 2,600+ personal OSCP prep notes — 12 sections covering the full attack chain from… — — · 0 yıldız
+- [vimettvie/skeetgui](https://github.com/vimettvie/skeetgui) — (açıklama yok) — Lua · 0 yıldız
+- [vimettvie/skeetlua](https://github.com/vimettvie/skeetlua) — (açıklama yok) — Lua · 0 yıldız
+- [vimontgames/bhktools](https://github.com/vimontgames/bhktools) — Unofficial .hmap map viewer for HumandKind — — · 0 yıldız
+- [VimukthiHerath/The-ultimate-linux-cheatsheet-for-beginers](https://github.com/VimukthiHerath/The-ultimate-linux-cheatsheet-for-beginers) — (açıklama yok) — HTML · 0 yıldız
+- [VimuxYT/RobloxCheats](https://github.com/VimuxYT/RobloxCheats) — (açıklama yok) — — · 0 yıldız
+- [Vin-dictive/MDS-cheatsheets](https://github.com/Vin-dictive/MDS-cheatsheets) — (açıklama yok) — TeX · 0 yıldız
+- [Vin-Ren/cp-cheatsheet-kactl](https://github.com/Vin-Ren/cp-cheatsheet-kactl) — KTH ACM Contest Template Library (... eller KTHs AC-tillverkande lapp) — — · 0 yıldız
+- [vinarose-source/Front-End-Development-Primer-and-Interactive-Cheat-Sheet](https://github.com/vinarose-source/Front-End-Development-Primer-and-Interactive-Cheat-Sheet) — My own learning hub how to code — HTML · 0 yıldız
+- [VinashakAnkitAman/Troubleshooter-Cheatsheets](https://github.com/VinashakAnkitAman/Troubleshooter-Cheatsheets) — This is a cheat sheet collection of frequently used commands and options for various platforms and tools — — · 0 yıldız
+- [Vinasport/https-vinasport.com.vn-danh-muc-game-esports-the-thao-quan-ao-game-esports-](https://github.com/Vinasport/https-vinasport.com.vn-danh-muc-game-esports-the-thao-quan-ao-game-esports-) — Các mẫu quần áo game thủ esport là những bộ quần áo thun, áo khoác của các đội tuyển game tiếng việt nam, thế giới của các dòng… — — · 0 yıldız
+- [VinaStar/Vina-Voice](https://github.com/VinaStar/Vina-Voice) — Control the range of your voice chat and view who is talking around you with this simple resource. Server owners can set the… — C# · 0 yıldız
+- [Vinay-chowdary-08/IoT-Room-Occupancy-Detection-Sensor-Based-Classification-](https://github.com/Vinay-chowdary-08/IoT-Room-Occupancy-Detection-Sensor-Based-Classification-) — Built a binary classifier to predict room occupancy from IoT sensor signals (temperature, humidity, light, CO2, humidity ratio)… — Jupyter Notebook · 0 yıldız
+- [vinay23is/aws-rds-athena-iceberg-pipeline](https://github.com/vinay23is/aws-rds-athena-iceberg-pipeline) — Automated AWS pipeline: RDS MySQL -> S3 raw -> Athena MERGE -> Apache Iceberg curated, orchestrated by Step Functions and… — Python · 0 yıldız
+- [Vinayaka9972/End-To-End-Project](https://github.com/Vinayaka9972/End-To-End-Project) — This project is a end to end data analytics projects where we load the data into jupyter notebook from excel and then clean and… — Jupyter Notebook · 0 yıldız
+- [Vinayaka9972/Netflix_Project](https://github.com/Vinayaka9972/Netflix_Project) — This project covers uploading the dataset to jupiter notebook ,loading the dataset to MySQL database from jupyter notebook,EDA in… — Jupyter Notebook · 0 yıldız
+- [vinayakbhosle001/Parallel-3D-Stencil-Computation-using-MPI](https://github.com/vinayakbhosle001/Parallel-3D-Stencil-Computation-using-MPI) — MPI-based distributed 3D stencil simulation with non-blocking halo exchange and isovalue edge-crossing detection for CS633… — C · 0 yıldız
+- [vinayakpahuja/Snake-game-with-files-](https://github.com/vinayakpahuja/Snake-game-with-files-) — snake game in c language using data structures and file handling to store and load the game — C · 0 yıldız
+- [vinayaksingh0542/DisasterView](https://github.com/vinayaksingh0542/DisasterView) — DisasterView — an IoT-based disaster detection and monitoring platform for flood, fire & smoke detection using ESP32 sensor… — Python · 0 yıldız
+- [vinayaksodar/markdown-cheatsheet](https://github.com/vinayaksodar/markdown-cheatsheet) — Markdown cheatsheet — — · 0 yıldız
+- [VinayaKumaraC/shoppyglobe](https://github.com/VinayaKumaraC/shoppyglobe) — shoppyglobe is a basic e-commerce application built using React and Vite. It allows users to browse products, search items, add… — JavaScript · 0 yıldız
+- [vinayakz/aws-devops-cheat-sheet](https://github.com/vinayakz/aws-devops-cheat-sheet) — A comprehensive, organized, and practical cheat sheet for DevOps Engineers focused on AWS and general DevOps practices. This… — — · 0 yıldız
+- [vinayashreekaroshi/hamburger-menu](https://github.com/vinayashreekaroshi/hamburger-menu) — A dark-themed responsive webpage titled “The AI Revolution in Everyday Life,” featuring a mobile-friendly hamburger menu and… — HTML · 0 yıldız
+- [vinaybn86/HackerRankSamples](https://github.com/vinaybn86/HackerRankSamples) — (açıklama yok) — — · 0 yıldız
+- [vinayjaibheem/Hackathon-Tool](https://github.com/vinayjaibheem/Hackathon-Tool) — (açıklama yok) — JavaScript · 0 yıldız
+- [VinayKrishna-7/AI_TextSummarizer](https://github.com/VinayKrishna-7/AI_TextSummarizer) — A clean and fast AI Text Summarizer web app that converts long text into concise bullet points or paragraph summaries. Built with… — JavaScript · 0 yıldız
+- [Vinaykv18/hpp](https://github.com/Vinaykv18/hpp) — (açıklama yok) — Jupyter Notebook · 0 yıldız
+- [vinaymadupathi/SampleAppForExtControlsNotLoadingIssue](https://github.com/vinaymadupathi/SampleAppForExtControlsNotLoadingIssue) — Partially loading ext controls on chrome browser — JavaScript · 0 yıldız
+- [Vinaypanika/Cheatsheet](https://github.com/Vinaypanika/Cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [vinayrajeshgor/Decision-Risk-Analysis-of-buying-a-New-House-in-New-Jersey](https://github.com/vinayrajeshgor/Decision-Risk-Analysis-of-buying-a-New-House-in-New-Jersey) — This decision & risk analysis study will recommend the best city to live in New Jersey when working in New York City considering… — — · 0 yıldız
+- [Vinayreddy7262/BackEnd_Shoppy](https://github.com/Vinayreddy7262/BackEnd_Shoppy) — (açıklama yok) — JavaScript · 0 yıldız
+- [VinaySoni-IN/Docs-Notes-Sathi](https://github.com/VinaySoni-IN/Docs-Notes-Sathi) — Notes Sathi Landing Page A GitHub Pages-ready landing page for Notes Sathi. The project uses relative paths and contains only the… — HTML · 0 yıldız
+- [vinaytechenthu/RapidRadar](https://github.com/vinaytechenthu/RapidRadar) — RapidRadar finds what slows web apps down. It measures page load times, Web Vitals, slow APIs and accessibility, scans the… — Python · 0 yıldız
+- [vinaytechie/ApplitTools_hack](https://github.com/vinaytechie/ApplitTools_hack) — repository created for applitTools hackathon — Java · 0 yıldız
+- [vinayvk27/Hackathon-project-Neuro-vanguard](https://github.com/vinayvk27/Hackathon-project-Neuro-vanguard) — (açıklama yok) — JavaScript · 0 yıldız
+- [Vinayyadavilli/iOS_CheatSheet](https://github.com/Vinayyadavilli/iOS_CheatSheet) — (açıklama yok) — HTML · 0 yıldız
+- [VinayYeluri/Sample_Project_1](https://github.com/VinayYeluri/Sample_Project_1) — Load personal data from CSV file, show them in ScrollView control as labels. On each label show name, country and phone number.… — C# · 0 yıldız
+- [vince-GD/Beast-Among-Us](https://github.com/vince-GD/Beast-Among-Us) — Third Project for Experimental Game Design (CS342). Based off a quote from https://www.philosophybasics.com/general_quotes.html. — ASP · 0 yıldız
+- [vince-grondin/base-camp-final-project](https://github.com/vince-grondin/base-camp-final-project) — The final step of the https://base.org/bootcamp is to design and build a project. This is Roch's final project for this bootcamp. — Solidity · 0 yıldız
+- [vince-pau/starsiege](https://github.com/vince-pau/starsiege) — Star Siege - browser-based arcade shooter — JavaScript · 0 yıldız
+- [Vincent-Sniteur/fivem-rocket](https://github.com/Vincent-Sniteur/fivem-rocket) — Exploding rockets. Nothing more... — Lua · 0 yıldız
+- [vincent-teh/1TD062-HPP-Indv-Proj](https://github.com/vincent-teh/1TD062-HPP-Indv-Proj) — (açıklama yok) — C · 0 yıldız
+- [VincentContini/Tactical_RPG_project](https://github.com/VincentContini/Tactical_RPG_project) — A Fire Emblem inspired grid-based turn-based tactical RPG project that I work on during my free time. — — · 0 yıldız
+- [vincentevangelista529/mlbb-cheatsheet-practice](https://github.com/vincentevangelista529/mlbb-cheatsheet-practice) — Built as a learning project — a Mobile Legends hero cheat sheet with role filtering, live search, and hero detail popups. Made… — CSS · 0 yıldız
+- [VincentHuto/Forces_Of_Reality](https://github.com/VincentHuto/Forces_Of_Reality) — A Minecraft mod based around joining and devoting yourself to covens while fighting your way to the top! — Java · 0 yıldız
+- [VincentK16/volumetric-cheatsheet](https://github.com/VincentK16/volumetric-cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [vincentlwl/EFTCalculator](https://github.com/vincentlwl/EFTCalculator) — This project and source code does not belong to me. — Visual Basic · 0 yıldız
+- [VincentOracle/Git-CheatSheet-by-BY-MATT-BROBERG](https://github.com/VincentOracle/Git-CheatSheet-by-BY-MATT-BROBERG) — This repo is important to thos who want to learn about Git and Github Version Control in Depth — — · 0 yıldız
+- [VincentPeters/rock-you-dict](https://github.com/VincentPeters/rock-you-dict) — Searchable RockYou password dictionary explorer for security education — — · 0 yıldız
+- [VincentSheehan22/cheatsheets](https://github.com/VincentSheehan22/cheatsheets) — Syntax cheatsheets for languages and tools I'm using. — — · 0 yıldız
+- [vincentt117/lol-esports-glb-power-ranking-2023-hackathon](https://github.com/vincentt117/lol-esports-glb-power-ranking-2023-hackathon) — (açıklama yok) — Jupyter Notebook · 0 yıldız
+- [vincentwong70/cheatsheets](https://github.com/vincentwong70/cheatsheets) — (açıklama yok) — — · 0 yıldız
+- [vincenzobucciero/McDonald-s-DB](https://github.com/vincenzobucciero/McDonald-s-DB) — This repository simulates a comprehensive database system for McDonald's using SQL. It replicates McDonald's operations and… — — · 0 yıldız
+- [Vincere-J/algo-guides](https://github.com/Vincere-J/algo-guides) — Vincere algo guides: assigning a strategy, start and stop, backtesting, algo cheat sheets — HTML · 0 yıldız
+- [VincevanLommen/Frontend-cheat-sheet](https://github.com/VincevanLommen/Frontend-cheat-sheet) — (açıklama yok) — HTML · 0 yıldız
+- [vincyxiroff/FivemMenuF5](https://github.com/vincyxiroff/FivemMenuF5) — (açıklama yok) — Lua · 0 yıldız
+- [vincyxiroff/staff-menu-esx](https://github.com/vincyxiroff/staff-menu-esx) — (açıklama yok) — Lua · 0 yıldız
+- [VincyZ-k/cs2114-project2-group63](https://github.com/VincyZ-k/cs2114-project2-group63) — PackCheck- a text-based application that helps travelers track what they need and what they have packed. — Java · 0 yıldız
+- [vindev-sa/Astro-cheatsheet](https://github.com/vindev-sa/Astro-cheatsheet) — Instruções sobre o frameword Astro para criação de páginas estáticas. — — · 0 yıldız
+- [vindev-sa/Next.js-cheatsheet-](https://github.com/vindev-sa/Next.js-cheatsheet-) — Notas para criação de aplicativos em Next.js — — · 0 yıldız
+- [vindula-ya/dreampad.io](https://github.com/vindula-ya/dreampad.io) — Final year research is based on a screening tool for autistic children in Sri Lanka. This research was based on mobile… — Java · 0 yıldız
+- [Vindyh/Estimation-of-number-of-fatalities-due-to-Covid-19-in-Texas-using-Sampling-Methods](https://github.com/Vindyh/Estimation-of-number-of-fatalities-due-to-Covid-19-in-Texas-using-Sampling-Methods) — Using two types of stratified ratio estimators and two types of stratified regression estimators to estimate the total number of… — — · 0 yıldız
+- [vineel-ramineni/apex-usermode-source](https://github.com/vineel-ramineni/apex-usermode-source) — (açıklama yok) — — · 0 yıldız
+- [Vineesh226/Antidetection-Virus](https://github.com/Vineesh226/Antidetection-Virus) — It is a Malware or a similar thing which haves a potential to harm the user by not allowing them to type. It will interrupt the… — VBScript · 0 yıldız
+- [vineet-dwivedi/Cheat-Sheet](https://github.com/vineet-dwivedi/Cheat-Sheet) — (açıklama yok) — — · 0 yıldız
+- [vineet-panchal/interview-cheatsheet](https://github.com/vineet-panchal/interview-cheatsheet) — An interview cheatsheet. — Common Lisp · 0 yıldız
+- [vineet0713/Quoridor](https://github.com/vineet0713/Quoridor) — This contains the source code and images used in the game Quoridor (COEN 160 final project). — Java · 0 yıldız
+- [vineetc1401/SOC_Cheatsheet-Vineet](https://github.com/vineetc1401/SOC_Cheatsheet-Vineet) — (açıklama yok) — — · 0 yıldız
+- [vineetham09/CheatSheets](https://github.com/vineetham09/CheatSheets) — (açıklama yok) — — · 0 yıldız
+- [vineethbnair/Customer-KYC-using-Blockchain](https://github.com/vineethbnair/Customer-KYC-using-Blockchain) — Using a decentralized KYC system an immutable distributed ledger can be maintained for everyone to access in the network. Every… — Python · 0 yıldız
+- [vineethguna/convext](https://github.com/vineethguna/convext) — My implementation of key value store using distributed system methodologies — Java · 0 yıldız
+- [vineetisforu/Airflow_ETL](https://github.com/vineetisforu/Airflow_ETL) — Focused on performing ETL through Airflow Orchestration by transforming TSV files to Parquet and loading it to Mysql — Python · 0 yıldız
+- [vinejain/Intel-Image-Classification-Task](https://github.com/vinejain/Intel-Image-Classification-Task) — This is WIP. Trying to use TPU with Colab but facing dependency issues due to certain package omissions in new tf2. So Far I was… — Jupyter Notebook · 0 yıldız
+- [vinerviry/EulenCheats-FiveM](https://github.com/vinerviry/EulenCheats-FiveM) — (açıklama yok) — — · 0 yıldız
+- [vinh0212/ELF-Cheatsheet](https://github.com/vinh0212/ELF-Cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [vinhandyle/terraria-mods](https://github.com/vinhandyle/terraria-mods) — Source code for my Terraria mods — C# · 0 yıldız
+- [Vinhthanh844/ShopPyross.github.io](https://github.com/Vinhthanh844/ShopPyross.github.io) — (açıklama yok) — HTML · 0 yıldız
+- [Vini12g/aws-command-cheatsheet](https://github.com/Vini12g/aws-command-cheatsheet) — A complete and well-organized collection of AWS CLI commands. This repository serves as a comprehensive reference and… — — · 0 yıldız
+- [vini1985/LicenseManagementSystem](https://github.com/vini1985/LicenseManagementSystem) — (açıklama yok) — C# · 0 yıldız
+- [vini2003/BattleMod](https://github.com/vini2003/BattleMod) — A Java-based project adding a battle royale event for Minecraft. — Java · 0 yıldız
+- [vini2003/Bee-in-a-Jar](https://github.com/vini2003/Bee-in-a-Jar) — A Java-based project adding a bee, in a jar, for Minecraft. — Java · 0 yıldız
+- [vini2003/Buffer](https://github.com/vini2003/Buffer) — A Java-based project adding large portable storage items for Minecraft. — Java · 0 yıldız
+- [vini2003/Tenor](https://github.com/vini2003/Tenor) — A Java-based prototype project adding fancy wires for Minecraft. — Java · 0 yıldız
+- [vini84200/cg](https://github.com/vini84200/cg) — (açıklama yok) — — · 0 yıldız
+- [ViniciosLugli/PZWorkspace](https://github.com/ViniciosLugli/PZWorkspace) — Source for my Project Zomboid mods (Build 42) — Lua · 0 yıldız
+- [viniciusCalcantara/RSAproject](https://github.com/viniciusCalcantara/RSAproject) — A program wich have three options. Encrypt, decrypt or generate a public key based on the RSA encryption system — C · 0 yıldız
+- [viniciusdias2902/tailwind_css_cheatsheet](https://github.com/viniciusdias2902/tailwind_css_cheatsheet) — (açıklama yok) — JavaScript · 0 yıldız
+- [ViniciusPignataro/phasmophobia_cheatsheet](https://github.com/ViniciusPignataro/phasmophobia_cheatsheet) — Cheatsheet do jogo Phasmophobia, indicando evidências e comportamentos dos fantasmas, ajudando na identificação do mesmo; — TypeScript · 0 yıldız
+- [ViniciusSilvestre10/AWS-Infra](https://github.com/ViniciusSilvestre10/AWS-Infra) — Infraestrutura como código (AWS CDK + Java) para provisionamento do microsserviço de Pedidos do AluraFood: VPC, ECS Fargate, RDS… — Java · 0 yıldız
+- [vinioliv/Squad7-Hackaton-FCamara-Frontend](https://github.com/vinioliv/Squad7-Hackaton-FCamara-Frontend) — Projeto do Squad 7 para o Programa de Formação FCamara 2021. — JavaScript · 0 yıldız
+- [ViniRamon1/corrida3d_cg](https://github.com/ViniRamon1/corrida3d_cg) — (açıklama yok) — — · 0 yıldız
+- [Vinisenso/exchange_program_selection_project](https://github.com/Vinisenso/exchange_program_selection_project) — This is a final assessment of the MCDA course that aims to rank exchange program options based on personal preferences.… — — · 0 yıldız
+- [vinit588/VINIT_GAMING_WEBSITE](https://github.com/vinit588/VINIT_GAMING_WEBSITE) — 🎮 WELCOME TO VINIT GAMING 🔥 Welcome to VINIT GAMING – Your Gaming World! 🚀 Discover and download amazing games in one place.… — HTML · 0 yıldız
+- [vinita978/ShoppyGlobe-E-commerce](https://github.com/vinita978/ShoppyGlobe-E-commerce) — (açıklama yok) — JavaScript · 0 yıldız
+- [Vinita99/fast_food_restaurant](https://github.com/Vinita99/fast_food_restaurant) — A fast food restaurant is a specific type of restaurant where the speed of service is a key consideration for customers. In order… — Java · 0 yıldız
+- [vinitghaturle/Apex-ai-hackathon](https://github.com/vinitghaturle/Apex-ai-hackathon) — (açıklama yok) — TypeScript · 0 yıldız
+- [vinitha31/Heart-Disease-Prediction-using-ml](https://github.com/vinitha31/Heart-Disease-Prediction-using-ml) — This project predicts heart disease using the Random Forest algorithm, achieving 90.16% accuracy. The dataset includes various… — Jupyter Notebook · 0 yıldız
+- [VINITHAA223226/Subscription_Management_System](https://github.com/VINITHAA223226/Subscription_Management_System) — (açıklama yok) — JavaScript · 0 yıldız
+- [VinithAngadi/Apache-Cassandra-ETL-pipeline](https://github.com/VinithAngadi/Apache-Cassandra-ETL-pipeline) — The database has been built to serve the purpose of analyzing songs that users are listening to on Sparkify (music streaming… — Jupyter Notebook · 0 yıldız
+- [VinithaRavi/cs-412-Data-Mining](https://github.com/VinithaRavi/cs-412-Data-Mining) — Source code for various assignments and machine problems for CS 412 — — · 0 yıldız
+- [Vinithasenthil/weather-data-etl-pipeline](https://github.com/Vinithasenthil/weather-data-etl-pipeline) — An end-to-end ETL pipeline that cleans weather data, converts it to CSV, and incrementally loads it into a MySQL database with… — Python · 0 yıldız
+- [vinjn/GpuProf](https://github.com/vinjn/GpuProf) — Realtime GPU Profiler for AMD / NVIDIA / Intel GPUs — — · 0 yıldız
+- [vinkius-labs/mcp-cheatsheet](https://github.com/vinkius-labs/mcp-cheatsheet) — Copy-paste MCP configs for the 50 most popular tools. GitHub, Stripe, Slack, PostgreSQL, OpenAI — one JSON snippet each. — — · 0 yıldız
+- [Vinliva/Quake-2](https://github.com/Vinliva/Quake-2) — Quake 2 Version 3.21 from https://archive.org/details/Quake_2_source_code — C · 0 yıldız
+- [vinlosevintality-alt/skeet812](https://github.com/vinlosevintality-alt/skeet812) — skeet812 — HTML · 0 yıldız
+- [VinLuau/ApexHubLoader](https://github.com/VinLuau/ApexHubLoader) — (açıklama yok) — — · 0 yıldız
+- [vinnacodes/Cheat-Sheets-programming](https://github.com/vinnacodes/Cheat-Sheets-programming) — This repo has most Effective cheatsheets for the Coding Interviews for Languages like java and Python , — — · 0 yıldız
+- [Vinnamre/Road-Accidents-in-India](https://github.com/Vinnamre/Road-Accidents-in-India) — 🚗 Road Accident Analysis in India 🇮🇳 This project focuses on analyzing road accident data in India to uncover patterns, trends,… — Jupyter Notebook · 0 yıldız
+- [vinnybsf/hierarchical-token-saver](https://github.com/vinnybsf/hierarchical-token-saver) — Hierarchical multi-agent orchestration skill that minimizes paid-LLM token spend by delegating execution and QA to a local… — Python · 0 yıldız
+- [VinnyIla/AppliToolsHackathon](https://github.com/VinnyIla/AppliToolsHackathon) — (açıklama yok) — HTML · 0 yıldız
+- [VinnyPrograming/XWare](https://github.com/VinnyPrograming/XWare) — A open source executer for ROBLOX. — — · 0 yıldız
+- [vinod-v-a/ShoppyBuy](https://github.com/vinod-v-a/ShoppyBuy) — (açıklama yok) — — · 0 yıldız
+- [vinod83k/learn-aws](https://github.com/vinod83k/learn-aws) — Creating this repo for a quick cheat sheet and exam tips on AWS Certifications — — · 0 yıldız
+- [vinodchoudhery/Shree-sai-packers-and-movers](https://github.com/vinodchoudhery/Shree-sai-packers-and-movers) — Shree sai packers and movers Shree sai packers and movers pune Pakers and movers pune Shree sai packers and movers pune, Best… — — · 0 yıldız
+- [VinodhThiagarajan86/BootStrapSampleProject](https://github.com/VinodhThiagarajan86/BootStrapSampleProject) — Grails Based — JavaScript · 0 yıldız
+- [vinodkantineni/flask-multilang-translator](https://github.com/vinodkantineni/flask-multilang-translator) — A Flask-based web translation app using MyMemory API. Features include multi-language support, modern dark/light UI, and a… — CSS · 0 yıldız
+- [vinodkumar973/HPP](https://github.com/vinodkumar973/HPP) — (açıklama yok) — — · 0 yıldız
+- [vinodkumar973/hppprod1](https://github.com/vinodkumar973/hppprod1) — (açıklama yok) — — · 0 yıldız
+- [vinodr2508/stacknotes](https://github.com/vinodr2508/stacknotes) — Clean, Organized, and Practical Cheat Sheets and Guides on Modern Programming Stacks. — JavaScript · 0 yıldız
+- [Vinodsvt/HPPC_Repo](https://github.com/Vinodsvt/HPPC_Repo) — HppcUHBVN — — · 0 yıldız
+- [Vinodsvt/HPPCUH](https://github.com/Vinodsvt/HPPCUH) — HPPC_Test — — · 0 yıldız
+- [Vinoth1997/cheatsheet](https://github.com/Vinoth1997/cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [VinothRajasekar/Amazon-Cloud](https://github.com/VinothRajasekar/Amazon-Cloud) — Amazon Web Services Cloud Load Balancer and AutoScaling prototype implementation — Java · 0 yıldız
+- [vinothvinoth89250-wq/Minecraft-](https://github.com/vinothvinoth89250-wq/Minecraft-) — from ursina import * from ursina.prefabs.first_person_controller import FirstPersonController app = Ursina() # பிளாக்குகளின்… — — · 0 yıldız
+- [vinshrshetty/farmbot_os](https://github.com/vinshrshetty/farmbot_os) — (açıklama yok) — Elixir · 0 yıldız
+- [VinsmokeSomya/awesome-game-development](https://github.com/VinsmokeSomya/awesome-game-development) — No gatekeeping, just vibes. 💅 We understood the assignment and dropped the ultimate game design cheat sheet. These PDFs hit… — — · 0 yıldız
+- [vint35/minecraft-cheat-sheet](https://github.com/vint35/minecraft-cheat-sheet) — (açıklama yok) — HTML · 0 yıldız
+- [VinTurtleWho/Hopingthisworks](https://github.com/VinTurtleWho/Hopingthisworks) — (açıklama yok) — — · 0 yıldız
+- [Vinyas1/Devops-Cheat-sheet](https://github.com/Vinyas1/Devops-Cheat-sheet) — (açıklama yok) — — · 0 yıldız
+- [vinymayan/Combo-System](https://github.com/vinymayan/Combo-System) — Help me God — — · 0 yıldız
+- [vio1et9/menu](https://github.com/vio1et9/menu) — A simple C-language based menu program — C · 0 yıldız
+- [vioblah/RobloxPenguinMod](https://github.com/vioblah/RobloxPenguinMod) — roblox in penguinmod, open source — — · 0 yıldız
+- [vioentkitty/logracc](https://github.com/vioentkitty/logracc) — A sleek, dark-mode-enabled, React-based Flatpak and Web log viewer — made for system admins who love good UI and better logs.… — Shell · 0 yıldız
+- [violayu04/vision-zero-nyc-analysis](https://github.com/violayu04/vision-zero-nyc-analysis) — Difference-in-differences analysis of NYC's Vision Zero policy impact on traffic fatalities using FARS data (2005-2024), built… — Scala · 0 yıldız
+- [ViolentMod/UP](https://github.com/ViolentMod/UP) — UP(Ultimate Power) is my Minecraft Power Source which interacts with RF, EU and MJ. — Java · 0 yıldız
+- [ViolentMod/UP-Standalone](https://github.com/ViolentMod/UP-Standalone) — The standalone, for Modders, version of the Minecraft Power Source UP(Ultimate Power) — — · 0 yıldız
+- [violentqm/REL4XWARE_SourceCode](https://github.com/violentqm/REL4XWARE_SourceCode) — Source Code of the REL4XWARE Roblox Exploit — — · 0 yıldız
+- [Violet785/linux-cheatsheet](https://github.com/Violet785/linux-cheatsheet) — (açıklama yok) — Shell · 0 yıldız
+- [violetballard/disrupter](https://github.com/violetballard/disrupter) — Disrupter is an open source set of rules for 10mm miniatures wargaming. It is platoon scale and infantry focused. Players take… — — · 0 yıldız
+- [VioletCutler/Markdown-Cheat-Sheet](https://github.com/VioletCutler/Markdown-Cheat-Sheet) — (açıklama yok) — — · 0 yıldız
+- [VioletSkunk/Hacknet-1337-WR-Tool](https://github.com/VioletSkunk/Hacknet-1337-WR-Tool) — The tool and files used for Quasars 1337 Hacknet WR. — — · 0 yıldız
+- [VioletSkunk/HacknetAutoTyper](https://github.com/VioletSkunk/HacknetAutoTyper) — Quasars Hacknet 1337 WR Tool — C# · 0 yıldız
+- [Viorel-V/_POSIX_pthreads_P.c](https://github.com/Viorel-V/_POSIX_pthreads_P.c) — this is a file.c you can load in a directory in Ubuntu/Linux. Using Command window I compiled with command: gcc… — C · 0 yıldız
+- [vioviooo/blackhole-simulation](https://github.com/vioviooo/blackhole-simulation) — Приложение для визуализации черной дыры на основе метрики Шварцшильда — — · 0 yıldız
+- [vip796/vipsql22](https://github.com/vip796/vipsql22) — cheat Sheet — — · 0 yıldız
+- [viparataoo/vag-loading](https://github.com/viparataoo/vag-loading) — Clean and Smooth Loading Screen For Fivem With Music Player — — · 0 yıldız
+- [viper280/Viper2017z](https://github.com/viper280/Viper2017z) — Dayz load out json — — · 0 yıldız
+- [Vipin-Patel-devops/Cheatseet](https://github.com/Vipin-Patel-devops/Cheatseet) — All Cheat sheet — HTML · 0 yıldız
+- [vipinkhushu/ESP_Squad](https://github.com/vipinkhushu/ESP_Squad) — (açıklama yok) — JavaScript · 0 yıldız
+- [VipinVargheseGithub/TruecallerSDK_sample](https://github.com/VipinVargheseGithub/TruecallerSDK_sample) — (açıklama yok) — — · 0 yıldız
+- [vipiny357/fashion-rs-and-vton-survey](https://github.com/vipiny357/fashion-rs-and-vton-survey) — A Survey On AI-Based Clothing Recommendation For Try Before Buy - For the completion of final year project — TeX · 0 yıldız
+- [VIPlearner/DSN-AI-Hackathon-](https://github.com/VIPlearner/DSN-AI-Hackathon-) — This is my final solution after I finished 4th in the 2022 DSN AI Hackathon — Jupyter Notebook · 0 yıldız
+- [VipTechDev/dev_cheatsheets](https://github.com/VipTechDev/dev_cheatsheets) — A collection of reference guides and command summaries for Git, Python, and more. — — · 0 yıldız
+- [Vipul7526/apexos-distro](https://github.com/Vipul7526/apexos-distro) — ApexOS production-grade Linux distribution source, build scripts, tools, and website — Makefile · 0 yıldız
+- [vipulharsh/cs296-Project](https://github.com/vipulharsh/cs296-Project) — cs296 Project : Base code and Rube Goldberg machine details — — · 0 yıldız
+- [vipulnanaware8/hvhgvjg](https://github.com/vipulnanaware8/hvhgvjg) — (açıklama yok) — — · 0 yıldız
+- [vipulsingh253/ShoppyGlobe-E-Commerce-Website](https://github.com/vipulsingh253/ShoppyGlobe-E-Commerce-Website) — (açıklama yok) — JavaScript · 0 yıldız
+- [vipulverulkar/SmartBatteryHack_ESP8266](https://github.com/vipulverulkar/SmartBatteryHack_ESP8266) — (açıklama yok) — C# · 0 yıldız
+- [vipulydv06/tic_tac_toe](https://github.com/vipulydv06/tic_tac_toe) — A polished terminal-based Tic-Tac-Toe game written entirely in C. It includes an unbeatable computer opponent powered by the… — C · 0 yıldız
+- [vipvivek15/CMPE-273-Final-Project](https://github.com/vipvivek15/CMPE-273-Final-Project) — Attaching the code for load balance simulator for CMPE 273 final project. — Python · 0 yıldız
+- [vipzhicheng/cheatsheet](https://github.com/vipzhicheng/cheatsheet) — 为开发人员分享快速参考备忘清单(速查表) — Dockerfile · 0 yıldız
+- [ViqoleBoneless/Fivem-Ekip-Botu](https://github.com/ViqoleBoneless/Fivem-Ekip-Botu) — Fivem MDRP ve Well sunucularının veya illegal gun roleplay ekip sahipleri için gelişmiş açık kaynak ücretsiz ekip botu. — JavaScript · 0 yıldız
+- [Viraj18P/CS218-Decentralised-ID-Verification-BlockSybils](https://github.com/Viraj18P/CS218-Decentralised-ID-Verification-BlockSybils) — A blockchain-based decentralized identity verification system using smart contracts and privacy-preserving mechanisms to ensure… — JavaScript · 0 yıldız
+- [Viraj2112/Shoppy_Globe_E-Commere_App](https://github.com/Viraj2112/Shoppy_Globe_E-Commere_App) — (açıklama yok) — JavaScript · 0 yıldız
+- [VirajBagal/Innoplex-Hackathon](https://github.com/VirajBagal/Innoplex-Hackathon) — Innoplex Hackathon was hosted on Analytics Vidhya website. It was NLP hackathon. I ranked 210th out of 3260 competitors. I have… — Jupyter Notebook · 0 yıldız
+- [Virajmore888/e-commerce-sql-analytics](https://github.com/Virajmore888/e-commerce-sql-analytics) — End-to-end SQL portfolio project analyzing e-commerce data (orders, payments, customers, products) using PostgreSQL/MySQL. Covers… — Python · 0 yıldız
+- [Virakal/FiveM-Player-Blips-TS](https://github.com/Virakal/FiveM-Player-Blips-TS) — Player blips for FiveM — TypeScript · 0 yıldız
+- [viralmodi/sampleAppUsingOciDotNetSdk](https://github.com/viralmodi/sampleAppUsingOciDotNetSdk) — (açıklama yok) — — · 0 yıldız
+- [viralrinfishan/hvhrsc](https://github.com/viralrinfishan/hvhrsc) — (açıklama yok) — — · 0 yıldız
+- [virangdoshi/CSCI176](https://github.com/virangdoshi/CSCI176) — Source code for parallel processing class — Java · 0 yıldız
+- [Virantha21/Diffie-Hellman-Key-Exchange](https://github.com/Virantha21/Diffie-Hellman-Key-Exchange) — Information System Security (Cryptography) — Java · 0 yıldız
+- [viren-sureja/viren_cheatsheets](https://github.com/viren-sureja/viren_cheatsheets) — cheat-sheet to any language or framework and installation guide as well — — · 0 yıldız
+- [Virendra513/cheatsheets](https://github.com/Virendra513/cheatsheets) — (açıklama yok) — — · 0 yıldız
+- [Virgil0203/distributed-key-value-system](https://github.com/Virgil0203/distributed-key-value-system) — (açıklama yok) — — · 0 yıldız
+- [Virgilcruz173/https-healthprouds.com-keto-kc3000-](https://github.com/Virgilcruz173/https-healthprouds.com-keto-kc3000-) — Keto KC3000 eaten up by the liver and changed over into ketones or used as a readied wellspring of centrality Really coconut oil… — — · 0 yıldız
+- [virgile-crtl/GameSenseMonitor](https://github.com/virgile-crtl/GameSenseMonitor) — OLED Artics Nova Pro Wireless Monitoring CPU, GPU & more — Python · 0 yıldız
+- [viridiant/viridian-loading](https://github.com/viridiant/viridian-loading) — GMod loading screen for A Colheita RP — HTML · 0 yıldız
+- [virinchyp/Toolies](https://github.com/virinchyp/Toolies) — Gov Hacker Cook Book for Schoolies — Visual Basic · 0 yıldız
+- [virkarpankaj/Model-Based-Forecasting---AR-MA-ARMA](https://github.com/virkarpankaj/Model-Based-Forecasting---AR-MA-ARMA) — Model Based Forecasting - AR, MA, ARMA — Jupyter Notebook · 0 yıldız
+- [Virmani12/Mobility-based-SIRD-Models](https://github.com/Virmani12/Mobility-based-SIRD-Models) — Final Group Project for the course "Computational Methods for Biological Modeling & Simulation" at Carnegie Mellon University — Jupyter Notebook · 0 yıldız
+- [VirtiJain04/Titanic-Classification](https://github.com/VirtiJain04/Titanic-Classification) — A system for predicting a person's likelihood of survival in a sinking scenario. Identify key success factors, including… — Jupyter Notebook · 0 yıldız
+- [Virtual-Clooud/GameifySite](https://github.com/Virtual-Clooud/GameifySite) — Django-Based TF2 BUFF Site — Python · 0 yıldız
+- [Virtual-World-RE/Oni3-Launcher](https://github.com/Virtual-World-RE/Oni3-Launcher) — This is an open source launcher for Onimusha 3: Demon Siege patch. May become a full reverse of the game someday ? — C++ · 0 yıldız
+- [virtualdev0/RobloxModMenu](https://github.com/virtualdev0/RobloxModMenu) — (açıklama yok) — — · 0 yıldız
+- [virtualframes/neurosense](https://github.com/virtualframes/neurosense) — fps gamesense meets neurochemical interactions — — · 0 yıldız
+- [VirtualyMichael/chemtutor](https://github.com/VirtualyMichael/chemtutor) — Private, local chemistry study app: graded practice, local-AI tutor, spaced repetition, mock exams, AP-style free response, cheat… — Python · 0 yıldız
+- [Virtued/VirtuedOpenSource](https://github.com/Virtued/VirtuedOpenSource) — Virtued Network Open-Source Software — — · 0 yıldız
+- [Virupakshayyahiremath/APB-Based-SPI-Controller](https://github.com/Virupakshayyahiremath/APB-Based-SPI-Controller) — (açıklama yok) — Verilog · 0 yıldız
+- [Virus-iraq-FB/flb-Lite](https://github.com/Virus-iraq-FB/flb-Lite) — Hacked fscebook and PUBG freelHacked your frind — — · 0 yıldız
+- [VirUsFly/EJPT_CheatSheet](https://github.com/VirUsFly/EJPT_CheatSheet) — ⚡ All-in-one eJPT quick reference for hacking labs, tools, and exam prep. — — · 0 yıldız
+- [Virusrwj223/Cheatsheet-And-Notes](https://github.com/Virusrwj223/Cheatsheet-And-Notes) — (açıklama yok) — TeX · 0 yıldız
+- [VIRUXE/cfx-versionchecker](https://github.com/VIRUXE/cfx-versionchecker) — konular: citizenfx, fivem, redm — JavaScript · 0 yıldız
+- [VIRUXE/gtav-coordinate-lookup](https://github.com/VIRUXE/gtav-coordinate-lookup) — Offline GTAV coordinate lookup for zones, roads, and intersections. — Rust · 0 yıldız
+- [VirxEC/rlbot_gui_rust_apt](https://github.com/VirxEC/rlbot_gui_rust_apt) — The software repository of the RLBotGUI for Debian-based systems — Shell · 0 yıldız
+- [Viseo/LinxensFiGuiCsharp](https://github.com/Viseo/LinxensFiGuiCsharp) — VISEO Repository for Linxens - Open Source project Fi Graphical User Interface (in C#) — C# · 0 yıldız
+- [vishakha2609/responsive-navigation-bar](https://github.com/vishakha2609/responsive-navigation-bar) — A modern and fully responsive navigation bar built using HTML and CSS, featuring a mobile-friendly hamburger menu, smooth hover… — CSS · 0 yıldız
+- [VISHAKHNAIR16/KOLLAM_SQUAD-HACKTOBERFEST-](https://github.com/VISHAKHNAIR16/KOLLAM_SQUAD-HACKTOBERFEST-) — (açıklama yok) — Python · 0 yıldız
+- [VISHAL-038/image_uploader](https://github.com/VISHAL-038/image_uploader) — This is a Django-based image uploader web application that allows users to upload images with captions. The application features… — Python · 0 yıldız
+- [Vishal-047/Ai-process-analyzer](https://github.com/Vishal-047/Ai-process-analyzer) — The OS Process Monitor with AI-Based Anomaly Detection is a real-time system monitoring tool designed to track and analyze… — Python · 0 yıldız
+- [vishal-pawar-1/terra-kuber-ansible-cheatsheet](https://github.com/vishal-pawar-1/terra-kuber-ansible-cheatsheet) — (açıklama yok) — HCL · 0 yıldız
+- [vishal8757721-dot/squadsync-esports](https://github.com/vishal8757721-dot/squadsync-esports) — (açıklama yok) — HTML · 0 yıldız
+- [vishal9950/Shoppy_BE](https://github.com/vishal9950/Shoppy_BE) — (açıklama yok) — JavaScript · 0 yıldız
+- [vishal9950/Shoppy_FE](https://github.com/vishal9950/Shoppy_FE) — (açıklama yok) — JavaScript · 0 yıldız
+- [vishaldpw/Terraform-Cheat-sheet-Blocks-and-Functions](https://github.com/vishaldpw/Terraform-Cheat-sheet-Blocks-and-Functions) — terraform-Cheat-sheet For quick reference for Blocks — — · 0 yıldız
+- [vishaleswaran/Predicting-Taxi-Fares-with-Random-Forests](https://github.com/vishaleswaran/Predicting-Taxi-Fares-with-Random-Forests) — In this project, we get to work with the data from a large number of taxi journeys in New York from 2013. We will use regression… — Jupyter Notebook · 0 yıldız
+- [Vishalgupta72000/RFID-AND-KEYPAD-BASED-DOOR-LOCK-SYSTEM-WITH-MOBILE-NOTIFICATION-USING-ARDUINO-](https://github.com/Vishalgupta72000/RFID-AND-KEYPAD-BASED-DOOR-LOCK-SYSTEM-WITH-MOBILE-NOTIFICATION-USING-ARDUINO-) — To design a very high level security system to avoid upcoming threats of being theft, which can sense an unauthorized person… — — · 0 yıldız
+- [VISHALIRATHINAVEL153/RFID-BASED-DOOR-LOCK-SYSTEM](https://github.com/VISHALIRATHINAVEL153/RFID-BASED-DOOR-LOCK-SYSTEM) — RFID based door lock system project based on the lock system security and it is easier to access control than key because data on… — — · 0 yıldız
+- [VishalJeyaram/CS2113T-Team-Project](https://github.com/VishalJeyaram/CS2113T-Team-Project) — CS2113T Software Engineering & Object-Oriented Programming Team Project: CLIckFit, a desktop-based fitness app — Java · 0 yıldız
+- [VishalKumar2110/Sample_menu](https://github.com/VishalKumar2110/Sample_menu) — (açıklama yok) — JavaScript · 0 yıldız
+- [vishalkumar8292/-GroceryShoppy](https://github.com/vishalkumar8292/-GroceryShoppy) — (açıklama yok) — — · 0 yıldız
+- [vishalmamidi/search-on-encrypted-data-laravel](https://github.com/vishalmamidi/search-on-encrypted-data-laravel) — data is stored in entrusted DB providers, so in this project we create a system so stored encrypted data in a database and sow… — PHP · 0 yıldız
+- [VishalNarsinh/linux-cheatsheet](https://github.com/VishalNarsinh/linux-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [Vishalprajapati-dev/Viora-AI](https://github.com/Vishalprajapati-dev/Viora-AI) — Viora-AI is a full-stack AI-powered conversational application designed to deliver intelligent, real-time responses using modern… — JavaScript · 0 yıldız
+- [vishalsgite/ai-youtube-ai-analysis-service](https://github.com/vishalsgite/ai-youtube-ai-analysis-service) — The AI Analysis Service is the "Consensus Brain" of Nexus AI. It consumes transcript chunks from Kafka, aggregates data until the… — Java · 0 yıldız
+- [VishalSinghNaula/deadlock_predictor_project](https://github.com/VishalSinghNaula/deadlock_predictor_project) — The LSTM based deadlock prediction project. — Python · 0 yıldız
+- [vishaltorgal/cheat-sheet](https://github.com/vishaltorgal/cheat-sheet) — JavaScript Cheat Sheet — — · 0 yıldız
+- [vishalvnair124/dart-cheatsheet](https://github.com/vishalvnair124/dart-cheatsheet) — A collection of concise, topic-wise Dart cheat sheets for quick reference and revision. Ideal for students, developers, and… — Dart · 0 yıldız
+- [VishalWagmare/Hospital_Managemt_System](https://github.com/VishalWagmare/Hospital_Managemt_System) — Hospital Management System in C using data structures. It manages normal and emergency patients with queues and priority queues,… — C · 0 yıldız
+- [Vishalxp20/DSA](https://github.com/Vishalxp20/DSA) — 📊 Data Structures & Algorithms (DSA) Pattern Sheet This repository is aligned with a comprehensive DSA Pattern Cheat Sheet… — C++ · 0 yıldız
+- [Vishamkumar/Kali-Linux-Cheat-sheet](https://github.com/Vishamkumar/Kali-Linux-Cheat-sheet) — This repository offers a practical Kali Linux cheat sheet for students and beginners. It covers essential Linux commands, file… — — · 0 yıldız
+- [vishch24/devops-notes](https://github.com/vishch24/devops-notes) — This repository include learning notes, cheat sheets, and references through out #90DaysofDevOps. — — · 0 yıldız
+- [visheshGupta01/UniCheatSheet_Hack](https://github.com/visheshGupta01/UniCheatSheet_Hack) — (açıklama yok) — Python · 0 yıldız
+- [visheshj2005/cheatsheet](https://github.com/visheshj2005/cheatsheet) — (açıklama yok) — CSS · 0 yıldız
+- [visheshkumar450/CHAT-BOT-TO-HELP-FARMERS](https://github.com/visheshkumar450/CHAT-BOT-TO-HELP-FARMERS) — This is the chat-bot to help farmers to overcome the problems of his daily life . It provides them all the information about loan… — — · 0 yıldız
+- [vishm/tibcorvstatscrape](https://github.com/vishm/tibcorvstatscrape) — Extract key measurements from Tibco RV web daemon which then can be routed to relevant monitoring systems. — Python · 0 yıldız
+- [vishmi664t/infrawatch-azure](https://github.com/vishmi664t/infrawatch-azure) — Tree-tier fleet monitoring dashboard deployed on Azure: Flask, NGINX, MySQL, VM Scale Sets, Load Balancers, NSG, Bastion — Python · 0 yıldız
+- [vishnu-06/Selective-Region-Hybrid-Multiple-Key-Authentication-System-for-Digital-Image](https://github.com/vishnu-06/Selective-Region-Hybrid-Multiple-Key-Authentication-System-for-Digital-Image) — (açıklama yok) — Python · 0 yıldız
+- [Vishnu-Aniruth-R/CURIOUS-FREAK-CHEATSHEET](https://github.com/Vishnu-Aniruth-R/CURIOUS-FREAK-CHEATSHEET) — (açıklama yok) — — · 0 yıldız
+- [vishnu0523/CTF-Cheatsheets](https://github.com/vishnu0523/CTF-Cheatsheets) — (açıklama yok) — — · 0 yıldız
+- [Vishnu107-Dfury/ml-project-1-hpp](https://github.com/Vishnu107-Dfury/ml-project-1-hpp) — (açıklama yok) — — · 0 yıldız
+- [VISHNU250802/ShoppyNation---1st-Year-Capstone-Project](https://github.com/VISHNU250802/ShoppyNation---1st-Year-Capstone-Project) — (açıklama yok) — C++ · 0 yıldız
+- [vishnuanilk/Cheatsheet](https://github.com/vishnuanilk/Cheatsheet) — Cheat sheets of tools and programming languages — Jupyter Notebook · 0 yıldız
+- [vishnubapana/Deadlock_Algorithm](https://github.com/vishnubapana/Deadlock_Algorithm) — The assigned task is to run a deadlock algorithm to determine how many processes are deadlocked based on the given information to… — C · 0 yıldız
+- [vishnuc123/cheatSheets](https://github.com/vishnuc123/cheatSheets) — Cheatsheet for tailwindCss — — · 0 yıldız
+- [Vishnuecon/Satellite-Based-UOH-Fire-Risk-Analysis](https://github.com/Vishnuecon/Satellite-Based-UOH-Fire-Risk-Analysis) — Satellite-based geospatial analysis of forest fire incidents at the University of Hyderabad 2012-2025 with policy implications. — — · 0 yıldız
+- [vishnugowtham97/Pokemon-card](https://github.com/vishnugowtham97/Pokemon-card) — PokéSwipe is a React-based web app for swiping through, liking, and disliking Pokémon, with support for dark mode and a… — JavaScript · 0 yıldız
+- [Vishnukumar1409/Experiment-8-Ensemble-Methods-Random-Forest-vs-AdaBoost-comparison](https://github.com/Vishnukumar1409/Experiment-8-Ensemble-Methods-Random-Forest-vs-AdaBoost-comparison) — Train RandomForest and AdaBoost classifiers on the breast cancer dataset and compare accuracies. — — · 0 yıldız
+- [vishnurajanme/autoscorer-for-google-quiz](https://github.com/vishnurajanme/autoscorer-for-google-quiz) — google forms quiz mode does offer auto grading by it's own but that is for a single quiz. What if you want to get grades from… — — · 0 yıldız
+- [vishnusai2005/Comprehensive-Titanic-EDA-with-Visualizations-and-Key-Findings](https://github.com/vishnusai2005/Comprehensive-Titanic-EDA-with-Visualizations-and-Key-Findings) — This commit updates the repository with the final, detailed Exploratory Data Analysis (EDA) of the Titanic dataset. The work is… — Jupyter Notebook · 0 yıldız
+- [vishnuvardhan015/Html-cheat-sheet](https://github.com/vishnuvardhan015/Html-cheat-sheet) — Html Syntax — — · 0 yıldız
+- [Vishnuvardhanreddykarra/APB_INTERFACED_SPI_UVM_TESTBENCH](https://github.com/Vishnuvardhanreddykarra/APB_INTERFACED_SPI_UVM_TESTBENCH) — UVM based verification environment for an APB_INTERFACED_SPI_CONTROLLER using SV and Constraint random verification — — · 0 yıldız
+- [vishnuxvz/Student-Management-System](https://github.com/vishnuxvz/Student-Management-System) — a console-based Student Management System in C++ that efficiently manages student records using file handling and menu-driven… — HTML · 0 yıldız
+- [vishrut25scs1003005667-glitch/Student-Management-System](https://github.com/vishrut25scs1003005667-glitch/Student-Management-System) — To develop a console-based Student Management System in C++ that efficiently manages student records using file handling and… — — · 0 yıldız
+- [vishruthjd34-spec/Address_Book](https://github.com/vishruthjd34-spec/Address_Book) — The Address Book Management System is a console-based application developed using the C programming language. It allows users to… — C · 0 yıldız
+- [vishtheshnu/explosive-tech](https://github.com/vishtheshnu/explosive-tech) — Created for modjam 5, this minecraft mod adds many explosive-based items, blocks, and machines — Java · 0 yıldız
+- [vishtheshnu/turbinecraft](https://github.com/vishtheshnu/turbinecraft) — Minecraft Forge tech mod based on rotational power — Java · 0 yıldız
+- [Vishu011/springBootAnnotationsCheatsheet](https://github.com/Vishu011/springBootAnnotationsCheatsheet) — (açıklama yok) — — · 0 yıldız
+- [vishu101024/APB_SPI_MASTER_RTL_DESIGN_AND_VERIFICATION](https://github.com/vishu101024/APB_SPI_MASTER_RTL_DESIGN_AND_VERIFICATION) — RTL Design and UVM-Based Verification of an APB-Controlled SPI Master IP Core using Verilog/SystemVerilog, with protocol… — Verilog · 0 yıldız
+- [vishurajputt07/Forest-Fire-Prediction-App](https://github.com/vishurajputt07/Forest-Fire-Prediction-App) — A web application that predicts the likelihood of forest fires based on environmental parameters like temperature, humidity, and… — Jupyter Notebook · 0 yıldız
+- [Vishvaa10901/Forest-Fire-Prediction](https://github.com/Vishvaa10901/Forest-Fire-Prediction) — Forest fires help in the natural cycle of woods' growth and replenishment. They Clear dead trees, leaves, and competing… — — · 0 yıldız
+- [vishvajit-cloud/student-app-mysql-docker](https://github.com/vishvajit-cloud/student-app-mysql-docker) — host a dynamic website using docker, load balancer and auto scaling — Python · 0 yıldız
+- [Vishvajit123/Django-tweet-app](https://github.com/Vishvajit123/Django-tweet-app) — A Django-based Twitter-like social media application where users can create, edit, and delete tweets with optional image uploads.… — Python · 0 yıldız
+- [Vishvanth1808/Simple-LazyLoader](https://github.com/Vishvanth1808/Simple-LazyLoader) — Created a simple LazyLoader using C — — · 0 yıldız
+- [vishwa-999/Agency_Finance_Automation_Toolkit](https://github.com/vishwa-999/Agency_Finance_Automation_Toolkit) — Automated reconciliation, Squad-based Unit Economics, and Cash Flow "Float" Management for Scaling Agencies. — Python · 0 yıldız
+- [Vishwa-Thangapandiyan/Open-Source-Tools-Dashboard](https://github.com/Vishwa-Thangapandiyan/Open-Source-Tools-Dashboard) — A curated, category-wise web dashboard for discovering popular open-source tools across domains like AI/ML, DevOps, Security, and… — HTML · 0 yıldız
+- [VishwaaBhavsar/Password-Generator](https://github.com/VishwaaBhavsar/Password-Generator) — 🔐 Password Generator A React-based Password Generator with customization and security features. Features ✅ Custom Length (6-100… — JavaScript · 0 yıldız
+- [vishwakamal/cbc-hackathon](https://github.com/vishwakamal/cbc-hackathon) — AI-powered sports medicine triage app. Takes soreness, sleep, training load, and body-part pain; calls Claude API to generate… — JavaScript · 0 yıldız
+- [vishwaskwatra/shoppyglobe-react](https://github.com/vishwaskwatra/shoppyglobe-react) — Made on ReactJs — JavaScript · 0 yıldız
+- [VishwasMR-30/Cybersecurity-Terminology-Cheatsheet](https://github.com/VishwasMR-30/Cybersecurity-Terminology-Cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [visionary-code-studio/Learning_Web_Dev](https://github.com/visionary-code-studio/Learning_Web_Dev) — This Repo constituents with all resources needed for learning web development from short notes, cheat sheets to practice sheet… — — · 0 yıldız
+- [Visionary-Laboratory/Proxy-GS](https://github.com/Visionary-Laboratory/Proxy-GS) — [CVPR 2026 Oral, Best Paper Candidate] Proxy-GS: Unified Occlusion Priors for Training and Inference in Structured 3D Gaussian… — — · 0 yıldız
+- [VisionGit/gmod_ecstasy](https://github.com/VisionGit/gmod_ecstasy) — A simple ecstasy drug system for city based gamemodes on Garry's Mod. — Lua · 0 yıldız
+- [Visnupriya08/HEALTH-AND-NUTRIENT-TRACKER-MANAGEMENT-SYSTEM](https://github.com/Visnupriya08/HEALTH-AND-NUTRIENT-TRACKER-MANAGEMENT-SYSTEM) — Fitty Bee is a web-based health and nutrition tracker for monitoring diet, workouts, BMI, and wellness with personalized… — — · 0 yıldız
+- [Visshal81/python-cheat-sheet](https://github.com/Visshal81/python-cheat-sheet) — everything I have practiced in python till date — — · 0 yıldız
+- [Visual235/https-445123.tzexternal.eulen.skript.gg.freeeulencheats](https://github.com/Visual235/https-445123.tzexternal.eulen.skript.gg.freeeulencheats) — https://445123.tzexternal.eulen.skript.gg.freeeulencheats.hetekopaszlua.redengine.tzx0xcheats.susano.crownmenu.phazemenu.downloada… — — · 0 yıldız
+- [visurarodrigo/sql-cheatsheet](https://github.com/visurarodrigo/sql-cheatsheet) — This cheatsheet was created while practicing SQL during my data analytics learning journey. — — · 0 yıldız
+- [VITAL-69/Fortnite-Launcher-Free-Source](https://github.com/VITAL-69/Fortnite-Launcher-Free-Source) — (açıklama yok) — C# · 0 yıldız
+- [Vital-Fernandez/thesis_pipeline](https://github.com/Vital-Fernandez/thesis_pipeline) — Primordial helium abundance determination using observations from the William Herschel telescope — Python · 0 yıldız
+- [vitalcrowpine5828/mini-cheatsheet-util](https://github.com/vitalcrowpine5828/mini-cheatsheet-util) — A simple cheatsheet project — Python · 0 yıldız
+- [VitaleyUsa/rustdesk](https://github.com/VitaleyUsa/rustdesk) — An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. — Rust · 0 yıldız
+- [vitali-breida/dark-factory](https://github.com/vitali-breida/dark-factory) — Dark factory system that automomously tracks issues in a selected open source Git repo, attempts to fix them and verifies with… — TypeScript · 0 yıldız
+- [VitaliiKhorobchuk/sampleSdk](https://github.com/VitaliiKhorobchuk/sampleSdk) — (açıklama yok) — Java · 0 yıldız
+- [vitalikk17/hpp](https://github.com/vitalikk17/hpp) — (açıklama yok) — HTML · 0 yıldız
+- [vitaliypukhovoy/JonSkeet3](https://github.com/vitaliypukhovoy/JonSkeet3) — По третьему изданию C# In Depth. — — · 0 yıldız
+- [vitamaxoduol/Track-A-Mtaani](https://github.com/vitamaxoduol/Track-A-Mtaani) — Track-A-Mtaani helps residents discover public projects, understand budget allocations, and check claims against official sources… — Python · 0 yıldız
+- [vitasgit/Firefly3](https://github.com/vitasgit/Firefly3) — A free and open source personal finance manager — Shell · 0 yıldız
+- [vitmaxd/skeet-cc-api](https://github.com/vitmaxd/skeet-cc-api) — Dead by Daylight Optimizer API — HTML · 0 yıldız
+- [VitoMiguelF/crashott-pc](https://github.com/VitoMiguelF/crashott-pc) — Crash of the Titans (Xbox 360) statically recompiled for Windows: DLSS/FSR, PC controls, PT-BR, subtitles, mods. Bring your own… — — · 0 yıldız
+- [Vitorbnc/VVERSimulator](https://github.com/Vitorbnc/VVERSimulator) — A Simulator for the Primary Circuit of the VVER-440/V213 Pressurized Water Reactor — — · 0 yıldız
+- [vitorespav/linux-commands-cheatsheet](https://github.com/vitorespav/linux-commands-cheatsheet) — My collection of Linux commands and examples for learning CloudOps — — · 0 yıldız
+- [vitorgoncalvesb/CS-GM](https://github.com/vitorgoncalvesb/CS-GM) — Project in development based on a Counter Strike GM experience inspired by Basketball GM — JavaScript · 0 yıldız
+- [vitoriape/tech-cheatsheet](https://github.com/vitoriape/tech-cheatsheet) — Multi-language technical reference repository designed to centralize quick, practical examples used in day-to-day development,… — Java · 0 yıldız
+- [vitoriarntrindade/fastapi-etl-pipeline](https://github.com/vitoriarntrindade/fastapi-etl-pipeline) — Um sistema ETL (Extract, Transform, Load) baseado no FastAPI para consumir produtos da FakeStore API, armazená-los no MySQL e… — Python · 0 yıldız
+- [vitoriaveig/freefire-esports-regras](https://github.com/vitoriaveig/freefire-esports-regras) — Acervo curado de regulamentos de esports de Free Fire (Garena), com procedência e comparação com Riot e Valve — Python · 0 yıldız
+- [vitormarinhofaria/GravitySimulator](https://github.com/vitormarinhofaria/GravitySimulator) — 2D Gravity Simulator — — · 0 yıldız
+- [vitoromaisbelodetodos-cmd/https-www.roblox.com-pt-users-4727595528-profile-friendshipSourceType-PlayerSearch](https://github.com/vitoromaisbelodetodos-cmd/https-www.roblox.com-pt-users-4727595528-profile-friendshipSourceType-PlayerSearch) — (açıklama yok) — — · 0 yıldız
+- [VitorPezzete/OPD-Revamp](https://github.com/VitorPezzete/OPD-Revamp) — One Piece: Divine (Roblox) - source of the Revamp, as a Rojo project. — Luau · 0 yıldız
+- [Vitouliss/Vitouliss-s-Lightweight-commands](https://github.com/Vitouliss/Vitouliss-s-Lightweight-commands) — The full source of my in-game administration commands for my ROBLOX games. — Lua · 0 yıldız
+- [vittonix/study-hub](https://github.com/vittonix/study-hub) — Victor's Finals Week Study Hub — React app with schedule, cheat sheets, and practice exams — JavaScript · 0 yıldız
+- [VittorioDong/Physically-Based-Rendering](https://github.com/VittorioDong/Physically-Based-Rendering) — I independently implemented a physics based rendering (PBR) model using my knowledge, including various aspects such as… — — · 0 yıldız
+- [vitwits/cheat-sheets](https://github.com/vitwits/cheat-sheets) — Various cheat-sheets that I update constantly — Shell · 0 yıldız
+- [viukpe/Claude-Cheat-Sheet](https://github.com/viukpe/Claude-Cheat-Sheet) — (açıklama yok) — HTML · 0 yıldız
+- [Viv-2000/CheatSheets-for-Beginners](https://github.com/Viv-2000/CheatSheets-for-Beginners) — This repository contains cheatsheets for most of the tools and frameworks an IT developer works with. If something is missing,… — — · 0 yıldız
+- [vivaanish/menucalccsharp](https://github.com/vivaanish/menucalccsharp) — This is a simple menu-based calculator I built using C#. The program runs in the console and lets the user choose between basic… — C# · 0 yıldız
+- [vivaanshrirao-byte/accessible-battle-royale](https://github.com/vivaanshrirao-byte/accessible-battle-royale) — Mind and reaction-based blind accessible battle royale games with AI sound effects, real-time voice chat, screen reader support,… — HTML · 0 yıldız
+- [Vivalacia67/simple_word_parse](https://github.com/Vivalacia67/simple_word_parse) — A simple program that loads C-like code file and executes lexical analysis — C++ · 0 yıldız
+- [vivanitski-epam/cheat-sheet](https://github.com/vivanitski-epam/cheat-sheet) — My awesome cheat sheets. — — · 0 yıldız
+- [vivatzx/SlideMenuSample](https://github.com/vivatzx/SlideMenuSample) — (açıklama yok) — — · 0 yıldız
+- [vivek-016/Shoppy_Globe_E_Commerce_website](https://github.com/vivek-016/Shoppy_Globe_E_Commerce_website) — (açıklama yok) — JavaScript · 0 yıldız
+- [VIVEK-27UX/System-Design](https://github.com/VIVEK-27UX/System-Design) — Curated resources, architectural patterns, cheat sheets, and case studies for System Design. — — · 0 yıldız
+- [vivek-kothekar/git-cheat-sheet](https://github.com/vivek-kothekar/git-cheat-sheet) — (açıklama yok) — JavaScript · 0 yıldız
+- [Vivek-kumar-0101/User-Question-Answering-System](https://github.com/Vivek-kumar-0101/User-Question-Answering-System) — An NLP-based Question Answering System using DistilBERT, SQuAD 1.1, and Streamlit. — Python · 0 yıldız
+- [vivek-raikar/CC-Experiment-Load-Balancing-Using-Kubernetes-Services](https://github.com/vivek-raikar/CC-Experiment-Load-Balancing-Using-Kubernetes-Services) — Kubernetes Services and load balancing experiment using kind, Flask and MySQL. — Python · 0 yıldız
+- [Vivek0306/LSGangSystem](https://github.com/Vivek0306/LSGangSystem) — A simple gang creation script for GTA V similar to the gang based system in GTA SA — C# · 0 yıldız
+- [Vivek16-ops/email_verification_system](https://github.com/Vivek16-ops/email_verification_system) — This email verification system takes the email address as input from the user and fetches its information using emailvalidate.io… — CSS · 0 yıldız
+- [vivek7424/mta-sts.forwarding.hackerone.com-](https://github.com/vivek7424/mta-sts.forwarding.hackerone.com-) — (açıklama yok) — — · 0 yıldız
+- [vivek7424/mta-sts.hackerone.com-](https://github.com/vivek7424/mta-sts.hackerone.com-) — (açıklama yok) — — · 0 yıldız
+- [vivek7424/mta-sts.managed.hackerone.com-](https://github.com/vivek7424/mta-sts.managed.hackerone.com-) — (açıklama yok) — — · 0 yıldız
+- [vivek807/cheat-sheets](https://github.com/vivek807/cheat-sheets) — Collection of cheat sheets — — · 0 yıldız
+- [vivekabhilash/Weather-Monitoring-System-using-ESP32](https://github.com/vivekabhilash/Weather-Monitoring-System-using-ESP32) — This ESP32 weather station reads real-time temperature, humidity, and barometric pressure using DHT22 and BMP280 sensors. It… — — · 0 yıldız
+- [vivekajayjariwala/halo](https://github.com/vivekajayjariwala/halo) — An open-source loom created after being frustrated that the free-tier doesn't let you download your own recording. — Swift · 0 yıldız
+- [Vivekanand10329/Hospital-management-system](https://github.com/Vivekanand10329/Hospital-management-system) — The Hospital Management System is a C++-based application designed to automate and streamline hospital operations. It manages… — — · 0 yıldız
+- [vivekanand1101/cs400](https://github.com/vivekanand1101/cs400) — Introduction to Open Source — — · 0 yıldız
+- [VivekanandaBediya/react-shoppyglobe-e-commerce-project](https://github.com/VivekanandaBediya/react-shoppyglobe-e-commerce-project) — This is the E-Commerce project which is called Shoppyglobe website in react — JavaScript · 0 yıldız
+- [vivekcode12345/git-mastery-cheatsheet](https://github.com/vivekcode12345/git-mastery-cheatsheet) — Description: A clean, practical Git and GitHub cheatsheet for beginners and developers, covering daily workflows, branching, undo… — — · 0 yıldız
+- [VivekHerur/Automated-farming-bot](https://github.com/VivekHerur/Automated-farming-bot) — (açıklama yok) — C++ · 0 yıldız
+- [vivekkunchala/hacking_toolsprograms](https://github.com/vivekkunchala/hacking_toolsprograms) — (açıklama yok) — Python · 0 yıldız
+- [VivekMurarkaIndIre/System-design](https://github.com/VivekMurarkaIndIre/System-design) — Cheat Sheet — — · 0 yıldız
+- [vivekpatel42/cs48-project-spaceblasters](https://github.com/vivekpatel42/cs48-project-spaceblasters) — Source code repo for Space Blasters game (CS48 project) — Java · 0 yıldız
+- [viveksain010-ops/GameHub](https://github.com/viveksain010-ops/GameHub) — A console-based C++ project that brings together multiple mini-games like Colored Squares, Catch the Ball, and Rock–Paper–… — C++ · 0 yıldız
+- [vivekshanbhog/ai-cheatsheet-generator](https://github.com/vivekshanbhog/ai-cheatsheet-generator) — (açıklama yok) — Python · 0 yıldız
+- [viveksingh10/Tic-Tac-Toe](https://github.com/viveksingh10/Tic-Tac-Toe) — It's a ultimate C++ program to run a Tic-Tac-Toe game and show loading percentage(1-100) to start the game, it has 2 modes of… — C++ · 0 yıldız
+- [viveksingh2904/Product-Listing-and-Cart-System](https://github.com/viveksingh2904/Product-Listing-and-Cart-System) — A modern React-based e-commerce frontend featuring product listing, search, pagination, cart management, quantity controls, total… — CSS · 0 yıldız
+- [vivekthangam/CheatSheet_Tutorial](https://github.com/vivekthangam/CheatSheet_Tutorial) — (açıklama yok) — Java · 0 yıldız
+- [vivekvro/Linux-learn-cheatsheet](https://github.com/vivekvro/Linux-learn-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [ViveportSoftware/viveport_sdk_unreal_sample](https://github.com/ViveportSoftware/viveport_sdk_unreal_sample) — (açıklama yok) — C++ · 0 yıldız
+- [viverovirtualuniandes/Roblox_Proyecto_Base](https://github.com/viverovirtualuniandes/Roblox_Proyecto_Base) — (açıklama yok) — — · 0 yıldız
+- [Vivi-Hoyos2710/ShoppyFast](https://github.com/Vivi-Hoyos2710/ShoppyFast) — (açıklama yok) — JavaScript · 0 yıldız
+- [vivian254338489/tken-model-route-cheatsheet](https://github.com/vivian254338489/tken-model-route-cheatsheet) — Task-to-model-route cheatsheet for low-cost and premium OpenAI-compatible gateway routes. — JavaScript · 0 yıldız
+- [vivianbp/OpenLauncher](https://github.com/vivianbp/OpenLauncher) — It's an open source Minecraft Launcher — Java · 0 yıldız
+- [VivianChenyc5519/interactive-resto-menu](https://github.com/VivianChenyc5519/interactive-resto-menu) — This is the final project for IG05/06 taught at Telecom Paris. — Handlebars · 0 yıldız
+- [VivianVanilla/Primordiales](https://github.com/VivianVanilla/Primordiales) — A Auto battler game — — · 0 yıldız
+- [vividkinddusk/simple-cheatsheet](https://github.com/vividkinddusk/simple-cheatsheet) — A simple cheatsheet project — Python · 0 yıldız
+- [VividNightmareUnleashed/NovaCalibrator](https://github.com/VividNightmareUnleashed/NovaCalibrator) — Playspace calibration between Meta Quest and SteamVR tracking, based on OpenVR-SpaceCalibrator — — · 0 yıldız
+- [ViviNygaard/KeyCardSystem](https://github.com/ViviNygaard/KeyCardSystem) — (açıklama yok) — Java · 0 yıldız
+- [vivione/Coding-Cheat-Sheet](https://github.com/vivione/Coding-Cheat-Sheet) — My coding cheat sheet on the languages I can code with and the one I am learning — C · 0 yıldız
+- [vivisect6/DarkerMaps](https://github.com/vivisect6/DarkerMaps) — Maps with crowd sourced data for Dark and Darker — HTML · 0 yıldız · arşiv
+- [VivoKey/wallet-sdk](https://github.com/VivoKey/wallet-sdk) — cryptocurrency sdk for interfacing with apex wallet applet — — · 0 yıldız
+- [vivosmith/HackfortheRepublic](https://github.com/vivosmith/HackfortheRepublic) — A repository to place helpful tools and ideas in to get liberty oriented candidates elected. — — · 0 yıldız
+- [vivri161803/CheatSheetsAndConfigNvim](https://github.com/vivri161803/CheatSheetsAndConfigNvim) — (açıklama yok) — — · 0 yıldız · arşiv
+- [VixidDev/WaterRendering](https://github.com/VixidDev/WaterRendering) — Rendering of ocean waves using FFTs — — · 0 yıldız
+- [VixotheAxo/internalized-1.20.1](https://github.com/VixotheAxo/internalized-1.20.1) — a minecraft mod about using blood to terrorize your enemies, whether it be your own blood or theirs! — — · 0 yıldız
+- [vizanalytics/Drunk-Driving-laws-in-US-and-their-impact](https://github.com/vizanalytics/Drunk-Driving-laws-in-US-and-their-impact) — The data on the drunk driving incidents across the 48 states in US is analysed and interpreted using STATA. The factors included… — — · 0 yıldız
+- [vizecs/new_gamesense_discord_theme](https://github.com/vizecs/new_gamesense_discord_theme) — (açıklama yok) — CSS · 0 yıldız
+- [Vizlin/help](https://github.com/Vizlin/help) — This Is A Help Command Script — Lua · 0 yıldız
+- [vizthex123/StandardPackAssets](https://github.com/vizthex123/StandardPackAssets) — A set of standardised loading screen tips I use in my minecraft modpacks. — JavaScript · 0 yıldız
+- [VizxlsimridalxViz/Cheatsquad-Executor-OpenSurce](https://github.com/VizxlsimridalxViz/Cheatsquad-Executor-OpenSurce) — (açıklama yok) — C# · 0 yıldız
+- [vjawarani/tutelary](https://github.com/vjawarani/tutelary) — Tutelary is an Advanced RAG made with Haystack designed to guide any user, from average web-surfer to privacy-conscious hackers,… — CSS · 0 yıldız
+- [vjbravo123/ShoppyGlobe-FE-](https://github.com/vjbravo123/ShoppyGlobe-FE-) — 📦 ShoppyGlobe – A simple e-commerce web app built with React, Vite, Redux, and Tailwind CSS. Features include product listing… — JavaScript · 0 yıldız
+- [VJoshi611/Mysql-Redshift-Streaming-DataPipeine](https://github.com/VJoshi611/Mysql-Redshift-Streaming-DataPipeine) — This repo contain near real time streaming incremental load data pipeline code. — — · 0 yıldız
+- [vk-nom/fortnite-sdk-dumps](https://github.com/vk-nom/fortnite-sdk-dumps) — (açıklama yok) — — · 0 yıldız
+- [vk-nom/FortniteSDK](https://github.com/vk-nom/FortniteSDK) — ;) — — · 0 yıldız
+- [vk7r/sudoku_solver](https://github.com/vk7r/sudoku_solver) — HPP Individual Project - Sudoku Solver — C · 0 yıldız
+- [VKC-Turno/HPPC-post-processing](https://github.com/VKC-Turno/HPPC-post-processing) — (açıklama yok) — Jupyter Notebook · 0 yıldız
+- [VKe-13/SmartRecs](https://github.com/VKe-13/SmartRecs) — This code is the final project for the Recommender Systems course, where the task is to create a system that recommends products… — Jupyter Notebook · 0 yıldız
+- [vkeh9656/SystemGlobalShortKey](https://github.com/vkeh9656/SystemGlobalShortKey) — (açıklama yok) — C++ · 0 yıldız
+- [VKG5/Procedural-Landscape-Generation](https://github.com/VKG5/Procedural-Landscape-Generation) — Thesis for MS at Trinity College Dublin. Aims at making a workflow for generating landscapes using AI (Stable Diffusion) with… — — · 0 yıldız
+- [vkolyvas/Cheat-Sheet-for-Solutions-Architects-OCI-1Z0-1072-25](https://github.com/vkolyvas/Cheat-Sheet-for-Solutions-Architects-OCI-1Z0-1072-25) — This Repository has enough information for you passing the OCI Solution Architect 1z0-1072-25 exam at ease. Key Topics of… — — · 0 yıldız
+- [vksf/apexcalculator](https://github.com/vksf/apexcalculator) — Apex arithmetic and logic calculator based on reverse polish notation — Apex · 0 yıldız
+- [vkWeb/Digital-Signature-System](https://github.com/vkWeb/Digital-Signature-System) — Digital signature system with the aim to teach public key cryptography fundamentals — JavaScript · 0 yıldız
+- [vkxd/roblox-scripts](https://github.com/vkxd/roblox-scripts) — revamped stuff because screw keysystems — Lua · 0 yıldız
+- [vkzada/Dayz_Cheat](https://github.com/vkzada/Dayz_Cheat) — (açıklama yok) — C++ · 0 yıldız
+- [vkzada/DayZ_Loader_Oficial2](https://github.com/vkzada/DayZ_Loader_Oficial2) — (açıklama yok) — C++ · 0 yıldız
+- [vl5613580-arch/onetap](https://github.com/vl5613580-arch/onetap) — (açıklama yok) — Lua · 0 yıldız
+- [Vlad-Akimov/cheat-sheet](https://github.com/Vlad-Akimov/cheat-sheet) — (açıklama yok) — Python · 0 yıldız
+- [Vlad-Andres/GTA5_RAGERP_DEV](https://github.com/Vlad-Andres/GTA5_RAGERP_DEV) — Project based on collaboration of two young but very powerful programmers — C# · 0 yıldız
+- [vlad-novikov/fidelioguest](https://github.com/vlad-novikov/fidelioguest) — Receives Guest ID from card key and checks guest info in Fidelio system — C# · 0 yıldız
+- [vlad-QuaDex/menu_api_sample](https://github.com/vlad-QuaDex/menu_api_sample) — Reading restaurant menu data from PostgreSQL and serving it to web app — Python · 0 yıldız
+- [vladb7046-sketch/LEGIT](https://github.com/vladb7046-sketch/LEGIT) — NEVERLOSE — Lua · 0 yıldız
+- [vladb7046-sketch/NeverLose](https://github.com/vladb7046-sketch/NeverLose) — NeverLose.cc — — · 0 yıldız
+- [vladb7046-sketch/NeverLose.cc](https://github.com/vladb7046-sketch/NeverLose.cc) — (açıklama yok) — — · 0 yıldız
+- [vlades69/hags-sdk-ragemp-gta5](https://github.com/vlades69/hags-sdk-ragemp-gta5) — (açıklama yok) — C++ · 0 yıldız
+- [vlades69/soulcheats-ragemp](https://github.com/vlades69/soulcheats-ragemp) — (açıklama yok) — — · 0 yıldız
+- [VladexCode/HackingTools](https://github.com/VladexCode/HackingTools) — (açıklama yok) — — · 0 yıldız
+- [vladguran/dev-cheatsheets](https://github.com/vladguran/dev-cheatsheets) — Dense, copy-paste-ready developer cheat sheets (free previews + PDF) — HTML · 0 yıldız
+- [vladik12s03-glitch/OneTap](https://github.com/vladik12s03-glitch/OneTap) — (açıklama yok) — — · 0 yıldız
+- [Vladikiva/Kubernetes-cheatsheet](https://github.com/Vladikiva/Kubernetes-cheatsheet) — Шпаргалка по командам kubernetes — — · 0 yıldız
+- [vladimir-tl/cheat-sheet-java](https://github.com/vladimir-tl/cheat-sheet-java) — Java cheat sheets, theory (RU/EN) and practice tasks: loops, conditions, arrays, collections, types, Stream API — Java · 0 yıldız
+- [vladimir-yoshi-1/Eaglescraft](https://github.com/vladimir-yoshi-1/Eaglescraft) — What is Eaglercraft? Eaglercraft is real Minecraft 1.5.2 that you can play in any regular web browser. That includes school… — — · 0 yıldız
+- [VladimirBabin/interview-cheatsheets](https://github.com/VladimirBabin/interview-cheatsheets) — Cheatsheets for different interview - useful info to quickly recap lots of topics before a technical interview for backend role — — · 0 yıldız
+- [VladimirDen/shopPython](https://github.com/VladimirDen/shopPython) — (açıklama yok) — Python · 0 yıldız
+- [vladimiryaroslav/Kali-Linux-Cheat-Sheet](https://github.com/vladimiryaroslav/Kali-Linux-Cheat-Sheet) — (açıklama yok) — — · 0 yıldız
+- [vladimstru/hvhsis](https://github.com/vladimstru/hvhsis) — (açıklama yok) — — · 0 yıldız
+- [VladislavNed/git-cheatsheet](https://github.com/VladislavNed/git-cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [VladiusDev/phonebook_gateway](https://github.com/VladiusDev/phonebook_gateway) — Loads data from MySQL to SqLite and returns via API — Dart · 0 yıldız
+- [vladodjuka/Key-Word-in-Context-KWIC-shift](https://github.com/vladodjuka/Key-Word-in-Context-KWIC-shift) — The KWIC index system accepts an ordered set of lines, each line is an ordered set of words, and each word is an ordered set of… — Java · 0 yıldız
+- [VladosKokosik/kiddions](https://github.com/VladosKokosik/kiddions) — (açıklama yok) — — · 0 yıldız
+- [vladpanait13/javascript-cheat-sheet](https://github.com/vladpanait13/javascript-cheat-sheet) — (açıklama yok) — JavaScript · 0 yıldız
+- [vladpavlix771/onetap](https://github.com/vladpavlix771/onetap) — (açıklama yok) — — · 0 yıldız
+- [vladpuz/cs-twinks-creator](https://github.com/vladpuz/cs-twinks-creator) — Создание и настройка твинков для CS 1.6 — TypeScript · 0 yıldız
+- [Vladshmalii/highlight-detector](https://github.com/Vladshmalii/highlight-detector) — Automated highlight detection for CS2 and Dota 2 gameplay videos using computer vision, OCR and audio analysis — Python · 0 yıldız
+- [Vladshow121/rangeroutine-apex-loadout-notebook-marksmanship](https://github.com/Vladshow121/rangeroutine-apex-loadout-notebook-marksmanship) — RangeRoutine — Apex Legends — Marksmanship: specification for loadout comparison sheets, firing range drill cards, season change… — — · 0 yıldız
+- [Vladson0/HVHJ](https://github.com/Vladson0/HVHJ) — (açıklama yok) — CSS · 0 yıldız
+- [vladtepes22/NightwatchCoop](https://github.com/vladtepes22/NightwatchCoop) — Nightwatch Co-op: unofficial seamless co-op for Bloodborne on PC. Bring your own game dump. — — · 0 yıldız
+- [VladVes/cheatooldash](https://github.com/VladVes/cheatooldash) — My Tools Dashboard — JavaScript · 0 yıldız
+- [vladyslavchan-cloud/git-cheatsheet](https://github.com/vladyslavchan-cloud/git-cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [VlaGan/MAIVA-App](https://github.com/VlaGan/MAIVA-App) — MAIVA (My Artificial Interactive Virtual Assistant) is a desktop visual assistant designed for personalized interaction, power by… — — · 0 yıldız
+- [Vlajd/bubatsu](https://github.com/Vlajd/bubatsu) — ブバツ — — · 0 yıldız
+- [vlamouria01/hppybrtdy.github.io](https://github.com/vlamouria01/hppybrtdy.github.io) — (açıklama yok) — HTML · 0 yıldız
+- [Vlascu/Checkers](https://github.com/Vlascu/Checkers) — A C# WPF checkers game between two players, where user can save/load games, see statistics, change game parameters and play the… — C# · 0 yıldız
+- [vlaxdr/fatality](https://github.com/vlaxdr/fatality) — (açıklama yok) — — · 0 yıldız
+- [VlaydDetect/AlmondLibrary](https://github.com/VlaydDetect/AlmondLibrary) — (açıklama yok) — — · 0 yıldız
+- [VlaydDetect/preisach_hysteresis_model](https://github.com/VlaydDetect/preisach_hysteresis_model) — (açıklama yok) — — · 0 yıldız
+- [vldgvrl/package_details](https://github.com/vldgvrl/package_details) — Shows key information about packages on Debian and Ubuntu systems — HTML · 0 yıldız
+- [vlee1919/linux_cheatsheet](https://github.com/vlee1919/linux_cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [vlelyzax/regex-cheat-sheet-cli](https://github.com/vlelyzax/regex-cheat-sheet-cli) — Interactive terminal regex reference and tester with live pattern matching. — Python · 0 yıldız
+- [vleroy/docker-csgo](https://github.com/vleroy/docker-csgo) — Docker image to run a simple CSGO server — Shell · 0 yıldız
+- [vlkfivem021-jpg/neovalley-assets](https://github.com/vlkfivem021-jpg/neovalley-assets) — Arquivos do loading screen do FiveM. — — · 0 yıldız
+- [VllyVlly/Cheatsheet-Maker](https://github.com/VllyVlly/Cheatsheet-Maker) — (açıklama yok) — Python · 0 yıldız
+- [vlocefn/Fortnite-Gameserver](https://github.com/vlocefn/Fortnite-Gameserver) — Fortnite Gameserver that was used on FUTURE a server Recently shut down — — · 0 yıldız
+- [VLPraneeth/kailashahirwar-cheatsheets-ai](https://github.com/VLPraneeth/kailashahirwar-cheatsheets-ai) — (açıklama yok) — — · 0 yıldız
+- [vlreinier/HPP](https://github.com/vlreinier/HPP) — (açıklama yok) — Jupyter Notebook · 0 yıldız
+- [vlrjs/vlr.js](https://github.com/vlrjs/vlr.js) — Fetch live information from vlr.gg — JavaScript · 0 yıldız
+- [vlsi-abhi/Expense_Tracker](https://github.com/vlsi-abhi/Expense_Tracker) — The Personal Expense Tracker is a simple console-based application built in C++ to help users manage their daily expenses. It… — — · 0 yıldız
+- [vlt-ro/physical_activity_hypoglycemia_risk_py](https://github.com/vlt-ro/physical_activity_hypoglycemia_risk_py) — Online browser-based tool for providing an objective hourly hypoglycemia risk score for PA (Physical Activity) decision support… — Python · 0 yıldız
+- [vlv3530359m/johnyHVh](https://github.com/vlv3530359m/johnyHVh) — Orange PI zero GPIO in C — — · 0 yıldız
+- [vlww/NSL-Soccer-Predictions](https://github.com/vlww/NSL-Soccer-Predictions) — Random Forest model trained on NSL soccer performance data for the Wharton Data Science Competition — Python · 0 yıldız
+- [vlxrds/LoaderValorantNew](https://github.com/vlxrds/LoaderValorantNew) — (açıklama yok) — — · 0 yıldız
+- [vlxrds/valorantHack20022](https://github.com/vlxrds/valorantHack20022) — (açıklama yok) — — · 0 yıldız
+- [VM255/fullstack-cheatsheet](https://github.com/VM255/fullstack-cheatsheet) — fullstack-cheatsheet — HTML · 0 yıldız
+- [vmad18/robot-mc](https://github.com/vmad18/robot-mc) — Robotics based algorithms and control interfaces implemented in Minecraft. — Kotlin · 0 yıldız
+- [VMahluza/open-shift-cheat](https://github.com/VMahluza/open-shift-cheat) — Cheat Sheet — — · 0 yıldız
+- [VManisha1/L4-LoadBalancer](https://github.com/VManisha1/L4-LoadBalancer) — L4 Load Balancer with Boost package in c++ — C++ · 0 yıldız
+- [VMarkDev/Coolermaster-Devastator-II-keyboard-led-on](https://github.com/VMarkDev/Coolermaster-Devastator-II-keyboard-led-on) — This code is used to activate the Cooler Master Devastator II keyboard light, it sends a signal to the system that the SCR LK key… — VBScript · 0 yıldız
+- [VMD122017/skeeterchu](https://github.com/VMD122017/skeeterchu) — (açıklama yok) — — · 0 yıldız
+- [Vmk9001/LoadingScreen](https://github.com/Vmk9001/LoadingScreen) — Loading Screen For My Gmod Server — — · 0 yıldız
+- [Vmk9001/LoadingScreenEndor](https://github.com/Vmk9001/LoadingScreenEndor) — Loading Screen For My Gmod Server — — · 0 yıldız
+- [Vmk9001/LoadingScreenEndor1](https://github.com/Vmk9001/LoadingScreenEndor1) — Loading Screen For My Gmod Server — JavaScript · 0 yıldız
+- [vmmelo/csgodedicatedserver](https://github.com/vmmelo/csgodedicatedserver) — Counter-Strike : Global Offensive Dedicated Server — — · 0 yıldız
+- [VMormoris/PuruPuru](https://github.com/VMormoris/PuruPuru) — (açıklama yok) — — · 0 yıldız
+- [vmstruct/riot](https://github.com/vmstruct/riot) — (açıklama yok) — — · 0 yıldız
+- [vmujic1/key-managment-system-skyline](https://github.com/vmujic1/key-managment-system-skyline) — (açıklama yok) — C# · 0 yıldız
+- [vN3BE/SunsetHack](https://github.com/vN3BE/SunsetHack) — Minecraft Pentest tool, analog MCPTool — Python · 0 yıldız
+- [vn7633178-hub/RobloxLoader](https://github.com/vn7633178-hub/RobloxLoader) — (açıklama yok) — — · 0 yıldız
+- [VnaticYt/skeet.cc](https://github.com/VnaticYt/skeet.cc) — (açıklama yok) — — · 0 yıldız
+- [vniranjan/scioly_cheatsheet](https://github.com/vniranjan/scioly_cheatsheet) — App to build cheat sheet for science olympiad — — · 0 yıldız
+- [vnkunnq/Google-Authenticator-Get-Codes-Discord-Bot](https://github.com/vnkunnq/Google-Authenticator-Get-Codes-Discord-Bot) — (açıklama yok) — Python · 0 yıldız
+- [Vnnc1/gow-native-pc](https://github.com/Vnnc1/gow-native-pc) — Native Windows PC port of God of War (PS2), built by statically recompiling MIPS R5900 code to C++ with PS2Recomp. Includes an… — — · 0 yıldız
+- [vnnx12/spotdetection-model](https://github.com/vnnx12/spotdetection-model) — A YOLOv8-based computer vision model was developed for dark spot detection using PyTorch and Roboflow to support personalized… — Python · 0 yıldız
+- [VNSaoRoi/Cheatsheet](https://github.com/VNSaoRoi/Cheatsheet) — Operator cheatsheets / AdaptixC2 postex playbooks — — · 0 yıldız
+- [VNSST/Cheatsheets](https://github.com/VNSST/Cheatsheets) — (açıklama yok) — HTML · 0 yıldız
+- [vnurich/md-cheatsheet](https://github.com/vnurich/md-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [vo1dleaf/roblox-claude-kit](https://github.com/vo1dleaf/roblox-claude-kit) — Open-source Roblox architecture kit for Claude Code + Roblox Studio MCP. — — · 0 yıldız
+- [vockes/DayZ_Private_Controlcenter](https://github.com/vockes/DayZ_Private_Controlcenter) — Based on Guru Abduls most advanced private DayZ server solution, Controlcenter lets you set up, configurate and manage your very… — JavaScript · 0 yıldız
+- [voducman/thesis2020](https://github.com/voducman/thesis2020) — This is final thesis - Web-base Advanced SCADA — HTML · 0 yıldız
+- [voed/yet_another_voteban](https://github.com/voed/yet_another_voteban) — konular: amxx, counter-strike, goldsrc, half-life — SourcePawn · 0 yıldız
+- [vogdan/webpage-system-load](https://github.com/vogdan/webpage-system-load) — Display system statistics (cpu, memory, net) for a process that loads a webpage — Python · 0 yıldız
+- [Voicedrew11/verdite2](https://github.com/Voicedrew11/verdite2) — AI driven attempt at porting King's Field (SLUS-00158) to PC with a variety of improvements — — · 0 yıldız
+- [Void-Architect1/outerverse-void](https://github.com/Void-Architect1/outerverse-void) — The complete meta-cosmology describing the Void Layers, Reality Layers, Law Codex, Existence Tier System, Outer Concepts, Outer… — — · 0 yıldız
+- [VOID-TECHNOLOGY-INC/fortnite-island-ranking](https://github.com/VOID-TECHNOLOGY-INC/fortnite-island-ranking) — Fortnite Island Ranking dashboard. Ranks popular islands using the official Fortnite Ecosystem Data API and caches results on… — TypeScript · 0 yıldız
+- [VoidCatalyst/android-pentesting](https://github.com/VoidCatalyst/android-pentesting) — A complete Android penetration testing learning repository - OWASP MASVS v2.1.0 mapped, 12 exploitation labs, cheat sheets,… — Python · 0 yıldız
+- [VoidCounsel/Python-Set-Operators-Cheat-Sheet](https://github.com/VoidCounsel/Python-Set-Operators-Cheat-Sheet) — Python Set Operators Cheat Sheet — — · 0 yıldız
+- [VoidDefect/AmongUsCheat](https://github.com/VoidDefect/AmongUsCheat) — (açıklama yok) — — · 0 yıldız
+- [voideed/neverlose](https://github.com/voideed/neverlose) — (açıklama yok) — — · 0 yıldız
+- [voidmar/hxtool](https://github.com/voidmar/hxtool) — (açıklama yok) — — · 0 yıldız
+- [VoidObfuscat/luavoid-scripts](https://github.com/VoidObfuscat/luavoid-scripts) — LuaVoid Scripts Hub - Roblox open source scripts — — · 0 yıldız
+- [voidptrproject/voidhack_gmod](https://github.com/voidptrproject/voidhack_gmod) — (açıklama yok) — — · 0 yıldız
+- [voidrinix/Rinixized](https://github.com/voidrinix/Rinixized) — Quilt-based modpack, designed primarily for technical minecraft players, which aims to powerfully optimize your client, providing… — — · 0 yıldız · arşiv
+- [VoidStack-Dev/devtools-cheatsheet](https://github.com/VoidStack-Dev/devtools-cheatsheet) — A simple web app that provides a categorized cheat sheet of essential terminal commands for Linux, Git, and Dev workflows. — JavaScript · 0 yıldız
+- [voidstonism/Logsat](https://github.com/voidstonism/Logsat) — This is open source and free code for loggers in the ROBLOX game "Waste of Space [Alpha]" — Luau · 0 yıldız
+- [VoidTheGamer25/Create_Taser](https://github.com/VoidTheGamer25/Create_Taser) — The source code of the Minecraft Create Mod Add-On Create: Taser — — · 0 yıldız
+- [voidtype-space/Voidtype](https://github.com/voidtype-space/Voidtype) — primordial project soup fixins — — · 0 yıldız
+- [VoiDx-1/Bank-Management-System-CPP](https://github.com/VoiDx-1/Bank-Management-System-CPP) — A console-based Bank Management System built with C++. The project demonstrates file handling, vectors, structures, and CRUD… — C++ · 0 yıldız
+- [VojinMK/Image_Processing_App](https://github.com/VojinMK/Image_Processing_App) — A simple image processing app built in MATLAB. It allows users to load an image, convert it to grayscale, apply gamma correction,… — — · 0 yıldız
+- [voku/android_external_quake](https://github.com/voku/android_external_quake) — (açıklama yok) — C · 0 yıldız
+- [volantxs/IPL-prediction-classification-algorithms](https://github.com/volantxs/IPL-prediction-classification-algorithms) — Studying different classification algorithms namely logistic regression, linear SVM, k-nearest neighbour and random forest… — Jupyter Notebook · 0 yıldız
+- [Volentie/CodeBase](https://github.com/Volentie/CodeBase) — Roblox Game — Lua · 0 yıldız
+- [VolertX/cs2offsets](https://github.com/VolertX/cs2offsets) — (açıklama yok) — C++ · 0 yıldız
+- [volkancizmecioglu/LisansBitirmeProjem](https://github.com/volkancizmecioglu/LisansBitirmeProjem) — (açıklama yok) — — · 0 yıldız · arşiv
+- [VolkerBritz/Interpretable-classification](https://github.com/VolkerBritz/Interpretable-classification) — Based on voting records, members of the US House of Representatives are classified as Democrat or Republican using a Random… — Jupyter Notebook · 0 yıldız
+- [VolkerMarschner/CheatSheetsTools](https://github.com/VolkerMarschner/CheatSheetsTools) — (açıklama yok) — Python · 0 yıldız
+- [volkmen/aws-cdk-cheat-sheet](https://github.com/volkmen/aws-cdk-cheat-sheet) — (açıklama yok) — Python · 0 yıldız
+- [volkovasystems/primordial](https://github.com/volkovasystems/primordial) — Default index for starting server based on standard practice. — JavaScript · 0 yıldız
+- [vollbert/CheatSheets](https://github.com/vollbert/CheatSheets) — (açıklama yok) — TeX · 0 yıldız
+- [Volpestyle/rivals-agent](https://github.com/Volpestyle/rivals-agent) — Vision-based agent that plays Spider-Man in the Marvel Rivals practice range on a virtual controller — Python · 0 yıldız
+- [Volphx/BLOOD-STRIKER-MENU-C-](https://github.com/Volphx/BLOOD-STRIKER-MENU-C-) — (açıklama yok) — — · 0 yıldız
+- [VoltageOS-staging/system_keymaster](https://github.com/VoltageOS-staging/system_keymaster) — (açıklama yok) — C++ · 0 yıldız
+- [VoltageOS/system_keymaster](https://github.com/VoltageOS/system_keymaster) — (açıklama yok) — C++ · 0 yıldız
+- [VOLTERgit/python-cheat-sheet-with-the-code-tops-](https://github.com/VOLTERgit/python-cheat-sheet-with-the-code-tops-) — Data Science Code — Python · 0 yıldız
+- [VolunteerLiveTeam/bot-farm](https://github.com/VolunteerLiveTeam/bot-farm) — (açıklama yok) — TypeScript · 0 yıldız · arşiv
+- [VolynInc/Volyn](https://github.com/VolynInc/Volyn) — Volyn is a open source project for roblox. — — · 0 yıldız
+- [voneum/s4ag.skeetmoji](https://github.com/voneum/s4ag.skeetmoji) — Bluesky Firehose emojis mixed with 2D physics — TypeScript · 0 yıldız
+- [vonhyou/predict-vpn-spark](https://github.com/vonhyou/predict-vpn-spark) — [USRA23] Predict if the user is using VPN based on cisco flow report using random forest — Scala · 0 yıldız
+- [vonsilke/HT_ECHO](https://github.com/vonsilke/HT_ECHO) — Neverness To Everness Magic — — · 0 yıldız
+- [vonsouza/Skeet-Game](https://github.com/vonsouza/Skeet-Game) — This program implements an awesome version of skeet game. — Python · 0 yıldız
+- [VontaJamal/armory](https://github.com/VontaJamal/armory) — Battle-tested snippets, cheat sheets, and workflow patterns for OpenClaw and multi-agent setups. Grab what you need. — PowerShell · 0 yıldız
+- [Vonximit/EUCLID-VECTOR-2024-01](https://github.com/Vonximit/EUCLID-VECTOR-2024-01) — Welcome to the **EUCLID-VECTOR/2024-01** project repository! 🌀 This project presents a revolutionary analysis of cosmic… — HTML · 0 yıldız
+- [voonoinhui123/hvhv](https://github.com/voonoinhui123/hvhv) — content — — · 0 yıldız
+- [voowl/gamesense_nades](https://github.com/voowl/gamesense_nades) — (açıklama yok) — — · 0 yıldız
+- [Vor133228/gamesense_lua](https://github.com/Vor133228/gamesense_lua) — (açıklama yok) — — · 0 yıldız
+- [vora-cs2/cs2ac](https://github.com/vora-cs2/cs2ac) — CS2AC v1.0.14, güncel CS2 SDK (s2sdk) + Metamod KHook ile otomatik derleme (AGPL-3.0) — Python · 0 yıldız
+- [voraxesports/vorax-esports](https://github.com/voraxesports/vorax-esports) — VORAX Minecraft Esports Website — HTML · 0 yıldız
+- [Vorduk/Messenger](https://github.com/Vorduk/Messenger) — (açıklama yok) — — · 0 yıldız
+- [vormamim2/python-regex-cheatsheet](https://github.com/vormamim2/python-regex-cheatsheet) — (açıklama yok) — Makefile · 0 yıldız
+- [Vornergg22847/hvhloader](https://github.com/Vornergg22847/hvhloader) — (açıklama yok) — — · 0 yıldız
+- [vorojkaInna/website-style-guide](https://github.com/vorojkaInna/website-style-guide) — Your ultimate cheat sheet for keeping web design on point! Consistent colors? Check. Slick typography? You bet. Project from my… — HTML · 0 yıldız
+- [voromir/brutani](https://github.com/voromir/brutani) — (açıklama yok) — HTML · 0 yıldız
+- [Voron4ikhin/go_cheatsheet_account](https://github.com/Voron4ikhin/go_cheatsheet_account) — (açıklama yok) — Go · 0 yıldız
+- [Voron4ikhin/go_cheatsheet_contracts](https://github.com/Voron4ikhin/go_cheatsheet_contracts) — (açıklama yok) — Dockerfile · 0 yıldız
+- [VoronIdZe-VisualStudio/NeuroManager](https://github.com/VoronIdZe-VisualStudio/NeuroManager) — (açıklama yok) — — · 0 yıldız
+- [vortaxs273-a11y/vibecoded-farmbotMINECRAFT](https://github.com/vortaxs273-a11y/vibecoded-farmbotMINECRAFT) — (açıklama yok) — Java · 0 yıldız
+- [vortex907/csgo-simple](https://github.com/vortex907/csgo-simple) — (açıklama yok) — — · 0 yıldız
+- [vortexntnu/mc-rlcraft](https://github.com/vortexntnu/mc-rlcraft) — vortex ntnu minecraft rlcraft server source code — — · 0 yıldız · arşiv
+- [Vortianski/Chremastics](https://github.com/Vortianski/Chremastics) — A Terraria-inspired monetary system for Minecraft, featuring multiple currencies, coin-based trading, configurable mob drops,… — Java · 0 yıldız
+- [vortiff/NEW_AR_Instllation_ARtIFACTS](https://github.com/vortiff/NEW_AR_Instllation_ARtIFACTS) — (açıklama yok) — — · 0 yıldız
+- [VossGuarde/apex-tune-rpocket-team](https://github.com/VossGuarde/apex-tune-rpocket-team) — Open-source FPS optimizer for Apex Legends — tunes Windows only — HTML · 0 yıldız
+- [vosslerrr/MarketDB](https://github.com/vosslerrr/MarketDB) — Grocery store inventory/transaction simulation with MySQL database — — · 0 yıldız
+- [Votion-Development/dashactyl.js](https://github.com/Votion-Development/dashactyl.js) — (açıklama yok) — — · 0 yıldız
+- [voturi/Notes-on-Apex](https://github.com/voturi/Notes-on-Apex) — Notes on all things Apex from various sources — — · 0 yıldız
+- [VOTV-MP/Multivoid](https://github.com/VOTV-MP/Multivoid) — Multiplayer co-op mod for Voices of the Void — a UE4SS mod for UE4.27 that syncs the game between a host and up to three clients,… — — · 0 yıldız
+- [Vouzamo/battle-squads](https://github.com/Vouzamo/battle-squads) — Turn-based strategy game featuring squads that battle each other. — C# · 0 yıldız
+- [Vova956/UserApplicationServer](https://github.com/Vova956/UserApplicationServer) — A server that works together with client to add user to MySql DB. The Server connects to MySql services and adds users, it also… — JavaScript · 0 yıldız
+- [VovaAb/hvhvh](https://github.com/VovaAb/hvhvh) — (açıklama yok) — — · 0 yıldız
+- [vovach777/fastDCTLee](https://github.com/vovach777/fastDCTLee) — Fast discrete cosine transform algorithms (C++) (dct.hpp) — C++ · 0 yıldız
+- [vovak1897-stack/Skeet](https://github.com/vovak1897-stack/Skeet) — (açıklama yok) — Lua · 0 yıldız
+- [vovak1897-stack/Skeet.cc](https://github.com/vovak1897-stack/Skeet.cc) — (açıklama yok) — — · 0 yıldız
+- [vovamasamusenkoyt/cubixdlc_granny_legacy](https://github.com/vovamasamusenkoyt/cubixdlc_granny_legacy) — это DLC для granny legacy с модфункциями и красивым hud — — · 0 yıldız
+- [vovapro01345/skeet-cs2](https://github.com/vovapro01345/skeet-cs2) — (açıklama yok) — — · 0 yıldız
+- [vovasosraoc/skeetui](https://github.com/vovasosraoc/skeetui) — (açıklama yok) — Lua · 0 yıldız
+- [vowoc2/NEVERLOSE1](https://github.com/vowoc2/NEVERLOSE1) — (açıklama yok) — — · 0 yıldız
+- [voxgig-sdk/fortnite-sdk](https://github.com/voxgig-sdk/fortnite-sdk) — Voxgig SDK for fortnite — TypeScript · 0 yıldız
+- [voxgig-sdk/roblox-ids-sdk](https://github.com/voxgig-sdk/roblox-ids-sdk) — Voxgig SDK for roblox-ids — TypeScript · 0 yıldız
+- [voxgig-sdk/valorant-sdk](https://github.com/voxgig-sdk/valorant-sdk) — Voxgig SDK for valorant — TypeScript · 0 yıldız
+- [Voxmaker/hpp-calc](https://github.com/Voxmaker/hpp-calc) — (açıklama yok) — JavaScript · 0 yıldız
+- [Voxmaker/hpp-calc-v1.0](https://github.com/Voxmaker/hpp-calc-v1.0) — (açıklama yok) — JavaScript · 0 yıldız
+- [Voxmaker/hpp-calc-v1.1](https://github.com/Voxmaker/hpp-calc-v1.1) — (açıklama yok) — HTML · 0 yıldız
+- [VoxSecuritatis/Blog-AI-PromptEngineering-PromptCommandsCheatSheet](https://github.com/VoxSecuritatis/Blog-AI-PromptEngineering-PromptCommandsCheatSheet) — A list of commands used in a prompt input text box to push the LLM in a certain direction — — · 0 yıldız
+- [VoyagerInnovations/ad_nslcd](https://github.com/VoyagerInnovations/ad_nslcd) — Linux integration for AD using nslcd. Features linux system, sudo, SSH Password, SSH Public Key Authentication — Puppet · 0 yıldız
+- [voyagetips/warm-eat-app](https://github.com/voyagetips/warm-eat-app) — A premium wellness web app based on Chinese-inspired nutrition principles, helping users track warm vs cold eating habits to… — HTML · 0 yıldız
+- [VozyNTR/Thunderware-SRC](https://github.com/VozyNTR/Thunderware-SRC) — Thunderware Minecraft Client Source Code :) — — · 0 yıldız
+- [vp1410/Quizlet](https://github.com/vp1410/Quizlet) — This is a purely web based app implemented using React, where the set of 50 questions are stored and being randomly displayed on… — JavaScript · 0 yıldız
+- [vp1820/STATISTICAL-ANALYSIS-OF-ROAD-ACCIDENTS-IN-INDIA-TRENDS-SEVERITY-CONTRIBUTING-FACTORS-AND-FORECASTING](https://github.com/vp1820/STATISTICAL-ANALYSIS-OF-ROAD-ACCIDENTS-IN-INDIA-TRENDS-SEVERITY-CONTRIBUTING-FACTORS-AND-FORECASTING) — This project analyzes road accidents in India (2005–2023) focusing on lighting conditions. Using data from the Ministry of Road… — R · 0 yıldız
+- [vp462/MIDP-Bernoulli-Simulator](https://github.com/vp462/MIDP-Bernoulli-Simulator) — The original open-source Bernoulli simulation and the final modified guided simulation, alongside the final quiz — HTML · 0 yıldız
+- [vpersien/csinet](https://github.com/vpersien/csinet) — Source code accompanying my M.A. thesis "An exemplar-theoretic approach to chain shifts" (thesis included). — Java · 0 yıldız
+- [vpino/hacka-tools](https://github.com/vpino/hacka-tools) — (açıklama yok) — Shell · 0 yıldız
+- [Vpirate12/arma-reforger-ds](https://github.com/Vpirate12/arma-reforger-ds) — Docker-based Arma Reforger dedicated server stack with web UI for scenario management — HTML · 0 yıldız
+- [vpkepic-hue/lobotomyv2](https://github.com/vpkepic-hue/lobotomyv2) — shit csgo movement source only use for pasting — — · 0 yıldız
+- [vpkgg/Scripts-Open-Source](https://github.com/vpkgg/Scripts-Open-Source) — Roblox scripts which are all open source, you can take these and do what you want with them — — · 0 yıldız
+- [VPseven123/Text-Rpg-1.0](https://github.com/VPseven123/Text-Rpg-1.0) — this is a text based rpg game. only commands, no gui. i am looking forward to make a text based rpg game that will make you never… — Batchfile · 0 yıldız
+- [vpsr-01/Quake-3-source-code](https://github.com/vpsr-01/Quake-3-source-code) — (açıklama yok) — C · 0 yıldız
+- [Vqnishhh/shitty-pasta](https://github.com/Vqnishhh/shitty-pasta) — Has dumps from aimware and skeet needs work — — · 0 yıldız
+- [vquitianj/shoppy_plazy](https://github.com/vquitianj/shoppy_plazy) — (açıklama yok) — PHP · 0 yıldız
+- [vquitianj/ShoppyPlazy](https://github.com/vquitianj/ShoppyPlazy) — (açıklama yok) — — · 0 yıldız
+- [VR-2K1/Covid-19-Analysis-Dashboard](https://github.com/VR-2K1/Covid-19-Analysis-Dashboard) — A comprehensive dashboard that provides insights into the impact, spread, and trends of Covid-19. It includes visualizations and… — — · 0 yıldız
+- [vr-eulenspiegel/vr-eulenspiegel](https://github.com/vr-eulenspiegel/vr-eulenspiegel) — Config files for my GitHub profile. — — · 0 yıldız
+- [Vr3n/database_cheatsheets](https://github.com/Vr3n/database_cheatsheets) — Database Cheatsheets from databasestar.com — — · 0 yıldız
+- [vraestoren/barvikha_rp.js](https://github.com/vraestoren/barvikha_rp.js) — Mobile-API for BarvikhaRP an popular multiplayer mobile game about russia which is based on GTA San Andreas — JavaScript · 0 yıldız
+- [vraestoren/black_russia.js](https://github.com/vraestoren/black_russia.js) — Mobile-API for BlackRussia an popular multiplayer mobile game about russia which is based on GTA San Andreas — JavaScript · 0 yıldız
+- [vraestoren/crime_mobile.sh](https://github.com/vraestoren/crime_mobile.sh) — Mobile-API for Crime Mobile an popular multiplayer mobile game about russia which is based on GTA San Andreas — Shell · 0 yıldız
+- [vraestoren/DemonSlayerApi.cs](https://github.com/vraestoren/DemonSlayerApi.cs) — Web-API for www.demonslayer-api.com a free API that uses Data from official and fan base sources from the anime Demon Slayer:… — C# · 0 yıldız
+- [vraestoren/mordor_rp.js](https://github.com/vraestoren/mordor_rp.js) — Mobile-API for MordorRP an role-playing mobile game based on GTA San Andreas — JavaScript · 0 yıldız
+- [vraestoren/santrope_rp.js](https://github.com/vraestoren/santrope_rp.js) — Mobile-API for santrope an role-playing mobile game based on GTA San Andreas — JavaScript · 0 yıldız
+- [vraestoren/ValorantEsports.cs](https://github.com/vraestoren/ValorantEsports.cs) — Web-API for vlresports.vercel.app a user-friendly tool that allows you to extract data from the website vlr.gg — C# · 0 yıldız
+- [Vraj11791/Real-Estate-CRM-salesforce](https://github.com/Vraj11791/Real-Estate-CRM-salesforce) — Salesforce-based Real Estate CRM built using Apex, LWC, SOQL, and Experience Cloud during Summer Internship at Dpsource Pvt Ltd. — Apex · 0 yıldız
+- [vrcd-community/1PanelAuth](https://github.com/vrcd-community/1PanelAuth) — (açıklama yok) — C# · 0 yıldız · arşiv
+- [vrkx/FPingV2](https://github.com/vrkx/FPingV2) — A free open-source tool to check Fortnite Servers. — JavaScript · 0 yıldız · arşiv
+- [vrokx/LatestShoppy](https://github.com/vrokx/LatestShoppy) — (açıklama yok) — C# · 0 yıldız
+- [vrolo001/SQL-deforestation](https://github.com/vrolo001/SQL-deforestation) — SQL-based project where I analyse World Bank forest data for 1990 and 2016 to see what countries and regions have seen the… — — · 0 yıldız
+- [vrpandey/Training-and-Comparing-Models-to-Predict-Customer-Satisfaction-Index-](https://github.com/vrpandey/Training-and-Comparing-Models-to-Predict-Customer-Satisfaction-Index-) — In this project data from ‘Amazon Fine Food Reviews’ dataset is preprocessed using various methods such as lemmatization, stop… — Python · 0 yıldız
+- [vrudhikedia/PizzaOrderingSystem](https://github.com/vrudhikedia/PizzaOrderingSystem) — Developed a menu-driven system allowing users to place, and modify pizza orders, ending in the generation of a final bill. — C++ · 0 yıldız
+- [Vruk11/TeamFortress2-SDK-Wiki](https://github.com/Vruk11/TeamFortress2-SDK-Wiki) — Some possibly useful stuff about developing sourcemods on TF2. — — · 0 yıldız
+- [Vrushabh199/Nagpur_HPP](https://github.com/Vrushabh199/Nagpur_HPP) — Nagpur house price prediction — Jupyter Notebook · 0 yıldız
+- [Vrushabh199/Pune_hpp](https://github.com/Vrushabh199/Pune_hpp) — House Price Prediction — — · 0 yıldız
+- [VrushaliVarankar/CDAC-Project-AgriMitra](https://github.com/VrushaliVarankar/CDAC-Project-AgriMitra) — This repository hosts the source code and documentation for our CDAC final project on a Renting Farming Assets named as… — JavaScript · 0 yıldız
+- [VrushankBardolia/Cheat-Sheets](https://github.com/VrushankBardolia/Cheat-Sheets) — (açıklama yok) — — · 0 yıldız
+- [VS-RolePlay-GM/retard](https://github.com/VS-RolePlay-GM/retard) — (açıklama yok) — — · 0 yıldız
+- [VS-SHGH/cancer-medicine-code](https://github.com/VS-SHGH/cancer-medicine-code) — Curated final analyses, reviewer-requested analyses, and figure-source code for the vestibular schwannoma Cancer Medicine… — R · 0 yıldız
+- [VS-Vector-Studio/VS-LoadingScreen](https://github.com/VS-Vector-Studio/VS-LoadingScreen) — Vector Studio FiveM Loading Screen — — · 0 yıldız
+- [vs1vikash-sing/Shoppy_globe](https://github.com/vs1vikash-sing/Shoppy_globe) — (açıklama yok) — JavaScript · 0 yıldız
+- [vs240/agentforce-lead-capture-agent](https://github.com/vs240/agentforce-lead-capture-agent) — Minimal open-source Agentforce Service Agent that captures leads via conversational multi-turn flow and creates Salesforce Leads… — — · 0 yıldız
+- [vsafonkin/ds_cheatsheets](https://github.com/vsafonkin/ds_cheatsheets) — (açıklama yok) — — · 0 yıldız
+- [vsaicharangoud/APB-Master-Slave](https://github.com/vsaicharangoud/APB-Master-Slave) — APB Master–Slave implementation in Verilog featuring FSM-based control, register-mapped slave, correct read/write timing,… — Verilog · 0 yıldız
+- [VSaiKiran93/HackersToolkit](https://github.com/VSaiKiran93/HackersToolkit) — Full Stack Web Application for Vulnerbility assesment and Network Scanning — Python · 0 yıldız
+- [vsanjay-hub/git-cheat-sheet](https://github.com/vsanjay-hub/git-cheat-sheet) — (açıklama yok) — — · 0 yıldız
+- [vseth1027/ForestFireSimulator](https://github.com/vseth1027/ForestFireSimulator) — A Java program to simulate how a forest fire would spread based on tree density within the forest. — Java · 0 yıldız
+- [vshah12225/SUSTAINAITHON-hackathon-APEX-](https://github.com/vshah12225/SUSTAINAITHON-hackathon-APEX-) — (açıklama yok) — Python · 0 yıldız
+- [vshah2212/ETL-Database](https://github.com/vshah2212/ETL-Database) — Extraction, Transformation and Loading from multiple Database sources (MS Access, MySQL, File System Database). — Java · 0 yıldız
+- [vshah5/Churned-Customers-NaiveBayes](https://github.com/vshah5/Churned-Customers-NaiveBayes) — Using the data provided for the past 3 months, I have created a model by classifying the first two months as a customer’s happy… — R · 0 yıldız
+- [vsham5766/FARS-traffic-analysis](https://github.com/vsham5766/FARS-traffic-analysis) — Analysis of traffic fatalities in United states from 2016 until 2019 — Jupyter Notebook · 0 yıldız
+- [vsharma10/load_srs](https://github.com/vsharma10/load_srs) — Download, extract and, load FAERS and CVAR databases on local mysql — Julia · 0 yıldız
+- [vshxp/csgo-config](https://github.com/vshxp/csgo-config) — CSGO config files for client and server — — · 0 yıldız
+- [vsirish123/shoppyglobe](https://github.com/vsirish123/shoppyglobe) — (açıklama yok) — JavaScript · 0 yıldız
+- [vsmaksimov/SampleEspressoProject](https://github.com/vsmaksimov/SampleEspressoProject) — (açıklama yok) — Java · 0 yıldız
+- [vsvito420/omarchy-cs2-ttd](https://github.com/vsvito420/omarchy-cs2-ttd) — Your CS2 Time to Damage in the Omarchy bar, with trend and history. Deutsch & English. — QML · 0 yıldız
+- [vsvsvsarma31/Hackathon_Squad](https://github.com/vsvsvsarma31/Hackathon_Squad) — (açıklama yok) — C++ · 0 yıldız
+- [Vsymone/CS230-Operating-Platforms](https://github.com/Vsymone/CS230-Operating-Platforms) — Software design document and analysis for Draw It or Lose It, a multi-platform web-based game developed for The Gaming Room — — · 0 yıldız
+- [vtech20/algerian-forest-fire-prediction](https://github.com/vtech20/algerian-forest-fire-prediction) — Forest fires are a major concern all over the world; each year, millions of hectares are lost. Algeria is one of the countries… — Jupyter Notebook · 0 yıldız
+- [vthriller/offline-cheats-overlay](https://github.com/vthriller/offline-cheats-overlay) — Gentoo ebuilds for cheat.sh and tldr.sh pages — Shell · 0 yıldız
+- [vtj-1984-inlu/dev-cheatsheets](https://github.com/vtj-1984-inlu/dev-cheatsheets) — (açıklama yok) — — · 0 yıldız
+- [vtm1896/PasterX-Updated](https://github.com/vtm1896/PasterX-Updated) — (açıklama yok) — — · 0 yıldız
+- [vtmach/neverlose](https://github.com/vtmach/neverlose) — neverlose data — — · 0 yıldız
+- [vtn-dev-manish/SampleSdkDemo](https://github.com/vtn-dev-manish/SampleSdkDemo) — (açıklama yok) — Kotlin · 0 yıldız
+- [vtn-dev-manish/vt_netzwelt_sample_sdk](https://github.com/vtn-dev-manish/vt_netzwelt_sample_sdk) — (açıklama yok) — Kotlin · 0 yıldız
+- [VTNetzweltPublic/vt_netzwelt_sample_sdk](https://github.com/VTNetzweltPublic/vt_netzwelt_sample_sdk) — (açıklama yok) — Kotlin · 0 yıldız
+- [vtonu/my-grid-app](https://github.com/vtonu/my-grid-app) — [OUTDATED / CANCELED] 🌎 Data Table for PTP Server (v0.7) — TypeScript · 0 yıldız · arşiv
+- [vtthach/20181008_Sample_Core_Source](https://github.com/vtthach/20181008_Sample_Core_Source) — (açıklama yok) — Java · 0 yıldız
+- [vtxugcbu1a51/hvhpho](https://github.com/vtxugcbu1a51/hvhpho) — (açıklama yok) — — · 0 yıldız
+- [Vtzir/cs2Cheat-AutoDumper](https://github.com/Vtzir/cs2Cheat-AutoDumper) — (açıklama yok) — — · 0 yıldız
+- [VucideVove45/sbom-cheatsheet](https://github.com/VucideVove45/sbom-cheatsheet) — Tools that validate sbom setups — — · 0 yıldız
+- [VUDATHAVIKRANTH/CheatSheet](https://github.com/VUDATHAVIKRANTH/CheatSheet) — git cheat sheat — — · 0 yıldız
+- [vuejsvn/cheatsheet.vuejs.vn](https://github.com/vuejsvn/cheatsheet.vuejs.vn) — Cheatsheet for frameworks/libraries — JavaScript · 0 yıldız
+- [vuenhia/RollerBallGame](https://github.com/vuenhia/RollerBallGame) — Rollerball Game — — · 0 yıldız
+- [vuenxx/VLSS5](https://github.com/vuenxx/VLSS5) — DLSS5'i tamamen her yerde kullanılmasına olanak sağlayan bir program. — — · 0 yıldız
+- [vufhq/dork](https://github.com/vufhq/dork) — dork.cat source — — · 0 yıldız
+- [vug/graphics-stuff](https://github.com/vug/graphics-stuff) — graphics studies — — · 0 yıldız
+- [vug/rendering-study](https://github.com/vug/rendering-study) — (açıklama yok) — — · 0 yıldız
+- [vuhamthieu/secure-transfer-DES](https://github.com/vuhamthieu/secure-transfer-DES) — Secure file transfer using DES encryption - Final Project for Faculty of Information Security — — · 0 yıldız
+- [VukTodorovic/Postgres-cheat-sheet](https://github.com/VukTodorovic/Postgres-cheat-sheet) — Cheat sheet for PostgreSQL CLI tool — — · 0 yıldız
+- [Vukulu-Shalom-Mabasa/TSM-Apex-Infrastructure-Lab](https://github.com/Vukulu-Shalom-Mabasa/TSM-Apex-Infrastructure-Lab) — Windows Server, Active Directory, DNS, Group Policy and role-based file services lab for the TSM Apex project. — — · 0 yıldız
+- [Vulax/NetworkCheatSheet](https://github.com/Vulax/NetworkCheatSheet) — Commands for networking+aliases — HTML · 0 yıldız
+- [VulcanRaven737/Vanguard](https://github.com/VulcanRaven737/Vanguard) — A completely secure, anonymous, text-based communication service run on Ethereum testnet — JavaScript · 0 yıldız
+- [VulkanWorks/AcousticSim](https://github.com/VulkanWorks/AcousticSim) — Acoustic simulator for computer graphics applications — — · 0 yıldız
+- [Vultra-Technologies/fortnite-drop-generator](https://github.com/Vultra-Technologies/fortnite-drop-generator) — This app tells you where to dropin chapter 5 season 3 based on your playstyle. — Python · 0 yıldız
+- [vuminhhieu99/AngularBase](https://github.com/vuminhhieu99/AngularBase) — Project client angular MTA — — · 0 yıldız
+- [vuminhph/jd-salary-predictor](https://github.com/vuminhph/jd-salary-predictor) — Final project of CSS-581 (MSCSSE). The goal is to train a linear regression model to predict job salary based on job postings — — · 0 yıldız
+- [VuNguyen111/hppd2](https://github.com/VuNguyen111/hppd2) — (açıklama yok) — — · 0 yıldız
+- [vunguyen1601/accesslog_to_mysql](https://github.com/vunguyen1601/accesslog_to_mysql) — ﻿The goal is to write a parser in Java that parses web server access log file, loads the log to MySQL and checks if a given IP… — Java · 0 yıldız
+- [vunhi/CS461P](https://github.com/vunhi/CS461P) — Project for Open Source Development class — Java · 0 yıldız
+- [VuntriaScripter/VuntriaGtaModsMenu](https://github.com/VuntriaScripter/VuntriaGtaModsMenu) — (açıklama yok) — HTML · 0 yıldız
+- [VuongQuocCuong1/NhanDienDeoTheandHVhutthuoc](https://github.com/VuongQuocCuong1/NhanDienDeoTheandHVhutthuoc) — (açıklama yok) — JavaScript · 0 yıldız
+- [vurado0/KANJI_GRAMMAR_CHECKLIST](https://github.com/vurado0/KANJI_GRAMMAR_CHECKLIST) — 文法チェックリスト · Personal JLPT grammar tracker from N5 to N2: ~330 points to tick off, gap pages with explanations and examples, and a… — HTML · 0 yıldız
+- [vuralailesi/lisans1](https://github.com/vuralailesi/lisans1) — (açıklama yok) — — · 0 yıldız
+- [Vurhd0/CS253-OperatingSystem](https://github.com/Vurhd0/CS253-OperatingSystem) — This repository contains all sources,codes and projects related to the Coursework Operating Systems — C · 0 yıldız
+- [vusause/Key-Encryption-System](https://github.com/vusause/Key-Encryption-System) — a small encryption and decryption client for use on passwords, messages, etc... — — · 0 yıldız
+- [vutratenko/minio-security-fixed](https://github.com/vutratenko/minio-security-fixed) — Reproducible source build of the final security-fixed MinIO community release — Dockerfile · 0 yıldız
+- [vutungioshack/menu-fix-lag-robloxkid-cre-vutungios-skid-ditconmenhamay](https://github.com/vutungioshack/menu-fix-lag-robloxkid-cre-vutungios-skid-ditconmenhamay) — (açıklama yok) — Objective-C · 0 yıldız
+- [vvagraphics/wh1t3-r4bb1t](https://github.com/vvagraphics/wh1t3-r4bb1t) — An interactive cybersecurity study hub featuring spaced-repetition flashcards, hands-on PBQs, curated media, and quick-reference… — TypeScript · 0 yıldız
+- [vvalleru/aws-sdk-apex](https://github.com/vvalleru/aws-sdk-apex) — implementation of RESTapi for AWS — — · 0 yıldız
+- [vvassalos/qa_test_mavroeidis](https://github.com/vvassalos/qa_test_mavroeidis) — A dummy question answering system based on SQuAD v1.1 — — · 0 yıldız
+- [vvasyliev/csgoanime-scrapper](https://github.com/vvasyliev/csgoanime-scrapper) — Simple webm scrapper script for csgoani.me. WARNING: SCRAPPED CONTENT MIGHT BE NSFW! — JavaScript · 0 yıldız
+- [VVayve/H2M-Camo-Pack](https://github.com/VVayve/H2M-Camo-Pack) — A Camo Pack for the H2M Client, an MWR based Call of Duty Client. — — · 0 yıldız
+- [vveiskhdvv/List-of-students-using-txt-bin-files](https://github.com/vveiskhdvv/List-of-students-using-txt-bin-files) — This C program manages student records using a dynamic array and binary file. It allows adding, searching, deleting, classifying,… — C · 0 yıldız
+- [vvel0x/mcstats_bot](https://github.com/vvel0x/mcstats_bot) — A simple NodeJS based discord bot that displays the status of your Minecraft server. — JavaScript · 0 yıldız
+- [vvenv/soloroth-server](https://github.com/vvenv/soloroth-server) — Soloroth's game server: VMaNGOS with macOS fixes, dungeon party bots and single-player settings — — · 0 yıldız
+- [vvmanusvv-sudo/linux-cheatsheet](https://github.com/vvmanusvv-sudo/linux-cheatsheet) — Access a comprehensive reference of Linux terminal commands featuring clear examples, file system management, and command… — — · 0 yıldız
+- [vvnphvn/sql-cheatsheet](https://github.com/vvnphvn/sql-cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [VvPanf/transactions-cheatsheet](https://github.com/VvPanf/transactions-cheatsheet) — (açıklama yok) — Java · 0 yıldız
+- [VVPLabs/Cheatsheets-](https://github.com/VVPLabs/Cheatsheets-) — (açıklama yok) — — · 0 yıldız
+- [vvpreo/k8s-cheat-sheet](https://github.com/vvpreo/k8s-cheat-sheet) — Notes, I created, while preparing to K8S Certification — — · 0 yıldız
+- [vvs1999/Employee-Performance-Appraisal-for-Salary-Hike](https://github.com/vvs1999/Employee-Performance-Appraisal-for-Salary-Hike) — The performance of employees in an organization is evaluated based on several factors or attributes and the salary hike is… — HTML · 0 yıldız
+- [vvsparrow/cheatsheet-engine](https://github.com/vvsparrow/cheatsheet-engine) — Automated cheatsheet wallpaper engine with strict SDET quality gates (Pytest, Ruff, Pyright Strict) — Python · 0 yıldız
+- [VVVI5HNU/security-tools-collection](https://github.com/VVVI5HNU/security-tools-collection) — Cheat sheet of essential tools used in web, network, and mobile VAPT. — — · 0 yıldız
+- [VVVI5HNU/web-hardcoded-secrets-cheatsheet](https://github.com/VVVI5HNU/web-hardcoded-secrets-cheatsheet) — High-signal keywords and patterns for discovering hardcoded secrets in JavaScript files and frontend bundles. — — · 0 yıldız
+- [vvvryyi/menuSample](https://github.com/vvvryyi/menuSample) — (açıklama yok) — CSS · 0 yıldız
+- [vvxmr/CS50](https://github.com/vvxmr/CS50) — Dedicated Open Source C-Programming — C · 0 yıldız
+- [VWeb/vweb-fivem](https://github.com/VWeb/vweb-fivem) — ⚠️Work In Progress! 📲The standalone FiveM port of V:Web — — · 0 yıldız
+- [vwxyz/markdown-toolbar-cheatsheet](https://github.com/vwxyz/markdown-toolbar-cheatsheet) — An intuitive markdown cheatsheet. — CSS · 0 yıldız
+- [vxrchisvko/restlessfortnite](https://github.com/vxrchisvko/restlessfortnite) — (açıklama yok) — — · 0 yıldız
+- [Vxrtrauter/mc-client-srcs](https://github.com/Vxrtrauter/mc-client-srcs) — Client-SRC for the FarmerLibrary (cred: chocopie69/Minecraft-Modifications-Sources) — — · 0 yıldız
+- [Vyasser/Student-Management-System-in-C](https://github.com/Vyasser/Student-Management-System-in-C) — A simple console-based application written in C that allows you to manage student records efficiently. The program enables users… — C · 0 yıldız
+- [vyasylum/WHACK-fetch-ai-Submission](https://github.com/vyasylum/WHACK-fetch-ai-Submission) — With 328,000 annual accidents from drowsiness, our Agent-driven alert system detects drowsiness and stress, providing real-time… — Python · 0 yıldız
+- [Vyctor-Magalhaes/TCC_Eng_Elet_UFF](https://github.com/Vyctor-Magalhaes/TCC_Eng_Elet_UFF) — This repository is dedicated to the archiving of my final paper in Electrical Engineering at the Universidade Federal Fluminense.… — Python · 0 yıldız
+- [vyepishov/getting-and-cleaning-data](https://github.com/vyepishov/getting-and-cleaning-data) — Source Repository for the "Getting and Cleaning Data" Coursera Course's Final Assignment — R · 0 yıldız
+- [Vyfuyu/Free-Fire-Menu](https://github.com/Vyfuyu/Free-Fire-Menu) — Repository for https://replit.com/@hanamiphat/Free-Fire-Menu — TypeScript · 0 yıldız
+- [Vyfuyu/hackrobux.sh](https://github.com/Vyfuyu/hackrobux.sh) — Tool rejoin trên roblox — — · 0 yıldız
+- [vyk2rr/piano-chords-cheat-sheet](https://github.com/vyk2rr/piano-chords-cheat-sheet) — Explore, visualize, and play chords or melodies directly in the browser. React.js + Tone.js + Fun 🎹🛠️♥️ — TypeScript · 0 yıldız
+- [Vyncura/clinical-kpi-sql-tutorial](https://github.com/Vyncura/clinical-kpi-sql-tutorial) — An advanced SQL tutorial for Healthcare Revenue Cycle Management (RCM), featuring clinical KPIs, complex query logic for junior… — Jupyter Notebook · 0 yıldız
+- [Vynex-cmd/Gamesense-bio-site](https://github.com/Vynex-cmd/Gamesense-bio-site) — Gamesenee — JavaScript · 0 yıldız
+- [Vynooo/SynapseX](https://github.com/Vynooo/SynapseX) — The source code to a build of Synapse X dating from October 21, 2019 — — · 0 yıldız
+- [Vyrkem/digital-Integration-project-2022](https://github.com/Vyrkem/digital-Integration-project-2022) — the final project we had to do in school using a raspberry pi as the server equiped with node-red and controlling an iot circuit… — C · 0 yıldız
+- [vyshky/CS1.6_NO_STEAM_CHEAT](https://github.com/vyshky/CS1.6_NO_STEAM_CHEAT) — (açıklama yok) — C++ · 0 yıldız
+- [VyshnaviKanchi/SafeDrive-AI-A-Real-time-Cardiac-Monitoring-Emergency-Response-System-for-drivers](https://github.com/VyshnaviKanchi/SafeDrive-AI-A-Real-time-Cardiac-Monitoring-Emergency-Response-System-for-drivers) — Thousands die in accidents from medical crises or fatigue because cars don't monitor driver health. SafeDrive AI uses sensors and… — — · 0 yıldız
+- [vyshnavpp/HPP](https://github.com/vyshnavpp/HPP) — (açıklama yok) — — · 0 yıldız
+- [vyshtykailo-dot/StockKeeper](https://github.com/vyshtykailo-dot/StockKeeper) — StockKeeper — a simple console-based inventory management system written in C++. It allows you to add and update product… — C++ · 0 yıldız
+- [Vytor01/Ray-Tracing-Roblox-Luau](https://github.com/Vytor01/Ray-Tracing-Roblox-Luau) — Just source code for my raytracing project on roblox — — · 0 yıldız
+- [vyzcco/onetap](https://github.com/vyzcco/onetap) — (açıklama yok) — — · 0 yıldız
+- [vzamudioj/log-parser](https://github.com/vzamudioj/log-parser) — Tool that can parse and load the given log file to MySQL — Java · 0 yıldız
+- [vzas/vyoex-checker](https://github.com/vzas/vyoex-checker) — Roblox Usernames Checker. Based on meov — Python · 0 yıldız
+- [vze3f372/linux-cheatsheet](https://github.com/vze3f372/linux-cheatsheet) — (açıklama yok) — JavaScript · 0 yıldız
+- [vzrenggamani/division2-grd-cheatsheet](https://github.com/vzrenggamani/division2-grd-cheatsheet) — konular: division2 — — · 0 yıldız
+- [W-Bjwa04/field-notes-react-nextjs](https://github.com/W-Bjwa04/field-notes-react-nextjs) — A visual, analogy-first revision notebook for React 19 & Next.js 16 interviews. 45 core concepts with real-world doodles,… — TypeScript · 0 yıldız
+- [W-Floyd/Angl-Resource-Pack](https://github.com/W-Floyd/Angl-Resource-Pack) — A vector based Minecraft resource pack — Shell · 0 yıldız · arşiv
+- [w-mancong/digipen_portfolio](https://github.com/w-mancong/digipen_portfolio) — portfolio — — · 0 yıldız
+- [w-s-maker/Data-science](https://github.com/w-s-maker/Data-science) — linear regression model could help analyze how factors like road conditions, speed, and alcohol involvement impact the severity… — Jupyter Notebook · 0 yıldız
+- [w-Tom-w/CheatSheet](https://github.com/w-Tom-w/CheatSheet) — An application for obtaining information about equipment that is located at a specific location. — C# · 0 yıldız
+- [w0/CSGO-Config](https://github.com/w0/CSGO-Config) — This is a simple csgo config — — · 0 yıldız
+- [w00x/backup](https://github.com/w00x/backup) — Script for load mysql backups from remote to local database — Ruby · 0 yıldız
+- [W0HLF4HRT/sorting](https://github.com/W0HLF4HRT/sorting) — skeet — Python · 0 yıldız
+- [w0lfchime/Combat_Engineering](https://github.com/w0lfchime/Combat_Engineering) — (açıklama yok) — — · 0 yıldız
+- [w0nnexe/w0nn-Usky-val](https://github.com/w0nnexe/w0nn-Usky-val) — w0nn-Usky-val — — · 0 yıldız
+- [W1llpr0/redes-hashing](https://github.com/W1llpr0/redes-hashing) — (açıklama yok) — — · 0 yıldız
+- [w1nkuscripts/gamesense](https://github.com/w1nkuscripts/gamesense) — (açıklama yok) — — · 0 yıldız
+- [w1spo/zenbox.github.io](https://github.com/w1spo/zenbox.github.io) — Webiste for ZenBox Minecraft Server - Open Source — HTML · 0 yıldız
+- [W1th4r/Quantum-IDE](https://github.com/W1th4r/Quantum-IDE) — (açıklama yok) — — · 0 yıldız
+- [W3378516198/d435i_vins_px4_uav](https://github.com/W3378516198/d435i_vins_px4_uav) — (açıklama yok) — — · 0 yıldız
+- [w35m17h/Tasmota-CheatSheet](https://github.com/w35m17h/Tasmota-CheatSheet) — (açıklama yok) — — · 0 yıldız
+- [w3l107/Call-of-Duty-Modern-Warfare-Roached-Up-GDIP-ColorAimbot](https://github.com/w3l107/Call-of-Duty-Modern-Warfare-Roached-Up-GDIP-ColorAimbot) — Call of Duty: Modern Warfare Roached Up GDIP ColorAimbot — AutoHotkey · 0 yıldız
+- [w3lch/Corruption-Craft](https://github.com/w3lch/Corruption-Craft) — A mod that adds spreading corruption blocks and mechanics based on them to Minecraft. — Java · 0 yıldız
+- [w3workerz/Huge-Collection-of-CheatSheet](https://github.com/w3workerz/Huge-Collection-of-CheatSheet) — :goberserk: :goberserk: :goberserk: Share of my Huge Collection of Cheatsheet (Coding, Cheat, Pinouts, Command Lists, Etc.)… — — · 0 yıldız
+- [w4145n784q0/SpinLamb](https://github.com/w4145n784q0/SpinLamb) — (açıklama yok) — — · 0 yıldız
+- [w4ldodev/lisansmta](https://github.com/w4ldodev/lisansmta) — (açıklama yok) — — · 0 yıldız
+- [w4nganna/CheatSheets](https://github.com/w4nganna/CheatSheets) — UofT IndE Cheatsheets — — · 0 yıldız
+- [W4RH4WK/my-common.hpp](https://github.com/W4RH4WK/my-common.hpp) — (açıklama yok) — C++ · 0 yıldız
+- [W6YS/Primordial-Pixels-Scripts](https://github.com/W6YS/Primordial-Pixels-Scripts) — Primordial Pixels Scripts — Lua · 0 yıldız
+- [W9nd3r/gamesense.fun](https://github.com/W9nd3r/gamesense.fun) — (açıklama yok) — — · 0 yıldız
+- [waad-moaness/recursion_cheatsheet](https://github.com/waad-moaness/recursion_cheatsheet) — (açıklama yok) — C++ · 0 yıldız
+- [WaalerThomas/PowerCraft](https://github.com/WaalerThomas/PowerCraft) — Text-based minecraft in powershell — PowerShell · 0 yıldız
+- [Waariha-Asim/NLP-Projects](https://github.com/Waariha-Asim/NLP-Projects) — NLP applications: a transformer-based Question Answering system (DistilBERT & RoBERTa, SQuAD v1.1) and a News Category Classifier… — Python · 0 yıldız
+- [Wabbit0101/hackedheads](https://github.com/Wabbit0101/hackedheads) — Repository of the cleaned texture data used for custom player heads in the PinklySheep mod — — · 0 yıldız
+- [wabiverse/MetaverseKit](https://github.com/wabiverse/MetaverseKit) — Monolithic dependency for SwiftPM encapsulating many ASWF projects to swiftly architect our digital reality. — — · 0 yıldız
+- [wachuleru/ArmarEquipos](https://github.com/wachuleru/ArmarEquipos) — Mini aplicación para armar equipos en base a puntajes — HTML · 0 yıldız
+- [wadah-jameel/terrafrom-aws-website-cheatsheet](https://github.com/wadah-jameel/terrafrom-aws-website-cheatsheet) — Terraform AWS Website Deployment - Cheat Sheet — — · 0 yıldız
+- [wadamsy/MenuSample](https://github.com/wadamsy/MenuSample) — (açıklama yok) — Java · 0 yıldız
+- [waddlesplash/haiku-licenses](https://github.com/waddlesplash/haiku-licenses) — Haiku's data/system/data/licenses/ folder. — — · 0 yıldız
+- [Wade-Yancey/War-Patrol](https://github.com/Wade-Yancey/War-Patrol) — A rudimentary naval warfare simulator that support double blind turn based gameplay, player versus player naval engagements… — TypeScript · 0 yıldız
+- [wade1990/hackfestkathmandu.github.io](https://github.com/wade1990/hackfestkathmandu.github.io) — Platform where technology leaders and the brightest minds come together to collaborate on building tools that solve real problems. — CSS · 0 yıldız
+- [wadecsheldon/DeadlyPlants](https://github.com/wadecsheldon/DeadlyPlants) — Source code for the DeadlyPlants Minecraft mod — Java · 0 yıldız
+- [wadefletch/TheForest](https://github.com/wadefletch/TheForest) — 🌲 A text-based adventure. Based on "A Dark Room" created in a 24 hour CodeDay hackathon. — Python · 0 yıldız
+- [WadeWagmi/siege-dojo](https://github.com/WadeWagmi/siege-dojo) — Siege — asymmetric turn-based strategy game on Starknet (Dojo ECS) — — · 0 yıldız
+- [WadeWinningWilson/A-Link-Between-Twilight](https://github.com/WadeWinningWilson/A-Link-Between-Twilight) — A mod for Dusklight that inserts the meter based drain features from A Link Between Worlds with added functionality as a stamina… — — · 0 yıldız
+- [wadson333/lisans_projet_2025](https://github.com/wadson333/lisans_projet_2025) — Application de gestion d'une université — Java · 0 yıldız
+- [waelumar/NOCTURNALS-COMIC](https://github.com/waelumar/NOCTURNALS-COMIC) — A dark fantasy manga where an ordinary train ride leads to a hidden world of mythical beings, love, and tragedy by wael umar — — · 0 yıldız
+- [waffle-iron/sundry](https://github.com/waffle-iron/sundry) — The hackable crypto assets tool — JavaScript · 0 yıldız
+- [waffle-iron/ugm-mobot-local](https://github.com/waffle-iron/ugm-mobot-local) — This project actually my final project in digital image processing course. This project is about roof based mobile robot… — — · 0 yıldız
+- [waffle-iron/Undead-C](https://github.com/waffle-iron/Undead-C) — A programming language based on Post-Apocalyptic Statements and quotes from the Call of Duty Zombie-Mode. — — · 0 yıldız
+- [WaffleGM/Scale-of-Damage-The-Influence-of-Vehicle-Size-and-Crash-Fatality-Outcomes](https://github.com/WaffleGM/Scale-of-Damage-The-Influence-of-Vehicle-Size-and-Crash-Fatality-Outcomes) — (açıklama yok) — — · 0 yıldız
+- [Wafflemuffin507/Making-a-GTAG-M-od-menu](https://github.com/Wafflemuffin507/Making-a-GTAG-M-od-menu) — yayayay — — · 0 yıldız
+- [WafulaNasombi/Subscriptions-System](https://github.com/WafulaNasombi/Subscriptions-System) — (açıklama yok) — Python · 0 yıldız
+- [wagnerN02645786/Embedded_systems](https://github.com/wagnerN02645786/Embedded_systems) — Final Project For Embedded Systems which is a House Heating and cooling system with thermostatic control using 2 ARM based… — HTML · 0 yıldız
+- [Wagnozac/projHpp](https://github.com/Wagnozac/projHpp) — (açıklama yok) — Java · 0 yıldız
+- [Wagofficial/wagclient](https://github.com/Wagofficial/wagclient) — Minecraft Hacked Client — — · 0 yıldız
+- [waguri-dev/RobloxHacks](https://github.com/waguri-dev/RobloxHacks) — ... — Lua · 0 yıldız
+- [wagyourtail/my-advanced-macros](https://github.com/wagyourtail/my-advanced-macros) — the macros I made to work with the minecraft advanced macros mod over at https://github.com/TheIncgi/AdvancedMacros-Source — Lua · 0 yıldız
+- [WahabB2131/Battery_ECM_HPPC_P28A](https://github.com/WahabB2131/Battery_ECM_HPPC_P28A) — MATLAB implementation for HPPC-based parameter extraction for Li-ion ECMs. — MATLAB · 0 yıldız
+- [wahabkal777/Food-Image-Classification-and-Detectiion-](https://github.com/wahabkal777/Food-Image-Classification-and-Detectiion-) — A Final Year Project developed as part of academic requirements. This project demonstrates the practical implementation of modern… — HTML · 0 yıldız
+- [WahajSajid/Final-Year-Project](https://github.com/WahajSajid/Final-Year-Project) — This repository contains my work on the final year project of my Bachelor studies in Computer Science. We did a research on BraTs… — Jupyter Notebook · 0 yıldız
+- [WaheedIyanda/Breast-cancer-IDC-histopathology-Classification-using-Pytorch-torchvisison-RestNet-model](https://github.com/WaheedIyanda/Breast-cancer-IDC-histopathology-Classification-using-Pytorch-torchvisison-RestNet-model) — Breast cancer, the most common cancer among women, often presents as invasive ductal carcinoma (IDC), the most prevalent subtype.… — Jupyter Notebook · 0 yıldız
+- [wahengchang/leancloud-log-middleware](https://github.com/wahengchang/leancloud-log-middleware) — Middleware of creating Leancloud object, by configuring LOG_SYSTEM_APP_ID, LOG_SYSTEM_APP_KEY and LOG_SYSTEM_CLASS — JavaScript · 0 yıldız
+- [Wahooney/AweTomater](https://github.com/Wahooney/AweTomater) — A scriptable asset exporter for Fortnite (theoretically any UE4 based game) — C# · 0 yıldız
+- [wahsandaruwan/complete_css_exercises](https://github.com/wahsandaruwan/complete_css_exercises) — Complete CSS source code from beginner to advanced. — HTML · 0 yıldız
+- [WahyuLamani/hppsystem-by-lumi-and-bloom](https://github.com/WahyuLamani/hppsystem-by-lumi-and-bloom) — (açıklama yok) — TypeScript · 0 yıldız
+- [wahyunp26-source/gta6-trophy-guide-01-v7](https://github.com/wahyunp26-source/gta6-trophy-guide-01-v7) — Leonida 100% — offline GTA VI trophy guide & tracker: 55 trophies, 366 double-sourced steps, 27 disputes shown both ways.… — JavaScript · 0 yıldız
+- [Wahyupurnomoaji21/gta6-meme-x-01-v4](https://github.com/Wahyupurnomoaji21/gta6-meme-x-01-v4) — make.fun gta6-meme-x-01 v4: Still loading... since 2013 — TypeScript · 0 yıldız
+- [Wahyupurnomoaji21/gta6-trophy-guide-01-v5](https://github.com/Wahyupurnomoaji21/gta6-trophy-guide-01-v5) — GTA VI trophy guide & tracker — offline, 55 trophies, sourced guides (make.fun bounty gta6-trophy-guide-01) — JavaScript · 0 yıldız
+- [wai96/interview-cheatsheet](https://github.com/wai96/interview-cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [waid202252/DI32009-game-project-](https://github.com/waid202252/DI32009-game-project-) — Level-up game adventure game with constraint programming — — · 0 yıldız
+- [WaiGameStudio/GadgetsMenu](https://github.com/WaiGameStudio/GadgetsMenu) — GadgetsMenu Fix On Minecraft 1.21.11 — Python · 0 yıldız
+- [Wajahatali-web/Gemini-Clone](https://github.com/Wajahatali-web/Gemini-Clone) — A React-based Gemini clone featuring AI-powered chat, modern UI, and seamless dark/light mode toggle for an enhanced user… — JavaScript · 0 yıldız
+- [wajbik/habit-hub-v1](https://github.com/wajbik/habit-hub-v1) — Web app generating calendar based on task schedules. Inspired by the Forest App. — Vue · 0 yıldız
+- [Wajeed-msft/TaskModuleSampleSDK4](https://github.com/Wajeed-msft/TaskModuleSampleSDK4) — (açıklama yok) — HTML · 0 yıldız
+- [Wajeeh44/Resturant-managment-system-c-](https://github.com/Wajeeh44/Resturant-managment-system-c-) — Restaurant Management System** is a C#-based desktop application designed to automate restaurant operations such as managing menu… — — · 0 yıldız
+- [wajeeha-beep/PetPal](https://github.com/wajeeha-beep/PetPal) — PetPal is a web-based Pet Care Management System developed using Oracle APEX . The application provides a platform where pet… — — · 0 yıldız
+- [wajidmanzoor/Change-Point-detection-using-Random-Forest](https://github.com/wajidmanzoor/Change-Point-detection-using-Random-Forest) — This project explores a novel approach to change-point detection using classifier-based methods, focusing on random forest and… — HTML · 0 yıldız
+- [wak-sudo/NESemu](https://github.com/wak-sudo/NESemu) — WIP NES emulator — — · 0 yıldız
+- [WakamatuSanga/ReepEngine](https://github.com/WakamatuSanga/ReepEngine) — (açıklama yok) — — · 0 yıldız
+- [wakdidx/ffmpeg-cheatsheet](https://github.com/wakdidx/ffmpeg-cheatsheet) — A categorized collection of FFmpeg commands for video automation pipelines. — — · 0 yıldız · arşiv
+- [WAKHM/soundwave-music-app](https://github.com/WAKHM/soundwave-music-app) — A Flutter-based mobile app that lets users explore music, save favorites, and enjoy a fully functional music player with… — Dart · 0 yıldız
+- [wakrigen/cheatsheet-space](https://github.com/wakrigen/cheatsheet-space) — Draft projects and quick prototypes. — — · 0 yıldız
+- [waldeinsfm/https-code.google.com-p-csipsimple-source-detail-r-2470-](https://github.com/waldeinsfm/https-code.google.com-p-csipsimple-source-detail-r-2470-) — (açıklama yok) — — · 0 yıldız
+- [waldemarIT/RustHackerrank](https://github.com/waldemarIT/RustHackerrank) — (açıklama yok) — Rust · 0 yıldız
+- [waldemarIT/RustPracticeHackerRank](https://github.com/waldemarIT/RustPracticeHackerRank) — (açıklama yok) — — · 0 yıldız
+- [waldirpires/hackathon](https://github.com/waldirpires/hackathon) — TagTool-Dita Migration Tool — Ruby · 0 yıldız
+- [waldoalvarez00/MyPC](https://github.com/waldoalvarez00/MyPC) — Initial Attempt to port Jamie Iles Computer to the MiSTer — — · 0 yıldız
+- [waldohidalgo/LogicadeProgramacion-ConceptosPrimordiales](https://github.com/waldohidalgo/LogicadeProgramacion-ConceptosPrimordiales) — En esta carpeta se encuentran todos los ejercicios del segundo curso de lógica de programación — HTML · 0 yıldız
+- [Waleed-hot/hackfb](https://github.com/Waleed-hot/hackfb) — Free tool — — · 0 yıldız
+- [waleed1134/imdb-top250-etl](https://github.com/waleed1134/imdb-top250-etl) — ETL pipeline that scrapes IMDb's Top 250 movies, cleans and transforms the data, and loads it into MySQL/SQLite with analytical… — Jupyter Notebook · 0 yıldız
+- [Waleed155/LicensesSystem1](https://github.com/Waleed155/LicensesSystem1) — (açıklama yok) — C# · 0 yıldız
+- [waleedess/Study-Notes](https://github.com/waleedess/Study-Notes) — A dedicated repository of my cybersecurity, networking and programming study notes, cheat sheets, and future practical lab or CTF… — — · 0 yıldız
+- [walid-elfaiz/EarthQuakeSorter](https://github.com/walid-elfaiz/EarthQuakeSorter) — Code source du devoir EarthQuakeStarterProgram du cours en ligne "Java Programming: Principles of Software Design by Duke… — Java · 0 yıldız
+- [WalidAbuKhadra/shelly-halogen-inrush-controller](https://github.com/WalidAbuKhadra/shelly-halogen-inrush-controller) — Stateful inrush current suppressor for high-inductive loads. A Shelly.js (mJS) script for the Shelly 2PM (Gen 4) designed to… — JavaScript · 0 yıldız
+- [walidaynie/project_shoppyfe](https://github.com/walidaynie/project_shoppyfe) — making simple web for education purpose with native resource — — · 0 yıldız
+- [walidhemati/Apexia-Blockchain-Based-Storage-](https://github.com/walidhemati/Apexia-Blockchain-Based-Storage-) — (açıklama yok) — JavaScript · 0 yıldız
+- [waliulawaltaha/file-encryptor](https://github.com/waliulawaltaha/file-encryptor) — File Encryptor is a secure, zero-knowledge tool that encrypts files directly in your browser. Built with the native Web Crypto… — JavaScript · 0 yıldız
+- [walkcow/hppy-birthday-1](https://github.com/walkcow/hppy-birthday-1) — (açıklama yok) — — · 0 yıldız
+- [walker-a/RayTracing](https://github.com/walker-a/RayTracing) — Final project for the graphics class at Carleton College. It uses ray tracing to simulate reflections and shadows from light… — C · 0 yıldız
+- [WALKER3612/hpp-21apr](https://github.com/WALKER3612/hpp-21apr) — (açıklama yok) — Python · 0 yıldız
+- [WALKER3612/HPP-MAIN](https://github.com/WALKER3612/HPP-MAIN) — (açıklama yok) — — · 0 yıldız
+- [walkeralfaro/cheatsheet-editor](https://github.com/walkeralfaro/cheatsheet-editor) — Create, organize, and manage keyboard shortcut cheatsheets. Built with Astro + React + Tailwind CSS v4. — TypeScript · 0 yıldız
+- [walkermoskop/covid-fatality-analysis](https://github.com/walkermoskop/covid-fatality-analysis) — An analysis of COVID fatality rates in Midwestern counties — — · 0 yıldız
+- [Walko-Robotics/doge_software](https://github.com/Walko-Robotics/doge_software) — (açıklama yok) — — · 0 yıldız
+- [Wall-core/Everlook](https://github.com/Wall-core/Everlook) — Core for Project Everlook — — · 0 yıldız
+- [wall3rsyt/NextUpApv](https://github.com/wall3rsyt/NextUpApv) — Server rules (APV) for the NextUp Roleplay server, published as a static page (Dutch). — HTML · 0 yıldız
+- [wall3rsyt/Nextupwetboek](https://github.com/wall3rsyt/Nextupwetboek) — Single-page criminal code reference for the NextUp Roleplay server, with client-side search (Dutch). — HTML · 0 yıldız
+- [wallace3043/SpaceMarines](https://github.com/wallace3043/SpaceMarines) — XCOM-clone. Turn-based squad-tactics game — C++ · 0 yıldız
+- [wallacecorreia/Ballentinelsp-IDN-homograph-DMARC-permerror-public-evidence-](https://github.com/wallacecorreia/Ballentinelsp-IDN-homograph-DMARC-permerror-public-evidence-) — Sanitized evidence pack on a phishing case using an IDN/Punycode subdomain of ballentinelsp.com. SPF/DKIM pass; DMARC permerror… — — · 0 yıldız
+- [wallacemendoza/aws-three-tier-infrstructure](https://github.com/wallacemendoza/aws-three-tier-infrstructure) — Scalable AWS three-tier web architecture deployed with Terraform. Multi-AZ design featuring Auto Scaling, dual load balancers,… — HCL · 0 yıldız
+- [wallacexgromit/TextBased-Fortnite](https://github.com/wallacexgromit/TextBased-Fortnite) — Text based version of Fortnite Battle Royale — Java · 0 yıldız
+- [Wallat-bilal/Rob2_Greenhouse-B229](https://github.com/Wallat-bilal/Rob2_Greenhouse-B229) — (açıklama yok) — — · 0 yıldız
+- [Walle-the-admn/Git-Cheatsheet](https://github.com/Walle-the-admn/Git-Cheatsheet) — A personal cheatsheet for commonly used commands, as well as usueful things to keep in mind while using Git — — · 0 yıldız
+- [wallerath/cheatsheet.md](https://github.com/wallerath/cheatsheet.md) — (açıklama yok) — — · 0 yıldız
+- [walleXD/vOS](https://github.com/walleXD/vOS) — Emulation of key Operation System behaviors like Process, Memory Management, Disks and more. — Java · 0 yıldız
+- [Wallfaintrigue/Fortnite_External](https://github.com/Wallfaintrigue/Fortnite_External) — Download: soon — — · 0 yıldız
+- [wallofsheep/hackerguidetobaby](https://github.com/wallofsheep/hackerguidetobaby) — Hackers guide to baby is intended to be a funny app showing new parents what life is like with a 1 year old — C · 0 yıldız
+- [wallski/wallp](https://github.com/wallski/wallp) — Simple wallpaper manager — — · 0 yıldız
+- [wallstudio/WindowsExeHackSample](https://github.com/wallstudio/WindowsExeHackSample) — (açıklama yok) — C++ · 0 yıldız
+- [WalquerX/cheatsheets](https://github.com/WalquerX/cheatsheets) — (açıklama yok) — — · 0 yıldız
+- [WalrusWalrup/robloxMenu](https://github.com/WalrusWalrup/robloxMenu) — (açıklama yok) — — · 0 yıldız
+- [walsao/Walter_Augusto_Holobreathing_Dark_Energy](https://github.com/walsao/Walter_Augusto_Holobreathing_Dark_Energy) — Simulation and theory proposing that dark energy emerges from cosmic-scale relational breathing tension, based on Walter… — Python · 0 yıldız
+- [walt-1/sol-wallet-from-private-key](https://github.com/walt-1/sol-wallet-from-private-key) — Generates Solana File System Wallet from Existing Private Key — JavaScript · 0 yıldız
+- [walterbrunetti/armadillo](https://github.com/walterbrunetti/armadillo) — Armadillo is a Firefox Add-on that allow users to edit content directly from the browser, updating the changes on the source file. — JavaScript · 0 yıldız
+- [WalterGerig/MadagascarMultiplayer](https://github.com/WalterGerig/MadagascarMultiplayer) — (açıklama yok) — — · 0 yıldız
+- [walterjosealvaradodelgadillo1-sudo/WalterxCheatShop](https://github.com/walterjosealvaradodelgadillo1-sudo/WalterxCheatShop) — WalterxCheatShop — — · 0 yıldız
+- [walterlatimer/armando-perez-jquery](https://github.com/walterlatimer/armando-perez-jquery) — Source files for Codecademy "Armando Perez" project — HTML · 0 yıldız
+- [walterwhite02/Minecraft-Launcher-1](https://github.com/walterwhite02/Minecraft-Launcher-1) — literally working unblocked minecraft launcher runs on chromebook this is very based and changing the meta game breaking L : — — · 0 yıldız
+- [walterwhite02/sigma-Launcher-1](https://github.com/walterwhite02/sigma-Launcher-1) — literally working unblocked minecraft launcher runs on chromebook this is very based and changing the meta game breaking L : — — · 0 yıldız
+- [WaltGurley/hunt-web-error-images](https://github.com/WaltGurley/hunt-web-error-images) — Load image on Hunt video walls when error occurs with web content — JavaScript · 0 yıldız
+- [walyorecs/hvhuk](https://github.com/walyorecs/hvhuk) — content — — · 0 yıldız
+- [Wambo420Rambo/Assault_Cube_External_Cheat](https://github.com/Wambo420Rambo/Assault_Cube_External_Cheat) — (açıklama yok) — C++ · 0 yıldız
+- [Wambo44-master/Linux-Cheat-Sheet](https://github.com/Wambo44-master/Linux-Cheat-Sheet) — This repo is a cheat sheet for the most common linux command line commands. — — · 0 yıldız
+- [wamk9/ehub-website](https://github.com/wamk9/ehub-website) — Website of eHub System, used to buy licenses and inform all users to news — PHP · 0 yıldız
+- [wan-200072/brookhaven-app-studio](https://github.com/wan-200072/brookhaven-app-studio) — Trusted source for Roblox BrookHaven Script in 2025. Download safely. — — · 0 yıldız
+- [wan9chi/StandardMenu](https://github.com/wan9chi/StandardMenu) — (açıklama yok) — Swift · 0 yıldız
+- [wandelmads-ship-it/MZM-Loading](https://github.com/wandelmads-ship-it/MZM-Loading) — MZM-WORKS premium FiveM loading screen resource — CSS · 0 yıldız
+- [wanderer-aditya/Notes-Cheatsheets](https://github.com/wanderer-aditya/Notes-Cheatsheets) — (açıklama yok) — JavaScript · 0 yıldız
+- [wandergy/base_rust](https://github.com/wandergy/base_rust) — (açıklama yok) — — · 0 yıldız
+- [wandongdong122/The-secret-key-generated](https://github.com/wandongdong122/The-secret-key-generated) — Key generation system for secure network data communication — C++ · 0 yıldız
+- [Wandraker/RenderBench](https://github.com/Wandraker/RenderBench) — RenderBench is a simple Minecraft rendering benchmark that measures FPS, frametimes, and performance while loading new and… — Java · 0 yıldız
+- [wandybarringer/css-cheatsheet](https://github.com/wandybarringer/css-cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [Wanfeng1028/gta6-trophy-guide](https://github.com/Wanfeng1028/gta6-trophy-guide) — GTA 6 trophy guide and tracker — all 55 PS5 trophies, offline, open source. Built by an AI agent for make.fun's "Build the best… — JavaScript · 0 yıldız
+- [wang-h-z/interview_cheatsheet](https://github.com/wang-h-z/interview_cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [wang2bbq/Random_Forest-XGBoost-SMOTE](https://github.com/wang2bbq/Random_Forest-XGBoost-SMOTE) — This part applies SMOTE to a seriously imbalanced dataset with a large number of features and data points. Train random forest… — Jupyter Notebook · 0 yıldız
+- [wang378685378/rustdesk](https://github.com/wang378685378/rustdesk) — An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. — — · 0 yıldız
+- [wangbin100608-eng/df-browse-decompiled](https://github.com/wangbin100608-eng/df-browse-decompiled) — Delta Force /browse module decompiled source viewer (43 modules) — HTML · 0 yıldız
+- [wangbingqiang/LoadRawSeqFromSeqDB](https://github.com/wangbingqiang/LoadRawSeqFromSeqDB) — ANSI C code to load raw seqeuence data from a SeqDB file, derived from SeqDB source code — C · 0 yıldız
+- [wangch0108/ImGuizmo](https://github.com/wangch0108/ImGuizmo) — (açıklama yok) — — · 0 yıldız
+- [wangch0108/WEngine](https://github.com/wangch0108/WEngine) — (açıklama yok) — — · 0 yıldız
+- [WangChuArc/CurryinginCpp](https://github.com/WangChuArc/CurryinginCpp) — Currying in cpp. Just a hpp. — C++ · 0 yıldız
+- [wangda38/Valorant-Spoofer_EAC](https://github.com/wangda38/Valorant-Spoofer_EAC) — (açıklama yok) — C++ · 0 yıldız
+- [WangEden/GameEngine](https://github.com/WangEden/GameEngine) — (açıklama yok) — — · 0 yıldız
+- [wangfarmer/COVID19_Fatality_Prediction](https://github.com/wangfarmer/COVID19_Fatality_Prediction) — COVID19 Fatality Prediction by modeling — PHP · 0 yıldız
+- [wanghaibo321/epsilon-beta-nonduplicate-sampling](https://github.com/wanghaibo321/epsilon-beta-nonduplicate-sampling) — The source for submission to icde 2024 — Java · 0 yıldız
+- [WangHong-yang/hackday-meeting](https://github.com/WangHong-yang/hackday-meeting) — A meeting webApp, a easy use tool for leader to arrange meeting time according to every partners' avilable time. — JavaScript · 0 yıldız
+- [Wanghyesung/DX3D11](https://github.com/Wanghyesung/DX3D11) — (açıklama yok) — — · 0 yıldız
+- [wangjiantao520/mac-cheatsheet](https://github.com/wangjiantao520/mac-cheatsheet) — mac的快捷键辅助程序，长按command可以快捷查看当前所有的快捷键 — Swift · 0 yıldız
+- [wangjianze96/CheatSheet](https://github.com/wangjianze96/CheatSheet) — Some useful cheatsheet for some tools I use — — · 0 yıldız
+- [wangkepfe/Real-time-path-tracing-voxel-blocks](https://github.com/wangkepfe/Real-time-path-tracing-voxel-blocks) — (açıklama yok) — — · 0 yıldız
+- [WangLab401/DEHP-scRNA](https://github.com/WangLab401/DEHP-scRNA) — R scripts used for Single-cell transcriptome dissection of the toxic impact of Di (2-ethylhexyl) phthalate on primordial follicle… — R · 0 yıldız
+- [WangLaoShi/MarkdownTools](https://github.com/WangLaoShi/MarkdownTools) — Browser-based Markdown editor, converters, generators, and cheat sheets. — JavaScript · 0 yıldız
+- [wangliuhai/KEADA](https://github.com/wangliuhai/KEADA) — Identifying key classes in software systems using dynamic analysis — Java · 0 yıldız
+- [wangorgrace/ATestSampleForSourceGenerator](https://github.com/wangorgrace/ATestSampleForSourceGenerator) — (açıklama yok) — C# · 0 yıldız
+- [wangqian2182/Cloud_primordial](https://github.com/wangqian2182/Cloud_primordial) — 云原生作业提交 — — · 0 yıldız
+- [wangqiaowqo/streaming_mix_log](https://github.com/wangqiaowqo/streaming_mix_log) — spark 处理多类日志文件，汇总输出数据文件，等脚本文件调用load到mysql中去。 — Scala · 0 yıldız
+- [wangsunyan777/Tsinghua-EE-Cheatsheets](https://github.com/wangsunyan777/Tsinghua-EE-Cheatsheets) — Cheat sheets and LaTeX sources for Tsinghua EE courses. — TeX · 0 yıldız
+- [wangweiyanming/UniverseOnline](https://github.com/wangweiyanming/UniverseOnline) — An ultimate hypothesis about dark matter and dark energy based on the unified entropy theory, along with universe evolution… — — · 0 yıldız
+- [wangweiyanming/UniverseOnlineSimulator](https://github.com/wangweiyanming/UniverseOnlineSimulator) — An ultimate hypothesis about dark matter and dark energy based on the unified entropy theory, along with universe evolution… — — · 0 yıldız
+- [WangweiYDYK/DDG](https://github.com/WangweiYDYK/DDG) — (açıklama yok) — — · 0 yıldız
+- [wangxm-forest/cheatsheet](https://github.com/wangxm-forest/cheatsheet) — Something I wish I knew earlier, about coding and using git... — — · 0 yıldız
+- [wangxuzhou666-arch/ai-cheatsheet](https://github.com/wangxuzhou666-arch/ai-cheatsheet) — [Archived] Turn course PDFs into exam cheatsheets via Claude API + LaTeX. Single course < $1. — Python · 0 yıldız · arşiv
+- [wangxxxc/halogenica-site](https://github.com/wangxxxc/halogenica-site) — Source files for halogenica website — HTML · 0 yıldız
+- [wangyf3167/CSE6730-Virus-Spread-and-Control-Simulation](https://github.com/wangyf3167/CSE6730-Virus-Spread-and-Control-Simulation) — This project modeled the spread and control conditions of various viruses as discrete event simulation and simulated virus spread… — Java · 0 yıldız
+- [wangyuangg/smart_split_500](https://github.com/wangyuangg/smart_split_500) — (açıklama yok) — — · 0 yıldız
+- [WangYuHang-97/UnityAPI](https://github.com/WangYuHang-97/UnityAPI) — (açıklama yok) — — · 0 yıldız
+- [WangZhihaoCHN/DecisionSystemBasedOnTheParallelRandomForests](https://github.com/WangZhihaoCHN/DecisionSystemBasedOnTheParallelRandomForests) — 基于并行随机森林算法的B/S决策系统 — Java · 0 yıldız
+- [WangZi621/Hackstoga-2026](https://github.com/WangZi621/Hackstoga-2026) — hackathon freshman squad — — · 0 yıldız
+- [wangzyeeeeee/js-primordial](https://github.com/wangzyeeeeee/js-primordial) — (açıklama yok) — HTML · 0 yıldız
+- [WANI33/Everest-Fatalities-Dashboard](https://github.com/WANI33/Everest-Fatalities-Dashboard) — This dashboard provides a thorough summary of the data, highlighting important metrics about fatalities on Everest. It enables us… — — · 0 yıldız
+- [wanipark1004/cs20200-20230272-flood-escape](https://github.com/wanipark1004/cs20200-20230272-flood-escape) — An 8x8 elevation-based survival puzzle game written in F# for KAIST CS20200 (Spring 2026). Navigate the terrain and escape the… — F# · 0 yıldız
+- [wanjia09/ComparingClassifiers](https://github.com/wanjia09/ComparingClassifiers) — Built three classifiers(K-nearest neighbors, decision trees, and random forest), trained and tested them on the Iris dataset to… — Python · 0 yıldız
+- [wanjohialvins/valorant-trivia-cli](https://github.com/wanjohialvins/valorant-trivia-cli) — CLI-based Valorant trivia game — JavaScript · 0 yıldız
+- [WannaBAcoder/R6-Droid](https://github.com/WannaBAcoder/R6-Droid) — Build-specific edits made to open source R6 droid from James Bruton's XRobots — C++ · 0 yıldız
+- [wannabe-dv/subroutines](https://github.com/wannabe-dv/subroutines) — Cheat sheet for task and functions — — · 0 yıldız
+- [Wannefdo/movie-explorer](https://github.com/Wannefdo/movie-explorer) — 🎬 Movie Explorer is a React-based web application that allows users to search and explore movies using the TMDb API. With… — JavaScript · 0 yıldız
+- [Wanted9811/mm2hook-nu](https://github.com/Wanted9811/mm2hook-nu) — (açıklama yok) — — · 0 yıldız
+- [Wantenaw/MWBA-Exam](https://github.com/Wantenaw/MWBA-Exam) — This is the final assignment for my Mobile Web-based Application course — TypeScript · 0 yıldız
+- [wantingli-pixel/ua-cro-card-sorting-cheat-sheet](https://github.com/wantingli-pixel/ua-cro-card-sorting-cheat-sheet) — Card sorting workshop facilitator cheatsheet — HTML · 0 yıldız
+- [WANTWON/CopyGame_DirectX11_The_Legend_of_Zelda](https://github.com/WANTWON/CopyGame_DirectX11_The_Legend_of_Zelda) — DirectX11 기반으로 모작한 개인프로젝트 입니다. — — · 0 yıldız
+- [wanyaokun/hvhg](https://github.com/wanyaokun/hvhg) — fgfhg — — · 0 yıldız
+- [WanYin1/rtl8125-miniport-driver](https://github.com/WanYin1/rtl8125-miniport-driver) — RTL8125/B/BP/D/CP 2.5GbE Windows NDIS Miniport Kernel Driver PCILeech / FPGA DMA / LeechCore / MemProcFS / pmemtcp Scatter-Gather… — — · 0 yıldız
+- [waopayload/deadlock_sdk_dump](https://github.com/waopayload/deadlock_sdk_dump) — Deadlock SDK Dump (Powered by source2gen) — — · 0 yıldız
+- [waqas2692/hppy](https://github.com/waqas2692/hppy) — (açıklama yok) — — · 0 yıldız
+- [WaqasAhmedmit/RC-Starobinsky-Inflation-and-PGW](https://github.com/WaqasAhmedmit/RC-Starobinsky-Inflation-and-PGW) — This repository contains the code and data for the paper "Radiatively Corrected Starobinsky Inflation and Primordial… — Mathematica · 0 yıldız
+- [WaqasAyubShah/BitcoinCheatSheet](https://github.com/WaqasAyubShah/BitcoinCheatSheet) — (açıklama yok) — — · 0 yıldız
+- [waquarism/MLDL_cheatsheet](https://github.com/waquarism/MLDL_cheatsheet) — (açıklama yok) — Jupyter Notebook · 0 yıldız
+- [warcit0/AppManager-LicenseSystem](https://github.com/warcit0/AppManager-LicenseSystem) — Sistema backoffice corporativo B2B para generación y gestión centralizada de licencias SaaS utilizando Clean Architecture en .NET. — C# · 0 yıldız
+- [wardksheiek-999/bank-management-project](https://github.com/wardksheiek-999/bank-management-project) — 📋 Project Overview The Bank Management System is a console-based C++ application that simulates real-world banking operations. It… — C++ · 0 yıldız
+- [wardonezero/HPProLiantDL360G7iLO3](https://github.com/wardonezero/HPProLiantDL360G7iLO3) — How to set up and maintain — — · 0 yıldız
+- [Wareesha381/TasteTerminal-](https://github.com/Wareesha381/TasteTerminal-) — A comprehensive Console-Based Food Ordering System built in C++. Features secure user authentication, file-based data… — C++ · 0 yıldız
+- [warehousecisss-prog/RXO-CHEAT-SHEET](https://github.com/warehousecisss-prog/RXO-CHEAT-SHEET) — Cheat sheet to explain how the Automated RXO API and Trello comments work together — HTML · 0 yıldız
+- [wareya/fff-adf-datamining](https://github.com/wareya/fff-adf-datamining) — Incomplete / quickly hacked together tools for datamining Fairy Fencer F Advent Dark Force. — C++ · 0 yıldız
+- [WarezBox/Onetapv3](https://github.com/WarezBox/Onetapv3) — (açıklama yok) — — · 0 yıldız
+- [warf-git/skeet-grenade-converter](https://github.com/warf-git/skeet-grenade-converter) — (açıklama yok) — C++ · 0 yıldız
+- [Warge09/Cheat-sheet-and-Guide-for-Game-Developers](https://github.com/Warge09/Cheat-sheet-and-Guide-for-Game-Developers) — This repository serves as a guide and cheatsheets for Game Developers whether new, or unfamiliar with shortcuts, how to install… — Shell · 0 yıldız
+- [WarheadDesignz/Primordial-Discord-Bot](https://github.com/WarheadDesignz/Primordial-Discord-Bot) — Discord bot for The Isle. — Rich Text Format · 0 yıldız
+- [WarisAbassDev/LazyPhisher](https://github.com/WarisAbassDev/LazyPhisher) — Phishing Tool For Lazy Hackers — — · 0 yıldız
+- [wark77/sc2_squad_calulator_base](https://github.com/wark77/sc2_squad_calulator_base) — short c++ calculator base — C++ · 0 yıldız
+- [warllykomooochek-glitch/neverlose-minecraft-](https://github.com/warllykomooochek-glitch/neverlose-minecraft-) — неверпуз для майнкрафта с такзом если что то не работает или есть вопросы или что то другое то дс false0855 — — · 0 yıldız
+- [Warned122/ac_lisans](https://github.com/Warned122/ac_lisans) — (açıklama yok) — — · 0 yıldız
+- [Warpath01/ShoppyClone](https://github.com/Warpath01/ShoppyClone) — (açıklama yok) — CSS · 0 yıldız
+- [Warpigg/REPCOMMHUD](https://github.com/Warpigg/REPCOMMHUD) — A TF2 HUD based off of the Star Wars:Republic Commando game — — · 0 yıldız
+- [warrenhsu331/Stock-Correlation-ML-Program](https://github.com/warrenhsu331/Stock-Correlation-ML-Program) — CS50 final project from Harvard Summer School 2024. In this project, I train a simple linear regression model to evaluate the… — Python · 0 yıldız
+- [warricksothr/Web-App-Seed](https://github.com/warricksothr/Web-App-Seed) — Web application seed based on Backbone.js with Require.js for async loading, themed with Twitter Bootstrap, with doT templating. — JavaScript · 0 yıldız
+- [Warriii/CS2110_Workshop](https://github.com/Warriii/CS2110_Workshop) — Welcome to CS2110, An Introduction to Reverse Engineering! We'll guide you through the use of IDA Free in solving your first RE… — C · 0 yıldız
+- [warriors470/hackers-cse](https://github.com/warriors470/hackers-cse) — Source code — — · 0 yıldız
+- [WarrPath/Workplace-Fatalities](https://github.com/WarrPath/Workplace-Fatalities) — Exploratory data analysis about workplace fatalities using Power BI. — — · 0 yıldız
+- [warsab/cheatsheets](https://github.com/warsab/cheatsheets) — A collection of technical cheat sheets — — · 0 yıldız
+- [waruiM/Fatality-Analysis-Prediction](https://github.com/waruiM/Fatality-Analysis-Prediction) — Analysis of factors affecting severity of injury, important factors causing fatal injuries, a trained model which can predict… — Jupyter Notebook · 0 yıldız
+- [Warvale/BungeePE](https://github.com/Warvale/BungeePE) — A more efficient proxy for Minecraft Bedrock edition based on the design of Bungeecoord and NukkitX. — Java · 0 yıldız
+- [warybyte/keyhound](https://github.com/warybyte/keyhound) — keyhound hunts for and logs new SSH connections to the host Linux system — Shell · 0 yıldız
+- [WASAC/rwasom_webgis_trial_sample](https://github.com/WASAC/rwasom_webgis_trial_sample) — 1st trial Web-GIS source code of RWASOM project — CSS · 0 yıldız
+- [wasailin/PWSW-tool](https://github.com/wasailin/PWSW-tool) — Post-Wildfire Source-Water Vulnerability Screening — intake-level, fire-specific monitoring brief + map from free national US… — Python · 0 yıldız
+- [wasaryooo-cmd/menua](https://github.com/wasaryooo-cmd/menua) — roblox — — · 0 yıldız
+- [wasawat-b/Extract-API-To-SQL](https://github.com/wasawat-b/Extract-API-To-SQL) — Extract data from API, then Transform a bit. Lastly, load to MySQL — Python · 0 yıldız
+- [wasay-git-hub/Rossmann-Stores-Sales-Predictor](https://github.com/wasay-git-hub/Rossmann-Stores-Sales-Predictor) — An end-to-end ML system for Rossmann Store Sales prediction, featuring a reproducible training pipeline, cross-validation,… — Jupyter Notebook · 0 yıldız
+- [Wasay09/Contacts-Database](https://github.com/Wasay09/Contacts-Database) — A C program that uses binary files to store and retrieve contact records with fields like first name, last name, ID, and email.… — C · 0 yıldız
+- [wasaysir/cheatsheets](https://github.com/wasaysir/cheatsheets) — (açıklama yok) — Typst · 0 yıldız
+- [wasaysiyal/Book-Finder-App](https://github.com/wasaysiyal/Book-Finder-App) — A React-based Book Finder App using the Google Books API with search, dark mode, and responsive design. — JavaScript · 0 yıldız
+- [WaschBaer0395/WaschBaer0395.github.io_Old](https://github.com/WaschBaer0395/WaschBaer0395.github.io_Old) — Tool to map keybinds from StarCitizen to a cheat sheet for Joysticks — JavaScript · 0 yıldız
+- [wasee292/competetive-programming-with-sublime-text-3](https://github.com/wasee292/competetive-programming-with-sublime-text-3) — A single build system to compile, run programs of various languages & redirect I/O to files, with click of single key combination. — — · 0 yıldız
+- [waseeftauqueer/Forest-Fire-Detection-Using-IOT](https://github.com/waseeftauqueer/Forest-Fire-Detection-Using-IOT) — An IoT-based system using LoRa and various sensors to monitor environmental conditions and provide early warnings for forest… — C++ · 0 yıldız
+- [waseemnasir2k26/claude-code-vs-codex-cheatsheet](https://github.com/waseemnasir2k26/claude-code-vs-codex-cheatsheet) — Hands-on cheat sheet comparing Claude Code and Codex on real client work, with a routing rule and an ffmpeg video-editing… — HTML · 0 yıldız
+- [waseruyi36/cheatsheetdrafts](https://github.com/waseruyi36/cheatsheetdrafts) — Notes and examples while learning node. — — · 0 yıldız
+- [WashArmada/Roblox-Sources](https://github.com/WashArmada/Roblox-Sources) — Roblox Sources, using Hopper Dissasembler to unmask what Roblox compiles (will not be constantly up-to-date with Roblox Updates,… — C++ · 0 yıldız
+- [washingtonwdc/pcileecher](https://github.com/washingtonwdc/pcileecher) — (açıklama yok) — Python · 0 yıldız
+- [Wasiewicz11/pjatk_apbd_z2](https://github.com/Wasiewicz11/pjatk_apbd_z2) — Simple application to manage container loading for transport through ships, trains, trucks etc. — C# · 0 yıldız
+- [Wasifhaju04/ASSIGNMENT5-VALORANT](https://github.com/Wasifhaju04/ASSIGNMENT5-VALORANT) — THIS IS MY ASSIGNMENT NO. 5 BASED ON VALORANT GAMES — JavaScript · 0 yıldız
+- [wasifmahmood2002-cmyk/apex-cell-releases](https://github.com/wasifmahmood2002-cmyk/apex-cell-releases) — APEX CELL (by APEX LABS) installers and release notes. Downloads only; no source code. — — · 0 yıldız
+- [wasifmahmood2002-cmyk/apex-lap-releases](https://github.com/wasifmahmood2002-cmyk/apex-lap-releases) — APEX LAP (by APEX LABS) installers and update information. Downloads only; no source code. — — · 0 yıldız
+- [wasigonzi/screenforge](https://github.com/wasigonzi/screenforge) — ScreenForge — plataforma para crear, personalizar y vender loading screens premium para FiveM. — — · 0 yıldız
+- [wasiliysoft/astra-cheatsheet](https://github.com/wasiliysoft/astra-cheatsheet) — Шпаргалка по Astra Linux SE — — · 0 yıldız
+- [wasimh-engg/Ensemble-Methods-Random-Forest-vs-AdaBoost-comparison](https://github.com/wasimh-engg/Ensemble-Methods-Random-Forest-vs-AdaBoost-comparison) — Train RandomForest and AdaBoost classifiers on the breast cancer dataset and compare accuracies. — Jupyter Notebook · 0 yıldız
+- [wasimuddinmohammed-cyber/adaptive-ai-anomaly-detection](https://github.com/wasimuddinmohammed-cyber/adaptive-ai-anomaly-detection) — AI-based anomaly detection for cybersecurity using Isolation Forest and the CIC-IDS2017 dataset. — Python · 0 yıldız
+- [wasimulislam/Supply-Chain-Management-for-Garments](https://github.com/wasimulislam/Supply-Chain-Management-for-Garments) — A Garments Supply Chain Management that does product's creation and flow from raw material sourcing to production, logistics and… — — · 0 yıldız
+- [wasinsandiego/react-query-cheat-sheet](https://github.com/wasinsandiego/react-query-cheat-sheet) — A bsic cheat sheet for TanStack Query — HTML · 0 yıldız
+- [wasliebob/CowRevolution](https://github.com/wasliebob/CowRevolution) — Official Source of The Cow Revolution Mod for Minecraft — Java · 0 yıldız
+- [wasliebob/Famous2](https://github.com/wasliebob/Famous2) — Official Source of The Famous2 Mod for Minecraft — Java · 0 yıldız
+- [Waslyl/Celestria](https://github.com/Waslyl/Celestria) — Celestria is a Open Source application using C# to manage your Fortnite Builds for Windows. — — · 0 yıldız
+- [Wasme/My-Mod-Source](https://github.com/Wasme/My-Mod-Source) — Minecraft sucsses — Java · 0 yıldız
+- [wasouynimer/awesome-js-cheatsheet_fd7b](https://github.com/wasouynimer/awesome-js-cheatsheet_fd7b) — (açıklama yok) — — · 0 yıldız
+- [wasrecordrecorder/FatalityCrack](https://github.com/wasrecordrecorder/FatalityCrack) — (açıklama yok) — — · 0 yıldız · arşiv
+- [WasserEsser/VeriSDK](https://github.com/WasserEsser/VeriSDK) — A very simple SDK for CSGO — C++ · 0 yıldız
+- [wassupheer/Data-structure-and-Algorithm-TO-DO-LIST](https://github.com/wassupheer/Data-structure-and-Algorithm-TO-DO-LIST) — A simple command-line To-Do List Manager built using C++ and linked lists. This project allows users to efficiently manage daily… — C++ · 0 yıldız
+- [WastedPiggy/Carmageddon-Revamped](https://github.com/WastedPiggy/Carmageddon-Revamped) — Singleplayer chaos-physics mod for GTA IV: Complete Edition (built on IV-SDK .NET) — C# · 0 yıldız
+- [wastetek/gungame.fam.wtf](https://github.com/wastetek/gungame.fam.wtf) — Counter-Strike: Source Gungame Turbo Server — Dockerfile · 0 yıldız
+- [wataruakimoto/MyEngine](https://github.com/wataruakimoto/MyEngine) — (açıklama yok) — — · 0 yıldız
+- [watcharaponthod-code/roblox-dragon-combat](https://github.com/watcharaponthod-code/roblox-dragon-combat) — Roblox aerial dragon PvP — a behaviour-based bot AI tuned to pass for a human player and stay beatable. Flight brain, steering,… — Lua · 0 yıldız
+- [Watchdog0x/Makefile-Syntax](https://github.com/Watchdog0x/Makefile-Syntax) — Makefile Syntax Cheat Sheet — — · 0 yıldız
+- [WaterField3/job](https://github.com/WaterField3/job) — (açıklama yok) — — · 0 yıldız
+- [waterflow001/cheatsheets](https://github.com/waterflow001/cheatsheets) — (açıklama yok) — — · 0 yıldız
+- [waterjiao/ovs-cheatsheet](https://github.com/waterjiao/ovs-cheatsheet) — Interactive OVS (Open vSwitch) command cheatsheet in Go — Go · 0 yıldız
+- [watermelontip/markdown-cheat](https://github.com/watermelontip/markdown-cheat) — Markdown syntax cheatsheet with click-to-copy — TypeScript · 0 yıldız
+- [Waterpamda/loadingsscreenSWRP](https://github.com/Waterpamda/loadingsscreenSWRP) — Loading screen for a GMOD server — — · 0 yıldız
+- [WatershedModels/trex_src_csu](https://github.com/WatershedModels/trex_src_csu) — TREX watershed model source code from CSU. — C · 0 yıldız
+- [WaterStrider21/PythonCheatSheets](https://github.com/WaterStrider21/PythonCheatSheets) — cheat sheets — — · 0 yıldız
+- [WaterStylus331/mc_armor_trim_generator](https://github.com/WaterStylus331/mc_armor_trim_generator) — Generates the necessary json files for custom armor trims for minecraft modding. (1.20.1) (Open Source) — Python · 0 yıldız
+- [WaterTastesAmazing/Robloxias-Railroad](https://github.com/WaterTastesAmazing/Robloxias-Railroad) — Source code for Robloxia's Railroad — — · 0 yıldız
+- [watrgoat/mta-train-data](https://github.com/watrgoat/mta-train-data) — Just train data, idk what im gonna do with it. — — · 0 yıldız
+- [watsoncolin/primordial](https://github.com/watsoncolin/primordial) — 2D microbe evolution roguelite — TypeScript · 0 yıldız
+- [WATSONhacker212/WatsonHacker-esp32](https://github.com/WATSONhacker212/WatsonHacker-esp32) — (açıklama yok) — — · 0 yıldız
+- [watsonlia/Hackathon-gdg](https://github.com/watsonlia/Hackathon-gdg) — The final stage BOSS work and script — Python · 0 yıldız
+- [wattache/parrallel_barnes_hut](https://github.com/wattache/parrallel_barnes_hut) — Parrallel Barnes-Hut algorithm, implemented in C with MPI. This version includes a simple load balancing strategy. — C++ · 0 yıldız
+- [wattsgordon546/hvhlxb](https://github.com/wattsgordon546/hvhlxb) — (açıklama yok) — — · 0 yıldız
+- [watussi-cyber/DLL_Loader](https://github.com/watussi-cyber/DLL_Loader) — Création d'une DLL et chargement dans un programme C++ — C++ · 0 yıldız
+- [wavecholvipjolt/cheatsheet_space](https://github.com/wavecholvipjolt/cheatsheet_space) — Draft projects and quick prototypes. — — · 0 yıldız
+- [waveds/SQL-Interview-Prep](https://github.com/waveds/SQL-Interview-Prep) — SQL notes, cheat sheets and interview question banks, including 200 Farmers Market SQL questions with answers — Python · 0 yıldız
+- [wavemakerapps/Auto_lHPPDaNNlS](https://github.com/wavemakerapps/Auto_lHPPDaNNlS) — (açıklama yok) — — · 0 yıldız
+- [wavenumber-eng/avc](https://github.com/wavenumber-eng/avc) — Source code for the FRDM-AVC — — · 0 yıldız
+- [waving66789/dev-cheat-sheets](https://github.com/waving66789/dev-cheat-sheets) — Six one-page developer cheat sheets - Git, Docker, Linux, SQL, Python, Regex. Printable, no email required. — — · 0 yıldız
+- [WavingCookie/Jeuj-Mod](https://github.com/WavingCookie/Jeuj-Mod) — The source of my Terraria Mod, yup. — — · 0 yıldız
+- [wavinke/CS431](https://github.com/wavinke/CS431) — CraneBot Source Codes — Arduino · 0 yıldız
+- [Wavymo1/GitCheatSheet](https://github.com/Wavymo1/GitCheatSheet) — (açıklama yok) — — · 0 yıldız
+- [wavyworld11-sys/Wavy-ESX-TeleportMenu](https://github.com/wavyworld11-sys/Wavy-ESX-TeleportMenu) — (açıklama yok) — — · 0 yıldız
+- [wawakhan786/mtmacr0](https://github.com/wawakhan786/mtmacr0) — more modifications — — · 0 yıldız
+- [wawasya/b-hvhvgv](https://github.com/wawasya/b-hvhvgv) — (açıklama yok) — — · 0 yıldız
+- [wawawawawaawwa/Amalgam](https://github.com/wawawawawaawwa/Amalgam) — (açıklama yok) — — · 0 yıldız
+- [WaxCorps/DayZ-Current-Projects](https://github.com/WaxCorps/DayZ-Current-Projects) — This Section is for my current missions that i am working on. i do not own copyrights in anyway and all credits to the main… — — · 0 yıldız
+- [waxerman1000/FantasyFightingGame](https://github.com/waxerman1000/FantasyFightingGame) — The text-oriented and turn-based RPG game made for my CST 210 final project. — C++ · 0 yıldız
+- [WaxMedusa667903/hpp7A](https://github.com/WaxMedusa667903/hpp7A) — (açıklama yok) — HTML · 0 yıldız
+- [WaxMedusa667903/hpp7B](https://github.com/WaxMedusa667903/hpp7B) — (açıklama yok) — HTML · 0 yıldız
+- [WaxMedusa667903/hpp8A](https://github.com/WaxMedusa667903/hpp8A) — (açıklama yok) — HTML · 0 yıldız
+- [way2slimeyyy/CSGOClickerHacks](https://github.com/way2slimeyyy/CSGOClickerHacks) — (açıklama yok) — JavaScript · 0 yıldız
+- [wayangprint/langkah-lisan](https://github.com/wayangprint/langkah-lisan) — Langkah Lisan — language training web app — HTML · 0 yıldız
+- [wayn1ak/ECE2524_Millionaire](https://github.com/wayn1ak/ECE2524_Millionaire) — This is the github repository for our final project, based on the trivia game "Who Wants to be a Millionaire" — — · 0 yıldız
+- [waynaali/APB-UVM-Memory-Verification](https://github.com/waynaali/APB-UVM-Memory-Verification) — UVM-based verification environment for an APB-connected memory using SystemVerilog and functional coverage. — HTML · 0 yıldız
+- [Wayne-arul/HackingTools](https://github.com/Wayne-arul/HackingTools) — This repo contains a bunch of tools I built used by hackers and pentesters to automate their workflow. — Python · 0 yıldız
+- [wayne-shih/M-NZConstructionFatalities](https://github.com/wayne-shih/M-NZConstructionFatalities) — M/SNZ – New Zealand Construction Fatalities; stats; 2016-2019 — — · 0 yıldız · arşiv
+- [WayneLin552/igraph_in_R](https://github.com/WayneLin552/igraph_in_R) — A very brief introduction about a R package called igraph, which is a complex network analysis tool in R. It will contain… — HTML · 0 yıldız
+- [WayneMorganUK/discord_auth](https://github.com/WayneMorganUK/discord_auth) — (açıklama yok) — TypeScript · 0 yıldız
+- [WayneW1119/Aster21](https://github.com/WayneW1119/Aster21) — Current source snapshot: Aster Harness, Squad, Relay and optional Web/Images tools. No original Git history or runtime data. — — · 0 yıldız
+- [WaytoogosuOFFICIAL/malintclient](https://github.com/WaytoogosuOFFICIAL/malintclient) — This will be my new public free open source Minecraft client. — — · 0 yıldız
+- [WayZeTV/NQs-Freeroam](https://github.com/WayZeTV/NQs-Freeroam) — NQs Freeroam Server Development Project (FiveM) — — · 0 yıldız
+- [WAZES48/LPHvH](https://github.com/WAZES48/LPHvH) — Public Chain updated config. basically my old skeet config before i was banned. — — · 0 yıldız
+- [Wazeyfnbr/WazeHubKeySystem](https://github.com/Wazeyfnbr/WazeHubKeySystem) — (açıklama yok) — Lua · 0 yıldız
+- [wazidchoudhary/apex-engineer-releases](https://github.com/wazidchoudhary/apex-engineer-releases) — Public binary releases for Apex Engineer desktop app (auto-updater channel). Source code lives in a private repo. — — · 0 yıldız
+- [WazUpzLolz/Primordial-Inc-Terminal](https://github.com/WazUpzLolz/Primordial-Inc-Terminal) — (açıklama yok) — — · 0 yıldız
+- [wbaby/PUBG-SDK-2](https://github.com/wbaby/PUBG-SDK-2) — (açıklama yok) — — · 0 yıldız
+- [wbaby/pubg_sdk](https://github.com/wbaby/pubg_sdk) — (açıklama yok) — C++ · 0 yıldız
+- [wblong/gzip-hpp](https://github.com/wblong/gzip-hpp) — (açıklama yok) — C++ · 0 yıldız
+- [WBorisHub/keysystemphantom](https://github.com/WBorisHub/keysystemphantom) — (açıklama yok) — — · 0 yıldız
+- [wbrinez-ui/Mosquito-virome-databases-Tolima](https://github.com/wbrinez-ui/Mosquito-virome-databases-Tolima) — Mosquito diversity, associated pathogens and blood-meal sources in ecotourism sites of the tropical dry forest of Colombia — — · 0 yıldız
+- [wbusch11/hackathon23](https://github.com/wbusch11/hackathon23) — Hackathon 23 QA Adhoc Tool — — · 0 yıldız
+- [wbwxshao/SampleProjectESP](https://github.com/wbwxshao/SampleProjectESP) — (açıklama yok) — Java · 0 yıldız
+- [wbyuhan/Rust_base](https://github.com/wbyuhan/Rust_base) — rust学习 — Rust · 0 yıldız
+- [wc5789/Roblox-AI-MCP](https://github.com/wc5789/Roblox-AI-MCP) — Access to AI hacker roblox production script — — · 0 yıldız
+- [wCatly/Mir-PluginTemplate](https://github.com/wCatly/Mir-PluginTemplate) — (açıklama yok) — — · 0 yıldız
+- [wcbq/TrainTracker](https://github.com/wcbq/TrainTracker) — ESP32 Project to display train and bus times in a fixed locations using the MTA's apis — Python · 0 yıldız
+- [Wccurate/NTU_EE7401_Cheat_Sheet](https://github.com/Wccurate/NTU_EE7401_Cheat_Sheet) — EE7401 Cheat Sheet (AY2025). Refined for the restricted open-book format with a focus on advanced Random Processes and syllabus… — TeX · 0 yıldız
+- [wchen1990/Omni](https://github.com/wchen1990/Omni) — A load of content for all aspects of vanilla Minecraft. — — · 0 yıldız
+- [wcmc-research-informatics/BmrExtractor](https://github.com/wcmc-research-informatics/BmrExtractor) — Natural language processing system for extracting key measurements from bone marrow reports — HTML · 0 yıldız
+- [wcqrwtqr/My-Old-MPFM-Scripting](https://github.com/wcqrwtqr/My-Old-MPFM-Scripting) — This repo has the old method on who to load MPFM log file and make a final summary report — Python · 0 yıldız
+- [WcsSkwal/HackFortnite](https://github.com/WcsSkwal/HackFortnite) — (açıklama yok) — Python · 0 yıldız
+- [wct097/eft-viewer](https://github.com/wct097/eft-viewer) — Open-source cross-platform viewer for EFT / ANSI-NIST-ITL biometric files — view fingerprint (WSQ), demographic, and transaction… — C# · 0 yıldız
+- [wcv7/Advanced-Roblox-DataBase](https://github.com/wcv7/Advanced-Roblox-DataBase) — (açıklama yok) — Lua · 0 yıldız
+- [WCYu4N/AssemblyExperiment](https://github.com/WCYu4N/AssemblyExperiment) — NEUQ Assemble Experiment — — · 0 yıldız
+- [wdaw554/Mark-Spark](https://github.com/wdaw554/Mark-Spark) — Marketing Cheat Sheets — — · 0 yıldız
+- [wdaw554/MarkSpark](https://github.com/wdaw554/MarkSpark) — Marketin Cheat Sheet — — · 0 yıldız
+- [wday0507/DarkPool-OrderBook-Simulator](https://github.com/wday0507/DarkPool-OrderBook-Simulator) — This project simulates an electronic order book, it handles limit, market, FOK and IOC order types. It supports both visible and… — Python · 0 yıldız
+- [Wdilliamamti/cheat-sheets](https://github.com/Wdilliamamti/cheat-sheets) — This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various… — — · 0 yıldız
+- [wdnmd-hans/gogi-yaw_gamesense](https://github.com/wdnmd-hans/gogi-yaw_gamesense) — Gamesense.pub scripts - former projects — — · 0 yıldız
+- [wdsjjszr/Primordialis-ZH](https://github.com/wdsjjszr/Primordialis-ZH) — Primordialis 的简体中文本地化 Simplified Chinese localization for Primordialis. — C++ · 0 yıldız
+- [wdunlevy/claude-cheatsheet](https://github.com/wdunlevy/claude-cheatsheet) — Claude Code reference cheatsheet — auto-generated versioned PDFs — HTML · 0 yıldız
+- [WDverse/css-cheatsheet](https://github.com/WDverse/css-cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [Weam-Alshehri/lucky-cookie-website](https://github.com/Weam-Alshehri/lucky-cookie-website) — Lucky Cookie — Single-page ordering website for a home-based cookie business. Bilingual (AR/EN), dark mode, WhatsApp ordering,… — HTML · 0 yıldız
+- [WeaponGod243/MinecraftTextAdventure](https://github.com/WeaponGod243/MinecraftTextAdventure) — It's a text-based version of Minecraft — Python · 0 yıldız
+- [wearerio/400-ms-Backtrack-Chams-](https://github.com/wearerio/400-ms-Backtrack-Chams-) — 400ms backtrack chams for fatality — Lua · 0 yıldız
+- [wearrrrr/nestastic](https://github.com/wearrrrr/nestastic) — a very decent nes emulator™ — — · 0 yıldız
+- [WeArtStudioNL/Squad-Smashers](https://github.com/WeArtStudioNL/Squad-Smashers) — Squad Smashers 2d browser based game. — — · 0 yıldız
+- [Weasly-Williams/BigDanMachine](https://github.com/Weasly-Williams/BigDanMachine) — Forged among the fires of NHS stood a god amongst men. Towering over all at a staggering height of 5'8, his glasses eclpised the… — — · 0 yıldız
+- [weaster11/Lisanslama](https://github.com/weaster11/Lisanslama) — (açıklama yok) — PHP · 0 yıldız
+- [WeatherGeek1/QuantOS](https://github.com/WeatherGeek1/QuantOS) — This is a Linux distro, based on Ubuntu, that is based on the fictional QuantOS from the Roblox game Quantum Science Energy… — — · 0 yıldız
+- [weazle89/fatality-randomizer](https://github.com/weazle89/fatality-randomizer) — (açıklama yok) — HTML · 0 yıldız
+- [Web-Dev-Collaborative/WEB_DEV_COLLABORATIVE](https://github.com/Web-Dev-Collaborative/WEB_DEV_COLLABORATIVE) — WEB_DEV_COLLABORATIVE — — · 0 yıldız
+- [Web-Developer-DB/ts-cheatsheet](https://github.com/Web-Developer-DB/ts-cheatsheet) — (açıklama yok) — JavaScript · 0 yıldız
+- [Web-Mobile-Solicode-self-training/Cheat-Sheets](https://github.com/Web-Mobile-Solicode-self-training/Cheat-Sheets) — (açıklama yok) — — · 0 yıldız
+- [Web5design/Cheatrr](https://github.com/Web5design/Cheatrr) — A text interface to WolframAlpha. Third place at hackRU 2011. — PHP · 0 yıldız
+- [Webaccount284/RePocket-Edition](https://github.com/Webaccount284/RePocket-Edition) — The repo for the Source code of Minecraft RePocket Editon. — C# · 0 yıldız
+- [webaduerel/cheat-sheets](https://github.com/webaduerel/cheat-sheets) — This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various… — — · 0 yıldız
+- [webalex127/css_public_server](https://github.com/webalex127/css_public_server) — Counter-Strike Source Server Public — Dockerfile · 0 yıldız
+- [Webapper/halogen](https://github.com/Webapper/halogen) — Webapper HALOGEN based on Nette NEON: loads and dumps HALOGEN files — PHP · 0 yıldız
+- [webb-w/HackBar](https://github.com/webb-w/HackBar) — # How to use # * Press F12 to open hackbar # Feature # * Load, split, execute url from address bar. — — · 0 yıldız
+- [webber181/threejs-fps](https://github.com/webber181/threejs-fps) — SIEGE PROTOCOL — a 5v5 round-based tactical FPS on three.js, built by an AI agent for make.fun's “Make the best three.js tactical… — JavaScript · 0 yıldız
+- [WebbLua/solyanka](https://github.com/WebbLua/solyanka) — Samp RP script for Army LV — — · 0 yıldız
+- [webcheater69/cs2source](https://github.com/webcheater69/cs2source) — assd — — · 0 yıldız
+- [webclinic017/ARMA_based_trading_strategy](https://github.com/webclinic017/ARMA_based_trading_strategy) — (açıklama yok) — — · 0 yıldız
+- [webclinic017/bactraderMysql](https://github.com/webclinic017/bactraderMysql) — load mysql auto backtrader database — — · 0 yıldız
+- [webcreatorLuke/roblox-hacker-detector](https://github.com/webcreatorLuke/roblox-hacker-detector) — (açıklama yok) — HTML · 0 yıldız
+- [webcyou-org/todo-gui](https://github.com/webcyou-org/todo-gui) — ToDo Applications created using various GUI tools. — — · 0 yıldız
+- [WebDev-Rishabh/ShoppyGlobe](https://github.com/WebDev-Rishabh/ShoppyGlobe) — (açıklama yok) — JavaScript · 0 yıldız
+- [webdevs-ke/football-prophet](https://github.com/webdevs-ke/football-prophet) — A software that predicts the results of football games. It provides the output as probabilities for win/loss, draw, over 2.5,… — — · 0 yıldız
+- [webDrag0n/48](https://github.com/webDrag0n/48) — Ludum Dare 48 project — — · 0 yıldız
+- [webdsquared/skeeters](https://github.com/webdsquared/skeeters) — Skeeters Baseball Club Website — CSS · 0 yıldız
+- [webe4ever723-lgtm/skeetv1](https://github.com/webe4ever723-lgtm/skeetv1) — (açıklama yok) — — · 0 yıldız
+- [Weber12321/tools-and-cheatsheet](https://github.com/Weber12321/tools-and-cheatsheet) — (açıklama yok) — Python · 0 yıldız
+- [WeberDeveloper/cs211-project-mw-group14](https://github.com/WeberDeveloper/cs211-project-mw-group14) — This group assignment focuses on two console-based programs: a playable 2048 game and a Luhn checksum algorithm. — C++ · 0 yıldız
+- [weberrebecca7/hvhmb](https://github.com/weberrebecca7/hvhmb) — content — — · 0 yıldız
+- [WebGeexy/kiddion](https://github.com/WebGeexy/kiddion) — (açıklama yok) — — · 0 yıldız
+- [Webhusn/final-year-project-2021](https://github.com/Webhusn/final-year-project-2021) — Final Year Project,,MCQ based Quiz Application that contains a set of created question and its answer given by the user.its… — — · 0 yıldız
+- [webinstructor19/PythonHackingTools](https://github.com/webinstructor19/PythonHackingTools) — (açıklama yok) — JavaScript · 0 yıldız
+- [WebManAI/Enhanced-Clicker](https://github.com/WebManAI/Enhanced-Clicker) — this is a based clicker from minecraft and the roblox of the gen alpha brainrot timesfrom when they were thy youngling of thy… — HTML · 0 yıldız
+- [webmaster1897/user-authenticate-pc](https://github.com/webmaster1897/user-authenticate-pc) — A practice lab for users to add as a differnet panels and work in differnet panels — HTML · 0 yıldız
+- [webmaster1897/UserAuthenticationPending](https://github.com/webmaster1897/UserAuthenticationPending) — ---working--on authentication panels — Blade · 0 yıldız
+- [webmural/hppd](https://github.com/webmural/hppd) — html from your hppd — HTML · 0 yıldız
+- [webphilo/cheat-sheets](https://github.com/webphilo/cheat-sheets) — This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various… — — · 0 yıldız
+- [WebPredict/cheatsheets](https://github.com/WebPredict/cheatsheets) — Helpful references on popular topics — — · 0 yıldız
+- [webregrets/PUBGIntroRemover](https://github.com/webregrets/PUBGIntroRemover) — Used to automatically change name of movie-files in PUBG in order to decrease load times. — PowerShell · 0 yıldız
+- [Webrizen/cheat-sheets](https://github.com/Webrizen/cheat-sheets) — later. — — · 0 yıldız
+- [webrogue-runtime/mesa](https://github.com/webrogue-runtime/mesa) — (açıklama yok) — — · 0 yıldız
+- [websecnl/HWID_Generator](https://github.com/websecnl/HWID_Generator) — Generates a unique String unique to each machine — Python · 0 yıldız
+- [websitemaker94/RobloxModMenu](https://github.com/websitemaker94/RobloxModMenu) — (açıklama yok) — — · 0 yıldız
+- [websitemaker94/RobloxModMenu1](https://github.com/websitemaker94/RobloxModMenu1) — (açıklama yok) — HTML · 0 yıldız
+- [Websites-by-AI/befor-war2armanlawfirm.ir-based-of-adl-pendar-based-of-dadgar-AI-with-insurance-armanlawfirm.ir](https://github.com/Websites-by-AI/befor-war2armanlawfirm.ir-based-of-adl-pendar-based-of-dadgar-AI-with-insurance-armanlawfirm.ir) — (açıklama yok) — TypeScript · 0 yıldız
+- [webstek/tsunami-base](https://github.com/webstek/tsunami-base) — A compact wavefront path tracing renderer — — · 0 yıldız
+- [WebsterSensei/penalty-cheat-sheet](https://github.com/WebsterSensei/penalty-cheat-sheet) — Interactive penalty-read toy based on the viral goalkeeper water-bottle cheat sheet — HTML · 0 yıldız
+- [webstorage119/FIDO-Standalone](https://github.com/webstorage119/FIDO-Standalone) — Secure authentication system using biometric authentication protocol FIDO (Fast Identity Online) and key management module SE… — — · 0 yıldız
+- [webtech05/chit3](https://github.com/webtech05/chit3) — 3. Build the Image classification model (Use MNIST Dataset) by dividing the model into following 4 stages: a. Loading and… — Jupyter Notebook · 0 yıldız
+- [webtech05/chit4](https://github.com/webtech05/chit4) — 4. Build the Image classification model (Use ECG Dataset) by dividing the model into following 4 stages: a. Loading and… — Jupyter Notebook · 0 yıldız
+- [webx37926/https-halo-social-community-protocol--webx379.replit.app-](https://github.com/webx37926/https-halo-social-community-protocol--webx379.replit.app-) — sdk docs — — · 0 yıldız
+- [WECK-web/git-github-cheatsheet](https://github.com/WECK-web/git-github-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [wedadata/minecraft_modify_tl](https://github.com/wedadata/minecraft_modify_tl) — Open Source Of Minecraft which can be modifed. Here used Tlauncher! — Batchfile · 0 yıldız
+- [wedanaadi/hpp](https://github.com/wedanaadi/hpp) — sistem perhitungan HPP — HTML · 0 yıldız
+- [wedfrgt/Akebi-GC-Backup](https://github.com/wedfrgt/Akebi-GC-Backup) — This is a backup for Akebi(genshin 3.0)(Before DMCA) — — · 0 yıldız
+- [wedo06/Sample_Menu](https://github.com/wedo06/Sample_Menu) — (açıklama yok) — JavaScript · 0 yıldız
+- [WedyanAlhazmi/KeyLessEnterySystem](https://github.com/WedyanAlhazmi/KeyLessEnterySystem) — (açıklama yok) — — · 0 yıldız
+- [weedindeed/ClientLessBot](https://github.com/weedindeed/ClientLessBot) — Endless online client-less bot. — — · 0 yıldız
+- [weekend27/RedisHacker](https://github.com/weekend27/RedisHacker) — Some Useful tools based on Redis. — — · 0 yıldız
+- [WeeklyClock/WarHook](https://github.com/WeeklyClock/WarHook) — Some DLC for certain Thunder War game — — · 0 yıldız
+- [weemkvm/iddshm-B7](https://github.com/weemkvm/iddshm-B7) — IDDShm: Looking Glass fork with rebranded Indirect Display Driver (work in progress) — — · 0 yıldız
+- [WeeScottishMan/Sparkalite-Minecraft-Mod](https://github.com/WeeScottishMan/Sparkalite-Minecraft-Mod) — My first minecraft mod based on a new set of gear in the END — Java · 0 yıldız
+- [weeweepoop/My-stellarium-mod-on-minecraft-1.7.10-crashes-during-loading-HELP-](https://github.com/weeweepoop/My-stellarium-mod-on-minecraft-1.7.10-crashes-during-loading-HELP-) — Ok please help when I add the stellarium mod to my minecraft, during loading, I always get an error that says "Description: There… — — · 0 yıldız
+- [weeweepoop/My-stellarium-mod-on-minecraft-1.7.10-crashes-during-loading-PLEASE-REPLY-](https://github.com/weeweepoop/My-stellarium-mod-on-minecraft-1.7.10-crashes-during-loading-PLEASE-REPLY-) — Ok please help when I add the stellarium mod to my minecraft, during loading, I always get an error that says — — · 0 yıldız
+- [weezy12317/OpenGG](https://github.com/weezy12317/OpenGG) — Open source linux drver for Apex Pro — Python · 0 yıldız
+- [weffjebster/balance-and-ruin](https://github.com/weffjebster/balance-and-ruin) — Web-based seed generator for the Worlds Collide Final Fantasy 6 randomizer. — JavaScript · 0 yıldız
+- [wefllagnn-cell/Bash-Cheat-Sheet-InteractiveConsoleProgram](https://github.com/wefllagnn-cell/Bash-Cheat-Sheet-InteractiveConsoleProgram) — A cheat sheet for bash commands, also build a website in the end! — — · 0 yıldız
+- [wehard/particle-system](https://github.com/wehard/particle-system) — (açıklama yok) — — · 0 yıldız
+- [weharris/templates-cheatsheets](https://github.com/weharris/templates-cheatsheets) — A collection of tempaltes and cheatsheets for applied scientists — JavaScript · 0 yıldız
+- [Wehavecookies56/Bubblegum-Mod](https://github.com/Wehavecookies56/Bubblegum-Mod) — Source code for my W.I.P Mod for Minecraft the Bubblegum Mod! — Java · 0 yıldız
+- [Wei5hang/dashactyl-cloud-data](https://github.com/Wei5hang/dashactyl-cloud-data) — (açıklama yok) — — · 0 yıldız
+- [weiailqh/neverlose-nw](https://github.com/weiailqh/neverlose-nw) — new — — · 0 yıldız
+- [WeiduKe/SAMP-XZ_Gamemods-Source](https://github.com/WeiduKe/SAMP-XZ_Gamemods-Source) — Personal development server, the gameplay is based on Chinese culture. — — · 0 yıldız
+- [weigert/MicroClimate](https://github.com/weigert/MicroClimate) — Tiny Climate Simulation — — · 0 yıldız
+- [weijithw2022/QuakeGen](https://github.com/weijithw2022/QuakeGen) — Generative AI-based Earthquake detection using semi-supervised anomaly detection — Python · 0 yıldız
+- [weikengchen/CS161-CheatSheet](https://github.com/weikengchen/CS161-CheatSheet) — (açıklama yok) — TeX · 0 yıldız
+- [weilkenqiu/MAA-roblox](https://github.com/weilkenqiu/MAA-roblox) — Based on git for study — Python · 0 yıldız
+- [weimode/hackathon-consult-tools](https://github.com/weimode/hackathon-consult-tools) — a simple page. — — · 0 yıldız
+- [weineran/web_ad_measurements](https://github.com/weineran/web_ad_measurements) — Code for automating sequential page loads in chrome and recording network measurements — Python · 0 yıldız
+- [Weinersteintwentea/Security-Keylogger](https://github.com/Weinersteintwentea/Security-Keylogger) — This is a keylogger which would send all the details of user's system which includes system information, screenshot of current… — Python · 0 yıldız
+- [weingold/Config_CS2](https://github.com/weingold/Config_CS2) — Config für Counter-Strike 2 — — · 0 yıldız
+- [WeiPhil/neural_lod](https://github.com/WeiPhil/neural_lod) — Source Code for "Neural Prefiltering for Correlation-Aware Levels of Detail" (SIGGRAPH 2023) — — · 0 yıldız
+- [weiran-zhao/hpp](https://github.com/weiran-zhao/hpp) — Heterogenous Parallel Programming from coursera — C++ · 0 yıldız
+- [WeirdJack/APEX-Pipeline-Simulator](https://github.com/WeirdJack/APEX-Pipeline-Simulator) — 7 Stage APEX Pipeline based on instructions flow in a Computer Architecture — C · 0 yıldız
+- [weitweety/data-tools-cheatsheet](https://github.com/weitweety/data-tools-cheatsheet) — A demo project to summarize common functions for pandas, pyspark, and numpy. — Python · 0 yıldız
+- [weizhegoh/Digipen-2019-2023](https://github.com/weizhegoh/Digipen-2019-2023) — (açıklama yok) — — · 0 yıldız
+- [welborn-k/Confirmed-Cases-Case-Fatality-Rate-CFR-by-Country-and-Epicentre-Open-Source-Data-1976-2026](https://github.com/welborn-k/Confirmed-Cases-Case-Fatality-Rate-CFR-by-Country-and-Epicentre-Open-Source-Data-1976-2026) — (açıklama yok) — JavaScript · 0 yıldız
+- [Welcome123457/Crop-Recommendation-System](https://github.com/Welcome123457/Crop-Recommendation-System) — The Crop Recommendation System uses a Random Forest model to predict the best crop based on soil nutrients (N, P, K), rainfall,… — Jupyter Notebook · 0 yıldız
+- [welcometrends/Armarios-y-divisiones-de-espacio](https://github.com/welcometrends/Armarios-y-divisiones-de-espacio) — Armarios y divisiones de espacio — — · 0 yıldız
+- [welderessutti/webscraping_brasileirao_scores](https://github.com/welderessutti/webscraping_brasileirao_scores) — Webscraping of the UOL website to obtain Brasileirão scores and load them into a MySQL database. — Python · 0 yıldız
+- [weliff/html5-css-js](https://github.com/weliff/html5-css-js) — Sources course HTML5-CSS-JS — HTML · 0 yıldız
+- [WeLikeAich/DeadLockDetection](https://github.com/WeLikeAich/DeadLockDetection) — Tree based deadlock detection program — Java · 0 yıldız
+- [Well-0/Test-Sheet](https://github.com/Well-0/Test-Sheet) — Test Cheat sheet for C++ Programming Bootcamp — — · 0 yıldız
+- [wellarj/hpp-landingpages](https://github.com/wellarj/hpp-landingpages) — Landing pages para HPP — PHP · 0 yıldız
+- [WellingtonCF/Sistema-Open-Source-para-Coleta-e-Armazenamento-de-Dados--Meteorol-gicos](https://github.com/WellingtonCF/Sistema-Open-Source-para-Coleta-e-Armazenamento-de-Dados--Meteorol-gicos) — Dada a importância da medida temperatura e umidade em sistema meteorológicos, construiu-se um sistema microcontrolado de baixo… — — · 0 yıldız
+- [wellingtonchunsf/sampleloader](https://github.com/wellingtonchunsf/sampleloader) — SampleLoader is an Ripdraw applicationt that loades images onto the Ridpraw display based on a table — C · 0 yıldız
+- [wellsjohn367/hvhubr](https://github.com/wellsjohn367/hvhubr) — (açıklama yok) — — · 0 yıldız
+- [WellsNdobe/alx-system_engineering-devops](https://github.com/WellsNdobe/alx-system_engineering-devops) — contains a collection of shell scripts focused on automating tasks and enhancing system engineering workflows. These scripts are… — Shell · 0 yıldız
+- [Welthungerhilfe/cgm-scanner](https://github.com/Welthungerhilfe/cgm-scanner) — Child Growth Monitor Scanner App — — · 0 yıldız
+- [weltvolk/AnimGraphMigration](https://github.com/weltvolk/AnimGraphMigration) — General DayZ 1.30 AnimGraph migration with a Windows desktop app, English/German/Czech interface, and source-preserving… — JavaScript · 0 yıldız
+- [Wemino/MarkerPatch](https://github.com/Wemino/MarkerPatch) — A patch that fixes various issues and limitations in the PC port of Dead Space 2 — — · 0 yıldız
+- [wendaochangsheng/Android_imGUI](https://github.com/wendaochangsheng/Android_imGUI) — 借用大佬 https://github.com/SsageParuders/Android_Native_Surface 创建的项目 — — · 0 yıldız
+- [wendsman1/carmack-vibe-coding](https://github.com/wendsman1/carmack-vibe-coding) — Train your squad to code like John Carmack, creator of DOOM: clean, lightweight, and portable code that runs on anything.… — — · 0 yıldız
+- [wendymonl/Consulting-Project-Decorative-Lighting-Industry](https://github.com/wendymonl/Consulting-Project-Decorative-Lighting-Industry) — This is a notebook of a Market Analytics project I did for class credit. The client was wakaNINE, a decorative lighting company… — — · 0 yıldız
+- [wendyrliang/simple_key_value_store](https://github.com/wendyrliang/simple_key_value_store) — Fault tolerant key-value store system — Python · 0 yıldız
+- [WendySpark/robot-war-simulator](https://github.com/WendySpark/robot-war-simulator) — Turn-based Robot War battlefield simulator in standard C++, with hand-rolled containers, multiple inheritance, and a runtime… — C++ · 0 yıldız
+- [weneedsomecheese/keysystemcomzraidboss](https://github.com/weneedsomecheese/keysystemcomzraidboss) — (açıklama yok) — Lua · 0 yıldız
+- [weneedsomecheese/keysystemcomzraidboss2nd](https://github.com/weneedsomecheese/keysystemcomzraidboss2nd) — (açıklama yok) — Lua · 0 yıldız
+- [WENGENG-boop/fx991cnx-web](https://github.com/WENGENG-boop/fx991cnx-web) — fx-991CN X calculator running its original firmware in the browser (nX-U8 emulator compiled to WebAssembly). ROM not included. — — · 0 yıldız
+- [wengpanfeng123/UnityWheel](https://github.com/wengpanfeng123/UnityWheel) — 干净的Unity脚手架。Addressable+Hybrid+Luban+协议工具 — — · 0 yıldız
+- [wengsconch/fssp-ring-partial-solutions](https://github.com/wengsconch/fssp-ring-partial-solutions) — Source code for Partial Solutions for the Firing Squad Synchronization Problem on Rings — Python · 0 yıldız
+- [WennyTarisaOktaviany/ShoppyApp](https://github.com/WennyTarisaOktaviany/ShoppyApp) — (açıklama yok) — Java · 0 yıldız
+- [wenqiangye/OpenGLRender](https://github.com/wenqiangye/OpenGLRender) — (açıklama yok) — — · 0 yıldız
+- [WenXin20/natureplus](https://github.com/WenXin20/natureplus) — A Minecraft mod based around nature. — Java · 0 yıldız
+- [Wenyi0829/AI-Generated-Image-Detection](https://github.com/Wenyi0829/AI-Generated-Image-Detection) — This project implements multiple AI-generated image detection models, including Vision Transformer (ViT), ResNet50, SPAI, and a… — Jupyter Notebook · 0 yıldız
+- [wep13/Classification](https://github.com/wep13/Classification) — A classification project to predict the class of a wine based on its chemical properties, using the classic Wine dataset from… — Jupyter Notebook · 0 yıldız
+- [wepaBuilds/Marvel-Rivals-Hero-Picker](https://github.com/wepaBuilds/Marvel-Rivals-Hero-Picker) — An app that acknowledges strengths and weaknesses of each character, and provides statistical advice based off what characters… — JavaScript · 0 yıldız
+- [wer4er/skeet](https://github.com/wer4er/skeet) — (açıklama yok) — — · 0 yıldız
+- [wergio/PZModInspector](https://github.com/wergio/PZModInspector) — Windows tool that inspects Project Zomboid mods without launching the game: detecting problems about load order, dependencies,… — C# · 0 yıldız
+- [Werkkainen/SAMPO-DFI](https://github.com/Werkkainen/SAMPO-DFI) — Scripts for the different parts of the automated single-grid x-ray dark-field pipeline used in "Performance and feasibility of… — Python · 0 yıldız
+- [wernerpaulin/ESP32_usb_read_sample](https://github.com/wernerpaulin/ESP32_usb_read_sample) — Read a string from USB — C++ · 0 yıldız
+- [Werneth57/Skeeter](https://github.com/Werneth57/Skeeter) — (açıklama yok) — — · 0 yıldız
+- [Werneth57/Skeeter57](https://github.com/Werneth57/Skeeter57) — (açıklama yok) — — · 0 yıldız
+- [weronika-debicka/cheat-sheets](https://github.com/weronika-debicka/cheat-sheets) — A curated list of programming basic commands and tools — — · 0 yıldız
+- [Weroxin/Roblox-Dossier-Bot](https://github.com/Weroxin/Roblox-Dossier-Bot) — A high-performance Discord audit bot designed for deep forensic investigations of Roblox profiles, economy tracking, and alt… — Python · 0 yıldız
+- [werserk/hse-ami-cheatsheets](https://github.com/werserk/hse-ami-cheatsheets) — Cheatsheets for HSE AMI students LaTeX & PDF — TeX · 0 yıldız
+- [wertiko1/AiogramRouterLoader](https://github.com/wertiko1/AiogramRouterLoader) — Мое решение по загрузке роутеров c библиотекой Aiogram — Python · 0 yıldız
+- [werty0982/tt47hvh97t8tg8y](https://github.com/werty0982/tt47hvh97t8tg8y) — (açıklama yok) — — · 0 yıldız
+- [werty23git/fatality](https://github.com/werty23git/fatality) — ft — — · 0 yıldız
+- [werty23git/neverlose](https://github.com/werty23git/neverlose) — nl — — · 0 yıldız
+- [wesamhaboush/command-cheatsheet](https://github.com/wesamhaboush/command-cheatsheet) — Linux and other command line tools cheat sheet — — · 0 yıldız
+- [wesbeard/CSI-280](https://github.com/wesbeard/CSI-280) — Projects for CSI-280: Open Source Software Dev — Vue · 0 yıldız
+- [WesBosch/PartyListHPPercent](https://github.com/WesBosch/PartyListHPPercent) — (açıklama yok) — C# · 0 yıldız
+- [wesgoof/EIOP-The-Second](https://github.com/wesgoof/EIOP-The-Second) — NOT THE OFFICIAL EIOP! EIOP IS MADE BY HanSolo1000Falcon. — — · 0 yıldız
+- [weshowe/CSI5137-Automated_SATD_Detection](https://github.com/weshowe/CSI5137-Automated_SATD_Detection) — Final project for CSI 5137. Comparative study on the use of ML to detect SATD in source code comments, with a focus on PTMs — Jupyter Notebook · 0 yıldız
+- [Weskarr/Low-Level_ComputerScience](https://github.com/Weskarr/Low-Level_ComputerScience) — (açıklama yok) — — · 0 yıldız
+- [weskidding/Crisis](https://github.com/weskidding/Crisis) — chat bypasser 4 roblox — Lua · 0 yıldız
+- [wesleya/cheat-sheets](https://github.com/wesleya/cheat-sheets) — cheat sheets for various command line tools — — · 0 yıldız
+- [WesleyLuk90/ffxiv-vr](https://github.com/WesleyLuk90/ffxiv-vr) — (açıklama yok) — — · 0 yıldız
+- [wesleymsmith2000/PrimordialCipher](https://github.com/wesleymsmith2000/PrimordialCipher) — (açıklama yok) — TypeScript · 0 yıldız
+- [WeslleySantosln/basefivem_lua](https://github.com/WeslleySantosln/basefivem_lua) — Bases, scripts, config e database de uma cidade do jogo gta 5 fivem — — · 0 yıldız
+- [wesselnagt/PLF-cheatsheet](https://github.com/wesselnagt/PLF-cheatsheet) — PLF-cheatsheet — HTML · 0 yıldız
+- [wessonlink887/roblox-hacker-scanner](https://github.com/wessonlink887/roblox-hacker-scanner) — (açıklama yok) — HTML · 0 yıldız
+- [wessyy/The-Weight-Watcher](https://github.com/wessyy/The-Weight-Watcher) — Arduino Code for double load cell weight measurement sent to web server — Arduino · 0 yıldız
+- [West-000/Anitcheat](https://github.com/West-000/Anitcheat) — HYVÄ ac tunnistaa kaikki eulen menut yms — — · 0 yıldız
+- [west3436/doctrine-server](https://github.com/west3436/doctrine-server) — Self-hosted dedicated server + optional Discord bot for Doctrine: Squad-Based Tactics — Python · 0 yıldız
+- [Westboy229/Westboy229](https://github.com/Westboy229/Westboy229) — esx_vehicleshop takes care of citybug when going into the menu — — · 0 yıldız
+- [Westcon-Comstor/abap-cheat-sheets](https://github.com/Westcon-Comstor/abap-cheat-sheets) — (açıklama yok) — ABAP · 0 yıldız
+- [Westenradev/Tansu](https://github.com/Westenradev/Tansu) — Tansu is a small, free, open-source native app for Haiku OS — a floating shelf window where you temporarily park files, text… — C++ · 0 yıldız
+- [Western-EcoSystems-Technology-Inc/eoa](https://github.com/Western-EcoSystems-Technology-Inc/eoa) — R package for estimating bird and bat fatalities at wind farms and for designing search protocols. Dalthorp, Daniel, Huso,… — R · 0 yıldız
+- [Western-Tech-Web-and-Software/markdown-cheatsheet](https://github.com/Western-Tech-Web-and-Software/markdown-cheatsheet) — The only Markdown Cheatsheet you will ever need to raise your docs to the next level. — — · 0 yıldız
+- [westernbear/celerant](https://github.com/westernbear/celerant) — Load local VRM 0.x/1.0 models in Minecraft 26.2 Fabric with MCglTF, and optionally composite VRM ToonShader materials on top of… — Java · 0 yıldız
+- [WesternSpace/RDR2FileBasedModLoader](https://github.com/WesternSpace/RDR2FileBasedModLoader) — (açıklama yok) — C++ · 0 yıldız · arşiv
+- [WesternSpace/RDR2ModelSwitcher](https://github.com/WesternSpace/RDR2ModelSwitcher) — Script that allows you to load as a custom character. — C++ · 0 yıldız · arşiv
+- [WesternSpace/RDR2ThemedMenus](https://github.com/WesternSpace/RDR2ThemedMenus) — (açıklama yok) — C# · 0 yıldız
+- [westernspion/minecraft_hacks_getting_started](https://github.com/westernspion/minecraft_hacks_getting_started) — (açıklama yok) — Java · 0 yıldız
+- [Westrmon/SimpleMesssage](https://github.com/Westrmon/SimpleMesssage) — 一个可拓展的，易用的，低占用的通知程序 — — · 0 yıldız
+- [westwww12/gamesense](https://github.com/westwww12/gamesense) — (açıklama yok) — — · 0 yıldız
+- [westwww12/neverlose](https://github.com/westwww12/neverlose) — (açıklama yok) — — · 0 yıldız
+- [westwww12/neverlosecrack](https://github.com/westwww12/neverlosecrack) — (açıklama yok) — — · 0 yıldız
+- [westwww12/neverloseloader](https://github.com/westwww12/neverloseloader) — (açıklama yok) — — · 0 yıldız
+- [wetstreet/Theircraft-java](https://github.com/wetstreet/Theircraft-java) — A simple VR Minecraft clone using Google VR SDK — Java · 0 yıldız · arşiv
+- [wevieee/pcileech](https://github.com/wevieee/pcileech) — (açıklama yok) — C · 0 yıldız
+- [Wewlinton/Dashactyl-Installer](https://github.com/Wewlinton/Dashactyl-Installer) — (açıklama yok) — Shell · 0 yıldız
+- [wewovi20/shoppy_back](https://github.com/wewovi20/shoppy_back) — (açıklama yok) — JavaScript · 0 yıldız
+- [Wewst/hvhjb](https://github.com/Wewst/hvhjb) — (açıklama yok) — — · 0 yıldız
+- [Wewst/hvhjh](https://github.com/Wewst/hvhjh) — (açıklama yok) — HTML · 0 yıldız
+- [wExaa9/OneTAP](https://github.com/wExaa9/OneTAP) — (açıklama yok) — — · 0 yıldız
+- [weyoung-open-lab/cs2-dream-match](https://github.com/weyoung-open-lab/cs2-dream-match) — CS2 梦幻对决模拟器：从职业比赛录像学习选手习惯，模拟任意（跨年份）阵容对局并生成 2D 小地图对战短视频 Cross-era Counter-Strike 2 match simulator with Transformers and… — Python · 0 yıldız
+- [wezzat/Data-Therapist-Detect-and-Fix-](https://github.com/wezzat/Data-Therapist-Detect-and-Fix-) — Is a set of open source tools and programs that can run on any platform to detect the corruption in data online and fix most of… — — · 0 yıldız
+- [wfm5/Quake4-Mod](https://github.com/wfm5/Quake4-Mod) — This is the source code. — C++ · 0 yıldız
+- [wforstakenRealGod/i-love-confused-girls](https://github.com/wforstakenRealGod/i-love-confused-girls) — (açıklama yok) — — · 0 yıldız
+- [wfpidn/FDRS](https://github.com/wfpidn/FDRS) — ArcGIS Toolbox for Fire Danger Rating System based on the Canadian Forest Fire Weather Index System — Python · 0 yıldız
+- [wfryer/interactive-ballot-union-nc-2026](https://github.com/wfryer/interactive-ballot-union-nc-2026) — Nonpartisan interactive sample ballot for Union County, NC (Nov 3, 2026). Candidates link to their campaign sites, with labeled… — HTML · 0 yıldız
+- [wggRobotic/guiniverse](https://github.com/wggRobotic/guiniverse) — (açıklama yok) — — · 0 yıldız
+- [wgiljr/imgurSample](https://github.com/wgiljr/imgurSample) — Loading images from imgur — Swift · 0 yıldız
+- [wgr523/proj3](https://github.com/wgr523/proj3) — simple multithreaded key value system — Python · 0 yıldız
+- [Wh014M/Fake_Api](https://github.com/Wh014M/Fake_Api) — Gm Smart Hacker Private Tool — — · 0 yıldız
+- [wh1t3lord/computer-graphics](https://github.com/wh1t3lord/computer-graphics) — My AI & Differentiable rendering practices. — — · 0 yıldız
+- [wh1tea/css-cheat-sheet](https://github.com/wh1tea/css-cheat-sheet) — (açıklama yok) — CSS · 0 yıldız
+- [WhackDevelopment/BukkitREST](https://github.com/WhackDevelopment/BukkitREST) — Extend your Bukkit based Minecraft servers by a RESTful Api to add controls with HTTP requests — — · 0 yıldız
+- [WhaddaMakers/Whaddy-Nightlight](https://github.com/WhaddaMakers/Whaddy-Nightlight) — This Arduino-based nightlight is a DIY project that includes 3D printing, soldering, and programming. An all-round project that… — C++ · 0 yıldız
+- [whalescripts/whale1.0](https://github.com/whalescripts/whale1.0) — My first Roblox script; the name is currently in Russian, but I'll fix that later. It runs on injectors like Synapse Z and Delta. — — · 0 yıldız
+- [whalewireceo/phantomship](https://github.com/whalewireceo/phantomship) — Maritime anomaly detection console. Catches AIS spoofing, MMSI hijacking, dark activity, and behavioral outliers. — Python · 0 yıldız
+- [What-a-stupid-username/MRPNN](https://github.com/What-a-stupid-username/MRPNN) — A Neural Volumetric Renderer — — · 0 yıldız
+- [What-a-stupid-username/VRender](https://github.com/What-a-stupid-username/VRender) — A RTX renderer — — · 0 yıldız
+- [WhatAVibe/BadKB-Script-Generator](https://github.com/WhatAVibe/BadKB-Script-Generator) — Application to easily generate BadKB scripts — — · 0 yıldız
+- [whatcheers/Claude-Plays-ProjectZomboid](https://github.com/whatcheers/Claude-Plays-ProjectZomboid) — Project Zomboid B42 mod that turns singleplayer into a turn-based game an AI agent (like Claude Code) can play from a terminal — Lua · 0 yıldız
+- [whatever2014/sample_restaurant_menu](https://github.com/whatever2014/sample_restaurant_menu) — (açıklama yok) — Java · 0 yıldız
+- [whatfontisthis/mark-down-cheat-sheet](https://github.com/whatfontisthis/mark-down-cheat-sheet) — (açıklama yok) — — · 0 yıldız
+- [whatislua/RobloxAutoAnimSpooferOpenSource](https://github.com/whatislua/RobloxAutoAnimSpooferOpenSource) — RobloxAutoAnimSpooferOpenSource — — · 0 yıldız
+- [whatisor/rtsp-url-formats](https://github.com/whatisor/rtsp-url-formats) — Searchable cheat sheet of RTSP stream URL formats for IP cameras, NVRs and DVRs by vendor (Hikvision, Dahua, Xiongmai, Uniview,… — — · 0 yıldız
+- [Whawkins66/ApexDesignPatternsCode](https://github.com/Whawkins66/ApexDesignPatternsCode) — This is the source code from Apex Design Patterns book — Apex · 0 yıldız
+- [wheat32/bbpc](https://github.com/wheat32/bbpc) — Bloodborne for PC — — · 0 yıldız
+- [WheatearWkier/Wheatear](https://github.com/WheatearWkier/Wheatear) — (açıklama yok) — — · 0 yıldız
+- [wheel-m/AndroidSample-MenulistSet](https://github.com/wheel-m/AndroidSample-MenulistSet) — (açıklama yok) — Java · 0 yıldız
+- [wheelerlaw/CSCI-331](https://github.com/wheelerlaw/CSCI-331) — Source code for homework and projects for CSCI-331 (Intro to Intelligent Systems) — Java · 0 yıldız
+- [whelena/CM226-kaggle](https://github.com/whelena/CM226-kaggle) — Repository for CM226 Final project based on the 2017 Kaggle competition on Precision Medicine — R · 0 yıldız
+- [whenommmm/nn-notes](https://github.com/whenommmm/nn-notes) — Zero-background study guide for a Neural Networks & Computer Vision (ML III) exam — 7 topics + MCQs, matching, code, descriptive… — HTML · 0 yıldız
+- [whenthiswinter/overwatch-map-affinity](https://github.com/whenthiswinter/overwatch-map-affinity) — A simple research to see the map-based performance of each Overwatch hero — Python · 0 yıldız
+- [whg333/netty-in-action](https://github.com/whg333/netty-in-action) — source code use netty-4.1.12.Final for the book 《Netty in Action》 — Java · 0 yıldız
+- [Whhywolf/ShoppyAdmin](https://github.com/Whhywolf/ShoppyAdmin) — (açıklama yok) — HTML · 0 yıldız
+- [whi-tw/cheatsheets](https://github.com/whi-tw/cheatsheets) — (açıklama yok) — — · 0 yıldız
+- [whicher/owmatch](https://github.com/whicher/owmatch) — Overwatch MMR matcher based on your preferences for competitive play — — · 0 yıldız
+- [whipped-cream/PZ-Item-Notebook](https://github.com/whipped-cream/PZ-Item-Notebook) — A Project Zomboid mod that introduces an Item Notebook item, in which you can track the locations of items instead of… — Lua · 0 yıldız
+- [WhipShip/DSA_Project](https://github.com/WhipShip/DSA_Project) — (açıklama yok) — — · 0 yıldız
+- [WhirlwindBrowser/WhirlwindBrowser.github.io](https://github.com/WhirlwindBrowser/WhirlwindBrowser.github.io) — Gmod Loading Screen — HTML · 0 yıldız
+- [whiskers75/landofbitcoin-bot](https://github.com/whiskers75/landofbitcoin-bot) — A bot to auto-farm landofbitcoin.com — JavaScript · 0 yıldız
+- [whiskeykilo/hackerone2threadfix](https://github.com/whiskeykilo/hackerone2threadfix) — A quick tool for performing an export of your HackerOne program reports to ThreadFix — Python · 0 yıldız · arşiv
+- [WhisKeyTreez/linux-cheatsheet](https://github.com/WhisKeyTreez/linux-cheatsheet) — Comandos basicos de linux (Consola) — HTML · 0 yıldız
+- [whiskeyZZ/cheatsheets](https://github.com/whiskeyZZ/cheatsheets) — A collection of cheat sheets. Just open the HTML — HTML · 0 yıldız
+- [WHITE555Gamer/Minecraft-Spigot-TPAMS](https://github.com/WHITE555Gamer/Minecraft-Spigot-TPAMS) — Open Sourced TPAMS. — Java · 0 yıldız
+- [WhiteFl4mez/SkeetFramework](https://github.com/WhiteFl4mez/SkeetFramework) — (açıklama yok) — — · 0 yıldız
+- [WhiteFl4mez/skeetroblox](https://github.com/WhiteFl4mez/skeetroblox) — (açıklama yok) — Lua · 0 yıldız
+- [whitegunrose/VIM-Motions-Cheat-Sheet](https://github.com/whitegunrose/VIM-Motions-Cheat-Sheet) — (açıklama yok) — — · 0 yıldız
+- [whitehack22/gitignore_cheatsheet](https://github.com/whitehack22/gitignore_cheatsheet) — This is a cheat sheet for .gitignore — — · 0 yıldız
+- [whitehatcult/Roblox-Version-Bot](https://github.com/whitehatcult/Roblox-Version-Bot) — Source for my roblox version updater bot — Python · 0 yıldız
+- [whitekun91/NLP_Samples](https://github.com/whitekun91/NLP_Samples) — This repository is based on https://github.com/NLP-kr/tensorflow-ml-nlp-tf2 — Jupyter Notebook · 0 yıldız
+- [whiteLoveBlue/OriginUniverse](https://github.com/whiteLoveBlue/OriginUniverse) — This is an open source entry project and shared resource for roblox developers. — — · 0 yıldız
+- [WhitePegasis/NLP-Cheatsheet](https://github.com/WhitePegasis/NLP-Cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [WhiteQueenDesolution/-Neverlose-Atlantida](https://github.com/WhiteQueenDesolution/-Neverlose-Atlantida) — [Neverlose] Atlantida — — · 0 yıldız
+- [WhiteSmileingMan/auto-lan](https://github.com/WhiteSmileingMan/auto-lan) — Automatically Opens To Lan Upon Loading A Minecraft World — Java · 0 yıldız
+- [whiteturtle0923/MacroLibrary](https://github.com/whiteturtle0923/MacroLibrary) — Terraria mod which adds a system to record, play, save, and load macros. — C# · 0 yıldız
+- [whitexmodz/aaa](https://github.com/whitexmodz/aaa) — (açıklama yok) — — · 0 yıldız
+- [whitexmodz/jninew](https://github.com/whitexmodz/jninew) — (açıklama yok) — — · 0 yıldız
+- [WhitneyH1317/florida_carn](https://github.com/WhitneyH1317/florida_carn) — Analyzing camera trap data from South Florida (sourced from Heather Abernathy and Michael Cherry) to study how carnivores manage… — R · 0 yıldız
+- [whittikay/acz-limine](https://github.com/whittikay/acz-limine) — Original Ace Combat Zero PS2 menu artwork recovery and reproducible 4K Limine wallpapers — Python · 0 yıldız
+- [whjsurbhi/hvhj](https://github.com/whjsurbhi/hvhj) — gxfgx — JavaScript · 0 yıldız
+- [whoami-chmod777/Blue-Team-Cheat-Sheets](https://github.com/whoami-chmod777/Blue-Team-Cheat-Sheets) — (açıklama yok) — — · 0 yıldız
+- [whoami-chmod777/Cheatsheets](https://github.com/whoami-chmod777/Cheatsheets) — (açıklama yok) — — · 0 yıldız
+- [whoami-chmod777/IR-CheatSheet](https://github.com/whoami-chmod777/IR-CheatSheet) — (açıklama yok) — — · 0 yıldız
+- [whoami-chmod777/Windows-Registry-Analysis-Cheat-Sheet](https://github.com/whoami-chmod777/Windows-Registry-Analysis-Cheat-Sheet) — (açıklama yok) — — · 0 yıldız
+- [whoami-pantheon/Kaiser-Cheatsheets](https://github.com/whoami-pantheon/Kaiser-Cheatsheets) — Cheatsheets I compiled for my use when pentesting & fixing issues in Linux — — · 0 yıldız
+- [whoami-pantheon/N8N-Self-Hosting-Cheatsheet](https://github.com/whoami-pantheon/N8N-Self-Hosting-Cheatsheet) — A cheatsheet I created to reference the steps in self-hosting N8N using Docker in Ubuntu — — · 0 yıldız
+- [WHOIGit/ifcb_rustalert](https://github.com/WHOIGit/ifcb_rustalert) — Trigger Pumps and alerts based on ifcb data — Python · 0 yıldız
+- [WhoIsJack/VolocityHacks](https://github.com/WhoIsJack/VolocityHacks) — A collection of tiny tools that make the use of PE's Volocity easier. — Python · 0 yıldız
+- [whoisleoo/gta-sa-cheat-sheet-cheat](https://github.com/whoisleoo/gta-sa-cheat-sheet-cheat) — GTA-SA-CHEAT-SHEET-CHEAT IS A PROJECT TO MY FRIEND DIONATHAN, THAT TOLD US TO MAKE A FUNCTIONAL WEBSITE IN PURE HTML AND CSS. AND… — HTML · 0 yıldız
+- [WhoisMonesh/k8s-cheatsheet-app](https://github.com/WhoisMonesh/k8s-cheatsheet-app) — (açıklama yok) — TypeScript · 0 yıldız
+- [whoisredux/gamesense.ltd-source](https://github.com/whoisredux/gamesense.ltd-source) — (açıklama yok) — — · 0 yıldız
+- [whoisthereee/SocialMediaHackingToolkitt](https://github.com/whoisthereee/SocialMediaHackingToolkitt) — (açıklama yok) — Python · 0 yıldız
+- [whoJake/FluidSim](https://github.com/whoJake/FluidSim) — (açıklama yok) — — · 0 yıldız
+- [wholemilkthyroprotein2212/the-isle-cheat-menu-survival-toolkit](https://github.com/wholemilkthyroprotein2212/the-isle-cheat-menu-survival-toolkit) — Enhance your The Isle gameplay with expert survival tools, dinosaur profiles, diet planning, growth tracking, and strategy guides. — — · 0 yıldız
+- [Wholesome100/laserlight](https://github.com/Wholesome100/laserlight) — A first-person shooter in the vein of CS 1.6 and CS Source, set within cyberspace. Key design inspirations are Tron and Marathon.… — Rust · 0 yıldız
+- [wholood/Grafica1-2-2025](https://github.com/wholood/Grafica1-2-2025) — Repo para almacenar las tareas y proyectos de gráfica 1 del semestre 2-2025 — — · 0 yıldız
+- [whosaidtim/Cape-Api](https://github.com/whosaidtim/Cape-Api) — A api for minecraft capes in hacked clients — — · 0 yıldız
+- [whoskishore/3tier-project](https://github.com/whoskishore/3tier-project) — Designed and deployed a scalable three-tier web application on AWS using EC2, VPC, Application Load Balancer, Apache HTTPD, and… — JavaScript · 0 yıldız
+- [whospotted/cs1.6-BypassDLLSmoke](https://github.com/whospotted/cs1.6-BypassDLLSmoke) — Lightweight C++ DLL patcher with PE parsing, RVA resolution, opcode validation, and a simple CLI interface. — C++ · 0 yıldız
+- [whowantsyou23/domain-x-admin-roblox-](https://github.com/whowantsyou23/domain-x-admin-roblox-) — the script was made by an 2014 roblox fan and he putted out this script [this is the admin script] --->… — — · 0 yıldız
+- [whozghiar/jak3-multiplayer](https://github.com/whozghiar/jak3-multiplayer) — Jak 3 online: host or join a server from the pause menu and explore the world together as Jak or Daxter. — — · 0 yıldız
+- [whp199/PhantomRing](https://github.com/whp199/PhantomRing) — Play Elden Ring as Venom Snake: MGSV runs hidden alongside and supplies Snake (movement, weapons, CQC, HUD, D-Walker), drawn… — — · 0 yıldız
+- [whsasf/kwm](https://github.com/whsasf/kwm) — key words management system — Vue · 0 yıldız
+- [whtsao/coupled_wind_wave_fpv](https://github.com/whtsao/coupled_wind_wave_fpv) — Dynamic analysis of floating solar panels under wind-wave loading — Python · 0 yıldız
+- [WHU-CTF/AWD-Battlefield](https://github.com/WHU-CTF/AWD-Battlefield) — An AWD mode CTF Platform based on Docker — — · 0 yıldız
+- [Whullum/Metroidvania-18-Project](https://github.com/Whullum/Metroidvania-18-Project) — (açıklama yok) — — · 0 yıldız
+- [whvh/fatality](https://github.com/whvh/fatality) — (açıklama yok) — — · 0 yıldız
+- [whwhhshshdhh/standoffopensource](https://github.com/whwhhshshdhh/standoffopensource) — open source of standoff 2 game — — · 0 yıldız
+- [WhXteBeXr/banana-cheatsheet](https://github.com/WhXteBeXr/banana-cheatsheet) — (açıklama yok) — JavaScript · 0 yıldız
+- [why-qw1ko/cmd-cheatsheet](https://github.com/why-qw1ko/cmd-cheatsheet) — 命令速查站 - Linux / Claude Code / Windows cheatsheet — Astro · 0 yıldız
+- [Why94/kalkulator-hpp](https://github.com/Why94/kalkulator-hpp) — Aplikasi Kalkulator HPP - Harga Pokok Produksi dengan PWA support — — · 0 yıldız
+- [whyamidoingthisxd/walorantimodified2pc](https://github.com/whyamidoingthisxd/walorantimodified2pc) — uses mouse emulation via usb host shield from 1st to 2nd pc — — · 0 yıldız
+- [whybwhy/cheatsheet](https://github.com/whybwhy/cheatsheet) — cheatsheet — HTML · 0 yıldız
+- [whycut3/GitCheatSheet](https://github.com/whycut3/GitCheatSheet) — (açıklama yok) — HTML · 0 yıldız
+- [whyega/imgui-enb-fix](https://github.com/whyega/imgui-enb-fix) — Fix ENb bug — — · 0 yıldız
+- [whyfraid-glitch/skeet](https://github.com/whyfraid-glitch/skeet) — (açıklama yok) — HTML · 0 yıldız
+- [whyghost/wgclient](https://github.com/whyghost/wgclient) — Project for modding CS 1.6 client.dll (Only for Xash3D) (v1.33 based) — C++ · 0 yıldız · arşiv
+- [whyk-pg/verify-hono-authjs-discord](https://github.com/whyk-pg/verify-hono-authjs-discord) — DenoのHono上でAuth.jsのDiscord認証を試す — TypeScript · 0 yıldız · arşiv
+- [whyllardermie/onetapautogarage](https://github.com/whyllardermie/onetapautogarage) — (açıklama yok) — JavaScript · 0 yıldız
+- [whymecek/HpProtector](https://github.com/whymecek/HpProtector) — (açıklama yok) — Java · 0 yıldız
+- [whysoserious-joker/weather_api](https://github.com/whysoserious-joker/weather_api) — Process station files based on given Polygon , load data to mysql create an API with endpoints for the users to pull weather data. — Jupyter Notebook · 0 yıldız
+- [WHYSTRIV3/FatalityHub](https://github.com/WHYSTRIV3/FatalityHub) — (açıklama yok) — Lua · 0 yıldız
+- [WHYSTRIV3/FatalityKeyWebsite](https://github.com/WHYSTRIV3/FatalityKeyWebsite) — (açıklama yok) — JavaScript · 0 yıldız
+- [whyvedant0707/Primordial](https://github.com/whyvedant0707/Primordial) — Al-powered website accessibility auditing tool that detects WCAG violations, highlights problematic elements, generates… — TypeScript · 0 yıldız
+- [Wi-ll-iam/hvhelper](https://github.com/Wi-ll-iam/hvhelper) — (açıklama yok) — — · 0 yıldız
+- [wi-re/triangleBoundaries](https://github.com/wi-re/triangleBoundaries) — (açıklama yok) — — · 0 yıldız
+- [wibmo3ds/authSDK_sampleApp](https://github.com/wibmo3ds/authSDK_sampleApp) — (açıklama yok) — Java · 0 yıldız
+- [wicanr2/eob1_cht](https://github.com/wicanr2/eob1_cht) — EOB1 (魔眼殺機 1) 繁體中文化 - ScummVM 路線。內含完整 ScummVM source patch + Windows native binary + Big5 字模 + agent loop (tester/UX/dev) 工作流 — — · 0 yıldız
+- [wicholuisg/TesinaLuisArmas](https://github.com/wicholuisg/TesinaLuisArmas) — En este repositorio se encuentran el chatbot y el webhook utilizados en la Tesina "Empleo de un Chatbot para la selección de… — PHP · 0 yıldız
+- [wick2o/gitDigger](https://github.com/wick2o/gitDigger) — (açıklama yok) — — · 0 yıldız
+- [WickedLord69/modwatch-sources](https://github.com/WickedLord69/modwatch-sources) — Moderated GTA V / LSPDFR source references for ModWatch. Community submissions remain pending until the owner approves them. — Python · 0 yıldız
+- [wickedplayer494/GameRADAR-csgo](https://github.com/wickedplayer494/GameRADAR-csgo) — For future use with WPIPS for the Source 1 version of Counter-Strike: Global Offensive as it is known today. — — · 0 yıldız
+- [wickedposh/cheatsheet_on_math_byme](https://github.com/wickedposh/cheatsheet_on_math_byme) — I self-studied various areas of mathematics and summarised materials here. — TeX · 0 yıldız
+- [WICKxDEV/redeem-currency](https://github.com/WICKxDEV/redeem-currency) — This script allows players to redeem in-game currency, deducts the redeemed amount from their balance, and sends transaction… — Lua · 0 yıldız
+- [Wideweb/red-hat](https://github.com/Wideweb/red-hat) — (açıklama yok) — — · 0 yıldız
+- [WidgitLabs/regenesis](https://github.com/WidgitLabs/regenesis) — Regenesis is a long-term quest-based Minecraft modpack featuring both magic and tech-based tiers. — — · 0 yıldız
+- [wididestrianda01/Austrian-Daily-Electricity-Load-Forecast](https://github.com/wididestrianda01/Austrian-Daily-Electricity-Load-Forecast) — Classical ARMA analysis and 31-day forecasting of Austrian electricity load — Jupyter Notebook · 0 yıldız
+- [WiesnerPeti/SiliconSampler](https://github.com/WiesnerPeti/SiliconSampler) — Pebble SDK WatchFace experiment — C · 0 yıldız
+- [wietama/gta6-twitch-forecast](https://github.com/wietama/gta6-twitch-forecast) — Hour-by-hour forecast of GTA VI's launch-day Twitch concurrent viewers, with a documented model and sources. Built by an AI agent… — — · 0 yıldız
+- [wifiman/desktopbot.js](https://github.com/wifiman/desktopbot.js) — Node.js IRC bot with Quake Ⅱ server status fetcher and regexp-based auto-ban/mode — JavaScript · 0 yıldız
+- [wifimetas/forge-bridge-releases](https://github.com/wifimetas/forge-bridge-releases) — Forge Bridge downloads (Windows). Connects Roblox Studio to Forge at forgeblox.app. Source is private. — — · 0 yıldız
+- [wifiteeflex/Ella_mae-official](https://github.com/wifiteeflex/Ella_mae-official) — Premium creator video hub featuring exclusive clips, trending content, and mobile-friendly streaming experience. Watch previews,… — HTML · 0 yıldız
+- [wightmanjr/linux-cheatsheet](https://github.com/wightmanjr/linux-cheatsheet) — Cheatsheet web — CSS · 0 yıldız
+- [wigulshadi/clean_docker_cheatsheet](https://github.com/wigulshadi/clean_docker_cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [Wiiffies/Aether-Website](https://github.com/Wiiffies/Aether-Website) — Aether is a source-available Roblox launcher and website. Free to modify and share for noncommercial use; resale is not permitted. — JavaScript · 0 yıldız
+- [Wiinny/CS2ExoBase](https://github.com/Wiinny/CS2ExoBase) — (açıklama yok) — — · 0 yıldız
+- [Wiizard/zw3-client](https://github.com/Wiizard/zw3-client) — A client for Zombie Warfare 3 based on IW4x — — · 0 yıldız
+- [wik50/TeamMenu.res](https://github.com/wik50/TeamMenu.res) — TeamMenu in Counter-Strike:Source witch shows teams to choose, also made custom with admin options — — · 0 yıldız
+- [Wikejoseh/OnlineHacking-FreeFire-Phishing](https://github.com/Wikejoseh/OnlineHacking-FreeFire-Phishing) — (açıklama yok) — — · 0 yıldız
+- [Wikejoseh/OnlineHacking-FreeFire-Phishing.](https://github.com/Wikejoseh/OnlineHacking-FreeFire-Phishing.) — (açıklama yok) — — · 0 yıldız
+- [WikimediaOIT/keycard-dayofweek](https://github.com/WikimediaOIT/keycard-dayofweek) — read in CSV files from an AllGuard security system and do an analysis of what day of week individuals come in — Python · 0 yıldız
+- [wikisab/gamesenseacidtechlolkek](https://github.com/wikisab/gamesenseacidtechlolkek) — horosh — Lua · 0 yıldız
+- [WiktorFodoi/bash-cheatsheet](https://github.com/WiktorFodoi/bash-cheatsheet) — komendy — — · 0 yıldız
+- [wiktoriaa/Windows-Rootkit](https://github.com/wiktoriaa/Windows-Rootkit) — A system driver that displays what key was pressed. Programmed on Windows 10. — C · 0 yıldız
+- [wiktorwiktor12/ConsoleLogonHook](https://github.com/wiktorwiktor12/ConsoleLogonHook) — (açıklama yok) — — · 0 yıldız
+- [WilaDiaz/EFT_S9_WILANGELYDIAZ](https://github.com/WilaDiaz/EFT_S9_WILANGELYDIAZ) — Evaluacion final - Modelamiento de base de datos — PLSQL · 0 yıldız
+- [Wilamos06/farming-bot](https://github.com/Wilamos06/farming-bot) — (açıklama yok) — — · 0 yıldız
+- [Wilco-LoadingTests/Anythink-Market-hpp6a](https://github.com/Wilco-LoadingTests/Anythink-Market-hpp6a) — (açıklama yok) — — · 0 yıldız
+- [Wilco-LoadingTests/Anythink-Market-hvh5p](https://github.com/Wilco-LoadingTests/Anythink-Market-hvh5p) — (açıklama yok) — — · 0 yıldız
+- [Wilcolab/Anythink-Market-16hppj3t](https://github.com/Wilcolab/Anythink-Market-16hppj3t) — (açıklama yok) — JavaScript · 0 yıldız
+- [Wilcolab/Anythink-Market-57hvhlqh](https://github.com/Wilcolab/Anythink-Market-57hvhlqh) — (açıklama yok) — JavaScript · 0 yıldız
+- [WildGenie/PUBGM-SDK](https://github.com/WildGenie/PUBGM-SDK) — (açıklama yok) — — · 0 yıldız
+- [wildheart/curl-api-cheat-sheet](https://github.com/wildheart/curl-api-cheat-sheet) — A curl Cheat Sheet tailored for playing with APIs — — · 0 yıldız
+- [wildiney/UV-Cheatsheet-Python](https://github.com/wildiney/UV-Cheatsheet-Python) — A cheatsheet for UV — — · 0 yıldız · arşiv
+- [wildpike3371/cheatsheet-tool](https://github.com/wildpike3371/cheatsheet-tool) — A simple cheatsheet project — Python · 0 yıldız
+- [wildquaker/umamusume-cheat-sheet](https://github.com/wildquaker/umamusume-cheat-sheet) — (açıklama yok) — TypeScript · 0 yıldız
+- [WildSource/QuakeTimer](https://github.com/WildSource/QuakeTimer) — Train your mental math capabilities to cycle items in quake. (For people who suck at mental math) — Haskell · 0 yıldız
+- [Wilhelman/MultiThreading](https://github.com/Wilhelman/MultiThreading) — (açıklama yok) — — · 0 yıldız
+- [wiliamcar/DevOps-Dashboard](https://github.com/wiliamcar/DevOps-Dashboard) — Create a DevOps dashboard that provides a centralized view of key metrics and information from various tools used in the software… — — · 0 yıldız
+- [WilkEng/LED-Status-Trackside-Aligner](https://github.com/WilkEng/LED-Status-Trackside-Aligner) — LED Status cheat-sheet for blink codes on the Trackside Aligner Alignment System — HTML · 0 yıldız
+- [WilkinsAng/CS2109S-Finals-CheatSheet](https://github.com/WilkinsAng/CS2109S-Finals-CheatSheet) — Finals CheatSheet for CS2109 — — · 0 yıldız
+- [wilkinson-workshop/spigot-box](https://github.com/wilkinson-workshop/spigot-box) — Alpine based Minecraft/Spigot image — — · 0 yıldız · arşiv
+- [wilkinszhang/Faster-Neus2](https://github.com/wilkinszhang/Faster-Neus2) — (açıklama yok) — — · 0 yıldız
+- [Wilkua/WiredHack153](https://github.com/Wilkua/WiredHack153) — This repository contains the final version of the code created during the 24-hour period of the WiredHack 15.3 competition. — C# · 0 yıldız
+- [will-bei/NBodyCUDA](https://github.com/will-bei/NBodyCUDA) — Source files for CUDA implementation and host-side verification of a 2-D N-Body Simulation, made for the final project for the… — C++ · 0 yıldız
+- [will-i-am-12/LNPL](https://github.com/will-i-am-12/LNPL) — This shows my progress of learning new programming language, act as a cheat sheet. — JavaScript · 0 yıldız
+- [Will-Liao77/3D_Game](https://github.com/Will-Liao77/3D_Game) — (açıklama yok) — — · 0 yıldız
+- [Will-linguistics/1fRdmHvhOzvxhu3N-h5Vcq2Yht7HoHU81piKqUTwe1wrO06C5Li2zNytkWXaeQrY1N2hclYv6361whk-](https://github.com/Will-linguistics/1fRdmHvhOzvxhu3N-h5Vcq2Yht7HoHU81piKqUTwe1wrO06C5Li2zNytkWXaeQrY1N2hclYv6361whk-) — (açıklama yok) — HTML · 0 yıldız
+- [Will-McCarthy/Distributed-Naming-Service](https://github.com/Will-McCarthy/Distributed-Naming-Service) — A consistent hashing system that stores (key, value) pairs on a distributed set of servers — C++ · 0 yıldız
+- [will-nd/SimpleCryptography](https://github.com/will-nd/SimpleCryptography) — Simple Cryptography system that allows users to encrypt and decrypt text using either the caesar cipher or columnar transposition… — Python · 0 yıldız
+- [Will-Nichols/NDSF_Training_Mission](https://github.com/Will-Nichols/NDSF_Training_Mission) — Training mission file from an Arma 3 milsim PMC group that goes by NDSF and is based on Malden. Lots of automated areas and… — SQF · 0 yıldız
+- [will4skill/keyless-entry](https://github.com/will4skill/keyless-entry) — This is a simple keyless entry system built with React Native and Arduino. — JavaScript · 0 yıldız
+- [willbaldlygo/Coding-Cheat-Sheet](https://github.com/willbaldlygo/Coding-Cheat-Sheet) — (açıklama yok) — HTML · 0 yıldız
+- [willbarnett74/Worlde-cheater](https://github.com/willbarnett74/Worlde-cheater) — Worlde cheater tool — HTML · 0 yıldız
+- [willbork/cheat-sheets](https://github.com/willbork/cheat-sheets) — This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various… — — · 0 yıldız
+- [WillcordovaSalas/SEGUNDO-CURSO-L-gica-de-programaci-n-Conceptos-primordiales](https://github.com/WillcordovaSalas/SEGUNDO-CURSO-L-gica-de-programaci-n-Conceptos-primordiales) — (açıklama yok) — HTML · 0 yıldız
+- [willermcmiller/Fortnite_1.6.3_SDK](https://github.com/willermcmiller/Fortnite_1.6.3_SDK) — (açıklama yok) — — · 0 yıldız
+- [willermcmiller/Fortnite_1.8.0_SDK](https://github.com/willermcmiller/Fortnite_1.8.0_SDK) — (açıklama yok) — — · 0 yıldız
+- [willermcmiller/Fortnite_1.8.2_SDK](https://github.com/willermcmiller/Fortnite_1.8.2_SDK) — (açıklama yok) — — · 0 yıldız
+- [willermcmiller/Fortnite_1.9.0_SDK](https://github.com/willermcmiller/Fortnite_1.9.0_SDK) — (açıklama yok) — — · 0 yıldız
+- [willermcmiller/Fortnite_15.40_SDK.zip](https://github.com/willermcmiller/Fortnite_15.40_SDK.zip) — (açıklama yok) — — · 0 yıldız
+- [willermcmiller/Fortnite_16.00_SDK](https://github.com/willermcmiller/Fortnite_16.00_SDK) — (açıklama yok) — — · 0 yıldız
+- [willermcmiller/Fortnite_2.11_SDK](https://github.com/willermcmiller/Fortnite_2.11_SDK) — (açıklama yok) — — · 0 yıldız
+- [willermcmiller/Fortnite_4.1_SDK](https://github.com/willermcmiller/Fortnite_4.1_SDK) — (açıklama yok) — — · 0 yıldız
+- [willermcmiller/Fortnite_4.1_SDKK](https://github.com/willermcmiller/Fortnite_4.1_SDKK) — (açıklama yok) — — · 0 yıldız
+- [WillGamerGrey/kroZcrafT0.0.1unf](https://github.com/WillGamerGrey/kroZcrafT0.0.1unf) — This is an unfinished prototype of kroZcrafT - The Minecraft based text adventure made with visual studio 2010. NOT AFFILIATED… — — · 0 yıldız
+- [willhanley11/Racial_bias](https://github.com/willhanley11/Racial_bias) — Racial bias in police fatalities — Jupyter Notebook · 0 yıldız
+- [William-Muko/Docker-Cheatsheets](https://github.com/William-Muko/Docker-Cheatsheets) — (açıklama yok) — — · 0 yıldız
+- [William-Muko/Linux-Git-Cheatsheets](https://github.com/William-Muko/Linux-Git-Cheatsheets) — (açıklama yok) — Shell · 0 yıldız
+- [william-scholes/halo-timesheeting-tool](https://github.com/william-scholes/halo-timesheeting-tool) — A PowerShell based tool used to simplify timesheet management in Halo PSA — HTML · 0 yıldız
+- [William12556/GTach](https://github.com/William12556/GTach) — Retro styled ODBII/ELM327 based Tachometer — Python · 0 yıldız
+- [william13238/eulen-free](https://github.com/william13238/eulen-free) — password_is_eulen..rar - RAR archive, unpacked size 15.728.640 bytes — — · 0 yıldız
+- [william20020123-png/MIE1624_Assignment-2_dashboard](https://github.com/william20020123-png/MIE1624_Assignment-2_dashboard) — An interactive dashboard was developed to collect answers to the 12 selected survey questions and predict salary probabilities… — JavaScript · 0 yıldız
+- [William3Johnson/primordial-script](https://github.com/William3Johnson/primordial-script) — (açıklama yok) — — · 0 yıldız
+- [williambechard/crossfire](https://github.com/williambechard/crossfire) — game jam based on the crossfire board game (remake) in 1990 — C# · 0 yıldız
+- [williamcquinn/Taxi-Trip-Duration-SGD-Regressor](https://github.com/williamcquinn/Taxi-Trip-Duration-SGD-Regressor) — In this repository predictive modeling is used to forecast taxi trip duration in the city of Chicago, factoring in variables such… — Jupyter Notebook · 0 yıldız
+- [williamdean19/csc423_source](https://github.com/williamdean19/csc423_source) — web app development group project — PHP · 0 yıldız
+- [WilliamGrenier-McDermott/2T3-Willia-G-CheatSheets](https://github.com/WilliamGrenier-McDermott/2T3-Willia-G-CheatSheets) — (açıklama yok) — — · 0 yıldız
+- [williamhatcher/harmonyAuth](https://github.com/williamhatcher/harmonyAuth) — Discord Implicit Grant handling for FastAPI — Python · 0 yıldız
+- [williamhilmysusatyo/information-retrieval-final-project](https://github.com/williamhilmysusatyo/information-retrieval-final-project) — Source code for the final project of information retrieval class — Jupyter Notebook · 0 yıldız
+- [williamhudson1218/loom](https://github.com/williamhudson1218/loom) — A local, AI-summarized triage dashboard for Claude Code sessions — live detection, jump/resume/close into tmux panes, crash… — TypeScript · 0 yıldız
+- [williamhuybui/asyncio-cheatsheet](https://github.com/williamhuybui/asyncio-cheatsheet) — (açıklama yok) — Python · 0 yıldız
+- [williamjay1/provisional-nitrate-load-sampling](https://github.com/williamjay1/provisional-nitrate-load-sampling) — Analysis code, derived data and result tables for provisional river nitrate plus nitrite load estimation under sparse sampling… — Python · 0 yıldız
+- [williamjonathanliem/sampai](https://github.com/williamjonathanliem/sampai) — Get to APU on time by train, bus, shuttle, walk or taxi. Routes timed to your APSpace class, live disruption alerts,… — TypeScript · 0 yıldız
+- [WilliamKonRaDDD/RustLoader](https://github.com/WilliamKonRaDDD/RustLoader) — Simple youtube video dowloader with yt-dlp — — · 0 yıldız
+- [WilliamLiu272/DJ](https://github.com/WilliamLiu272/DJ) — (açıklama yok) — — · 0 yıldız
+- [WilliamLiu272/Lukas_William](https://github.com/WilliamLiu272/Lukas_William) — (açıklama yok) — — · 0 yıldız
+- [williamlorfing/qbxml_sdk13_samples](https://github.com/williamlorfing/qbxml_sdk13_samples) — (açıklama yok) — C · 0 yıldız
+- [WilliamMark1963/shoppyglobe](https://github.com/WilliamMark1963/shoppyglobe) — (açıklama yok) — JavaScript · 0 yıldız
+- [WilliamMark1963/shoppyglobeBackend](https://github.com/WilliamMark1963/shoppyglobeBackend) — (açıklama yok) — JavaScript · 0 yıldız
+- [williammian/wmfood](https://github.com/williammian/wmfood) — Microsserviços - Pedidos e Pagamentos - REST, Java, Spring, MySQL, Flyway, Service Discovery e Service Registry (Eureka Server),… — Java · 0 yıldız
+- [williamodavis/THEFINALS_Splashscreen](https://github.com/williamodavis/THEFINALS_Splashscreen) — KDE Splashscreen of THE FINALS loading screen — QML · 0 yıldız
+- [williamrince/hackathon](https://github.com/williamrince/hackathon) — A tool that turn your favorite articles of the day into a short video. — Java · 0 yıldız
+- [williamrolimm/loadingfivem](https://github.com/williamrolimm/loadingfivem) — Loading para Fivem — CSS · 0 yıldız
+- [williamsnh/cheatsheet](https://github.com/williamsnh/cheatsheet) — Cheatsheet Cmd — C · 0 yıldız
+- [williamstosh/DLSS5-NR-Nexus](https://github.com/williamstosh/DLSS5-NR-Nexus) — DLSS 5 Neural Rendering: exceptional visuals, extensive customization, tunable performance, broader compatibility… — — · 0 yıldız
+- [williamsullivan/Halo-Maze](https://github.com/williamsullivan/Halo-Maze) — Terminal Based Halo Maze — — · 0 yıldız
+- [williamtrindade/clean-architecture-laravel-api](https://github.com/williamtrindade/clean-architecture-laravel-api) — This repository contains the source code of an API that is being refactored as part of my Final Undergraduate Project (TCC). — Blade · 0 yıldız
+- [williamwriggs/SF-traffic-fatality-tracker](https://github.com/williamwriggs/SF-traffic-fatality-tracker) — An open-source, revision-aware tracker for traffic fatalities in San Francisco. — Python · 0 yıldız
+- [WilliamWV/cartolaGuesser](https://github.com/WilliamWV/cartolaGuesser) — Use trained NN models to suggest CartolaFC squads — Python · 0 yıldız
+- [WilliamYzaguirre/PublicKeyNeuralCryptoSystem](https://github.com/WilliamYzaguirre/PublicKeyNeuralCryptoSystem) — (açıklama yok) — Jupyter Notebook · 0 yıldız
+- [WillianChavez/lab-2-cs21004-especializacion](https://github.com/WillianChavez/lab-2-cs21004-especializacion) — (açıklama yok) — — · 0 yıldız
+- [willie68/micro-vault](https://github.com/willie68/micro-vault) — A dead simple key managment system — Go · 0 yıldız
+- [williemaznoeh/bash-cheatsheetdf14](https://github.com/williemaznoeh/bash-cheatsheetdf14) — Playground for testing ideas and demos. — — · 0 yıldız
+- [willingham/cs201-a1](https://github.com/willingham/cs201-a1) — Pointer based implementation of Heapsort — C · 0 yıldız
+- [WillLuik27/grand-st-trains](https://github.com/WillLuik27/grand-st-trains) — Grand St (L) train departures, straight from the MTA feed — HTML · 0 yıldız
+- [willmasterrr/continuation-hl2rp-public](https://github.com/willmasterrr/continuation-hl2rp-public) — (açıklama yok) — — · 0 yıldız
+- [willokyes/UULoadInitializeDemo](https://github.com/willokyes/UULoadInitializeDemo) — Objective-C Class method load and initialize calling sequence — Objective-C · 0 yıldız
+- [willosborne/cs349](https://github.com/willosborne/cs349) — Source code for my CS349 Principles of Programming Languages assignment. — HTML · 0 yıldız
+- [WillPugs/cs-680-genetic-algorithm](https://github.com/WillPugs/cs-680-genetic-algorithm) — Final project for CS 680 at the University of Waterloo. Genetic algorithm for feature selection with novel bagging-based fitness… — Python · 0 yıldız
+- [willroberts/openrvs.org](https://github.com/willroberts/openrvs.org) — Open-source projects for Tom Clancy's Rainbow Six 3: Raven Shield — — · 0 yıldız
+- [willsimeonidis/8H-news](https://github.com/willsimeonidis/8H-news) — 8H Times is an independent news outlet delivering fast, unfiltered coverage of events as they unfold. We report the stories that… — HTML · 0 yıldız
+- [willsmckenna/blockchain](https://github.com/willsmckenna/blockchain) — Blockchain program. With public/private keys, JSON for data marshaling, and real work. Part of CSC 435 Distributed Systems at… — Java · 0 yıldız
+- [WillSplaine/COMP3000-Game](https://github.com/WillSplaine/COMP3000-Game) — COMP3000 Game Project — — · 0 yıldız
+- [willwiz/hpp2cythonparser](https://github.com/willwiz/hpp2cythonparser) — parses c++ headers and create a cython header with importable functions — Python · 0 yıldız
+- [WillWootton03/CS210-Grocer-Menu](https://github.com/WillWootton03/CS210-Grocer-Menu) — CS-210-Project-3 — C++ · 0 yıldız
+- [willy92wins/BattleRoyale](https://github.com/willy92wins/BattleRoyale) — DayZ-BattleRoyale refurbished for DayZ 1.30 (Chernarus, 100-120 players). Based on DayZ-BattleRoyale 0.1.0-Vigrid, DSPL-SA. — C · 0 yıldız
+- [WillyJeanniton/CS162CheatCheet](https://github.com/WillyJeanniton/CS162CheatCheet) — Provides a resource to help students make the grade. — — · 0 yıldız
+- [WillyJeon/540](https://github.com/WillyJeon/540) — Game Graphics Programming — — · 0 yıldız
+- [WillyRelwitten/Perfect-Clay](https://github.com/WillyRelwitten/Perfect-Clay) — Side-on skeet toy. Hits are easy. A PERFECT shot is strict, rare, and celebrated. — HTML · 0 yıldız
+- [wilmaake999-code/git-github.com-okeeffed-cheat-sheets](https://github.com/wilmaake999-code/git-github.com-okeeffed-cheat-sheets) — (açıklama yok) — — · 0 yıldız
+- [wilonoh/3tier_project](https://github.com/wilonoh/3tier_project) — three tier project ith load balance and rds-mysql — HCL · 0 yıldız
+- [wilsec/SOC-Analyst-Cheatsheets](https://github.com/wilsec/SOC-Analyst-Cheatsheets) — (açıklama yok) — — · 0 yıldız
+- [Wilson-Duncan/HackPrinceton-SokoMtaani](https://github.com/Wilson-Duncan/HackPrinceton-SokoMtaani) — Neighborhood Market, ensures the integrity of transactions for SMS transactions by placing them on the blochain. — — · 0 yıldız
+- [wilson27-11/Address-book](https://github.com/wilson27-11/Address-book) — A console-based Address Book application developed in C that allows users to create, search, edit, delete, list, and save… — C · 0 yıldız
+- [wilsonngu/2020-System-C-Diffie-Hellman-key-exchange-Module-SW-HW](https://github.com/wilsonngu/2020-System-C-Diffie-Hellman-key-exchange-Module-SW-HW) — A software implementation of the “Diffie-Hellman” key exchange, this allows two users to exchange a unique key over a public… — C++ · 0 yıldız
+- [wilsonpilon/fwMSX](https://github.com/wilsonpilon/fwMSX) — (açıklama yok) — — · 0 yıldız
+- [wilsonpilon/paleobasic](https://github.com/wilsonpilon/paleobasic) — (açıklama yok) — — · 0 yıldız
+- [Wimacs/MotorSim](https://github.com/Wimacs/MotorSim) — (açıklama yok) — — · 0 yıldız
+- [wimwim3/Kai-armada](https://github.com/wimwim3/Kai-armada) — Half new trains from Kereta api Indonesia persero — — · 0 yıldız
+- [Win10MC/Rainbow-Gear](https://github.com/Win10MC/Rainbow-Gear) — Repository for source code of the rainbow gear mod for Minecraft — Java · 0 yıldız
+- [win10ogod/mini-dragon](https://github.com/win10ogod/mini-dragon) — (açıklama yok) — — · 0 yıldız
+- [win32ss/skia](https://github.com/win32ss/skia) — Supermium's skia implementation — — · 0 yıldız
+- [winchxyz/pasteup](https://github.com/winchxyz/pasteup) — Lay out pictures for X before you post: rows of up to 20, one picture cut into strips, avatar and banner, dark and light preview. — JavaScript · 0 yıldız
+- [Wind010/navi-cheats](https://github.com/Wind010/navi-cheats) — My Cheatsheets for Navi — — · 0 yıldız
+- [windedness/neverlose](https://github.com/windedness/neverlose) — (açıklama yok) — Lua · 0 yıldız
+- [Windestr/Lessons-and-Cheat-Sheets](https://github.com/Windestr/Lessons-and-Cheat-Sheets) — Cheat Sheet of XPath filters for PowerShell — — · 0 yıldız
+- [windflower715/01-MTA-turnstiles](https://github.com/windflower715/01-MTA-turnstiles) — Develop the optimal marketing strategy based on subway traffic during different time period — Jupyter Notebook · 0 yıldız
+- [windfornight/c-CSource](https://github.com/windfornight/c-CSource) — some practice source — C++ · 0 yıldız
+- [windgs/recastnavigation-master](https://github.com/windgs/recastnavigation-master) — RecastNavigation是一款非常强大的寻路系统，被广泛的应用于各大游戏引擎中。如Unreal，Unity等。我之前也尝试看过部分RecastNavigation源码，代码中自己做了部分讲解和注释 — — · 0 yıldız
+- [window-ook/claude-code-harness-cheatsheet](https://github.com/window-ook/claude-code-harness-cheatsheet) — VS Code plugin — TypeScript · 0 yıldız
+- [Windows10100let/Roblox-Studio-AI-FREE](https://github.com/Windows10100let/Roblox-Studio-AI-FREE) — I do Roblox studio AI, I give open source in future when i do all — — · 0 yıldız
+- [Windows81/Roblox-Cache-Saver](https://github.com/Windows81/Roblox-Cache-Saver) — Script to load your loaded assets from previous gameplay sessions to "./cache". — Python · 0 yıldız
+- [WindSuKo/SuKoSpoofer-FiveM](https://github.com/WindSuKo/SuKoSpoofer-FiveM) — (açıklama yok) — — · 0 yıldız
+- [windulad/Java-calculator-CS2019010](https://github.com/windulad/Java-calculator-CS2019010) — The project files of simple calculator built using Java goes here. — Java · 0 yıldız
+- [WindVerse/PB_Old](https://github.com/WindVerse/PB_Old) — Building the Final Product with trained models — C# · 0 yıldız
+- [WindVerse/Product](https://github.com/WindVerse/Product) — Building the Final Product with trained models — Wolfram Language · 0 yıldız
+- [Windyways/Object-Workshop-2](https://github.com/Windyways/Object-Workshop-2) — An among us mod that adds roles that function based on visuals! — — · 0 yıldız
+- [WingTechCorner/WTC_PROJECT-OpenOCD-Flashing-CheatSheet](https://github.com/WingTechCorner/WTC_PROJECT-OpenOCD-Flashing-CheatSheet) — Various things that seem useful while working with flashing tools and openocd — — · 0 yıldız
+- [wingtonrbrito/multica-sandbox](https://github.com/wingtonrbrito/multica-sandbox) — Hands-on research log of running Multica multi-agent chains end-to-end. Tested scenarios, findings, gotchas, cheat sheets,… — Shell · 0 yıldız
+- [Winicodes/CS2EXTERNAL](https://github.com/Winicodes/CS2EXTERNAL) — (açıklama yok) — HTML · 0 yıldız
+- [winjher/butterfly_shoppy](https://github.com/winjher/butterfly_shoppy) — (açıklama yok) — HTML · 0 yıldız
+- [winkingh/PCIC2021-Causal-Discovery-cug_402](https://github.com/winkingh/PCIC2021-Causal-Discovery-cug_402) — Open Source cug_402 squad code in PCIC 2021: Causal Discovery — Python · 0 yıldız
+- [winkpoke/console](https://github.com/winkpoke/console) — (açıklama yok) — — · 0 yıldız
+- [WINKxiv/CheatSheet](https://github.com/WINKxiv/CheatSheet) — (açıklama yok) — HTML · 0 yıldız
+- [WinLen/SovietRepublic-MP](https://github.com/WinLen/SovietRepublic-MP) — Co-op Multiplayer Mod for Workers & Resources: Soviet Republic (Lockstep, Steam P2P, One State & Two States modes, 30x30 km maps) — — · 0 yıldız
+- [Winner-Programmer/Principles](https://github.com/Winner-Programmer/Principles) — Software principles are essential guidelines for designing robust, maintainable, and scalable systems. There are several key… — — · 0 yıldız
+- [WINNER007-dotcom/_cheatsheet_](https://github.com/WINNER007-dotcom/_cheatsheet_) — (açıklama yok) — Python · 0 yıldız
+- [winner2558/Django_zyyp_sample](https://github.com/winner2558/Django_zyyp_sample) — 智宇药品 Django source code — HTML · 0 yıldız
+- [winnerbot2000-2/CGfx50-AP-microeconomics-cheat-sheet-app](https://github.com/winnerbot2000-2/CGfx50-AP-microeconomics-cheat-sheet-app) — AP Microeconomics cheat app for the Casio fx-CG50. — C · 0 yıldız
+- [winnerhall/minecraft.hackedclient](https://github.com/winnerhall/minecraft.hackedclient) — (açıklama yok) — — · 0 yıldız
+- [Winnie7050/roblox-car-pulling-game](https://github.com/Winnie7050/roblox-car-pulling-game) — A Roblox game where players pull cars with physics-based rope mechanics — Lua · 0 yıldız
+- [Winnnnnnnn/seabios-hppa](https://github.com/Winnnnnnnn/seabios-hppa) — (açıklama yok) — C · 0 yıldız
+- [winnxhhh/final-project](https://github.com/winnxhhh/final-project) — This contains the source codes to my final project — Jupyter Notebook · 0 yıldız
+- [Winnykinyumu/Airplane-Crash-Analysis](https://github.com/Winnykinyumu/Airplane-Crash-Analysis) — A comprehensive analysis of airplane crashes and fatalities spanning from 1900-2023. This analysis requires one to have Power BI… — — · 0 yıldız
+- [Winolafutado/student-database](https://github.com/Winolafutado/student-database) — Student Management System To develop a console-based Student Management System in C++ that efficiently manages student records… — — · 0 yıldız
+- [WinPooh32/sms-fatality](https://github.com/WinPooh32/sms-fatality) — (açıklama yok) — Go · 0 yıldız
+- [winpzs/angular2-lazy-load-webpack](https://github.com/winpzs/angular2-lazy-load-webpack) — angular2-lazy-load-webpack — CSS · 0 yıldız
+- [winserrao/ML_Project_001](https://github.com/winserrao/ML_Project_001) — Loading a DataSet and then evaluate the Linear Regression and Random Forest Models prediction. — Python · 0 yıldız
+- [winsmunt/soc-cheat-sheets](https://github.com/winsmunt/soc-cheat-sheets) — a curated collection of Blue Team, SOC monitoring, and Event Log cheat sheets. — — · 0 yıldız
+- [winson317/GameSdkSample_4.3.4_20150403_standard](https://github.com/winson317/GameSdkSample_4.3.4_20150403_standard) — (açıklama yok) — — · 0 yıldız
+- [WINSTER000/Point-Blank](https://github.com/WINSTER000/Point-Blank) — Point Blank is a modern web-based marketplace designed to showcase firearms, ammunition, and tactical equipment through a clean,… — HTML · 0 yıldız
+- [WinstonCHEN1/CS2Monitor](https://github.com/WinstonCHEN1/CS2Monitor) — CS2Monitor, Monitor the jewelry market fluctuations of the game 《Counter-Strike:2》 and provide relevant trading strategies based… — Python · 0 yıldız
+- [wintajonny/UnityCheatSheet](https://github.com/wintajonny/UnityCheatSheet) — (açıklama yok) — C# · 0 yıldız
+- [Winter-990/Midnight-Roblox-Game-Open-Source-](https://github.com/Winter-990/Midnight-Roblox-Game-Open-Source-) — This is the open source code for the game Midnight on Roblox. Please use appropriately and I would appreciate it if when you guys… — — · 0 yıldız
+- [WinterBedrock/OpenSunstead](https://github.com/WinterBedrock/OpenSunstead) — sunstead source for 26.60. wip shitcode btw. — — · 0 yıldız
+- [WinterSpark1/EchoForge](https://github.com/WinterSpark1/EchoForge) — a fresh Minecraft SMP focused on collaboration and creativity. We run a stable 1.8.9 server enhanced by a single open-source mod… — HTML · 0 yıldız
+- [wintun-devop/Linux-Administration](https://github.com/wintun-devop/Linux-Administration) — Linux Administration Cheat Sheet. — — · 0 yıldız
+- [winwin555620-sys/CheatSheetProject](https://github.com/winwin555620-sys/CheatSheetProject) — cheatsheet — Java · 0 yıldız
+- [wioenena/L4D2YoutubeSource](https://github.com/wioenena/L4D2YoutubeSource) — Left 4 Dead 2 Youtube video source codes — SourcePawn · 0 yıldız
+- [wiperS200/2503io](https://github.com/wiperS200/2503io) — Room key management system — Ruby · 0 yıldız
+- [wiradifit/git-cheat-sheet](https://github.com/wiradifit/git-cheat-sheet) — Interactive git command reference with searchable examples, visual branch diagrams, and workflow guides — JavaScript · 0 yıldız
+- [wirawanuragaaa/Kalkulator-Hpp](https://github.com/wirawanuragaaa/Kalkulator-Hpp) — (açıklama yok) — Python · 0 yıldız
+- [wirebedroom/cheatsheet](https://github.com/wirebedroom/cheatsheet) — A markdown file that contains information I happen to need from time to time. — — · 0 yıldız
+- [wireforhire/Project-for-Azure-Solo-Games-](https://github.com/wireforhire/Project-for-Azure-Solo-Games-) — This C++ program implements a user authentication system with a menu for playing games. It features a Rock-Paper-Scissors game… — C++ · 0 yıldız
+- [wireofparadise/spaceship](https://github.com/wireofparadise/spaceship) — A type-safe data store system for Roblox that simplifies loading, saving, and migrating data through structured, versioned… — Luau · 0 yıldız
+- [Wirezat/WaterSource](https://github.com/Wirezat/WaterSource) — A minecraft 1.20.1 mod that adds an infinite sourceblock do fill buckets, pump out of or whatever — Java · 0 yıldız
+- [wirlde/CW-GSC](https://github.com/wirlde/CW-GSC) — cold war gsc menu — — · 0 yıldız
+- [WiroWorks-zz/esx_menu_dialog](https://github.com/WiroWorks-zz/esx_menu_dialog) — its a cool CSS for esx_menu_dialog — JavaScript · 0 yıldız
+- [wirrockendigital/We.Rock.Drive.Mounts](https://github.com/wirrockendigital/We.Rock.Drive.Mounts) — Native macOS menu bar app for Synology and SMB drive mounts, transfer recovery, network monitoring and diagnostics — Swift · 0 yıldız
+- [wirungu/coq-tactics](https://github.com/wirungu/coq-tactics) — Coq tactics cheat sheet — — · 0 yıldız
+- [Wirvxy/soc-journey](https://github.com/Wirvxy/soc-journey) — My path to SOC Analyst, documented in public: TryHackMe notes, cheat sheets, CTFs and home lab detections 🛡️ — — · 0 yıldız
+- [wisdommodsystem/onetapramadan2026](https://github.com/wisdommodsystem/onetapramadan2026) — (açıklama yok) — — · 0 yıldız
+- [wisecort/linux-cheat-sheet](https://github.com/wisecort/linux-cheat-sheet) — (açıklama yok) — HTML · 0 yıldız
+- [wisehead/hacker_tools](https://github.com/wisehead/hacker_tools) — (açıklama yok) — Shell · 0 yıldız
+- [wiseprt/TorchCheatSheet](https://github.com/wiseprt/TorchCheatSheet) — (açıklama yok) — — · 0 yıldız
+- [WishiCodes/Responsive-Cheatsheet](https://github.com/WishiCodes/Responsive-Cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [Wisley56/GameSense-Bot](https://github.com/Wisley56/GameSense-Bot) — (açıklama yok) — HTML · 0 yıldız
+- [wispotchennai/WiFi-Hotspot-WiFi-System-For-Hotels](https://github.com/wispotchennai/WiFi-Hotspot-WiFi-System-For-Hotels) — We provide wifi hotspot is a fast and reliable wireless internet connection is key for passenger loyalty. — — · 0 yıldız
+- [WispSnow/TinyFarmRPG](https://github.com/WispSnow/TinyFarmRPG) — (açıklama yok) — — · 0 yıldız
+- [wissem345/discord.com-api-oauth2-authoriz](https://github.com/wissem345/discord.com-api-oauth2-authoriz) — 766015644365225985 — — · 0 yıldız
+- [WIStCart/BordnerCoastal](https://github.com/WIStCart/BordnerCoastal) — Collaborative project between Forest Landscape and Ecology Lab (FLEL) and State Cartographer's Office (SCO). Web-based mapping… — JavaScript · 0 yıldız
+- [WitcherxSN/ShoppyGlobe-E-COM](https://github.com/WitcherxSN/ShoppyGlobe-E-COM) — (açıklama yok) — JavaScript · 0 yıldız
+- [Witek902/Raytracer](https://github.com/Witek902/Raytracer) — Physically Based Software Renderer — — · 0 yıldız
+- [withyoursquad/squad-sdk-docs](https://github.com/withyoursquad/squad-sdk-docs) — Squad SDK Documentation — — · 0 yıldız
+- [witmenq/linux-cheatsheet](https://github.com/witmenq/linux-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [witoo-source/EasyValorantAPI](https://github.com/witoo-source/EasyValorantAPI) — An easy Valorant API based on the unofficial-valorant-api developed by Henrik Dev's ❤️ — C# · 0 yıldız
+- [wittech/MaxKey-Cloud](https://github.com/wittech/MaxKey-Cloud) — MaxKey is Access Management System-Single Sign On(SSO),Based on Spring Cloud. — — · 0 yıldız
+- [witty-terminal/witty](https://github.com/witty-terminal/witty) — A translated fork of Ghostty in V — — · 0 yıldız
+- [wiyth00/gta-vi-together-shotcut](https://github.com/wiyth00/gta-vi-together-shotcut) — 4K Together Shotcut edit, source media, exports, and Gemini polish candidate — Python · 0 yıldız
+- [wizard-lhx/electronic-contest-flight](https://github.com/wizard-lhx/electronic-contest-flight) — 2023 年电子设计大赛无人机 — — · 0 yıldız
+- [wizardap/GoldPrice-CS4](https://github.com/wizardap/GoldPrice-CS4) — A simple app for following the gold price with real-time data in Vietnam — JavaScript · 0 yıldız
+- [wizgrao/VRLinearAlg](https://github.com/wizgrao/VRLinearAlg) — VR Linear Algebra project — — · 0 yıldız
+- [Wizhill05/Graxy](https://github.com/Wizhill05/Graxy) — (açıklama yok) — — · 0 yıldız
+- [wizzwizz4/minecraft-modder](https://github.com/wizzwizz4/minecraft-modder) — A GUI for managing what Forge loads, with a custom launcher and (hopefully) a file accosiation. — Visual Basic · 0 yıldız
+- [wj9806/c_executor_service](https://github.com/wj9806/c_executor_service) — c thread_pool_executor implementation — C · 0 yıldız
+- [wj9806/cpp_executor_service](https://github.com/wj9806/cpp_executor_service) — c++ thread_pool_executor implementation — C++ · 0 yıldız
+- [wjh1119/xfyunSample](https://github.com/wjh1119/xfyunSample) — 一个使用科大讯飞SDK实现语音识别的demo。 — HTML · 0 yıldız
+- [wjsan/esp8266_rust_http_client](https://github.com/wjsan/esp8266_rust_http_client) — (açıklama yok) — C++ · 0 yıldız
+- [wjwebdev/cheatsheet](https://github.com/wjwebdev/cheatsheet) — Codecademy Cheat Sheet Project — HTML · 0 yıldız
+- [wjwnnenskw2/DiscordAuthSync-1.7.10](https://github.com/wjwnnenskw2/DiscordAuthSync-1.7.10) — Discord to Minecraft 1.7.10 sync bridge and async whitelist verification mod — Java · 0 yıldız
+- [WJYSSS284/Minecraft_link_esp32s3](https://github.com/WJYSSS284/Minecraft_link_esp32s3) — 可以通过我的世界的控制器控制现实的esp32，但是我因为我没学过java，java部分是ai写的，esp32是使用的是esp32s3,不过这个没做完，效果就是视频里那个样子，等放暑假8月我会完善下的 — HTML · 0 yıldız
+- [wkctnnd/sparky-plus](https://github.com/wkctnnd/sparky-plus) — (açıklama yok) — — · 0 yıldız
+- [wkcw/RAFT-KV-STORE](https://github.com/wkcw/RAFT-KV-STORE) — A key-value store system with raft. — Go · 0 yıldız
+- [WKED/Team-Fortress-2-Hackers](https://github.com/WKED/Team-Fortress-2-Hackers) — A list of users and servers where TF2 hackers were found. — — · 0 yıldız
+- [wkjarosz/SamplinSafari](https://github.com/wkjarosz/SamplinSafari) — Samplin' Safari is a research tool to visualize and interactively inspect high-dimensional (quasi) Monte Carlo samplers. — — · 0 yıldız
+- [Wkolss/HPPlearning](https://github.com/Wkolss/HPPlearning) — (açıklama yok) — HTML · 0 yıldız
+- [Wkolss/HPPlearnings](https://github.com/Wkolss/HPPlearnings) — This project was uploaded for displaying into websites — — · 0 yıldız
+- [wkoszek/pczpai](https://github.com/wkoszek/pczpai) — Source code from Programming Engineering Applications CS university course — C++ · 0 yıldız
+- [wkpntrs/KiddionsModMenu](https://github.com/wkpntrs/KiddionsModMenu) — (açıklama yok) — — · 0 yıldız
+- [wkpuy/khayab](https://github.com/wkpuy/khayab) — 🧍 macOS Menu Bar app — Stand Up Reminder with configurable work hours — Python · 0 yıldız
+- [wkyoon/esp32_espressif_sample](https://github.com/wkyoon/esp32_espressif_sample) — (açıklama yok) — CMake · 0 yıldız
+- [wl01618692/Bezier-BSpline](https://github.com/wl01618692/Bezier-BSpline) — (açıklama yok) — — · 0 yıldız
+- [wladislavk/FixtureLoaderBundle](https://github.com/wladislavk/FixtureLoaderBundle) — A bundle for Symfony2/3 that adds loading mechanisms for MySQL Doctrine fixtures — PHP · 0 yıldız
+- [WladmirD/HPplus](https://github.com/WladmirD/HPplus) — (açıklama yok) — JavaScript · 0 yıldız
+- [WladSchmidt/astral-tactics](https://github.com/WladSchmidt/astral-tactics) — Astral Tactics is a turn-based space tactics game made with React and Phaser, featuring squad-based combat, predictive movement,… — JavaScript · 0 yıldız
+- [wlawler/apb2](https://github.com/wlawler/apb2) — angular-pro-base-2 — — · 0 yıldız
+- [wlcpaim/NeverloseBot](https://github.com/wlcpaim/NeverloseBot) — (açıklama yok) — TypeScript · 0 yıldız
+- [wleejess/one-time-pad](https://github.com/wleejess/one-time-pad) — Portfolio assignment for [CS344 - Operating Systems] to develop a set of programs in C to generate a random key file, encrypt… — C · 0 yıldız
+- [WLFGRL2014/BasicsExercises](https://github.com/WLFGRL2014/BasicsExercises) — Well... you know... gotta make my profile active so... yeah that's it, just some primordial codes and stuff — — · 0 yıldız
+- [wlivinston/mtaridershippredictor](https://github.com/wlivinston/mtaridershippredictor) — The project displays the estimated total ridership for the selected conditions using the trained model — Jupyter Notebook · 0 yıldız
+- [wlodarczykbart/SunEngine](https://github.com/wlodarczykbart/SunEngine) — (açıklama yok) — — · 0 yıldız
+- [wltnkim/UMTRI_Occupant_Behavior](https://github.com/wltnkim/UMTRI_Occupant_Behavior) — Code for multimodal sequence modeling of in-vehicle occupant behavior recognition using MLP, LSTM, and Transformer models.… — Python · 0 yıldız
+- [wlwl2/js-guide](https://github.com/wlwl2/js-guide) — A JavaScript Guide — JavaScript · 0 yıldız
+- [wmalaschonok/ptalk](https://github.com/wmalaschonok/ptalk) — privat key based talk system — Shell · 0 yıldız
+- [wmcgiffert/MIS501-Polars](https://github.com/wmcgiffert/MIS501-Polars) — MIS 501 Polars cheat sheet demo — Python · 0 yıldız
+- [wmill/angular-wp-singlepage](https://github.com/wmill/angular-wp-singlepage) — Shows loading wordpress api json into angular. — — · 0 yıldız
+- [wmltogether/blender_hotkey_cheatsheet](https://github.com/wmltogether/blender_hotkey_cheatsheet) — Blender Hotkey Cheat Sheet — Python · 0 yıldız
+- [wmonteiro-ai/local-llm-cheat-sheet](https://github.com/wmonteiro-ai/local-llm-cheat-sheet) — Local LLM Cheat Sheet — HTML · 0 yıldız
+- [wmonteiro-ai/tts-and-automation-cheat-sheet](https://github.com/wmonteiro-ai/tts-and-automation-cheat-sheet) — TTS and automation cheat sheet — HTML · 0 yıldız
+- [wn2000/vpinball](https://github.com/wn2000/vpinball) — (açıklama yok) — — · 0 yıldız
+- [Wnayar/NUS_CheatSheets](https://github.com/Wnayar/NUS_CheatSheets) — Cheat Sheets and notes for sujects I took in NUS — — · 0 yıldız
+- [Wneos/cheat-sheets](https://github.com/Wneos/cheat-sheets) — This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various… — — · 0 yıldız
+- [wnewbery/eve-api-proxy](https://github.com/wnewbery/eve-api-proxy) — Lightweight proxy service for EVE API's with caching and background loading — C++ · 0 yıldız
+- [wnstdrr/mc-loadshader](https://github.com/wnstdrr/mc-loadshader) — Load Minecraft shaders for Optifine through the command-line — C · 0 yıldız
+- [wntanner/IEX_StockManager](https://github.com/wntanner/IEX_StockManager) — Manage a dynamic list of stocks persisted using a local file system. Display the open, closing, or most recent price. In order to… — Java · 0 yıldız
+- [WNTDonLive/codbo3](https://github.com/WNTDonLive/codbo3) — Godness Bo3 Source by Wanted — — · 0 yıldız
+- [wnuczeq/SpaceUI](https://github.com/wnuczeq/SpaceUI) — Advanced UI for roblox scripts based on rayfield — Lua · 0 yıldız
+- [wo5813288/SampleImageLoader](https://github.com/wo5813288/SampleImageLoader) — Bitmap高效加载缓存 — Java · 0 yıldız
+- [wobozkyng/esx_menu_default](https://github.com/wobozkyng/esx_menu_default) — (açıklama yok) — JavaScript · 0 yıldız
+- [wock9000/thetanarena_sdk_Il2cppinspector_imgui](https://github.com/wock9000/thetanarena_sdk_Il2cppinspector_imgui) — Decompilation of Thetan Arena SDK using Il2cppInspector with imgui — — · 0 yıldız · arşiv
+- [WODE25500/dsh-cheatsheet](https://github.com/WODE25500/dsh-cheatsheet) — DeepSeek Harness 中文速查手册 — CLI / 运行模式 / 配置 / 插件开发一页速查 — HTML · 0 yıldız
+- [wodsonsur-blip/FreeFire-BlackMenu-](https://github.com/wodsonsur-blip/FreeFire-BlackMenu-) — (açıklama yok) — Objective-C++ · 0 yıldız
+- [woehrl/network-debugging-cheatsheet](https://github.com/woehrl/network-debugging-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [woeli/cheatsheet_Azure_ML](https://github.com/woeli/cheatsheet_Azure_ML) — Cheatsheet Azure ML — Jupyter Notebook · 0 yıldız
+- [Woestijnbok/Rogue-Pokemon](https://github.com/Woestijnbok/Rogue-Pokemon) — A small Pokémon fan project inspired by Pokémon Emerald, featuring roguelike mechanics. — — · 0 yıldız
+- [wof8317/quake2-linux](https://github.com/wof8317/quake2-linux) — A fork of icculus' fork of the Quake 2 GPL Source code, but with the inclusion of the Xatrix, Rogue, and Zaero expansions. — C · 0 yıldız
+- [Woh-Kye-Le/Portfolio](https://github.com/Woh-Kye-Le/Portfolio) — Projects that has been done so far — — · 0 yıldız
+- [woidptr/Myra](https://github.com/woidptr/Myra) — A Minecraft Bedrock Edition mod — — · 0 yıldız
+- [wojciechbojakowski/noteCheatSheet](https://github.com/wojciechbojakowski/noteCheatSheet) — (açıklama yok) — JavaScript · 0 yıldız
+- [WojciechHrycenko/AdvancedR](https://github.com/WojciechHrycenko/AdvancedR) — This repository contains a smart Cooking Recipe Recommendation System. The project utilizes object-oriented programming in R (R6… — R · 0 yıldız
+- [WojciechMigda/de-computatis-presentation](https://github.com/WojciechMigda/de-computatis-presentation) — De computatis - presentation describing Information.hpp features — JavaScript · 0 yıldız
+- [WojciechNagel/Cpp-GameLuck100](https://github.com/WojciechNagel/Cpp-GameLuck100) — C++, Game shoot in one hundred, with menu, 2players or vs bot — C++ · 0 yıldız
+- [wojiaodoubao/raft](https://github.com/wojiaodoubao/raft) — A key-value store system based on raft. — Java · 0 yıldız
+- [Wojtanello-coder/Beestation](https://github.com/Wojtanello-coder/Beestation) — Terraria mod based on bees, gears and stars — C# · 0 yıldız
+- [Wojtekb30/Draw-with-CPU-cores](https://github.com/Wojtekb30/Draw-with-CPU-cores) — A fun Windows C++ program which loads specific CPU cores to 100% so you can draw something in CPU core usage view in task manager. — C++ · 0 yıldız
+- [WojtekMatr/Laser-Turret-Stm32](https://github.com/WojtekMatr/Laser-Turret-Stm32) — (açıklama yok) — — · 0 yıldız
+- [WokeCoder/Trains-A-Junction-And-Semaphores](https://github.com/WokeCoder/Trains-A-Junction-And-Semaphores) — This a program written in C dealing with trains trying to cross a junction (N,E,S,W) and showing my own deadlock detection… — C · 0 yıldız
+- [WokenDream/WD_KVStore](https://github.com/WokenDream/WD_KVStore) — A key-value storage system — Java · 0 yıldız
+- [wolfandbutterfly9194-cyber/Warzone2100-Source-Fork-RTW](https://github.com/wolfandbutterfly9194-cyber/Warzone2100-Source-Fork-RTW) — A highly experimental own build of the game with a map meta — C++ · 0 yıldız
+- [wolfarmoon/AutenticoServer](https://github.com/wolfarmoon/AutenticoServer) — Auténtico Server - A solution for Minecraft client spoofing for private SMPs. — Java · 0 yıldız
+- [WolfAURman/jdk_minecraft](https://github.com/WolfAURman/jdk_minecraft) — RockyLinux based container using graalvm OpenJDK — — · 0 yıldız · arşiv
+- [WolfeWareTech/SantaCheatSheet](https://github.com/WolfeWareTech/SantaCheatSheet) — Fun app to share with the family to get Christmas ideas — TypeScript · 0 yıldız
+- [WolfFila/Wolf-loading](https://github.com/WolfFila/Wolf-loading) — Fivem Loading — — · 0 yıldız
+- [WolfgangHuang/mit_micromaster_datascience_cheatsheet](https://github.com/WolfgangHuang/mit_micromaster_datascience_cheatsheet) — Cheatsheets for MIT Micromaster Data Science — — · 0 yıldız
+- [wolfgangr/solarlog2sql](https://github.com/wolfgangr/solarlog2sql) — Load solarlog data into mysql database — Perl · 0 yıldız
+- [WolfoDev/HevoKeyboard](https://github.com/WolfoDev/HevoKeyboard) — Keyboard that can be used when the system keyboard isn't working right (WMR/HL). — C# · 0 yıldız
+- [WolfPack-Development/no_reticle](https://github.com/WolfPack-Development/no_reticle) — No Reticle is a simple FiveM script that removes the crosshair from all weapons, enhancing realism and immersion for roleplay… — Lua · 0 yıldız
+- [WolfPack-Development/server_latency_optimization](https://github.com/WolfPack-Development/server_latency_optimization) — Server_Latency Optimization is a performance-focused FiveM script designed to reduce lag, improve tick rates, and stabilize… — Lua · 0 yıldız
+- [WolframMc/Wolfram](https://github.com/WolframMc/Wolfram) — Opensource full async actor-based event-driven netty server for minecraft — Java · 0 yıldız
+- [Wolfsmask/Primordial](https://github.com/Wolfsmask/Primordial) — Yes — Python · 0 yıldız
+- [wolfwaredigital/HPPlusiOS](https://github.com/wolfwaredigital/HPPlusiOS) — (açıklama yok) — Swift · 0 yıldız
+- [WolfyLolfy11/Arma-Reforger-PM22lr](https://github.com/WolfyLolfy11/Arma-Reforger-PM22lr) — Open source custom 22lr ammo — — · 0 yıldız
+- [woliveira1993/Hacker-Tools](https://github.com/woliveira1993/Hacker-Tools) — Ferramentas para coleta de informação do alvo — PHP · 0 yıldız
+- [WOLVEX100000/Sword-Simulator-2take1.tk](https://github.com/WOLVEX100000/Sword-Simulator-2take1.tk) — (açıklama yok) — — · 0 yıldız
+- [Wonderblaq/esp32-pet-feeder-system](https://github.com/Wonderblaq/esp32-pet-feeder-system) — A final-year embedded systems course project at the University of Energy and Natural Resources (UENR), featuring C++ firmware… — C++ · 0 yıldız
+- [WonderfulK-JGithub/VulkanProject](https://github.com/WonderfulK-JGithub/VulkanProject) — (açıklama yok) — — · 0 yıldız
+- [wonderfulPudding/Dual-Arm-Folding-Clothes-Robot](https://github.com/wonderfulPudding/Dual-Arm-Folding-Clothes-Robot) — This project is the final project files and source codes for the first-yesr "Artifical Intelligence Introuduction" course! — Python · 0 yıldız
+- [wonderland1995/HPPcharts](https://github.com/wonderland1995/HPPcharts) — Created with CodeSandbox — — · 0 yıldız
+- [wonduck-hub/Duck](https://github.com/wonduck-hub/Duck) — (açıklama yok) — — · 0 yıldız
+- [Wongjunjeck/roblox-hacker](https://github.com/Wongjunjeck/roblox-hacker) — (açıklama yok) — Lua · 0 yıldız
+- [woniksmail-svg/skeet-new](https://github.com/woniksmail-svg/skeet-new) — skeet by RAZE — — · 0 yıldız
+- [woniksmail-svg/skeet-newlauncher](https://github.com/woniksmail-svg/skeet-newlauncher) — skeet by RAZE — — · 0 yıldız
+- [wonlee2019/Non-root-User-builds-GLIBC-2.32](https://github.com/wonlee2019/Non-root-User-builds-GLIBC-2.32) — "bison --yacc --name-prefix=__gettext --output plural.c plural.y" loads to "bison: m4 subprocess failed: permission denied." — — · 0 yıldız
+- [Wonn22/Studify](https://github.com/Wonn22/Studify) — Studify is the all-in-one productivity ecosystem designed to transform the chaotic student experience into a streamlined path to… — TypeScript · 0 yıldız
+- [wonnd3r/SPOKY](https://github.com/wonnd3r/SPOKY) — Source of a Minecraft mod: Spoky — Java · 0 yıldız
+- [wonsz-zeczny/nes-emu](https://github.com/wonsz-zeczny/nes-emu) — Emulator of NES — — · 0 yıldız
+- [Wontonify/Guess-My-Penalty](https://github.com/Wontonify/Guess-My-Penalty) — Source Code for the Roblox Game Guess My Penalty! — Luau · 0 yıldız
+- [woo00/hppyjob](https://github.com/woo00/hppyjob) — (açıklama yok) — — · 0 yıldız
+- [woo1590/GunFire_Reborn](https://github.com/woo1590/GunFire_Reborn) — (açıklama yok) — — · 0 yıldız
+- [woo1590/SR_TeamProject](https://github.com/woo1590/SR_TeamProject) — (açıklama yok) — — · 0 yıldız
+- [wooboo/esp32-overwatch](https://github.com/wooboo/esp32-overwatch) — (açıklama yok) — HTML · 0 yıldız
+- [woodoomustik37/neverlose-minecraft-mod](https://github.com/woodoomustik37/neverlose-minecraft-mod) — (açıklama yok) — — · 0 yıldız
+- [woodp1anks/FallingFlowers](https://github.com/woodp1anks/FallingFlowers) — a minecraft hacked client — Java · 0 yıldız
+- [woodteam/LiquidShadowLegacy](https://github.com/woodteam/LiquidShadowLegacy) — a minecraft hacked client based on liquid bounce. — Kotlin · 0 yıldız · arşiv
+- [woodyFang/voxel-tools](https://github.com/woodyFang/voxel-tools) — Private GTA / UrhoX Teardown voxel tooling source — Python · 0 yıldız
+- [woodypianoshack/SC88PRO_resources](https://github.com/woodypianoshack/SC88PRO_resources) — Cheat sheets and DAW resources for Roland SC88Pro Sound Canvas — HTML · 0 yıldız
+- [Woogles/git_cheat_Sheet](https://github.com/Woogles/git_cheat_Sheet) — Cheat sheet for understanding and learning git — — · 0 yıldız
+- [Woogy7/rails-cheat-sheet](https://github.com/Woogy7/rails-cheat-sheet) — (açıklama yok) — HTML · 0 yıldız
+- [woojin0128/valorant-vod-analyzer](https://github.com/woojin0128/valorant-vod-analyzer) — AI-based Valorant VOD analyzer using Whisper, GPT, and Streamlit. — — · 0 yıldız
+- [woojin0128/valorant-vod-analyzer2](https://github.com/woojin0128/valorant-vod-analyzer2) — AI-based Valorant VOD analyzer using Whisper, GPT, and Streamlit. — — · 0 yıldız
+- [Wookie20/BA](https://github.com/Wookie20/BA) — Bachelor Thesis of Felix Mayer. Titel: Standardized AR Marker Integration for Heterogeneous Mobile Augmented Reality Systems with… — — · 0 yıldız
+- [wooksi/pastahook](https://github.com/wooksi/pastahook) — ur a retard smexy, remember that. Memedora owns you and ur whole family <3 — — · 0 yıldız
+- [wooksun/Project_BaseballSquad](https://github.com/wooksun/Project_BaseballSquad) — (açıklama yok) — Java · 0 yıldız
+- [wooldridge/ml-load-triples](https://github.com/wooldridge/ml-load-triples) — Loading triples via REST/Node.js API — JavaScript · 0 yıldız
+- [woonnajeevan7-coder/-shoppyglobe](https://github.com/woonnajeevan7-coder/-shoppyglobe) — (açıklama yok) — JavaScript · 0 yıldız
+- [woonnajeevan7-coder/shoppyglobe](https://github.com/woonnajeevan7-coder/shoppyglobe) — (açıklama yok) — JavaScript · 0 yıldız
+- [woooooni/Ninokuni_CrossWorlds](https://github.com/woooooni/Ninokuni_CrossWorlds) — (açıklama yok) — — · 0 yıldız
+- [WOOSEOK99/S8RPKCheats](https://github.com/WOOSEOK99/S8RPKCheats) — (açıklama yok) — — · 0 yıldız
+- [Wooshibou/Megabonk-InstantChests-MelonLoader](https://github.com/Wooshibou/Megabonk-InstantChests-MelonLoader) — bah c'est un mod megabonk quoi — C# · 0 yıldız
+- [woosook0127/PUBG_Team_Status](https://github.com/woosook0127/PUBG_Team_Status) — Let you know Team Status based on your matching log — — · 0 yıldız
+- [WOOTAEKJO/3D_Personal_Project](https://github.com/WOOTAEKJO/3D_Personal_Project) — (açıklama yok) — — · 0 yıldız
+- [WOOTAEKJO/EngineLab](https://github.com/WOOTAEKJO/EngineLab) — (açıklama yok) — — · 0 yıldız
+- [WoowzCore/Source-Content-Counter-Strike-Global-Offensive](https://github.com/WoowzCore/Source-Content-Counter-Strike-Global-Offensive) — (açıklama yok) — — · 0 yıldız
+- [WoowzCore/Source-Content-Left-4-Dead](https://github.com/WoowzCore/Source-Content-Left-4-Dead) — (açıklama yok) — ReScript · 0 yıldız
+- [WoowzCore/Source-Content-Left-4-Dead-2](https://github.com/WoowzCore/Source-Content-Left-4-Dead-2) — (açıklama yok) — ReScript · 0 yıldız
+- [WoowzCore/Source-Content-Team-Fortress-2](https://github.com/WoowzCore/Source-Content-Team-Fortress-2) — (açıklama yok) — ReScript · 0 yıldız
+- [wooyakob/tinysqlengine](https://github.com/wooyakob/tinysqlengine) — c++ db, storing rows in mem, basic sql-like queries, simple parser for commands, query executor, table storage system. — C++ · 0 yıldız
+- [WoozyDeveloper/IMR_PROJECT](https://github.com/WoozyDeveloper/IMR_PROJECT) — (açıklama yok) — — · 0 yıldız
+- [woragis/valorant-wiki](https://github.com/woragis/valorant-wiki) — Valorant wiki - Next.js app with dynamic routes for maps, agents (characters) and weapons; navbar and slug-based pages; gaming… — TypeScript · 0 yıldız
+- [wordcuplife/cheatsheet](https://github.com/wordcuplife/cheatsheet) — Codex skill for creating dense, source-faithful, printable A4 revision cheatsheets from lecture materials and optional exam… — Python · 0 yıldız
+- [WordleApp/wordleapp](https://github.com/WordleApp/wordleapp) — WordLeapp is a web-based word game developed by Sam Benatovich, Philippe Ngom, Arma Burton, & Abriel Cleaver — JavaScript · 0 yıldız
+- [wordprovider/hpp](https://github.com/wordprovider/hpp) — (açıklama yok) — Ruby · 0 yıldız
+- [wordunathan-stack/Doom-Fruits](https://github.com/wordunathan-stack/Doom-Fruits) — A roblox mmo game based on one of the best animes — HTML · 0 yıldız
+- [wordwall80/cheat-sheet-paragraph-4](https://github.com/wordwall80/cheat-sheet-paragraph-4) — (açıklama yok) — HTML · 0 yıldız
+- [workarea720-cmd/ZipSellix](https://github.com/workarea720-cmd/ZipSellix) — (açıklama yok) — TypeScript · 0 yıldız
+- [workbydivyanshu/cheatsheets](https://github.com/workbydivyanshu/cheatsheets) — (açıklama yok) — HTML · 0 yıldız
+- [workflo17/trains-now](https://github.com/workflo17/trains-now) — Every subway train the MTA is reporting, live. The feed publishes no coordinates, so this decodes the protobuf by hand and… — JavaScript · 0 yıldız
+- [working-backwards/primordial-soup](https://github.com/working-backwards/primordial-soup) — Simulating the structural ingredients of continuous innovation — Python · 0 yıldız
+- [workingmans-ai/dash-cheatsheets](https://github.com/workingmans-ai/dash-cheatsheets) — (açıklama yok) — Ruby · 0 yıldız
+- [workloads/minecraft-bot](https://github.com/workloads/minecraft-bot) — Mineflayer-based Excavation Assistant — TypeScript · 0 yıldız
+- [WorkspaceAssets/ForgeAssets](https://github.com/WorkspaceAssets/ForgeAssets) — A collection of open-source Roblox systems, scripts and assets. Designed to be simple, clean and easy to use. — — · 0 yıldız
+- [workujanka/Cheatsheet](https://github.com/workujanka/Cheatsheet) — Short codes — — · 0 yıldız
+- [workwithphanikumarkodukulla/Spam-Message-Detector-Model](https://github.com/workwithphanikumarkodukulla/Spam-Message-Detector-Model) — Here it is: SpamGuard is a Flask web app that detects email & SMS spam in real time using a Linear SVM model trained with NLTK… — HTML · 0 yıldız
+- [worldclassfc/bhavan](https://github.com/worldclassfc/bhavan) — Bhavan is a Class 9 CBSE student based in Avinashi, Tamil Nadu, with a sharp academic focus on social sciences and information… — — · 0 yıldız
+- [worldline-zero/minecraft-epq-2](https://github.com/worldline-zero/minecraft-epq-2) — source code for the second iteration of my minecraft clone epq — C++ · 0 yıldız
+- [WorldTour3/sundiata-sim](https://github.com/WorldTour3/sundiata-sim) — sundiata-sim CLI is a turn-based command-line strategy simulation where you play as the leader of a fictional country facing… — Python · 0 yıldız
+- [WorldW996/CheatSheet-Releases](https://github.com/WorldW996/CheatSheet-Releases) — CheatSheet AI - Official Public Releases for Android — — · 0 yıldız
+- [WorldWideEsportsNews/PakistanEsportsNews.github.io](https://github.com/WorldWideEsportsNews/PakistanEsportsNews.github.io) — Competitive Free Fire esports news, roster updates, match recaps, and MVP spotlights—featuring LPX Esports and Pakistan's top… — HTML · 0 yıldız
+- [WorldWideEsportsNews/WorldWideFreeFireEsportsNews.github.io](https://github.com/WorldWideEsportsNews/WorldWideFreeFireEsportsNews.github.io) — LPX ESPORTS SHOWED A REALLY GOOD PERFORMANCE WHILE REPRESENTING PAKISTAN AT VERY TOP LEVEL THE MVP OF THE TORNAMENT WAS LPX… — — · 0 yıldız
+- [worldwithai-luke/Yolov5_AI_Aimbot](https://github.com/worldwithai-luke/Yolov5_AI_Aimbot) — This is trained for valorant — Python · 0 yıldız
+- [wormprojects/ftpd](https://github.com/wormprojects/ftpd) — (açıklama yok) — — · 0 yıldız
+- [WormSlayer/silent-storm-rtx](https://github.com/WormSlayer/silent-storm-rtx) — (açıklama yok) — — · 0 yıldız
+- [wortex1232/lisansv2](https://github.com/wortex1232/lisansv2) — (açıklama yok) — — · 0 yıldız
+- [worthyemeka/inspect-tools-cheatsheet](https://github.com/worthyemeka/inspect-tools-cheatsheet) — Day 35/100; A git cheat-sheet to understanding how to use the browser inspect tool as a developer. — — · 0 yıldız
+- [woshisck/Dev01](https://github.com/woshisck/Dev01) — (açıklama yok) — — · 0 yıldız
+- [woulf-alpha/SampleMenuVita](https://github.com/woulf-alpha/SampleMenuVita) — Simple Menu PSVITA — C · 0 yıldız
+- [Wow-Gate/server-core](https://github.com/Wow-Gate/server-core) — Private server World of Warcraft — — · 0 yıldız
+- [wowoGit/hppgenerator](https://github.com/wowoGit/hppgenerator) — (açıklama yok) — Python · 0 yıldız
+- [wowones/gta6-trophy-guide](https://github.com/wowones/gta6-trophy-guide) — GTA VI trophy guide — all 55 trophies with cited sources, roadmap, missable flags. Built by an AI agent for make.fun's Build the… — JavaScript · 0 yıldız
+- [wowones/gta6-trophy-guide-offline](https://github.com/wowones/gta6-trophy-guide-offline) — GTA VI trophy guide — all 55 trophies with cited sources, roadmap, missable flags. Built by an AI agent for make.fun's Build the… — JavaScript · 0 yıldız
+- [wowones/gta6-trophy-guide-v2](https://github.com/wowones/gta6-trophy-guide-v2) — Offline GTA VI trophy tracker and guide for all 55 trophies, with sources and roadmap. Entry for make.fun's Build the best GTA 6… — JavaScript · 0 yıldız
+- [WoWReforgedTeam/WoWReforged](https://github.com/WoWReforgedTeam/WoWReforged) — Everything we ever did for the Reforged WoW Server is here. — — · 0 yıldız
+- [wowseru/ai-affiliate-storyboard](https://github.com/wowseru/ai-affiliate-storyboard) — WOWSERU AI AFFILIATE STORYBOARD transforms product briefs into engaging AI-powered affiliate content. Create 3 connected… — JavaScript · 0 yıldız
+- [Woxruz/HackingTool](https://github.com/Woxruz/HackingTool) — (açıklama yok) — Hack · 0 yıldız
+- [wozehua/SourceGeneratorSample](https://github.com/wozehua/SourceGeneratorSample) — (açıklama yok) — C# · 0 yıldız
+- [WoZhiZhan/Star-Source-Blade](https://github.com/WoZhiZhan/Star-Source-Blade) — a minecraft mod — Java · 0 yıldız
+- [wparks08/TriviaGame](https://github.com/wparks08/TriviaGame) — A small, fully front-end trivia game with questions based on the Final Fantasy video game series — JavaScript · 0 yıldız
+- [wpendl99/Minecraft-Wallpaper-Project](https://github.com/wpendl99/Minecraft-Wallpaper-Project) — A project that uses a Minecraft mod, a trained Neural Network, and simple web services to make it so that my phone's wallpaper… — — · 0 yıldız
+- [wppoliver/Model-for-estimating-minute-ventilation](https://github.com/wppoliver/Model-for-estimating-minute-ventilation) — Estimation of minute ventilation based on random forest model and XGBoost model. Minute ventilation can be used to more… — Python · 0 yıldız
+- [wq1995wq/hpppp](https://github.com/wq1995wq/hpppp) — adadadadda — HTML · 0 yıldız
+- [wqrld2022/GainCheat-Fortnite-Source](https://github.com/wqrld2022/GainCheat-Fortnite-Source) — Without credits i will boot ur ip — — · 0 yıldız
+- [wqsdeq/sap-cheat-sheet-collection-miniature-meme](https://github.com/wqsdeq/sap-cheat-sheet-collection-miniature-meme) — (açıklama yok) — — · 0 yıldız
+- [Wqustedz/valorant_spoofer](https://github.com/Wqustedz/valorant_spoofer) — (açıklama yok) — — · 0 yıldız
+- [Wr1nd/Asetto-Cursed](https://github.com/Wr1nd/Asetto-Cursed) — (açıklama yok) — — · 0 yıldız
+- [WRAGG5/mta-sts.managed.hackerone.com](https://github.com/WRAGG5/mta-sts.managed.hackerone.com) — (açıklama yok) — HTML · 0 yıldız
+- [WraithOne/WOtech2](https://github.com/WraithOne/WOtech2) — (açıklama yok) — — · 0 yıldız
+- [Wrapzii/TwitchChatPullCodes-Battlefield-6](https://github.com/Wrapzii/TwitchChatPullCodes-Battlefield-6) — this pulls codes from twitch chat and pastes them into ea or puts it into your clipboard — Python · 0 yıldız
+- [wrbraga/InstallOracleDataBaseAndApexORDS](https://github.com/wrbraga/InstallOracleDataBaseAndApexORDS) — shell script for installation of the Oracle DataBase 19, APEX 21 and ORDS 21. — Shell · 0 yıldız
+- [wrcusic/Sys-Admin-Cheat-Sheet](https://github.com/wrcusic/Sys-Admin-Cheat-Sheet) — Cheat sheet of commands and scripts used in day to day practice as a sys admin — PowerShell · 0 yıldız
+- [wrdforme/NeverLose](https://github.com/wrdforme/NeverLose) — (açıklama yok) — Lua · 0 yıldız
+- [wrdforme/skeet](https://github.com/wrdforme/skeet) — (açıklama yok) — Lua · 0 yıldız
+- [wrecker1602/CheatSheet](https://github.com/wrecker1602/CheatSheet) — (açıklama yok) — — · 0 yıldız
+- [Wregret/breeoche](https://github.com/Wregret/breeoche) — Breeoche is a simple key/value storage service for trying out tech stacks of distributed systems. — Go · 0 yıldız
+- [Wrenbjor/thought](https://github.com/Wrenbjor/thought) — A Docker-based API for generating images with the [FLUX.1-dev](https://huggingface.co/black-forest-l — Python · 0 yıldız
+- [wrest1337/RobloxCheats](https://github.com/wrest1337/RobloxCheats) — (açıklama yok) — Lua · 0 yıldız
+- [wrgdevs/software-rasterizer](https://github.com/wrgdevs/software-rasterizer) — From-scratch software 3D rasterizer featuring barycentric interpolation, z-buffering, texture mapping, normal mapping, specular… — — · 0 yıldız
+- [WRI-Science/roads-pnas](https://github.com/WRI-Science/roads-pnas) — Reproducible analysis repo for our PNAS study of wildfire evacuation vulnerability across U.S. communities. Includes the frozen… — Jupyter Notebook · 0 yıldız
+- [wrikych/rf-from-scratch](https://github.com/wrikych/rf-from-scratch) — A math-based approach to the data preparation, training, and evaluation of a random forest model. Using no specialized data… — HTML · 0 yıldız
+- [Writ2003/OneTap](https://github.com/Writ2003/OneTap) — (açıklama yok) — JavaScript · 0 yıldız
+- [writsop/dev-cheatsheets](https://github.com/writsop/dev-cheatsheets) — Free developer cheatsheet PDFs: Python, Git, Docker, Regex. Dark themed, printable. — Python · 0 yıldız
+- [WrixesDog/skeetluas](https://github.com/WrixesDog/skeetluas) — just done dog luas — Lua · 0 yıldız
+- [wrldspawn/extload](https://github.com/wrldspawn/extload) — Garry's Mod loading order extended. Adds preinit, postinit and postautorun steps and gamemode specific autorun. — Lua · 0 yıldız
+- [wrmf/CS2463_PersonApplication](https://github.com/wrmf/CS2463_PersonApplication) — GUI stuff for class. Public repo so that source button works. — Java · 0 yıldız
+- [Wrn13/HackSquad](https://github.com/Wrn13/HackSquad) — HackSquad's HackOHIO 10 repository — JavaScript · 0 yıldız
+- [wrongu/sampling-dynamics](https://github.com/wrongu/sampling-dynamics) — Source code for research project on mixing times in a sampling model of perception — Python · 0 yıldız
+- [Wrtzqqq/GitCheatSheet](https://github.com/Wrtzqqq/GitCheatSheet) — (açıklama yok) — HTML · 0 yıldız
+- [wrwalker/ECE356-Final-Project](https://github.com/wrwalker/ECE356-Final-Project) — The final project of our ECE 356 course. In this project, we build a MySQL based database system to predict the results of the… — Jupyter Notebook · 0 yıldız
+- [wry821/VGG--UNet-](https://github.com/wry821/VGG--UNet-) — Implements the paper’s VGG16–UNet++ hybrid: a 1×1 projection maps C-channel inputs to 3 channels for ImageNet-pretrained VGG16,… — Python · 0 yıldız
+- [wry821/VGG16-UNet-](https://github.com/wry821/VGG16-UNet-) — Implements the paper’s VGG16–UNet++ hybrid: a 1×1 projection maps C-channel inputs to 3 channels for ImageNet-pretrained VGG16,… — Python · 0 yıldız
+- [WS-LWD/SecKeySystem](https://github.com/WS-LWD/SecKeySystem) — (açıklama yok) — C++ · 0 yıldız
+- [wsand02/gmod-load-screen](https://github.com/wsand02/gmod-load-screen) — A loading screen for your gmod server. — PHP · 0 yıldız · arşiv
+- [WSank/gmod-source-sdk](https://github.com/WSank/gmod-source-sdk) — (açıklama yok) — C++ · 0 yıldız
+- [wSantosInfoSec/cheatSheet](https://github.com/wSantosInfoSec/cheatSheet) — this is a cheatsheet for my notes, so I can access them from anywhere. — — · 0 yıldız
+- [wschotte/GameSenseTechHackEmbedded](https://github.com/wschotte/GameSenseTechHackEmbedded) — embedded code for GameSense, our team's TechHack project submission — C++ · 0 yıldız
+- [wsdanshenmiao/QG-Project](https://github.com/wsdanshenmiao/QG-Project) — (açıklama yok) — — · 0 yıldız
+- [wseemye/Driver-Drowsiness-Detection](https://github.com/wseemye/Driver-Drowsiness-Detection) — In recent years, driver drowsiness has been one of the major causes of road accidents and may lead to fatality. Statistics… — Python · 0 yıldız
+- [wSkidX/aimbotRoblox](https://github.com/wSkidX/aimbotRoblox) — (açıklama yok) — Lua · 0 yıldız
+- [wsollers/exe_viewer](https://github.com/wsollers/exe_viewer) — Executable file view — — · 0 yıldız
+- [wspicher/Arma3-Camping-Misson](https://github.com/wspicher/Arma3-Camping-Misson) — This repo contains the source files for my"Triumph of The Human Spirit" hiking and camping mission in Arma 3. — SQF · 0 yıldız
+- [wspicher/Arma3-Gun-Running-Mission](https://github.com/wspicher/Arma3-Gun-Running-Mission) — This repo contains the source files for a gun running mission in Arma 3. The player is in charge of running an underground gun… — SQF · 0 yıldız
+- [wspicher/Arma3-Logistics-Mission](https://github.com/wspicher/Arma3-Logistics-Mission) — This repo contains the source files and scripts for a simple logistics mission in Arma 3. The player can request different air… — SQF · 0 yıldız
+- [WSQS/sob.hpp](https://github.com/WSQS/sob.hpp) — (açıklama yok) — C++ · 0 yıldız
+- [wstone43/Relational_Database](https://github.com/wstone43/Relational_Database) — SQL Code Examples, Cheat Sheets, Other Helpful Information — — · 0 yıldız
+- [WSU-HELPLAB/OSBLE-Codeplex-Archive](https://github.com/WSU-HELPLAB/OSBLE-Codeplex-Archive) — A repository containing the final (full) contents of the OSBLE codebase from CodePlex. This repository has been created because… — C# · 0 yıldız
+- [wsun19/OverWatch-HopHacks-Spring-2016](https://github.com/wsun19/OverWatch-HopHacks-Spring-2016) — Spring 2016 — Java · 0 yıldız
+- [wsw364321644/SimpleOverlayDll](https://github.com/wsw364321644/SimpleOverlayDll) — (açıklama yok) — — · 0 yıldız
+- [wtbui/Morse-Discord-Bot](https://github.com/wtbui/Morse-Discord-Bot) — A Java based Valorant web-scraping bot for use in Discord servers. — Java · 0 yıldız
+- [WtdBoat/BankMarketingTermDeposit](https://github.com/WtdBoat/BankMarketingTermDeposit) — This project predicts whether a bank client will subscribe to a term deposit, based on data from direct marketing campaigns. I… — Jupyter Notebook · 0 yıldız
+- [wtf-sin/paradox](https://github.com/wtf-sin/paradox) — real gamesense bro... — — · 0 yıldız
+- [wtffqbpl/cpp_imgui](https://github.com/wtffqbpl/cpp_imgui) — (açıklama yok) — — · 0 yıldız
+- [wtnb36/source_tree_sample](https://github.com/wtnb36/source_tree_sample) — (açıklama yok) — — · 0 yıldız
+- [wtnmcw/G-ready](https://github.com/wtnmcw/G-ready) — G-ready — SourcePawn · 0 yıldız
+- [wtrader/wtrader](https://github.com/wtrader/wtrader) — Web Crawler used to load data of the BM&FBOVESPA. — Java · 0 yıldız
+- [wtrsltnk/zynaddsubfx-classic](https://github.com/wtrsltnk/zynaddsubfx-classic) — (açıklama yok) — — · 0 yıldız
+- [wtshorro/Sudoku](https://github.com/wtshorro/Sudoku) — A C program which can load sudoku boards, give hints, and can solve any Sudoku puzzle. Can can also be slightly modified to… — C · 0 yıldız
+- [wtsswt/calculus-cheatsheet](https://github.com/wtsswt/calculus-cheatsheet) — 高等数学（第一学期）公式速查：六章 47 张卡片，可搜索、可自测、可打印 — HTML · 0 yıldız
+- [wtttt12138/nus-ee5139-cheatsheet-sem1-y26-27-](https://github.com/wtttt12138/nus-ee5139-cheatsheet-sem1-y26-27-) — NUS EE5139 Information Theory Cheatsheet — — · 0 yıldız
+- [wtttt12138/nus-ee5731-cheatsheet-ay26-27-sem1](https://github.com/wtttt12138/nus-ee5731-cheatsheet-ay26-27-sem1) — NUS EE5731 Visual Computing AY2026/2027 Semester 1 — — · 0 yıldız
+- [wu-geoff/the-shoppies](https://github.com/wu-geoff/the-shoppies) — The actual website of The Shoppies. — HTML · 0 yıldız
+- [wu-geoff/the-shoppies-source](https://github.com/wu-geoff/the-shoppies-source) — The source code the The Shoppies. — TypeScript · 0 yıldız
+- [wu-phoenix/6.4400](https://github.com/wu-phoenix/6.4400) — mit graphics 6.4400 — — · 0 yıldız
+- [wu840407/Parallel-Fractal-Generation-Using-std-thread](https://github.com/wu840407/Parallel-Fractal-Generation-Using-std-thread) — Mandelbrot fractal rendering parallelized with C++ std::thread — workload partitioning, load balancing, and speedup measurement. — C++ · 0 yıldız
+- [wu9o/vim-cheatkey](https://github.com/wu9o/vim-cheatkey) — A searchable cheat sheet for all your Vim keybindings and commands, powered by fzf. — Vim Script · 0 yıldız
+- [wubydacherry/EeXOMI-Orig](https://github.com/wubydacherry/EeXOMI-Orig) — (açıklama yok) — — · 0 yıldız
+- [Wudji/NoPackCompatCheck](https://github.com/Wudji/NoPackCompatCheck) — A Minecraft mod which disables the “incompatible” warning when loading resource packs with different pack versions. — Java · 0 yıldız
+- [WuDuElysia/WuDu-s-UE](https://github.com/WuDuElysia/WuDu-s-UE) — (açıklama yok) — — · 0 yıldız
+- [wujunke201104/hkl](https://github.com/wujunke201104/hkl) — (açıklama yok) — — · 0 yıldız
+- [wumbolover/neverlosebitcoin-tools](https://github.com/wumbolover/neverlosebitcoin-tools) — Open-source bitcoin self-custody tools from NeverLoseBitcoin: multisig wizard, hardware wallet compatibility checker,… — — · 0 yıldız
+- [Wumeizhen/hpple](https://github.com/Wumeizhen/hpple) — (açıklama yok) — Objective-C · 0 yıldız
+- [wumpochuck/Godot_CSV](https://github.com/wumpochuck/Godot_CSV) — A simple Computer Processes Visualizer — GDScript · 0 yıldız
+- [wunnle/star-trek-catan-cheatsheet](https://github.com/wunnle/star-trek-catan-cheatsheet) — English cheat sheet for the German edition of Star Trek Catan: crew (support) cards and development cards. — HTML · 0 yıldız
+- [wurtman/academic-website](https://github.com/wurtman/academic-website) — Source of website located at https://cs.csubak.edu/~swurtman — HTML · 0 yıldız
+- [wuruofan-m/Roblox_NumericBase](https://github.com/wuruofan-m/Roblox_NumericBase) — roblox数值类游戏模板 — Lua · 0 yıldız
+- [wuxinyang89-dotcom/SkySakuraEngine](https://github.com/wuxinyang89-dotcom/SkySakuraEngine) — (açıklama yok) — — · 0 yıldız
+- [wuxmax/stand-up](https://github.com/wuxmax/stand-up) — macOS menu-bar app (SwiftUI) that nudges you to sit/stand on an interval and can drive a LINAK standing desk over Bluetooth. — Swift · 0 yıldız
+- [wuyu8512/ArkFramework](https://github.com/wuyu8512/ArkFramework) — (açıklama yok) — — · 0 yıldız
+- [WuYuanJie-211/gta6-trophy-guide](https://github.com/WuYuanJie-211/gta6-trophy-guide) — GTA 6 trophy guide and tracker — offline, open source — JavaScript · 0 yıldız
+- [wVibzz/Zero-Cycle-Cheat-Sheet](https://github.com/wVibzz/Zero-Cycle-Cheat-Sheet) — quick cheat sheet for zero cycling in Minecraft — HTML · 0 yıldız
+- [wwagner33/js-cheatsheet](https://github.com/wwagner33/js-cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [wwb3201369791-cell/sgame](https://github.com/wwb3201369791-cell/sgame) — (açıklama yok) — — · 0 yıldız
+- [wwbbx/SteWebSite](https://github.com/wwbbx/SteWebSite) — Follow single page web application development theory, this web site is developed to load can manage its content dynamic. — JavaScript · 0 yıldız
+- [WWEEER12/skeet-srs](https://github.com/WWEEER12/skeet-srs) — (açıklama yok) — — · 0 yıldız
+- [wweeii11/ultrawide-ambientlight](https://github.com/wweeii11/ultrawide-ambientlight) — "Ambient mode" for games/content that don't support your display aspect ratio — — · 0 yıldız
+- [wwegameplay/gta5cheats](https://github.com/wwegameplay/gta5cheats) — WWE GamePlay is a collection of Playstation, Xbox and PC Exclusicve World Wide Electronic GamePlay videos. — — · 0 yıldız
+- [WWJPB/AI-Vision-Inspector](https://github.com/WWJPB/AI-Vision-Inspector) — Desktop AI application that uses a camera to detect and identify objects in real time. — — · 0 yıldız
+- [wwlorey/kernel-keyboard](https://github.com/wwlorey/kernel-keyboard) — CS 3500 Operating Systems Final Project — C · 0 yıldız
+- [WWolf-dev/esx_society-rework](https://github.com/WWolf-dev/esx_society-rework) — esx_socity rework with ox_lib menu by White Wolf — Lua · 0 yıldız
+- [wwoozyq/exam-cheatsheet](https://github.com/wwoozyq/exam-cheatsheet) — High-density LaTeX cheatsheet template for open-book exams. Chinese & English, 5 color schemes, dense/spacious styles. — TeX · 0 yıldız
+- [WWortkoetter/fatality-map](https://github.com/WWortkoetter/fatality-map) — Map of vehicular fatalities, with focus on Columbus, Ohio. — JavaScript · 0 yıldız
+- [WWortkoetter/OLD_FATALITY_MAP](https://github.com/WWortkoetter/OLD_FATALITY_MAP) — GitHub Page for Fatality Map — JavaScript · 0 yıldız
+- [wwwsenseproject/Neverlose](https://github.com/wwwsenseproject/Neverlose) — (açıklama yok) — — · 0 yıldız
+- [wwwwwqqqqqq/Virtual-Machine-SIA](https://github.com/wwwwwqqqqqq/Virtual-Machine-SIA) — Create a command line application in C called siavm that takes as a parameter a filename (argv[1]). It should call memory’s load… — C · 0 yıldız
+- [wx-03/CG2023-cheatsheet](https://github.com/wx-03/CG2023-cheatsheet) — (açıklama yok) — TeX · 0 yıldız
+- [wx-03/cheatsheet-template](https://github.com/wx-03/cheatsheet-template) — (açıklama yok) — TeX · 0 yıldız
+- [wx-03/CS2107-cheatsheet](https://github.com/wx-03/CS2107-cheatsheet) — (açıklama yok) — TeX · 0 yıldız
+- [wx-03/CS3219-cheatsheet](https://github.com/wx-03/CS3219-cheatsheet) — (açıklama yok) — TeX · 0 yıldız
+- [wx-03/CS3243-cheatsheet](https://github.com/wx-03/CS3243-cheatsheet) — (açıklama yok) — TeX · 0 yıldız
+- [wx-03/EE4204-cheatsheet](https://github.com/wx-03/EE4204-cheatsheet) — (açıklama yok) — TeX · 0 yıldız
+- [wx257osn2/Eventscripts](https://github.com/wx257osn2/Eventscripts) — Eventscripts of Counter-Strike:Source — — · 0 yıldız
+- [wxhxbbxjry/antigravity](https://github.com/wxhxbbxjry/antigravity) — Katalog Spesifikasi & Harga HP TELERING - Cheat Sheet Host Live & Admin Realtime — HTML · 0 yıldız
+- [wxie2013/Adversarial_NN_Study](https://github.com/wxie2013/Adversarial_NN_Study) — study the adversarial attack from various NN the starting point is to come up with a few simple neural networks, i.e. RBF, dense,… — Jupyter Notebook · 0 yıldız
+- [wxlz/halo](https://github.com/wxlz/halo) — An Open Source Project for Halo — — · 0 yıldız
+- [wxxx1234/fatality-chinese-docs](https://github.com/wxxx1234/fatality-chinese-docs) — (açıklama yok) — — · 0 yıldız
+- [wyager/Bitsea](https://github.com/wyager/Bitsea) — P2P Hash-keyed filesharing system — Haskell · 0 yıldız
+- [wyatt232/roblox-browser-player](https://github.com/wyatt232/roblox-browser-player) — Browser-based Roblox place uploader and player prototype for .rbxlx files. — CSS · 0 yıldız
+- [wyattcol/SnowSource](https://github.com/wyattcol/SnowSource) — Snow source is a wonderful roblox exploit source. It is meant to teach the public more about exploiting. — — · 0 yıldız
+- [Wyatte-turtles/Clean_Phobos_1.5.4](https://github.com/Wyatte-turtles/Clean_Phobos_1.5.4) — Clean version of Phobos with no backdoor, Hacked Client for minecraft 1.12.2 — — · 0 yıldız
+- [wyggg/GTA5MenuTool](https://github.com/wyggg/GTA5MenuTool) — GG 2Take1通知翻译器源码 — C# · 0 yıldız
+- [wyggg/GTA5MenuToolConfig](https://github.com/wyggg/GTA5MenuToolConfig) — 2Take1通知翻译器的词库 — — · 0 yıldız
+- [wyhaines/mysqldup](https://github.com/wyhaines/mysqldup) — A command line tool to duplicate MySQL tables in a load-sensitive manner. — — · 0 yıldız
+- [wylkon/hpp](https://github.com/wylkon/hpp) — História da Publicidade e Propaganda — — · 0 yıldız
+- [Wyn-Dev/kladya](https://github.com/Wyn-Dev/kladya) — medical record system for healthcare where cognitive load is key. — JavaScript · 0 yıldız
+- [wyoo9/Module-1--Linux-and-GIT-Command-Cheat-Sheet](https://github.com/wyoo9/Module-1--Linux-and-GIT-Command-Cheat-Sheet) — (açıklama yok) — — · 0 yıldız
+- [wypiek/html-cheat-sheet](https://github.com/wypiek/html-cheat-sheet) — Cheat Sheet for creating HTMLs — HTML · 0 yıldız
+- [Wyrelade/DW2-PC](https://github.com/Wyrelade/DW2-PC) — PC port of Digimon World 2 (PS1) built from the matching decomp. Needs your own disc image. — — · 0 yıldız
+- [Wyrtz/CSGO_Nations_Stats](https://github.com/Wyrtz/CSGO_Nations_Stats) — A project for displaying CSGO stats based on nations — — · 0 yıldız
+- [wyuweng/carliv_touch_recovery](https://github.com/wyuweng/carliv_touch_recovery) — CWM for MTK devices, with touch buttons menu. Please keep my recovery name if you build with this. — C · 0 yıldız
+- [Wyzhun/ot-scripts](https://github.com/Wyzhun/ot-scripts) — scripts for onetap.com — — · 0 yıldız
+- [wz0r/awesome-pentest-cheat-sheets](https://github.com/wz0r/awesome-pentest-cheat-sheets) — (açıklama yok) — — · 0 yıldız
+- [wz0r/awesome-pentest-cheat-sheets-1](https://github.com/wz0r/awesome-pentest-cheat-sheets-1) — (açıklama yok) — — · 0 yıldız
+- [wzhwilliam/NLP-and-Embedded-project](https://github.com/wzhwilliam/NLP-and-Embedded-project) — (açıklama yok) — — · 0 yıldız
+- [wzli/PrimordialParticlesDemo](https://github.com/wzli/PrimordialParticlesDemo) — (açıklama yok) — C++ · 0 yıldız
+- [Wznyu/CS236-Project](https://github.com/Wznyu/CS236-Project) — Multi-Source Review Analytics with PySpark — Python · 0 yıldız
+- [wzry123456789/Roblox](https://github.com/wzry123456789/Roblox) — hacker — Lua · 0 yıldız
+- [Wzukay/ApexAI](https://github.com/Wzukay/ApexAI) — A web based app that calculates ideal lap times on custom circuits and cars. — JavaScript · 0 yıldız
+- [wzx011011/3D-Printer](https://github.com/wzx011011/3D-Printer) — (açıklama yok) — — · 0 yıldız
+- [wzxdwzxd335/hpps](https://github.com/wzxdwzxd335/hpps) — (açıklama yok) — — · 0 yıldız
+- [x-f2/LoadingBar](https://github.com/x-f2/LoadingBar) — C++ Importable Loading Bar — C++ · 0 yıldız
+- [x-jesse-zhang/HackedReality](https://github.com/x-jesse-zhang/HackedReality) — This is the final working version of HackedReality. — Java · 0 yıldız
+- [X-lab2017/open-perf](https://github.com/X-lab2017/open-perf) — Benchmark suit for large scale socio-technical datasets in open collaboration — — · 0 yıldız
+- [x-luthor/git-cheat-sheet](https://github.com/x-luthor/git-cheat-sheet) — (açıklama yok) — — · 0 yıldız
+- [x-nfo/hpp-calculator](https://github.com/x-nfo/hpp-calculator) — (açıklama yok) — — · 0 yıldız
+- [X-T-L-09/Web-Dev-HTML-CSS-Cheat-Sheet](https://github.com/X-T-L-09/Web-Dev-HTML-CSS-Cheat-Sheet) — (açıklama yok) — — · 0 yıldız
+- [x0remant1c/UnnamedCheatShop](https://github.com/x0remant1c/UnnamedCheatShop) — Бот чит-магазина с профилем, пополнением баланса, админ панелью и т.д — — · 0 yıldız
+- [x0x76x/AppleHub](https://github.com/x0x76x/AppleHub) — An advanced open-sourced roblox script hub supporting multiple games — Lua · 0 yıldız
+- [x0xx0x0x/SiegeMapper](https://github.com/x0xx0x0x/SiegeMapper) — Recon, Enumeration & Payload Management Tool for Ethical Hackers. — Python · 0 yıldız
+- [x1244/oeck](https://github.com/x1244/oeck) — 基于osgearth做一些3D展示 — — · 0 yıldız
+- [x15azovich/Hacking_tools](https://github.com/x15azovich/Hacking_tools) — (açıklama yok) — Python · 0 yıldız
+- [x1b6e6/cc_ic2](https://github.com/x1b6e6/cc_ic2) — Based on https://github.com/admiral0/AntaniCC — Java · 0 yıldız
+- [X1ND1/NeverLose](https://github.com/X1ND1/NeverLose) — (açıklama yok) — — · 0 yıldız
+- [x22y/CSGODoubleBot](https://github.com/x22y/CSGODoubleBot) — CSGODouble automatic betting bot (anti-train, martingale betting, menu) — — · 0 yıldız
+- [x2z591/git-gitflow-cheatsheet](https://github.com/x2z591/git-gitflow-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [x3419/OpenDirectoryFinder](https://github.com/x3419/OpenDirectoryFinder) — Small tool I hacked together in an hour. Searches for files listed on the r/OpenDirectories subreddit — Python · 0 yıldız
+- [X3D-Developer/es_extended](https://github.com/X3D-Developer/es_extended) — ESX Legacy core (es_extended 1.13.4) hardened for live FiveM servers — no lost characters, faster saves, restart economy lock,… — Lua · 0 yıldız
+- [X3D-Developer/x3d-carry](https://github.com/X3D-Developer/x3d-carry) — Free FiveM player/body carry system with a Vue UI. ESX & Standalone. by X3D Developer — Lua · 0 yıldız
+- [x3mDomination/Project-32](https://github.com/x3mDomination/Project-32) — Tower siege game with a background that changes based on time. — JavaScript · 0 yıldız
+- [X3N0Xeno/GameDev_Cheatsheet](https://github.com/X3N0Xeno/GameDev_Cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [x67wxy/OverWatch-Bot-SourceCode](https://github.com/x67wxy/OverWatch-Bot-SourceCode) — Simple Moderation Discord Bot With All Slash Commands. — Python · 0 yıldız
+- [X7tourny-droid/X7-Esports-official](https://github.com/X7tourny-droid/X7-Esports-official) — Official website repository for X7 Esports – a competitive Free Fire tournament organizer and gaming community. We host regular… — HTML · 0 yıldız
+- [x9230x/zepter-cheatsheet](https://github.com/x9230x/zepter-cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [xacadc26-lang/gamesense-prop-](https://github.com/xacadc26-lang/gamesense-prop-) — (açıklama yok) — — · 0 yıldız
+- [xaconic/mlbb](https://github.com/xaconic/mlbb) — MLBB Player Management System is a web-based CRUD application for managing Mobile Legends: Bang Bang player records. It allows… — Python · 0 yıldız
+- [xaiki/hacknit-repo-tool](https://github.com/xaiki/hacknit-repo-tool) — merge repos into branches — JavaScript · 0 yıldız
+- [xajdys/dev-survival-cheat-sheet](https://github.com/xajdys/dev-survival-cheat-sheet) — A beginner-friendly cheat sheet page for shortcuts, terminal commands and jargon, built to practice HTML text tags. — HTML · 0 yıldız
+- [xakimovaguli722-ux/hvhhgjy](https://github.com/xakimovaguli722-ux/hvhhgjy) — (açıklama yok) — — · 0 yıldız
+- [XAlandK/Loading-Images-From-URL-s](https://github.com/XAlandK/Loading-Images-From-URL-s) — Load Image from it URL - Xcode (Objective-C) Open Source — Objective-C · 0 yıldız
+- [Xalcon/mclaunchjs](https://github.com/Xalcon/mclaunchjs) — minecraft loading and launching modules for node js — TypeScript · 0 yıldız
+- [xAliDin60x/Roblox-Bus-Simulator-Vietnam-2-Cash-AutoFarm](https://github.com/xAliDin60x/Roblox-Bus-Simulator-Vietnam-2-Cash-AutoFarm) — This is a source of Roblox Bus Simulator Vietnam 2 Cash AutoFarm script. — — · 0 yıldız
+- [xamafilmes/Jogo-Kuiper-Belt](https://github.com/xamafilmes/Jogo-Kuiper-Belt) — Esse projeto tem como base o uso de UML para produzir um jogo orientado a objeto. O “Kuiper Belt” é um jogo 2D de sobrevivência a… — C++ · 0 yıldız
+- [xamodelivery/sampleSDKs](https://github.com/xamodelivery/sampleSDKs) — (açıklama yok) — Kotlin · 0 yıldız
+- [xan1242/NFSMW_LanIP](https://github.com/xan1242/NFSMW_LanIP) — NFS Most Wanted - manual LAN IP & Port window — — · 0 yıldız
+- [xan1242/NFSU-nuzlocke](https://github.com/xan1242/NFSU-nuzlocke) — NFS Underground - Nuzlocke challenge mod — — · 0 yıldız
+- [xanderrybalov/interview_cheatsheet](https://github.com/xanderrybalov/interview_cheatsheet) — interview_cheatsheet — HTML · 0 yıldız
+- [xandnea/CS118-Project1](https://github.com/xandnea/CS118-Project1) — In this project, we are going to develop an HTTPS Web server in C/C++ that can stream video. Your Web server should implement the… — C++ · 0 yıldız
+- [xanith7902/Beginner-Python-cheatsheet-](https://github.com/xanith7902/Beginner-Python-cheatsheet-) — (açıklama yok) — Python · 0 yıldız
+- [xaniz25/AgentsJavaDesktopApp](https://github.com/xaniz25/AgentsJavaDesktopApp) — JavaFX & SceneBuilder application that loads agents of a travel company from a MySQL database and modifies it — Java · 0 yıldız
+- [xanndevs/CrabGame](https://github.com/xanndevs/CrabGame) — (açıklama yok) — — · 0 yıldız
+- [xant1nne/skeet-code](https://github.com/xant1nne/skeet-code) — (açıklama yok) — C · 0 yıldız
+- [Xanzium/HVHS_demonlist__](https://github.com/Xanzium/HVHS_demonlist__) — Nothing to see — JavaScript · 0 yıldız
+- [xaratustrah/webstats](https://github.com/xaratustrah/webstats) — A simple CGI script that shows server's GPU, CPU and memory load on the browser. — Python · 0 yıldız
+- [xardas110/Engine3D](https://github.com/xardas110/Engine3D) — (açıklama yok) — — · 0 yıldız
+- [xardas110/Engine3D_DX12](https://github.com/xardas110/Engine3D_DX12) — (açıklama yok) — — · 0 yıldız
+- [xarlaq/packconverter](https://github.com/xarlaq/packconverter) — Use resource packs from any version (1.7–26.2) on Minecraft 26.3, with almost instant pack loads, pack folders and pack previews.… — Java · 0 yıldız
+- [xARMORx/GTA_DEFINITVE_BASE](https://github.com/xARMORx/GTA_DEFINITVE_BASE) — (açıklama yok) — — · 0 yıldız
+- [Xarus117/PANDEMIC-Turn-Based-Game](https://github.com/Xarus117/PANDEMIC-Turn-Based-Game) — Welcome to our legacy turn-based game project! Developed by three classmates as a final project, this version of the game is in a… — Java · 0 yıldız
+- [xaryan-011/DeadLock-Master](https://github.com/xaryan-011/DeadLock-Master) — “Be the Banker” is an interactive web-based game teaching users to apply the Banker's algorithm to avoid deadlocks by allocating… — JavaScript · 0 yıldız
+- [xasanov274/HackSquad](https://github.com/xasanov274/HackSquad) — (açıklama yok) — — · 0 yıldız
+- [XaskeL/Open-Source-MTA-DayZ](https://github.com/XaskeL/Open-Source-MTA-DayZ) — DayZ Game Mode is open source. Repeating the original DayZ 0.6 from Marwin. — — · 0 yıldız
+- [xataxell/fisch](https://github.com/xataxell/fisch) — Free and Open Source script for Fisch on Roblox. — Lua · 0 yıldız
+- [Xaunaught/CheatyQuake](https://github.com/Xaunaught/CheatyQuake) — (açıklama yok) — C# · 0 yıldız
+- [xav-b/cheatsheets](https://github.com/xav-b/cheatsheets) — Patching CLI tools together to read/write cheatsheets without getting lost. — Shell · 0 yıldız
+- [XaveryXavier/module2_HPPC](https://github.com/XaveryXavier/module2_HPPC) — (açıklama yok) — C++ · 0 yıldız
+- [Xavier-web1016/ai-prompt-engineering-cheatsheet](https://github.com/Xavier-web1016/ai-prompt-engineering-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [xavier015869/sokoban-solver-01-run-20261121](https://github.com/xavier015869/sokoban-solver-01-run-20261121) — A push-optimal Sokoban solver: room decomposition plus push-based A* with deadlock pruning. Built by an AI agent for make.fun's… — TypeScript · 0 yıldız
+- [XavierCS-dev/LearnCMake](https://github.com/XavierCS-dev/LearnCMake) — (açıklama yok) — — · 0 yıldız
+- [xavierflorensa/FactoryTalk_Optix_PanelLoaderToPlcTag](https://github.com/xavierflorensa/FactoryTalk_Optix_PanelLoaderToPlcTag) — (açıklama yok) — C# · 0 yıldız
+- [xavierflorensa/FactoryTalk_Optix_PanelLoaderToPlcTag_without_script](https://github.com/xavierflorensa/FactoryTalk_Optix_PanelLoaderToPlcTag_without_script) — (açıklama yok) — — · 0 yıldız
+- [xavierflorensa/FT_OPTIX_PANEL_LOADER](https://github.com/xavierflorensa/FT_OPTIX_PANEL_LOADER) — (açıklama yok) — — · 0 yıldız
+- [xavierflorensa/FT_OPTIX_PANEL_LOADER_WITH_LAST_PAGE_MEMORY](https://github.com/xavierflorensa/FT_OPTIX_PANEL_LOADER_WITH_LAST_PAGE_MEMORY) — (açıklama yok) — — · 0 yıldız
+- [xavierholt/cheatsheets](https://github.com/xavierholt/cheatsheets) — Single-page guides to useful tools. — — · 0 yıldız
+- [XavierJp/load_average_monitor_app](https://github.com/XavierJp/load_average_monitor_app) — A simple web application that monitor load average on your server — Python · 0 yıldız · arşiv
+- [xaviermatos/mtaProject2](https://github.com/xaviermatos/mtaProject2) — Using a API to get not real MTA train data. Needs a CORS changer on a browser to run the API. — HTML · 0 yıldız
+- [xavimoralescse/losheroesdexavier](https://github.com/xavimoralescse/losheroesdexavier) — Esto lo hice con mis datos como el estilo de Fernando Herrera del curso. NO ES COPIA CRVRG es hecho con las instrucciones de… — HTML · 0 yıldız
+- [Xaviomother/cheatCSGO](https://github.com/Xaviomother/cheatCSGO) — (açıklama yok) — — · 0 yıldız
+- [xaviros04/GP4Ultimate](https://github.com/xaviros04/GP4Ultimate) — (açıklama yok) — — · 0 yıldız
+- [XaviUOC/tfm](https://github.com/XaviUOC/tfm) — Repository that contains the source code of the Final Master Project — Python · 0 yıldız
+- [Xavokai/Hakai-KEYGEN](https://github.com/Xavokai/Hakai-KEYGEN) — a simple C++ console app that makes keys for Hakai SDK and other Hakai related tools. — C++ · 0 yıldız
+- [xaxsxixh/onetap](https://github.com/xaxsxixh/onetap) — (açıklama yok) — — · 0 yıldız
+- [Xayztech/Script-HackerDeep-Roblox](https://github.com/Xayztech/Script-HackerDeep-Roblox) — (açıklama yok) — Lua · 0 yıldız
+- [xbd21/https-github.com-Whitebrim-HuntDMA-tab-readme-ov-file](https://github.com/xbd21/https-github.com-Whitebrim-HuntDMA-tab-readme-ov-file) — (açıklama yok) — — · 0 yıldız
+- [XBDJ504764827/sws2-cs2menus](https://github.com/XBDJ504764827/sws2-cs2menus) — (açıklama yok) — C# · 0 yıldız
+- [xbitmon-tech/Aieditor.io](https://github.com/xbitmon-tech/Aieditor.io) — Ai editing web application is automatically generated final video just putting the sourced files — TypeScript · 0 yıldız
+- [xBlackInkk/RemoteConsole](https://github.com/xBlackInkk/RemoteConsole) — Minecraft remote console based on Java Sockets similar to RCON — — · 0 yıldız
+- [xBlazeTECH/keystone-cad](https://github.com/xBlazeTECH/keystone-cad) — Open Source Computer Aided Dispatch System for Roleplay Communities — TypeScript · 0 yıldız
+- [xBlite/Runescape_Bot_CowhideFarmer](https://github.com/xBlite/Runescape_Bot_CowhideFarmer) — Creates a bot that loots and banks cowhides. Tracks and display live statistics of the hides banked per hour, the current market… — Java · 0 yıldız
+- [XBoom31/meeza_csgo](https://github.com/XBoom31/meeza_csgo) — (açıklama yok) — — · 0 yıldız
+- [xbowery/heart-disease-predictor](https://github.com/xbowery/heart-disease-predictor) — Heart disease and stroke will become a leading cause of both death and disability worldwide, with the number of fatalities… — Jupyter Notebook · 0 yıldız
+- [XboxNahida/ghostty-blackhole-main](https://github.com/XboxNahida/ghostty-blackhole-main) — 适用于Windows环境的黑洞屏保 — — · 0 yıldız
+- [xbukkyCodes/AppleFN](https://github.com/xbukkyCodes/AppleFN) — AppleFN is the original "Apple iCheat" source code for fortnite. Outdated + requires a driver. — — · 0 yıldız
+- [xbxbxb123/PhoenoCraft](https://github.com/xbxbxb123/PhoenoCraft) — A Minecraft resource pack based on the game Phoenotopia Awakening. — — · 0 yıldız · arşiv
+- [XCarlosEduardoX/Key-Management-System](https://github.com/XCarlosEduardoX/Key-Management-System) — (açıklama yok) — EJS · 0 yıldız
+- [Xcasqq/roblox-open-source-scripts](https://github.com/Xcasqq/roblox-open-source-scripts) — (açıklama yok) — Lua · 0 yıldız
+- [xcchan/CS3210-P01](https://github.com/xcchan/CS3210-P01) — Source files for CS3210 Project 01 — C · 0 yıldız
+- [Xcelerator1/r69339_hd720_dsi_vdo_sharp](https://github.com/Xcelerator1/r69339_hd720_dsi_vdo_sharp) — A lcm driver which breaks in other kernel sources — C · 0 yıldız
+- [xCENTx/KingdomCamelot](https://github.com/xCENTx/KingdomCamelot) — (açıklama yok) — — · 0 yıldız
+- [xCENTx/UnknownCheats-Resources](https://github.com/xCENTx/UnknownCheats-Resources) — A collection of header files for file analysts to update releases — C++ · 0 yıldız
+- [xceruloyzz/threejs-fps](https://github.com/xceruloyzz/threejs-fps) — FOUNDRY - an original round-based three.js tactical FPS: Vanguard vs Havoc bots, bomb plant/defuse, buy phase, 4 weapons +… — JavaScript · 0 yıldız
+- [xchopath/prompt-cheatsheets](https://github.com/xchopath/prompt-cheatsheets) — (açıklama yok) — — · 0 yıldız
+- [xclas721/sql-cheatsheet](https://github.com/xclas721/sql-cheatsheet) — (açıklama yok) — Vue · 0 yıldız
+- [xclayy/sable-line](https://github.com/xclayy/sable-line) — SABLE LINE — three.js tactical FPS, round-based Counter-Strike-like shooter with bots, fully offline in the browser (make.fun… — JavaScript · 0 yıldız
+- [xcode805/HackRoblox](https://github.com/xcode805/HackRoblox) — (açıklama yok) — HTML · 0 yıldız
+- [XCoderZ0/SDK-PUBG-3.2](https://github.com/XCoderZ0/SDK-PUBG-3.2) — PUBG 3.2 Architecture : 32 bit — — · 0 yıldız
+- [xcolx/ETH-Summaries](https://github.com/xcolx/ETH-Summaries) — My public Cheat Sheets and Summaries for courses at ETH Zurich. — Jupyter Notebook · 0 yıldız
+- [xCONFLiCTiONx/xMenuForge](https://github.com/xCONFLiCTiONx/xMenuForge) — A powerful, fully customizable Windows 11 context menu platform. Organize built-in and custom commands, create multi-level… — C++ · 0 yıldız
+- [xcp-ng-rpms/rrd2csv](https://github.com/xcp-ng-rpms/rrd2csv) — [retired in 8.3] RPM sources for rrd2csv — — · 0 yıldız
+- [XcraftORG/BaseBuilder](https://github.com/XcraftORG/BaseBuilder) — BaseBuilder from Counter Strike 1.6 ported to Counter Strike: Global Offensive. — — · 0 yıldız
+- [xDanielBellido/STAGE-VK](https://github.com/xDanielBellido/STAGE-VK) — (açıklama yok) — — · 0 yıldız
+- [xDarkN/SkinChanger](https://github.com/xDarkN/SkinChanger) — (açıklama yok) — — · 0 yıldız
+- [xdCraze/Moonlight-PG3D](https://github.com/xdCraze/Moonlight-PG3D) — Source code for the discontinued mod Moonlight. — — · 0 yıldız
+- [xDec0de/SecurityCore](https://github.com/xDec0de/SecurityCore) — A free, open-source security core for your Minecraft server. — Java · 0 yıldız
+- [Xdeelop/Minecraft-source-code](https://github.com/Xdeelop/Minecraft-source-code) — This is Minecraft source code — — · 0 yıldız
+- [xdejs/TFGcode](https://github.com/xdejs/TFGcode) — A repository containing the source code written for the author's final degree dissertation — GAP · 0 yıldız
+- [xDenny/mkn10-cheatsheet](https://github.com/xDenny/mkn10-cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [xdevman9/RobloxChatBypass](https://github.com/xdevman9/RobloxChatBypass) — (açıklama yok) — — · 0 yıldız
+- [xDeZex/CSGOProELO](https://github.com/xDeZex/CSGOProELO) — Calculates ELO of each pro in CSGO based on matches scraped from HLTV. Does no longer work because scraping is blocked by HLTV… — Python · 0 yıldız
+- [xDiaym/mod.hpp](https://github.com/xDiaym/mod.hpp) — konular: arithmetic, cpp, cpp20, modular-arithmetic — C++ · 0 yıldız
+- [xdlastone/waste-HackTool](https://github.com/xdlastone/waste-HackTool) — Creating fake local server in minecraft 1.16.5 — — · 0 yıldız
+- [xDMohammad/Help_Menu_Fivem](https://github.com/xDMohammad/Help_Menu_Fivem) — Help_Menu_Fivem — — · 0 yıldız
+- [Xdokl/xdokl.github.io](https://github.com/Xdokl/xdokl.github.io) — FiveM Server Data Lister — HTML · 0 yıldız
+- [Xdoom99/Jobportal](https://github.com/Xdoom99/Jobportal) — The C++ Job Portal is a console-based application designed to simulate a basic job portal system, providing users with… — C++ · 0 yıldız
+- [xdprolul/unitconversion.hpp](https://github.com/xdprolul/unitconversion.hpp) — (açıklama yok) — C++ · 0 yıldız
+- [xdropzerox/pz-mods-delimiter-fix](https://github.com/xdropzerox/pz-mods-delimiter-fix) — Project Zomboid Build 42: root-caused and fixed the Mods= delimiter bug that silently breaks map mod loading — Java · 0 yıldız
+- [xdutaotao/docker-clangformat](https://github.com/xdutaotao/docker-clangformat) — docker clang-format for c/cpp/h/hpp format — Shell · 0 yıldız
+- [xdxd-coder/Neverloseui-void](https://github.com/xdxd-coder/Neverloseui-void) — (açıklama yok) — Lua · 0 yıldız
+- [Xearth8/lisansdogrulamas](https://github.com/Xearth8/lisansdogrulamas) — (açıklama yok) — — · 0 yıldız
+- [xehn1337/valorant-sdks](https://github.com/xehn1337/valorant-sdks) — (açıklama yok) — C · 0 yıldız
+- [Xen0phy/World-Events](https://github.com/Xen0phy/World-Events) — A GW2 event timer that's not just some stacked bars. — — · 0 yıldız
+- [xencapili70-hue/roblox-loader1](https://github.com/xencapili70-hue/roblox-loader1) — (açıklama yok) — — · 0 yıldız
+- [xenginez/url.hpp](https://github.com/xenginez/url.hpp) — url parse — C++ · 0 yıldız
+- [Xeno24680/Phasmo-Cheat-Sheet](https://github.com/Xeno24680/Phasmo-Cheat-Sheet) — (açıklama yok) — HTML · 0 yıldız
+- [XenoAmess/VirtualBox-7.1.6-kvm](https://github.com/XenoAmess/VirtualBox-7.1.6-kvm) — a build from https://github.com/cyberus-technology/virtualbox-kvm for ubuntu 24 — — · 0 yıldız
+- [Xenocider/AgeOfKingdoms](https://github.com/Xenocider/AgeOfKingdoms) — A Minecraft mod based off of the Tales of Kingdoms mod — — · 0 yıldız
+- [XenoDaniel/chef-d](https://github.com/XenoDaniel/chef-d) — A luxury, dark-themed responsive landing page and interactive menu for Chef D, featuring custom meal plans, live dish… — HTML · 0 yıldız
+- [xenon6870/hvhtu](https://github.com/xenon6870/hvhtu) — content — — · 0 yıldız
+- [Xenon9012/Roblox-Games](https://github.com/Xenon9012/Roblox-Games) — Roblox scripts for games i cba working on anymore or just open sourced projects:) — Lua · 0 yıldız
+- [xenonym123/onetap](https://github.com/xenonym123/onetap) — (açıklama yok) — PHP · 0 yıldız
+- [xenonym123/onetapv2](https://github.com/xenonym123/onetapv2) — (açıklama yok) — PHP · 0 yıldız
+- [xenonym123/onetapv3](https://github.com/xenonym123/onetapv3) — (açıklama yok) — PHP · 0 yıldız
+- [xenophobentx/takedawn](https://github.com/xenophobentx/takedawn) — Unofficial native PC/handheld port of Burnout 3: Takedown (static recompilation). Bring your own disc. — — · 0 yıldız
+- [xenosworks/xsdk](https://github.com/xenosworks/xsdk) — A from-scratch homebrew SDK for Xbox 360 titles on the retail kernel, with a GPU layer that drives Xenos directly — — · 0 yıldız
+- [Xenozol/Key-System5](https://github.com/Xenozol/Key-System5) — (açıklama yok) — — · 0 yıldız
+- [Xenozol/Key-SystemV3](https://github.com/Xenozol/Key-SystemV3) — (açıklama yok) — — · 0 yıldız
+- [Xenozol/Key-SystemV6](https://github.com/Xenozol/Key-SystemV6) — (açıklama yok) — — · 0 yıldız
+- [Xenozol/Key-Systemv7](https://github.com/Xenozol/Key-Systemv7) — (açıklama yok) — — · 0 yıldız
+- [Xenth433/neverlosetheme](https://github.com/Xenth433/neverlosetheme) — (açıklama yok) — CSS · 0 yıldız
+- [Xeoga/Linux_CheatSheet](https://github.com/Xeoga/Linux_CheatSheet) — (açıklama yok) — — · 0 yıldız
+- [Xeon3D/PeepeeBox](https://github.com/Xeon3D/PeepeeBox) — A vibe-coded thinned down fork of 86box made to just emulate funworld Photoplay machines. — — · 0 yıldız
+- [XeonLyfe/OPClient](https://github.com/XeonLyfe/OPClient) — A Minecraft 1.12.2 Optifine hacked client — — · 0 yıldız
+- [Xephobia/resizable_array.hpp](https://github.com/Xephobia/resizable_array.hpp) — a implementation of a manually resizable array — C++ · 0 yıldız
+- [xePixTvx/R3FL3X-V2-MW2-GSC-](https://github.com/xePixTvx/R3FL3X-V2-MW2-GSC-) — Second Menu of the R3FL3X Mw2 Series — C++ · 0 yıldız
+- [Xerlocked/TechLab](https://github.com/Xerlocked/TechLab) — 크래프톤 게임 테크랩 1기 자체 엔진 제작 프로젝트 — — · 0 yıldız
+- [xeromola/Tutorial-cheatsheets](https://github.com/xeromola/Tutorial-cheatsheets) — Cheat/Revision Sheet for various Frameworks and Libraries. — Python · 0 yıldız
+- [xerpxz/valorant-store-checker-releases](https://github.com/xerpxz/valorant-store-checker-releases) — Public release binaries for Valorant Store Checker (no source code) — — · 0 yıldız
+- [xetamus/hackmyresume-action](https://github.com/xetamus/hackmyresume-action) — Docker image for running the hackmyresume tool - https://github.com/hacksalot/HackMyResume — Dockerfile · 0 yıldız
+- [Xeverous/filter_spirit](https://github.com/Xeverous/filter_spirit) — Advanced item filter generator for Path of Exile that uses it's own DSL and online item price APIs — — · 0 yıldız
+- [XevgenX/cheat-sheet](https://github.com/XevgenX/cheat-sheet) — (açıklama yok) — — · 0 yıldız
+- [Xevinaly/Portable-Light-Sources](https://github.com/Xevinaly/Portable-Light-Sources) — Makes light sources portable in minecraft. — Java · 0 yıldız
+- [Xewer565/GorillaPredsGTAG](https://github.com/Xewer565/GorillaPredsGTAG) — source code of the mod — — · 0 yıldız
+- [xFN10x/Hackatime-RobloxStudio](https://github.com/xFN10x/Hackatime-RobloxStudio) — (açıklama yok) — Luau · 0 yıldız
+- [xfoxsoacer-beep/hvhj](https://github.com/xfoxsoacer-beep/hvhj) — (açıklama yok) — — · 0 yıldız
+- [xG-Servers/loadingscreen](https://github.com/xG-Servers/loadingscreen) — Loading screen for gmod — — · 0 yıldız
+- [xgenadam/primordial_protosomes](https://github.com/xgenadam/primordial_protosomes) — (açıklama yok) — Python · 0 yıldız
+- [xgfhjkgjfydtrs/skidded-roblox-scripts](https://github.com/xgfhjkgjfydtrs/skidded-roblox-scripts) — this is the scripts i deobfed and sent the source code here — — · 0 yıldız
+- [xGreeey/Kiddions-FInal-Project](https://github.com/xGreeey/Kiddions-FInal-Project) — (açıklama yok) — Jupyter Notebook · 0 yıldız
+- [xGreeey/Kiddions-Thesis](https://github.com/xGreeey/Kiddions-Thesis) — (açıklama yok) — PHP · 0 yıldız
+- [xgreenspace/489Project](https://github.com/xgreenspace/489Project) — The final project for CSCE 489. We attempt to train a (CNN) Convolutional Neural Network to recognize and distinguish… — — · 0 yıldız
+- [xGRIDev/PUBGM-C9S27-LEADERBORD](https://github.com/xGRIDev/PUBGM-C9S27-LEADERBORD) — This Project Are Based on Current Fetch Data on leaderboard-PUBGM [C9S7] Which (SMG Vector - Weapon) — Go · 0 yıldız
+- [xgrill/Keycard-System](https://github.com/xgrill/Keycard-System) — Prosjekt - Innlevering 2 — Java · 0 yıldız
+- [xgsu/RFIT](https://github.com/xgsu/RFIT) — R Codes for Random Forests of Interaction Trees (RFIT). RFIT estimates individualized treatment effects (ITE) based on… — R · 0 yıldız
+- [xgunjaninja/printfix](https://github.com/xgunjaninja/printfix) — Free 3D printing cheat sheet — HTML · 0 yıldız
+- [XH7776544DDDL0UflIy/HvHNigwe](https://github.com/XH7776544DDDL0UflIy/HvHNigwe) — (açıklama yok) — — · 0 yıldız
+- [xhacker0x01/mta-sts.hackerone.com](https://github.com/xhacker0x01/mta-sts.hackerone.com) — subdomain takeover — — · 0 yıldız
+- [xhackers/HacknightSample](https://github.com/xhackers/HacknightSample) — HacknightSamples — — · 0 yıldız
+- [XhenetaLatifi/shoppygrid](https://github.com/XhenetaLatifi/shoppygrid) — (açıklama yok) — SCSS · 0 yıldız
+- [XhenetaLatifi/shoppypage](https://github.com/XhenetaLatifi/shoppypage) — (açıklama yok) — — · 0 yıldız
+- [xHileciBaba/HileciExploit](https://github.com/xHileciBaba/HileciExploit) — Roblox Hilesidir. — — · 0 yıldız
+- [xhinombroeles/hvhy](https://github.com/xhinombroeles/hvhy) — content — — · 0 yıldız
+- [xHizzzu/Dumper--fivem](https://github.com/xHizzzu/Dumper--fivem) — Dumper nie jest mój właścicel tego -> https://github.com/marcodsl/FiveM-Client-Dumper/releases <- source — — · 0 yıldız
+- [xhmm522/HMCAS](https://github.com/xhmm522/HMCAS) — The hierarchical multi-feature competitive assignment segmentation (HMCAS) algorithm delineates individualThe source code… — — · 0 yıldız
+- [xhn2333/CSC4140](https://github.com/xhn2333/CSC4140) — (açıklama yok) — — · 0 yıldız
+- [XHServer000/minecarttrain](https://github.com/XHServer000/minecarttrain) — Minecraft Vanilla Train Implementation Minecraft原版列车实现 — Java · 0 yıldız
+- [xhsiahm/cheatsheet-for-html](https://github.com/xhsiahm/cheatsheet-for-html) — (açıklama yok) — HTML · 0 yıldız
+- [xhsu/PokemonEssentialTools](https://github.com/xhsu/PokemonEssentialTools) — (açıklama yok) — — · 0 yıldız
+- [xhthc/nicecock](https://github.com/xhthc/nicecock) — cl_junkcode 1 — — · 0 yıldız
+- [xhufo/HPP-Course-Lab-Homework](https://github.com/xhufo/HPP-Course-Lab-Homework) — (açıklama yok) — Cuda · 0 yıldız
+- [xi-ve/end-game](https://github.com/xi-ve/end-game) — BDO cheeto, old, feature rich — — · 0 yıldız
+- [xi-ve/m2-revamped](https://github.com/xi-ve/m2-revamped) — rework of original m2++ — — · 0 yıldız
+- [xi-ve/openvr-space-calibrator-linux](https://github.com/xi-ve/openvr-space-calibrator-linux) — OpenVR Space Calibrator port for linux with continuous calibration — — · 0 yıldız
+- [XI1238/esx_menu_default](https://github.com/XI1238/esx_menu_default) — esx_menu_default Redesign by XI — JavaScript · 0 yıldız
+- [xiacai520/gta6-trophy-forecast-01](https://github.com/xiacai520/gta6-trophy-forecast-01) — GTA VI trophy rarity forecaster for make.fun: predicts each trophy's Exophase earn rate one week after launch as five quantiles… — Python · 0 yıldız
+- [Xianbiao-Jiang/AllPenaltyKick](https://github.com/Xianbiao-Jiang/AllPenaltyKick) — (açıklama yok) — — · 0 yıldız
+- [xiangCaO233/MusicMapMaker-Next](https://github.com/xiangCaO233/MusicMapMaker-Next) — Next Implement For MusicMapMaker — — · 0 yıldız
+- [xiangping-developer/LoadProgressWebView](https://github.com/xiangping-developer/LoadProgressWebView) — easy get webview loading progress. — Objective-C · 0 yıldız
+- [xiangwenquan830-dev/rat-king-transformation](https://github.com/xiangwenquan830-dev/rat-king-transformation) — Unofficial Minecraft Forge 1.20.1 transformation mod based on the Rat King character from Deadlock. 鼠王变身。 — — · 0 yıldız
+- [xiangyshi/LeetCode-Reference-Cheatsheet](https://github.com/xiangyshi/LeetCode-Reference-Cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [Xiao-124/RealTimeRender](https://github.com/Xiao-124/RealTimeRender) — (açıklama yok) — — · 0 yıldız
+- [Xiao-Yu-uu/developer-cheatsheet](https://github.com/Xiao-Yu-uu/developer-cheatsheet) — Developer Productivity Toolkit - Git, Docker, Linux, VS Code, Python cheatsheet — HTML · 0 yıldız
+- [Xiao233jiang/RGS](https://github.com/Xiao233jiang/RGS) — (açıklama yok) — — · 0 yıldız
+- [xiao7eye/executor_project](https://github.com/xiao7eye/executor_project) — c++ — C++ · 0 yıldız
+- [xiaobaiha/github-trending-history](https://github.com/xiaobaiha/github-trending-history) — Record github trending everyday. — — · 0 yıldız
+- [xiaodin1/xuxu_java](https://github.com/xiaodin1/xuxu_java) — HPP絮絮（模仿微信）的java后台 — Java · 0 yıldız
+- [xiaofanlongwei-jpg/mh4g_cheat_tool](https://github.com/xiaofanlongwei-jpg/mh4g_cheat_tool) — (açıklama yok) — HTML · 0 yıldız
+- [xiaofeng356/1.21-clients](https://github.com/xiaofeng356/1.21-clients) — (açıklama yok) — — · 0 yıldız
+- [xiaogaba/PublishSubscribe-System](https://github.com/xiaogaba/PublishSubscribe-System) — The goal of this project is to implement a publishsubscribe system, which is a simple, easy to use and efficient to implement… — Java · 0 yıldız
+- [xiaoh1024/USTC_CG_2024](https://github.com/xiaoh1024/USTC_CG_2024) — (açıklama yok) — — · 0 yıldız
+- [Xiaohan0w0/chatserver](https://github.com/Xiaohan0w0/chatserver) — The source code of the cluster server and client that can work in the nginx tcp load balancing environment, implemented based on… — C++ · 0 yıldız
+- [XiaoHaoILoveLYY/Launcher](https://github.com/XiaoHaoILoveLYY/Launcher) — 网易我的世界启动器 — — · 0 yıldız
+- [xiaoheliu-zmcf/DebugStick-ModSDK](https://github.com/xiaoheliu-zmcf/DebugStick-ModSDK) — MinecraftJE中的调试棒移植至Minecraft中国版 — Python · 0 yıldız
+- [Xiaohua9527/Among-us-hacked-version](https://github.com/Xiaohua9527/Among-us-hacked-version) — (açıklama yok) — — · 0 yıldız
+- [XiaohuaCN/Bloodhunt-source](https://github.com/XiaohuaCN/Bloodhunt-source) — (açıklama yok) — — · 0 yıldız
+- [xiaojgithub/hpph1](https://github.com/xiaojgithub/hpph1) — Auto created by ServiceStage — PHP · 0 yıldız
+- [xiaolanpingguo/csgo_hack](https://github.com/xiaolanpingguo/csgo_hack) — (açıklama yok) — C++ · 0 yıldız
+- [XiaoLingUwU/XiaoLing-KeySystemV2](https://github.com/XiaoLingUwU/XiaoLing-KeySystemV2) — (açıklama yok) — Lua · 0 yıldız
+- [XiaoLingUwU/XiaoLing-KeySystemV3-------Xiao-Yun--------](https://github.com/XiaoLingUwU/XiaoLing-KeySystemV3-------Xiao-Yun--------) — (açıklama yok) — Lua · 0 yıldız
+- [XiaoLingUwU/XL_KeySystem--Kong-or-Bin_Krx_-_-LOL](https://github.com/XiaoLingUwU/XL_KeySystem--Kong-or-Bin_Krx_-_-LOL) — (açıklama yok) — Lua · 0 yıldız
+- [xiaolushuo/hacklab](https://github.com/xiaolushuo/hacklab) — bleeding edge security tools in gentoo research container — Dockerfile · 0 yıldız
+- [XiaoMaKnows/license_plate_system](https://github.com/XiaoMaKnows/license_plate_system) — (açıklama yok) — — · 0 yıldız
+- [xiaomi-coder/formehub](https://github.com/xiaomi-coder/formehub) — (açıklama yok) — — · 0 yıldız
+- [xiaomi-coder/invokerkael](https://github.com/xiaomi-coder/invokerkael) — (açıklama yok) — — · 0 yıldız
+- [xiaoqianran/awesome-cheatsheets-zh](https://github.com/xiaoqianran/awesome-cheatsheets-zh) — 简体中文开发与数据科学 Cheat Sheets 速查表合集 — — · 0 yıldız
+- [xiaoqianran/cheatsheet-SpringBoot](https://github.com/xiaoqianran/cheatsheet-SpringBoot) — Spring Boot annotations cheatsheet (static site, GitHub Pages) — HTML · 0 yıldız
+- [xiaosazhai/rustdesk](https://github.com/xiaosazhai/rustdesk) — An open-source remote desktop, and alternative to TeamViewer. — Rust · 0 yıldız
+- [xiaosazhai/rustdesk202510191](https://github.com/xiaosazhai/rustdesk202510191) — An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. — Rust · 0 yıldız
+- [xiaoshan0609/rec_ctr](https://github.com/xiaoshan0609/rec_ctr) — rec_ctr based on tf.keras (tf2.x) — — · 0 yıldız
+- [xiaosu2334/Liquidbounce-For-HuaYuTing-Server](https://github.com/xiaosu2334/Liquidbounce-For-HuaYuTing-Server) — A free Minecraft 1.8.9 Hacked Client forked from Liquidbounce — — · 0 yıldız
+- [xiaotian2333/Anomaly](https://github.com/xiaotian2333/Anomaly) — (açıklama yok) — — · 0 yıldız
+- [xiaowenxia/esp8266-hackster](https://github.com/xiaowenxia/esp8266-hackster) — 这是esp8266 hackster比赛的参赛代码 — — · 0 yıldız
+- [xiaoxiaoheimei/cs234-win-final-MAVEN-base](https://github.com/xiaoxiaoheimei/cs234-win-final-MAVEN-base) — (açıklama yok) — Python · 0 yıldız
+- [xiaoxiaoqianshang/cs2cheat](https://github.com/xiaoxiaoqianshang/cs2cheat) — (açıklama yok) — — · 0 yıldız
+- [xiaoyaoing/YVK](https://github.com/xiaoyaoing/YVK) — (açıklama yok) — — · 0 yıldız
+- [xiaoyeuzixi/ace-czr](https://github.com/xiaoyeuzixi/ace-czr) — ACE_CZR 逆向分析资料与 NoACE 一键启动程序 — — · 0 yıldız
+- [xiaoyeuzixi/ace-czr-project](https://github.com/xiaoyeuzixi/ace-czr-project) — (açıklama yok) — — · 0 yıldız
+- [xiaoyilee1985/CSourceCode](https://github.com/xiaoyilee1985/CSourceCode) — C source code for Linux server programming — — · 0 yıldız
+- [xiaoyinzhuren/imgui-congyu](https://github.com/xiaoyinzhuren/imgui-congyu) — 基于imgui的修改,使用了千恋万花中丛雨角色作为素材,加入了一些简单的动画,详细内容可查看README.md — — · 0 yıldız
+- [XiaoyongXu/Leetcode-cheat-sheet](https://github.com/XiaoyongXu/Leetcode-cheat-sheet) — (açıklama yok) — — · 0 yıldız
+- [XiaoYu-1111/CMakePro_CUDA_SeisSim](https://github.com/XiaoYu-1111/CMakePro_CUDA_SeisSim) — (açıklama yok) — — · 0 yıldız
+- [XiaoYu-1111/CMakePro_LifeGame](https://github.com/XiaoYu-1111/CMakePro_LifeGame) — (açıklama yok) — — · 0 yıldız
+- [XiaoYu1337/XiaoYukernel](https://github.com/XiaoYu1337/XiaoYukernel) — 这只是一个给予ChatGPT读取的项目 — — · 0 yıldız
+- [xiaoyualex/Online-Customer-Review-Sentiment-Analysis-System](https://github.com/xiaoyualex/Online-Customer-Review-Sentiment-Analysis-System) — This project is to analyse customer review sentiment, using a website to show results of customer’s review sentiment analysis… — CSS · 0 yıldız
+- [xiaoyubaibai0723/valorant-esports](https://github.com/xiaoyubaibai0723/valorant-esports) — wwqy — — · 0 yıldız
+- [XIAYM-gh/SittingPlus-uwu](https://github.com/XIAYM-gh/SittingPlus-uwu) — Enhanced version of Sitting+, a minecraft mod which was previously close-source. — Java · 0 yıldız
+- [xiayouli0122/rustdesk_bak](https://github.com/xiayouli0122/rustdesk_bak) — An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. — Rust · 0 yıldız
+- [xicocana/Rocket-League-Player-Bot](https://github.com/xicocana/Rocket-League-Player-Bot) — A simple c# player bot to farm in-game items — C# · 0 yıldız
+- [Xicopannt/HvhShop-Website-OnlyStyle-AGradient](https://github.com/Xicopannt/HvhShop-Website-OnlyStyle-AGradient) — This is a HVHSHOP — CSS · 0 yıldız
+- [xiddmk/Shoppy_react](https://github.com/xiddmk/Shoppy_react) — (açıklama yok) — JavaScript · 0 yıldız
+- [xidianwang412/my_CSUT](https://github.com/xidianwang412/my_CSUT) — a source code — — · 0 yıldız
+- [xieanney/Standoff2cheatmode](https://github.com/xieanney/Standoff2cheatmode) — (açıklama yok) — Jupyter Notebook · 0 yıldız
+- [XiejiLi/linkman-C](https://github.com/XiejiLi/linkman-C) — linkman made by C(include load and save)i am rookie — C · 0 yıldız
+- [xieyalong/weixinfenxiang_WeChatSDK_sample_Android](https://github.com/xieyalong/weixinfenxiang_WeChatSDK_sample_Android) — 微信分享官网 — Java · 0 yıldız
+- [xieyixu/cheat-sheet](https://github.com/xieyixu/cheat-sheet) — (açıklama yok) — — · 0 yıldız
+- [xieyong88881/clang_pro.vim](https://github.com/xieyong88881/clang_pro.vim) — a vim script for c/c++/java, use a clang_pro file for auto complete ,source reference,head source file switch,save/load… — VimL · 0 yıldız
+- [xignp/refpad](https://github.com/xignp/refpad) — cheat sheets from Markdown — TypeScript · 0 yıldız
+- [Xiippy/Xiippy.NEXOTerminalSDK_CSharp](https://github.com/Xiippy/Xiippy.NEXOTerminalSDK_CSharp) — Source code of Xiippy's NEXO interface SDKs for .net — C# · 0 yıldız
+- [xijiangya/github-search-cheatsheet](https://github.com/xijiangya/github-search-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [xilu-wang/personal-ai-knowledge-base-part-2](https://github.com/xilu-wang/personal-ai-knowledge-base-part-2) — The final version — Python · 0 yıldız
+- [Ximena040/Shoppyplace](https://github.com/Ximena040/Shoppyplace) — (açıklama yok) — PHP · 0 yıldız
+- [XimiK26/cs2_lenticular_holo_preview](https://github.com/XimiK26/cs2_lenticular_holo_preview) — Browser-based CS2 lenticular sticker preview tool — HTML · 0 yıldız
+- [xin115/Halo75Mode](https://github.com/xin115/Halo75Mode) — macOS menu bar workaround for a broken NuPhy Halo75 Win/Mac switch — Objective-C · 0 yıldız
+- [xinawang444/Drunk-Driving-Analysis](https://github.com/xinawang444/Drunk-Driving-Analysis) — Investigating the Relationship Between State Alcohol Consumption and Drunk Driving Fatalities — Jupyter Notebook · 0 yıldız
+- [xincui-math/cheatsheet](https://github.com/xincui-math/cheatsheet) — Cheatsheet for Linux users — — · 0 yıldız
+- [XINDK/RustCheat-ui](https://github.com/XINDK/RustCheat-ui) — A Basic Short ui made in 5m XDDDD — C++ · 0 yıldız
+- [xindong/harken-search](https://github.com/xindong/harken-search) — Harken Search — — · 0 yıldız
+- [xindong/texture-viewer](https://github.com/xindong/texture-viewer) — GPU-accelerated texture viewer for various formats — — · 0 yıldız
+- [xing16/ComponentSample](https://github.com/xing16/ComponentSample) — 组件化开发Sample,支持 Fragment 嵌入，Module SDK 初始化 — Java · 0 yıldız
+- [xingangshi/rust_cheatsheet](https://github.com/xingangshi/rust_cheatsheet) — Some cheatsheet just for learning rust. — Rust · 0 yıldız
+- [xingarkdev/ARK](https://github.com/xingarkdev/ARK) — (açıklama yok) — — · 0 yıldız
+- [Xingkellh562/NovaEngine](https://github.com/Xingkellh562/NovaEngine) — (açıklama yok) — — · 0 yıldız
+- [xingpeima/DRL_tf2](https://github.com/xingpeima/DRL_tf2) — DRL model based on tensorflow2 — Python · 0 yıldız
+- [xingyanf/hppokl](https://github.com/xingyanf/hppokl) — (açıklama yok) — — · 0 yıldız
+- [xinlovers-dotcom/cs2-character-refinement](https://github.com/xinlovers-dotcom/cs2-character-refinement) — CS2 / Source 2 角色全流程制作、优化与排错技能 — — · 0 yıldız
+- [xinoip/xml-raytracer](https://github.com/xinoip/xml-raytracer) — Multithreaded Recursive Raytracer with XML scene loading support C++ — C++ · 0 yıldız
+- [Xinor-a/excel-technical-cheatsheet](https://github.com/Xinor-a/excel-technical-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [xinranxi/LearnOpenGL_Code](https://github.com/xinranxi/LearnOpenGL_Code) — MyLearnOpenGL — — · 0 yıldız
+- [xinshuoLei/Process-OpenFlight-Dataset](https://github.com/xinshuoLei/Process-OpenFlight-Dataset) — The final project for the data structure course. A C++ project that loads and processes data in openflight dataset. See readme… — C++ · 0 yıldız
+- [xinyi0351/cs4111-IntroDB-project](https://github.com/xinyi0351/cs4111-IntroDB-project) — The final project for CS4111 Spring 2020. The website is developed based on Google Cloud Platform with PostgreSQL. — Python · 0 yıldız
+- [XinyuanLu00/CS6101-TableFV](https://github.com/XinyuanLu00/CS6101-TableFV) — This is the code base for CS6101 Project: Evaluating Open-Sourced LLM for Table Fact-Checking and Reasoning — Python · 0 yıldız
+- [xinzhou1998/Precision-Forestry-in-Operations-From-MLS-Point-Clouds-to-Harvest-Planning](https://github.com/xinzhou1998/Precision-Forestry-in-Operations-From-MLS-Point-Clouds-to-Harvest-Planning) — In this exercise you will extract tree diameters from MLS point clouds using RANSAC, build taper curves, classify timber volume,… — — · 0 yıldız
+- [xitus777/A](https://github.com/xitus777/A) — ssh-keygen -t rsa -b 4096 -C "cemanuelqs@gmail.com" — — · 0 yıldız
+- [XiuLuoShen/PatternMemoryGame-ECE243](https://github.com/XiuLuoShen/PatternMemoryGame-ECE243) — Final Project for ECE243 - A pattern memorization based on the Visual Memory game on Human Benchmark — C · 0 yıldız
+- [xiuzhen/fuck-yudao](https://github.com/xiuzhen/fuck-yudao) — Help you climb over the paywall for a so-called "Free & Open Source Software", built by someone who truly understand our… — — · 0 yıldız
+- [xiv-venue-manager/xvm-dashboard](https://github.com/xiv-venue-manager/xvm-dashboard) — (açıklama yok) — — · 0 yıldız
+- [xiv01/ExternalBase](https://github.com/xiv01/ExternalBase) — (açıklama yok) — — · 0 yıldız
+- [xiver-org/key-controlling-system](https://github.com/xiver-org/key-controlling-system) — key-controlling-system — Java · 0 yıldız
+- [Xiwei-web/HPP-Bio](https://github.com/Xiwei-web/HPP-Bio) — (açıklama yok) — HTML · 0 yıldız
+- [Xiyinyue/DX12GIRenderBased-on-SandBoxGI](https://github.com/Xiyinyue/DX12GIRenderBased-on-SandBoxGI) — a RenderToy just for work — — · 0 yıldız
+- [xj3uoj57k7/hvhi](https://github.com/xj3uoj57k7/hvhi) — content — — · 0 yıldız
+- [xJAWZx/JurrasicTwist](https://github.com/xJAWZx/JurrasicTwist) — baso a minecraft technic source — — · 0 yıldız
+- [XJBGroup/AntiCheatToolkit](https://github.com/XJBGroup/AntiCheatToolkit) — AntiCheatToolkit of BOJv5 — Rust · 0 yıldız
+- [xjg123-456/spring-boot-exception](https://github.com/xjg123-456/spring-boot-exception) — Create custom error page. -> create a error.html page, when errors happen, customer will be redirected to this page.… — — · 0 yıldız
+- [XJle6uIIIeK/chess-fonts](https://github.com/XJle6uIIIeK/chess-fonts) — fonts for neverlose csgo — — · 0 yıldız
+- [xjpro/keepcraft](https://github.com/xjpro/keepcraft) — Bukkit Minecraft mod which adds team based keep building — Java · 0 yıldız
+- [xJPtea/gta6-trophy-guide-01](https://github.com/xJPtea/gta6-trophy-guide-01) — Leonida Trophy Guide — offline guide and tracker for all 55 GTA VI trophies on PS5, with a guide to each and its sources cited. — JavaScript · 0 yıldız
+- [xjuninhox/CS2_OFFSETS_COIOTO](https://github.com/xjuninhox/CS2_OFFSETS_COIOTO) — (açıklama yok) — C++ · 0 yıldız
+- [xjuninhox/SQUAD_OFFSETS_COIOTO](https://github.com/xjuninhox/SQUAD_OFFSETS_COIOTO) — (açıklama yok) — — · 0 yıldız
+- [xjunko/TypeT](https://github.com/xjunko/TypeT) — osu! storyboard player! — — · 0 yıldız
+- [xjxjjddjxjxiucucuf/r6x9-insta](https://github.com/xjxjjddjxjxiucucuf/r6x9-insta) — R6X9 Instagram tweak (based on SCInsta) — Objective-C · 0 yıldız
+- [XKaguya/EDFDamageReport](https://github.com/XKaguya/EDFDamageReport) — EDF6 Damage summary after mission finished. — — · 0 yıldız
+- [xkgt/SpeedHack](https://github.com/xkgt/SpeedHack) — 游戏变速DLL，内置变速快捷键 — C · 0 yıldız
+- [xKikax/Rtrain](https://github.com/xKikax/Rtrain) — Script FiveM pour mettre des trains en mouvement sur votre serveur — — · 0 yıldız
+- [xkintaro/fivem-query](https://github.com/xkintaro/fivem-query) — A web tool for querying and filtering players on FiveM servers. — JavaScript · 0 yıldız
+- [Xkxksixickzociv/Friday-Night-Funkin-Fatality-funkin](https://github.com/Xkxksixickzociv/Friday-Night-Funkin-Fatality-funkin) — (açıklama yok) — Haxe · 0 yıldız
+- [Xkxksixickzociv/Saturday-s-Fatality](https://github.com/Xkxksixickzociv/Saturday-s-Fatality) — (açıklama yok) — Haxe · 0 yıldız
+- [xl-spooky/hvhgod](https://github.com/xl-spooky/hvhgod) — (açıklama yok) — — · 0 yıldız
+- [xl-spooky/hvhgod-discord-bot-remastered](https://github.com/xl-spooky/hvhgod-discord-bot-remastered) — A simple discord bot built for /hvhgod with database usage. — Python · 0 yıldız
+- [XL3STER/cod-mw3-RCE-Menu-Base-ps3](https://github.com/XL3STER/cod-mw3-RCE-Menu-Base-ps3) — (açıklama yok) — C++ · 0 yıldız
+- [XLab-Tongji/AIOpsConceptualModeling](https://github.com/XLab-Tongji/AIOpsConceptualModeling) — Model key interfaces, fields and ontologies in cloud-native systems — Java · 0 yıldız
+- [xlash123/InfinityBound](https://github.com/xlash123/InfinityBound) — My first Minecraft mod and it's source code. — Java · 0 yıldız
+- [xLeonn/ArchHubKeySystem](https://github.com/xLeonn/ArchHubKeySystem) — (açıklama yok) — — · 0 yıldız
+- [xline8/tugas11-fullstack-integration](https://github.com/xline8/tugas11-fullstack-integration) — Full-Stack Todo App (React + Vite + NestJS + MySQL/TypeORM) Tugas Praktikum 11 Pemrograman Web (ST084). CRUD lengkap dengan… — JavaScript · 0 yıldız
+- [xlzhsteven/iOS_core_data_sample](https://github.com/xlzhsteven/iOS_core_data_sample) — Core data practice, save, load — Swift · 0 yıldız
+- [xm555-JS/DirecX3D_Team](https://github.com/xm555-JS/DirecX3D_Team) — Tower Of Fantasy 모작 — — · 0 yıldız
+- [xMagiKarpx/HackTools](https://github.com/xMagiKarpx/HackTools) — This Repository contains all my HackTools — Perl · 0 yıldız
+- [xmaleki/SeyedKhande](https://github.com/xmaleki/SeyedKhande) — A simple menu-driven console game written in C++. This project was developed as an exercise for an advanced programming… — C++ · 0 yıldız
+- [XMAN-MHD/from-zero-to-fullstack-cheatsheets](https://github.com/XMAN-MHD/from-zero-to-fullstack-cheatsheets) — XMAN-MHD/from-zero-to-fullstack-cheatsheets A beginner-friendly collection of practical full-stack development cheatsheets,… — — · 0 yıldız
+- [xman1979/resnet_libtorch](https://github.com/xman1979/resnet_libtorch) — This repository saves resnet from PyTorch in TorchScript and loads it in libtorch for C++ deployment. — C++ · 0 yıldız
+- [xMarch/yaaft](https://github.com/xMarch/yaaft) — Yet another Artale farming tracker. — — · 0 yıldız
+- [xmarzx/Hpp](https://github.com/xmarzx/Hpp) — Hpp — — · 0 yıldız
+- [xMaxwell26/xMaxwell26.github.io](https://github.com/xMaxwell26/xMaxwell26.github.io) — Fatality Countdown. — CSS · 0 yıldız
+- [xMelTuff/Free-Roblox-Maps-scripts-Dumper](https://github.com/xMelTuff/Free-Roblox-Maps-scripts-Dumper) — Load the exe, load a roblox game you want to dump then execute its gonna print everything from the game 90% of the time. — — · 0 yıldız
+- [xmh0511/rust_channel_source_code](https://github.com/xmh0511/rust_channel_source_code) — (açıklama yok) — Rust · 0 yıldız
+- [xMISSJ/live-markdown-editor](https://github.com/xMISSJ/live-markdown-editor) — An over-engineered Markdown editor packed with built-in translation, dark/light themes, autocomplete, and a comprehensive… — TypeScript · 0 yıldız
+- [Xmitixyt/quake-banana-os](https://github.com/Xmitixyt/quake-banana-os) — 🍌 Portage natif de Quake (1996, Version Complète) pour Banana OS (x86_64 & i686) - v1.2 Bêta : Musique CD/MIDI/Ambiant, Démarrage… — C · 0 yıldız
+- [Xmitriy/cs2sdk_ESP](https://github.com/Xmitriy/cs2sdk_ESP) — (açıklama yok) — — · 0 yıldız
+- [xmm0134/ReverseEngineering-DyingLight](https://github.com/xmm0134/ReverseEngineering-DyingLight) — For educational purposes only. Not intended for online use. — — · 0 yıldız
+- [xmoddevx-bit/PlayerHeadESP](https://github.com/xmoddevx-bit/PlayerHeadESP) — Fabric Client-Mod für Minecraft 1.21.11: Hebt andere Spieler durch Wände hervor. — Java · 0 yıldız
+- [xmycCpp/CppLoadingLine](https://github.com/xmycCpp/CppLoadingLine) — This is a loading line program for c++ — — · 0 yıldız
+- [Xmyronn/php-vuln-cheat-sheet-cve_hunt-](https://github.com/Xmyronn/php-vuln-cheat-sheet-cve_hunt-) — php functions,sinks and patterns — — · 0 yıldız
+- [xmzlyw/mob-nixpkgs](https://github.com/xmzlyw/mob-nixpkgs) — nixpkgs for mob — — · 0 yıldız
+- [xNetich/crab-game-executor](https://github.com/xNetich/crab-game-executor) — executor — — · 0 yıldız
+- [xNikhilx1/finance-dashboard](https://github.com/xNikhilx1/finance-dashboard) — Modern Finance Dashboard built with React, Tailwind CSS, and Recharts featuring analytics, role-based UI, and dark mode. — JavaScript · 0 yıldız
+- [xnnxnyx/CloudClimber](https://github.com/xnnxnyx/CloudClimber) — Cloud Climber is a MIPS assembly-based 2D platformer where players navigate levels, avoid hazards, and collect power-ups to reach… — Assembly · 0 yıldız
+- [xNomadx1/cheat-sheets](https://github.com/xNomadx1/cheat-sheets) — (açıklama yok) — — · 0 yıldız
+- [xNooBStar/SDK-PUBG-MOBILE](https://github.com/xNooBStar/SDK-PUBG-MOBILE) — (açıklama yok) — — · 0 yıldız
+- [xNovex/cs2offsets](https://github.com/xNovex/cs2offsets) — (açıklama yok) — — · 0 yıldız
+- [XNOXtm/apex-hackathon](https://github.com/XNOXtm/apex-hackathon) — (açıklama yok) — TypeScript · 0 yıldız
+- [xnx-sys/fobe-src](https://github.com/xnx-sys/fobe-src) — fobe source code (the roblox revival) — — · 0 yıldız
+- [xoascf/Shipwright-Switch](https://github.com/xoascf/Shipwright-Switch) — Nintendo Switch port revival (SoH 9.x) — — · 0 yıldız
+- [xoboomer32/cheatSheets](https://github.com/xoboomer32/cheatSheets) — (açıklama yok) — — · 0 yıldız
+- [xoboomer32/L1B_Docker_CheatSheet](https://github.com/xoboomer32/L1B_Docker_CheatSheet) — (açıklama yok) — — · 0 yıldız
+- [xobust/cstv-boradcast-server](https://github.com/xobust/cstv-boradcast-server) — CSTV broadcast server implementation — — · 0 yıldız
+- [xodap/Public-Domain-Decentralized-Existence-In-Open-Networks-Protocols-Movement](https://github.com/xodap/Public-Domain-Decentralized-Existence-In-Open-Networks-Protocols-Movement) — Finally The Open Source fulls of Light and Wins the Battles over a Proprietary Software. But another Darkness is Arise, Ours… — — · 0 yıldız
+- [xojld0/QuakeTimingTrainer](https://github.com/xojld0/QuakeTimingTrainer) — Simple program for training timing counting in Quake. — C++ · 0 yıldız
+- [XoopsThemesArchive/lw_cs-source](https://github.com/XoopsThemesArchive/lw_cs-source) — (açıklama yok) — CSS · 0 yıldız
+- [XoopsThemesArchive/xd_cs-source](https://github.com/XoopsThemesArchive/xd_cs-source) — (açıklama yok) — CSS · 0 yıldız
+- [xor-lang-bit/RainBox](https://github.com/xor-lang-bit/RainBox) — Action-based blind hitboxes for Roblox. Server-sided, lag-compensated, rewindable, customizable, and built for fast-paced combat. — — · 0 yıldız
+- [xor295/MQ2TitleManager](https://github.com/xor295/MQ2TitleManager) — MQ Version of the EQ titles window with searchable prefixes/suffixes — — · 0 yıldız
+- [xorinf/cheatsheet](https://github.com/xorinf/cheatsheet) — (açıklama yok) — JavaScript · 0 yıldız
+- [XorLaz/cs2-dumper](https://github.com/XorLaz/cs2-dumper) — Based on https://github.com/a2x/cs2-dumper, migrated and maintained for personal updates and use. — C++ · 0 yıldız
+- [XorLaz/GameForPeace-SDK](https://github.com/XorLaz/GameForPeace-SDK) — It's the SDK for the PC version of PUBG Mobile. well, the Chinese mainland version of it. — C++ · 0 yıldız
+- [xormeuk/esp32_mqtt_sample_devcontainer](https://github.com/xormeuk/esp32_mqtt_sample_devcontainer) — (açıklama yok) — C++ · 0 yıldız
+- [xorps/SourceQuaked](https://github.com/xorps/SourceQuaked) — Experimental Source SDK mod. Adds Quake movement and Wall jumping. — C++ · 0 yıldız · arşiv
+- [Xortaboth/MinecraftHacks](https://github.com/Xortaboth/MinecraftHacks) — (açıklama yok) — HTML · 0 yıldız
+- [xorwns118/IDLE_RPG_Portfolio](https://github.com/xorwns118/IDLE_RPG_Portfolio) — (açıklama yok) — — · 0 yıldız
+- [xosmanez/roblox-things](https://github.com/xosmanez/roblox-things) — Mostly open source scripts — Lua · 0 yıldız
+- [XOSP/android_system_keymaster](https://github.com/XOSP/android_system_keymaster) — (açıklama yok) — C++ · 0 yıldız
+- [xospooksxo/Terminal-Cheat-Sheet](https://github.com/xospooksxo/Terminal-Cheat-Sheet) — Terminal Cheat Sheet — — · 0 yıldız
+- [xosski/Stolen-Treasures-Of-The-High-Seas](https://github.com/xosski/Stolen-Treasures-Of-The-High-Seas) — A Pirate Archive of Code, Thoughtforms, and Unlicensed Genius — — · 0 yıldız
+- [xotiic343/R6X-Scan](https://github.com/xotiic343/R6X-Scan) — R6X Scan is a professional-grade, GPU-styled security scanner designed specifically for Rainbow Six Siege communities to detect… — — · 0 yıldız
+- [xotmfrlox/Housing_Subscription_System](https://github.com/xotmfrlox/Housing_Subscription_System) — (açıklama yok) — — · 0 yıldız
+- [xoxoist/dockerize_mysql](https://github.com/xoxoist/dockerize_mysql) — :dolphin: CQRS, Load Balancing TCP, Dockerize MySQL Replication — Python · 0 yıldız
+- [xoxor4d/gta4-rtx](https://github.com/xoxor4d/gta4-rtx) — GTAIV RTX Remix Compatibility Mod — — · 0 yıldız
+- [xoxor4d/iw3xo-radiant](https://github.com/xoxor4d/iw3xo-radiant) — iw3xo-radiant // a radiant modification for Call of Duty 4 — — · 0 yıldız
+- [xoxor4d/l4d2-rtx](https://github.com/xoxor4d/l4d2-rtx) — Left 4 Dead 2 - RTX Remix Compatibility Mod — — · 0 yıldız
+- [xoxor4d/p2-rtx](https://github.com/xoxor4d/p2-rtx) — Portal 2 - RTX Remix Compatibility Mod — — · 0 yıldız
+- [xoxor4d/remix-comp-base](https://github.com/xoxor4d/remix-comp-base) — A codebase that can be used for compatibility mods for NVIDIA's RTX Remix — — · 0 yıldız
+- [xoxor4d/remix-comp-projects](https://github.com/xoxor4d/remix-comp-projects) — Collection of Random RTX Remix Compatibility Mods — — · 0 yıldız
+- [XoxRumbleLorexoX/GoogleCloudCheatSheet](https://github.com/XoxRumbleLorexoX/GoogleCloudCheatSheet) — (açıklama yok) — HTML · 0 yıldız
+- [xozkann/lisansci](https://github.com/xozkann/lisansci) — Lisanscı web api kullanım dökümantasyonu — — · 0 yıldız
+- [xp-Yang/XPYEngine](https://github.com/xp-Yang/XPYEngine) — (açıklama yok) — — · 0 yıldız
+- [xpbeats00-sudo/-XP-Counter-Strike-Source-XPMod](https://github.com/xpbeats00-sudo/-XP-Counter-Strike-Source-XPMod) — XP Server transforms standard Counter-Strike: Source into a persistent RPG experience. Earn XP from kills, headshots, bomb… — — · 0 yıldız
+- [xpedroleonardo/Armazem](https://github.com/xpedroleonardo/Armazem) — O aplicativo tem a função de simular, como funcionaria a separação de produtos lendo o QRCODE de cada produto em estoque, com… — Kotlin · 0 yıldız
+- [XPerience-AOSP-Lollipop/android_system_keymaster](https://github.com/XPerience-AOSP-Lollipop/android_system_keymaster) — (açıklama yok) — C++ · 0 yıldız
+- [xpert-codes/Airline-Reservation-System-in-Cpp-Project-1](https://github.com/xpert-codes/Airline-Reservation-System-in-Cpp-Project-1) — This C++ code creates a console-based airline reservation system with a menu-driven interface, enabling users to make, view,… — C++ · 0 yıldız
+- [xpikix/https-discord.com-api-oauth2-authorize-client_id-1067889093033336833-permissions-2048-scope-bot](https://github.com/xpikix/https-discord.com-api-oauth2-authorize-client_id-1067889093033336833-permissions-2048-scope-bot) — (açıklama yok) — — · 0 yıldız
+- [XPModder/XPAdditions-1.16](https://github.com/XPModder/XPAdditions-1.16) — The 1.16 and above source of my minecraft mod XPAdditions — — · 0 yıldız
+- [xpronas/lisansdenemesi](https://github.com/xpronas/lisansdenemesi) — (açıklama yok) — — · 0 yıldız
+- [xProxyRed/DF_Logs-Ready](https://github.com/xProxyRed/DF_Logs-Ready) — Open-source FiveM scripts with built-in DF_Logs integration — ready to use. — Lua · 0 yıldız
+- [xpt07/Client](https://github.com/xpt07/Client) — (açıklama yok) — — · 0 yıldız
+- [XPYROTRON/Baseerah](https://github.com/XPYROTRON/Baseerah) — A modern Islamic Quiz Game inspired by classic TV quiz shows, featuring a sleek dark-themed interface, bilingual support (Arabic… — Python · 0 yıldız
+- [xqcLfr/Skeet](https://github.com/xqcLfr/Skeet) — Skeet is a game launcher i made myself and with the help of AI — TeX · 0 yıldız
+- [xqrto/RobloxCheats](https://github.com/xqrto/RobloxCheats) — (açıklama yok) — Lua · 0 yıldız
+- [xr-artech/SourceTreeToGitHubSample](https://github.com/xr-artech/SourceTreeToGitHubSample) — (açıklama yok) — C# · 0 yıldız
+- [XR-Lee/CrackSeg](https://github.com/XR-Lee/CrackSeg) — [CACIE 2026] 3D Modeling and Automated Measurement of Concrete Cracks via Segment Anything Refinement and Visual Inertial LiDAR… — — · 0 yıldız
+- [Xranbfg132/NeverLose](https://github.com/Xranbfg132/NeverLose) — (açıklama yok) — Lua · 0 yıldız
+- [Xranbfg132/NeverLoseCW](https://github.com/Xranbfg132/NeverLoseCW) — (açıklama yok) — Lua · 0 yıldız
+- [Xray-eth/ferroline-tactical-fps-2](https://github.com/Xray-eth/ferroline-tactical-fps-2) — FERROLINE — Foundry Protocol: an original round-based tactical FPS in three.js — 5v5 Vanguard vs Sentinel, bomb sites, economy,… — — · 0 yıldız
+- [XREDXUAPX/API_KEY](https://github.com/XREDXUAPX/API_KEY) — It verifies whether the Api key is working or not. You can modify it and link it to your Api file and make it work by activation… — Python · 0 yıldız
+- [XreeceX/LeetCode-cheat-sheet](https://github.com/XreeceX/LeetCode-cheat-sheet) — Cheat sheet. Find ur problem here or email me. — Java · 0 yıldız
+- [xric3vgvgg/hvhx](https://github.com/xric3vgvgg/hvhx) — content — — · 0 yıldız
+- [Xristo2/TensorFlow-for-CNNs-Data-Augmentation](https://github.com/Xristo2/TensorFlow-for-CNNs-Data-Augmentation) — earn practically how to build a data augmentation model which is a key topic in training visual recognition systems with… — Jupyter Notebook · 0 yıldız
+- [xRiveria/Nexus](https://github.com/xRiveria/Nexus) — Our lovely home. ~ — — · 0 yıldız
+- [xrMerida/Cheatsheet-Pseudocodigo](https://github.com/xrMerida/Cheatsheet-Pseudocodigo) — Cheatsheet del pseudocodigo de la Primer Semestre 2026, Ingenieria en Sistemas — — · 0 yıldız
+- [xronos-inc/meta-source-archive](https://github.com/xronos-inc/meta-source-archive) — Yocto package to include licenses and source code in the final image — BitBake · 0 yıldız
+- [XronStuff/NeverloseCracked](https://github.com/XronStuff/NeverloseCracked) — (açıklama yok) — — · 0 yıldız
+- [xrossb/winton](https://github.com/xrossb/winton) — Terminal-based server picker for Overwatch on Linux — Go · 0 yıldız
+- [xroxy6782-glitch/Minecraft26.2esp](https://github.com/xroxy6782-glitch/Minecraft26.2esp) — (açıklama yok) — — · 0 yıldız
+- [xrtlab/clovr](https://github.com/xrtlab/clovr) — Capturing and Logging OpenVR — — · 0 yıldız
+- [xRuiAlves/course-grade-calculator](https://github.com/xRuiAlves/course-grade-calculator) — Simple tool to compute all possible course's final grades base on the frequency grade — JavaScript · 0 yıldız
+- [XrxkCxrn/HVHerrengosserstedt](https://github.com/XrxkCxrn/HVHerrengosserstedt) — Website des Heimatvereins Herrengosserstedt — HTML · 0 yıldız
+- [XRYPTAMAL/hvhss-yearbook-2026](https://github.com/XRYPTAMAL/hvhss-yearbook-2026) — (açıklama yok) — TypeScript · 0 yıldız
+- [XSalkoYTX/Clients](https://github.com/XSalkoYTX/Clients) — If you came to get hacked clients and Minecraft them you came to the right place! Here you can get many hacked clients for… — — · 0 yıldız
+- [xsantotomas/esp32_samples](https://github.com/xsantotomas/esp32_samples) — (açıklama yok) — — · 0 yıldız
+- [xSarumo/Sandpile-Perfomance](https://github.com/xSarumo/Sandpile-Perfomance) — (açıklama yok) — — · 0 yıldız
+- [XScheats/XSpooferMTA](https://github.com/XScheats/XSpooferMTA) — NEW MTA SPOOFER,FOR FREE. — — · 0 yıldız
+- [XScheats/XSpooferMTA.](https://github.com/XScheats/XSpooferMTA.) — NEW MTA SPOOFER,FOR FREE. — — · 0 yıldız
+- [xScorp1oNx/keys_storage](https://github.com/xScorp1oNx/keys_storage) — System for password storage — HTML · 0 yıldız
+- [xsdonald-analyst/codes](https://github.com/xsdonald-analyst/codes) — SQL cheat sheet — — · 0 yıldız
+- [xSeditx/Mystic](https://github.com/xSeditx/Mystic) — (açıklama yok) — — · 0 yıldız
+- [xshubhamg/dp](https://github.com/xshubhamg/dp) — Create pastel, initials-based profile avatars with a gentle light/dark interface and a simple SVG API. — TypeScript · 0 yıldız
+- [xSilence8x/git-cheatsheet](https://github.com/xSilence8x/git-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [xsip/CSS-X64-RECV-DUMPER](https://github.com/xsip/CSS-X64-RECV-DUMPER) — Dumper RecVTables in Counter Strike Source 64bit version — C++ · 0 yıldız
+- [xSkriptx/Skript-Growtopia-Proxy](https://github.com/xSkriptx/Skript-Growtopia-Proxy) — (açıklama yok) — — · 0 yıldız
+- [xSolara/RobloxSpeedHack](https://github.com/xSolara/RobloxSpeedHack) — Script Kod Yerinize Kopyalayıp Execute basınız ve olucaktır — — · 0 yıldız
+- [xSrJAdWqZg/cheat-sheets](https://github.com/xSrJAdWqZg/cheat-sheets) — (açıklama yok) — — · 0 yıldız
+- [xstk/scala-cheat-sheet](https://github.com/xstk/scala-cheat-sheet) — Documenting my journey of learning scala. — Scala · 0 yıldız
+- [xstn2537/EQ-w-postacie-esx_menu_default-z-neona](https://github.com/xstn2537/EQ-w-postacie-esx_menu_default-z-neona) — (açıklama yok) — — · 0 yıldız
+- [xstrace/xstrace.github.io](https://github.com/xstrace/xstrace.github.io) — AI/Agent 安全攻防速查手册 - HackTricks 风格的 AI Security & Agent Security Cheat Sheet — — · 0 yıldız
+- [xsux-blip/Cryptocurrency-Price-Prediction-Comparing-Dogecoin-and-Shiba-Inu-Using-Random-Forest-Models](https://github.com/xsux-blip/Cryptocurrency-Price-Prediction-Comparing-Dogecoin-and-Shiba-Inu-Using-Random-Forest-Models) — Predicting Dogecoin and Shiba Inu Coin prices based on historical data. Comparing the performance of Random Forest models used… — R · 0 yıldız
+- [xsxFAKExsx/FzClient](https://github.com/xsxFAKExsx/FzClient) — Minecraft Forge 1.8.9 hacked client, Based on NightX-Client — Kotlin · 0 yıldız
+- [xt0725/Armed-Client-Official](https://github.com/xt0725/Armed-Client-Official) — Official Armed Client repository — Download the latest Windows releases, discover new features, and stay up to date. Source code… — — · 0 yıldız
+- [xtbqimuxmvtx/winCheatSheet](https://github.com/xtbqimuxmvtx/winCheatSheet) — Cos apparently cloud computing is the Way — — · 0 yıldız
+- [Xtech08/StriverCheatSheetSolutions](https://github.com/Xtech08/StriverCheatSheetSolutions) — (açıklama yok) — Python · 0 yıldız
+- [xtmacbook/d3d12Test](https://github.com/xtmacbook/d3d12Test) — (açıklama yok) — — · 0 yıldız
+- [xtnded/iw2clientdll](https://github.com/xtnded/iw2clientdll) — Call of Duty 2 1.4 Client Patch — — · 0 yıldız
+- [Xtreme-Studios-Inc/XtremeEngine](https://github.com/Xtreme-Studios-Inc/XtremeEngine) — (açıklama yok) — — · 0 yıldız
+- [XtremeCodes/Cpp-loading-bar](https://github.com/XtremeCodes/Cpp-loading-bar) — C++ program to create a loading bar — C++ · 0 yıldız
+- [xtremejake/cmd-cheatsheet](https://github.com/xtremejake/cmd-cheatsheet) — A collection of useful commands — — · 0 yıldız
+- [xtrmusicoff/marginal](https://github.com/xtrmusicoff/marginal) — A calm, browser-based Markdown studio with live preview and dark mode. — JavaScript · 0 yıldız
+- [xtz021/Skeet-Shooting](https://github.com/xtz021/Skeet-Shooting) — (açıklama yok) — C# · 0 yıldız
+- [Xu-Justin/aws-cheatsheet](https://github.com/Xu-Justin/aws-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [xuan622/CAT400-fyp-iot-trace-food-supply-chain](https://github.com/xuan622/CAT400-fyp-iot-trace-food-supply-chain) — It is a final year project with the title IoT-based Traceability of Food Supply Chain — TypeScript · 0 yıldız
+- [xuanhuy225/Random_Forest_Setup](https://github.com/xuanhuy225/Random_Forest_Setup) — This project focuses on data preparation for the Random Forest model. Base on Java language, Java Spring. — Java · 0 yıldız
+- [xuanruli/Apex_Trade](https://github.com/xuanruli/Apex_Trade) — stock trade web based on flask — Python · 0 yıldız
+- [xuanxinxo/shoppyreactjs](https://github.com/xuanxinxo/shoppyreactjs) — (açıklama yok) — JavaScript · 0 yıldız
+- [XuanXue2008/open-source-minecraft-launcher](https://github.com/XuanXue2008/open-source-minecraft-launcher) — 一个普普通通的开源启动器 — — · 0 yıldız
+- [xuanyinzheng1/canopy-height-model](https://github.com/xuanyinzheng1/canopy-height-model) — the source code for the paper "Vision Transformer-based Autoregressive Modeling for Forest Stratified Canopy Height Estimation" — — · 0 yıldız
+- [xuecocrkn-tech/AutCheat](https://github.com/xuecocrkn-tech/AutCheat) — AutCheat for Roblox — — · 0 yıldız
+- [xuefarmer/distributed_key_value_system](https://github.com/xuefarmer/distributed_key_value_system) — (açıklama yok) — Python · 0 yıldız
+- [Xuefeng-Zhu/flask-news-api](https://github.com/Xuefeng-Zhu/flask-news-api) — news mangement through REST API, load news through url — Python · 0 yıldız
+- [xuehu54321/ai-passport-DarkTower](https://github.com/xuehu54321/ai-passport-DarkTower) — Dark Tower — a text-based survival horror roguelike for ESP32-C3 (Tree AI Passport) and browser. Climb an endless tower, guard… — C · 0 yıldız
+- [Xueyi001/Multidimensional-analysis-based-on-the-Internet-Movie-Database](https://github.com/Xueyi001/Multidimensional-analysis-based-on-the-Internet-Movie-Database) — Based on IMDb movie data, the relationship between movie genre and running time was analyzed by combining K-Means clustering,… — R · 0 yıldız
+- [xuilqz/Fortnite-OrangeWare-Source-Full](https://github.com/xuilqz/Fortnite-OrangeWare-Source-Full) — If the expected request comes, I will share more — — · 0 yıldız
+- [xujingsophie/LZ1_Project](https://github.com/xujingsophie/LZ1_Project) — Develop and implement multiple network intelligent applications, achieve intelligent optimization, maintenance application… — — · 0 yıldız
+- [xujingsophie/LZ_Project](https://github.com/xujingsophie/LZ_Project) — Develop and implement multiple network intelligent applications, achieve intelligent optimization, maintenance application… — — · 0 yıldız
+- [XujohiRey7/scraper-cheatsheet](https://github.com/XujohiRey7/scraper-cheatsheet) — WIP module for scraper — — · 0 yıldız
+- [xuker0/cheatsheets](https://github.com/xuker0/cheatsheets) — (açıklama yok) — — · 0 yıldız
+- [xulbux/markdown](https://github.com/xulbux/markdown) — The ultimate Markdown cheat sheet. — — · 0 yıldız
+- [Xull1317/Lynx10Menu](https://github.com/Xull1317/Lynx10Menu) — (açıklama yok) — Lua · 0 yıldız
+- [Xull1317/Lynx81Menu](https://github.com/Xull1317/Lynx81Menu) — (açıklama yok) — Lua · 0 yıldız
+- [Xuoner/ML_Notebooks](https://github.com/Xuoner/ML_Notebooks) — A collection of Jupyter notebooks designed as quick-reference cheat sheets for Data Scientists. — Jupyter Notebook · 0 yıldız
+- [xupeiwust/Constellation_Overwatch](https://github.com/xupeiwust/Constellation_Overwatch) — Open-source MOSA-compliant autonomy SDK for distributed command and control of autonomous systems, sensors, and payloads with AI… — — · 0 yıldız
+- [XuperX/anno2conll](https://github.com/XuperX/anno2conll) — Converting standoff .ann files to conll file format. based on the official brat/tools — Python · 0 yıldız
+- [Xupetya144/SourceRoblox](https://github.com/Xupetya144/SourceRoblox) — (açıklama yok) — — · 0 yıldız
+- [xupsh/2021-Women_In_Tech_Hackathon](https://github.com/xupsh/2021-Women_In_Tech_Hackathon) — This repository contains the final presentation of the 2021 women in tech hackthon — — · 0 yıldız
+- [Xurlz/cheatsheets](https://github.com/Xurlz/cheatsheets) — Repository of .cheats file for the denisidoro/navi command — — · 0 yıldız
+- [XurnixTheXuriak/TF2-Classic-x10](https://github.com/XurnixTheXuriak/TF2-Classic-x10) — A port of the x10 weapons mod to classic based TF2 sourcemods for servers. — — · 0 yıldız
+- [xuroAs/gamesenseluas](https://github.com/xuroAs/gamesenseluas) — 1 — Lua · 0 yıldız
+- [xushengyong/FinanceHpp](https://github.com/xushengyong/FinanceHpp) — 第一次测试HPP的项目 — — · 0 yıldız
+- [xuwilliam01/BitBike](https://github.com/xuwilliam01/BitBike) — <Uploaded to Github> SE 101 Final Project "BitBike", Physics-based bike-racing game on the Tiva-C ~~~~~~~~~~~~~~~~~~~~~~~~ Video… — C · 0 yıldız
+- [XuXiaowu/WebDataLoader](https://github.com/XuXiaowu/WebDataLoader) — 网络请求工具库 — Java · 0 yıldız
+- [xuxoramos/nextcovid19hotspot](https://github.com/xuxoramos/nextcovid19hotspot) — Estimator of next COVID-19 contagion hotspot: location, contagion and fatalities curve. — — · 0 yıldız
+- [xuyxuy123/Fatality-update](https://github.com/xuyxuy123/Fatality-update) — Fatality beda update pena — — · 0 yıldız
+- [xv3gasx/Steal-An-Egg](https://github.com/xv3gasx/Steal-An-Egg) — Open-Source Script for Roblox Steal An Egg High Speed Auto-Steal, Event Automation & Modern WindUI — Lua · 0 yıldız
+- [xvar/ImageLoaderSample](https://github.com/xvar/ImageLoaderSample) — (açıklama yok) — Kotlin · 0 yıldız
+- [xvjiahao/remoteDesktop_HPP](https://github.com/xvjiahao/remoteDesktop_HPP) — (açıklama yok) — — · 0 yıldız
+- [xvwyh/GW2Viewer](https://github.com/xvwyh/GW2Viewer) — A tool for in-depth exploration of Guild Wars 2 archives. — — · 0 yıldız
+- [xw9114/prompt](https://github.com/xw9114/prompt) — codex破甲提示词 — — · 0 yıldız
+- [Xweeb266/RobloxHack](https://github.com/Xweeb266/RobloxHack) — RobloxHack — — · 0 yıldız
+- [xWTyrone/autokeypresserow](https://github.com/xWTyrone/autokeypresserow) — An Java app that collect chat commands in Youtube Live Streams, and inputs them as key presses into the system, effectively… — Java · 0 yıldız
+- [xwxfox/cs2cfg](https://github.com/xwxfox/cs2cfg) — my "advanced" modular cs2 cfg stuffs :3 — — · 0 yıldız
+- [xxbogxx/onetap](https://github.com/xxbogxx/onetap) — (açıklama yok) — TypeScript · 0 yıldız
+- [xxCodeGamerxx/Axolotl-RP-Roblox](https://github.com/xxCodeGamerxx/Axolotl-RP-Roblox) — Open Sourcing an old RP game I made — Lua · 0 yıldız
+- [xxcpas/tools-and-cheat-sheets](https://github.com/xxcpas/tools-and-cheat-sheets) — Various cheat sheets I am using — — · 0 yıldız
+- [Xxdffs/cachy-os-cheatsheet](https://github.com/Xxdffs/cachy-os-cheatsheet) — cachyos_cheatsheet — — · 0 yıldız
+- [xxenokatana/gamesenserbx](https://github.com/xxenokatana/gamesenserbx) — (açıklama yok) — Lua · 0 yıldız
+- [xXFreaksterXx/FunDaemon](https://github.com/xXFreaksterXx/FunDaemon) — The server-sided Daemon for cloud based minecraft systems. — — · 0 yıldız
+- [xxFURYWOLFxx/Scatter-String](https://github.com/xxFURYWOLFxx/Scatter-String) — hide strings from static and dynamic reverse engineering by never letting the full plaintext exist — — · 0 yıldız
+- [xXGamer2000Xx/gamesense.legit](https://github.com/xXGamer2000Xx/gamesense.legit) — (açıklama yok) — — · 0 yıldız
+- [Xxhhx671/neverlose](https://github.com/Xxhhx671/neverlose) — (açıklama yok) — — · 0 yıldız
+- [xXImrePVPXx/cheatsheet](https://github.com/xXImrePVPXx/cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [xxlahmacunxx/Valorant-Hileaimbot-triggerbot](https://github.com/xxlahmacunxx/Valorant-Hileaimbot-triggerbot) — (açıklama yok) — — · 0 yıldız
+- [xXN1ckWa1k3rXx/fatality_schinese](https://github.com/xXN1ckWa1k3rXx/fatality_schinese) — (açıklama yok) — — · 0 yıldız
+- [xxnbyy/bsql](https://github.com/xxnbyy/bsql) — bsql hacker tool — — · 0 yıldız
+- [xXseabass/fxserver.cfg](https://github.com/xXseabass/fxserver.cfg) — (açıklama yok) — — · 0 yıldız
+- [xXseabass/gta5.exe](https://github.com/xXseabass/gta5.exe) — (açıklama yok) — — · 0 yıldız
+- [xXSicilyXx/GTA5Base](https://github.com/xXSicilyXx/GTA5Base) — (açıklama yok) — — · 0 yıldız
+- [xxxcccxxx7777/aotc-](https://github.com/xxxcccxxx7777/aotc-) — aotc mod source code for terraria game — C# · 0 yıldız
+- [xXxNinja600xXx/Gamesense](https://github.com/xXxNinja600xXx/Gamesense) — (açıklama yok) — — · 0 yıldız
+- [xXxNinja600xXx/Neverlose](https://github.com/xXxNinja600xXx/Neverlose) — (açıklama yok) — — · 0 yıldız
+- [xxxVincent-L/LSTM-based-text-sentiment-analysis](https://github.com/xxxVincent-L/LSTM-based-text-sentiment-analysis) — This repository is a final project in a ML & DM class of the school of computing, Sichuan University. — Python · 0 yıldız
+- [XXXXX-Server/Kiddion-Modest-Menu](https://github.com/XXXXX-Server/Kiddion-Modest-Menu) — This file orginally from unknwoncheats.me — — · 0 yıldız
+- [Xxzzzre/cs-1.6](https://github.com/Xxzzzre/cs-1.6) — (açıklama yok) — — · 0 yıldız
+- [XYAOS/-Text-adventure-The-Enchanted-Forest-](https://github.com/XYAOS/-Text-adventure-The-Enchanted-Forest-) — A text based adventure game — C++ · 0 yıldız
+- [Xyara0/PauseMenu](https://github.com/Xyara0/PauseMenu) — PauseMenu Fivem — Lua · 0 yıldız
+- [xybu/cs240-tweeter](https://github.com/xybu/cs240-tweeter) — Twitter client for Purdue CS240 class based on O2 project. — C++ · 0 yıldız
+- [Xydroc-IO/GW2-TrailTools](https://github.com/Xydroc-IO/GW2-TrailTools) — (açıklama yok) — — · 0 yıldız
+- [xyedasadkazmi/Flask-Todo-Web](https://github.com/xyedasadkazmi/Flask-Todo-Web) — A modern Flask-based To-Do Web App featuring user authentication, task management with Active/Inactive filtering, and a sleek… — Python · 0 yıldız
+- [xyesos1828/CheatRoblox](https://github.com/xyesos1828/CheatRoblox) — slersikslersikslersikslersikslersikslersikslersikslersikslersikslersikslersikslersikslersikslersikslersikslersikslersikslersiksler… — — · 0 yıldız
+- [xyfyf/ardupilot-n680](https://github.com/xyfyf/ardupilot-n680) — N680 / EFT_EDU hardware support based on original ArduPilot V4.7.0-dev baseline aabbe500, for secondary development. — C++ · 0 yıldız
+- [xygb233/pubgsdk](https://github.com/xygb233/pubgsdk) — sdk — — · 0 yıldız
+- [xymobai/11111](https://github.com/xymobai/11111) — (açıklama yok) — — · 0 yıldız
+- [xyphx/CodeReCETxARMADA-hackathon](https://github.com/xyphx/CodeReCETxARMADA-hackathon) — Satellite mesh communication — Go · 0 yıldız
+- [xyq164202/Key-valueSystem](https://github.com/xyq164202/Key-valueSystem) — (açıklama yok) — Java · 0 yıldız
+- [XyraExe/Xyra-s-Chatbypasser](https://github.com/XyraExe/Xyra-s-Chatbypasser) — roblox chat bypasser lmao — — · 0 yıldız
+- [XyraL/Local-Handlings](https://github.com/XyraL/Local-Handlings) — FiveM All Car Handlers — — · 0 yıldız
+- [XyraL/XS-Racing](https://github.com/XyraL/XS-Racing) — Street racing for Qbox and QBCore: a racing tablet, a phone app, events and championships, and a track studio anyone can build in. — Lua · 0 yıldız
+- [xyseth/seraph-nuker](https://github.com/xyseth/seraph-nuker) — Skeets nuker - SRC. — Python · 0 yıldız
+- [Xysuffff/gta6-trophy-rarity-forecast-01](https://github.com/Xysuffff/gta6-trophy-rarity-forecast-01) — Trend-based GTA 6 trophy rarity forecaster with tier-aware uncertainty. Built by an AI agent for make.fun's bounty. — TypeScript · 0 yıldız
+- [xyuebai/gcp-hpp-terraform-infra](https://github.com/xyuebai/gcp-hpp-terraform-infra) — (açıklama yok) — — · 0 yıldız
+- [Xyvanned/Roblox-Loading-Screen](https://github.com/Xyvanned/Roblox-Loading-Screen) — Open Sourced Roblox Loading Screen - cinematic story intro in Luau (ReplicatedFirst, ProfileStore) — Luau · 0 yıldız
+- [xyx0826/infinitebnk](https://github.com/xyx0826/infinitebnk) — Wwise SoundBank extractor for Halo Infinite, based on Coreforge/libInfinite. — C++ · 0 yıldız
+- [XYZ-Learning/system-design-cheatsheet](https://github.com/XYZ-Learning/system-design-cheatsheet) — Free one-page system design cheat sheet for interviews: load balancers, databases, caching, sharding, queues, CAP. By XYZ… — — · 0 yıldız
+- [xyzgames01/BookshelfHashmap](https://github.com/xyzgames01/BookshelfHashmap) — Final project for Programming III. Had to use an ADT that we recreated in the class so I chose hashmap. Also had to save and load… — Java · 0 yıldız
+- [xyzhenrik/Loyals](https://github.com/xyzhenrik/Loyals) — (açıklama yok) — — · 0 yıldız
+- [xyzpuli4869/esports-calendar](https://github.com/xyzpuli4869/esports-calendar) — 电竞赛事日历 - 支持LOL、CS2、Valorant — JavaScript · 0 yıldız
+- [XZ3R5T/Active-Directory-Cheatsheet](https://github.com/XZ3R5T/Active-Directory-Cheatsheet) — Simple cheatsheet that i aggregated from what i have learned from the eJPT and the PJPT — — · 0 yıldız
+- [Xzanam/Graphisque](https://github.com/Xzanam/Graphisque) — (açıklama yok) — — · 0 yıldız
+- [xzbiz/hpp-retort-app](https://github.com/xzbiz/hpp-retort-app) — (açıklama yok) — — · 0 yıldız
+- [xzbiz/kalkulator-hpp-retort](https://github.com/xzbiz/kalkulator-hpp-retort) — (açıklama yok) — JavaScript · 0 yıldız
+- [xzbiz/Retort-HPP-](https://github.com/xzbiz/Retort-HPP-) — (açıklama yok) — TypeScript · 0 yıldız
+- [xzbiz/retort-hpp-calculator](https://github.com/xzbiz/retort-hpp-calculator) — (açıklama yok) — — · 0 yıldız
+- [xzcasdszcx/skeet.idb_beta](https://github.com/xzcasdszcx/skeet.idb_beta) — (açıklama yok) — — · 0 yıldız
+- [XZCendence/SnoozeV2](https://github.com/XZCendence/SnoozeV2) — Native lightweight REST client with ImGui — — · 0 yıldız
+- [xzelleiv/Phantom](https://github.com/xzelleiv/Phantom) — Fork of Phantom. — — · 0 yıldız
+- [xzjiu/ARthroNeRF_view_synthesis](https://github.com/xzjiu/ARthroNeRF_view_synthesis) — (açıklama yok) — — · 0 yıldız
+- [xzkt4/gamesense](https://github.com/xzkt4/gamesense) — (açıklama yok) — CSS · 0 yıldız
+- [xztaityozx/SourceGeneratorSample](https://github.com/xztaityozx/SourceGeneratorSample) — (açıklama yok) — C# · 0 yıldız
+- [y-compute/OrbitalStrike](https://github.com/y-compute/OrbitalStrike) — 2D missile game — — · 0 yıldız
+- [y-guang/ANU-COMP2400-Cheat-Sheet](https://github.com/y-guang/ANU-COMP2400-Cheat-Sheet) — A cheat sheet for COMP2400 Rational Database of The Australian National University. — TeX · 0 yıldız · arşiv
+- [y0443t-gif/yoshimi-cheatsheet](https://github.com/y0443t-gif/yoshimi-cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [Y0L042/DuinEngine](https://github.com/Y0L042/DuinEngine) — (açıklama yok) — — · 0 yıldız
+- [Y0ngjun/GTL4WEEK14TEAM1](https://github.com/Y0ngjun/GTL4WEEK14TEAM1) — (açıklama yok) — — · 0 yıldız
+- [Y0oshi/lain-psx-decompiled](https://github.com/Y0oshi/lain-psx-decompiled) — Decompilation of Serial Experiments Lain (PlayStation) and a native Windows, macOS and Linux client — — · 0 yıldız
+- [y0ungsm/yTags](https://github.com/y0ungsm/yTags) — Simple tag system for CSGO — SourcePawn · 0 yıldız · arşiv
+- [y0ungsm/yWarnSystem](https://github.com/y0ungsm/yWarnSystem) — Simple WarnSystem for CSGO — SourcePawn · 0 yıldız · arşiv
+- [y24168303/jvm-flags-cheatsheet](https://github.com/y24168303/jvm-flags-cheatsheet) — JVM flags and GC tuning cheatsheet for daily development, tested on JDK 17/21. — — · 0 yıldız
+- [Y2Canine/cheat-sheet-index](https://github.com/Y2Canine/cheat-sheet-index) — For my personal development learning notes — — · 0 yıldız
+- [y2h07/Hack_tools](https://github.com/y2h07/Hack_tools) — python练习 — Python · 0 yıldız
+- [y2kbowen/spring_sample](https://github.com/y2kbowen/spring_sample) — Source for the spring class on pluralsight — Java · 0 yıldız
+- [y3t1d/tmux-cheatsheet](https://github.com/y3t1d/tmux-cheatsheet) — Cheatsheet for tmux commands — — · 0 yıldız
+- [y45ren/hackathon-minecraft](https://github.com/y45ren/hackathon-minecraft) — This is a project for OneNote Hackathon, aiming to bring OneNote into Minecraft — — · 0 yıldız
+- [y64387498-jpg/Standoff-2-hile6](https://github.com/y64387498-jpg/Standoff-2-hile6) — (açıklama yok) — — · 0 yıldız
+- [y6m0/RobloX](https://github.com/y6m0/RobloX) — Hacker — HTML · 0 yıldız
+- [y8gao/predictor-tfcpp](https://github.com/y8gao/predictor-tfcpp) — Use tensorflow C++ API to load model and do inference — C++ · 0 yıldız
+- [y8ubxwfqgu/hvht](https://github.com/y8ubxwfqgu/hvht) — content — — · 0 yıldız
+- [y9792275/taskmanagerwebapp](https://github.com/y9792275/taskmanagerwebapp) — A simple Flask-based Task Manager Web App with SQLite for data storage, user authentication, and a responsive UI. Users can… — HTML · 0 yıldız
+- [Ya-sv/CS201_Computer_Systems](https://github.com/Ya-sv/CS201_Computer_Systems) — ntroduces computer systems from a software perspective. Provides an overview of C and assembly language programming and reading… — C · 0 yıldız
+- [yaadavabhishek/ShoppyGlobeApp](https://github.com/yaadavabhishek/ShoppyGlobeApp) — (açıklama yok) — JavaScript · 0 yıldız
+- [yaap/system_keymaster](https://github.com/yaap/system_keymaster) — (açıklama yok) — C++ · 0 yıldız
+- [yaasethanandhakumar/ApplyTrack](https://github.com/yaasethanandhakumar/ApplyTrack) — A Django-based Job Application Tracking System with CRUD operations, search functionality, and light/dark mode. — HTML · 0 yıldız
+- [Yaazarai/Assembly-Directory-Routing](https://github.com/Yaazarai/Assembly-Directory-Routing) — Directing C# to load assemblies from different folders. — — · 0 yıldız
+- [yabsp/cheatsheets](https://github.com/yabsp/cheatsheets) — (açıklama yok) — — · 0 yıldız
+- [yaccir/shoppyglobe](https://github.com/yaccir/shoppyglobe) — (açıklama yok) — JavaScript · 0 yıldız
+- [yaccir/shoppyglobebe](https://github.com/yaccir/shoppyglobebe) — (açıklama yok) — JavaScript · 0 yıldız
+- [yachevsky/toolBag](https://github.com/yachevsky/toolBag) — bash scripts and cheat sheets — Shell · 0 yıldız
+- [yacineb/postgres_cheatsheet](https://github.com/yacineb/postgres_cheatsheet) — Postgres in practice — — · 0 yıldız
+- [yacineb/rust_cheatsheet](https://github.com/yacineb/rust_cheatsheet) — A starter rust workspace projects — JavaScript · 0 yıldız
+- [Yad08/raspberry-pi-digital-signage-kiosk](https://github.com/Yad08/raspberry-pi-digital-signage-kiosk) — Raspberry Pi digital signage kiosk with automated display scheduling, startup recovery, and fullscreen menu playback using Linux,… — Shell · 0 yıldız
+- [yadavanujkumar/Data-Analysis-Cheat-Sheet](https://github.com/yadavanujkumar/Data-Analysis-Cheat-Sheet) — A comprehensive collection of cheat sheets for data analysis, covering Python libraries, SQL, statistics, and machine learning… — — · 0 yıldız
+- [yadavanujkumar/Data-Science-Cheat-Sheet](https://github.com/yadavanujkumar/Data-Science-Cheat-Sheet) — A comprehensive reference guide for data science concepts, tools, and techniques. — — · 0 yıldız
+- [yadavdhanraj400-cyber/Local-eSports](https://github.com/yadavdhanraj400-cyber/Local-eSports) — Free fire tournament app — — · 0 yıldız
+- [yadavkhushijii939-source/xpg-esports-tournament](https://github.com/yadavkhushijii939-source/xpg-esports-tournament) — Free Fire esports tournament website for XPG Esports with registration, match details, rules, results, and Telegram/YouTube links — HTML · 0 yıldız
+- [yadavmuskan17/HPPone_Project](https://github.com/yadavmuskan17/HPPone_Project) — (açıklama yok) — — · 0 yıldız
+- [yadavprateek-here/ShoppyGlobe](https://github.com/yadavprateek-here/ShoppyGlobe) — (açıklama yok) — JavaScript · 0 yıldız
+- [yadel23/DarkModeGoogleChromeExtension](https://github.com/yadel23/DarkModeGoogleChromeExtension) — Dark Mode built for Google Chorome that enables users with source code control and total privacy — JavaScript · 0 yıldız
+- [YadhagiriPonnada/NxtWatch---A-YouTube-Clone-Using-React.js-](https://github.com/YadhagiriPonnada/NxtWatch---A-YouTube-Clone-Using-React.js-) — NxtWatch is a React-based YouTube clone where users can watch, like, dislike, and save videos with JWT authentication and dark… — JavaScript · 0 yıldız
+- [yadhuvarshini/Cheatsheet](https://github.com/yadhuvarshini/Cheatsheet) — Preparatory Kit for Full Stacj development — HTML · 0 yıldız
+- [YadongQi/vbox-mirror-sync](https://github.com/YadongQi/vbox-mirror-sync) — (açıklama yok) — — · 0 yıldız
+- [YadsmooDEID/Fatality-copy-roblox-ui-](https://github.com/YadsmooDEID/Fatality-copy-roblox-ui-) — (açıklama yok) — — · 0 yıldız
+- [yaelbrinkert/fortnite-api-sdk](https://github.com/yaelbrinkert/fortnite-api-sdk) — (açıklama yok) — TypeScript · 0 yıldız
+- [yaeugene/cheat-sheet](https://github.com/yaeugene/cheat-sheet) — All type of cheat sheets with helpful snippets and instructions — — · 0 yıldız
+- [Yafrovon/SuperUI-Core](https://github.com/Yafrovon/SuperUI-Core) — Heavily modified VMaNGOS fork for permanent world bots, CRPG control, lootification, and more. Communicates directly with the… — — · 0 yıldız
+- [Yaganteeswarudu940/RAG-Cheat-Sheet](https://github.com/Yaganteeswarudu940/RAG-Cheat-Sheet) — (açıklama yok) — Python · 0 yıldız
+- [Yagizreyi/tweak_lisans](https://github.com/Yagizreyi/tweak_lisans) — (açıklama yok) — — · 0 yıldız
+- [yagmurdere/LicensePlateReadingSystem](https://github.com/yagmurdere/LicensePlateReadingSystem) — (açıklama yok) — Python · 0 yıldız
+- [yagnik13111990/2D_Plateformer-In-The-Dark](https://github.com/yagnik13111990/2D_Plateformer-In-The-Dark) — 2D platformer with sprite mask–based visibility — explore the darkness with limited vision and reach the end of the level. — — · 0 yıldız
+- [Yago/cheatsheets](https://github.com/Yago/cheatsheets) — (açıklama yok) — Astro · 0 yıldız
+- [Yagotrindade/CodecademyCheatSheetProject.github.io](https://github.com/Yagotrindade/CodecademyCheatSheetProject.github.io) — (açıklama yok) — HTML · 0 yıldız
+- [Yahballon/PS5NESX](https://github.com/Yahballon/PS5NESX) — A native NES emulator for jailbroken PS5 — — · 0 yıldız
+- [Yahia-Hasan/computer-graphics-project](https://github.com/Yahia-Hasan/computer-graphics-project) — This project is a 2D graphics package that includes various features for drawing shapes, changing the window background,… — — · 0 yıldız
+- [yahia098/apex-download-manager-bin](https://github.com/yahia098/apex-download-manager-bin) — apex download manager install script for arch based systems : — Shell · 0 yıldız
+- [yahia317/CTF-cheat-sheet](https://github.com/yahia317/CTF-cheat-sheet) — all the necessary command for quick use — JavaScript · 0 yıldız
+- [yahshuadisciple/solana-devnet-cheatsheet](https://github.com/yahshuadisciple/solana-devnet-cheatsheet) — A cheat sheet for working with Solana devnet: CLI setup, getting test SOL, deploying programs, and the common errors that eat an… — — · 0 yıldız
+- [yahya2345678/OneTap](https://github.com/yahya2345678/OneTap) — (açıklama yok) — TypeScript · 0 yıldız
+- [yahya2345678/onetap3](https://github.com/yahya2345678/onetap3) — (açıklama yok) — — · 0 yıldız
+- [yahyaturann/LisansYonetimi](https://github.com/yahyaturann/LisansYonetimi) — (açıklama yok) — TypeScript · 0 yıldız
+- [yaizalara-rgb/PFG_notebooks](https://github.com/yaizalara-rgb/PFG_notebooks) — Final Degree Project, analysis pipeline for scalp high-frequency oscillations (HFOs) in pediatric epilepsy. Seven Jupyter… — Jupyter Notebook · 0 yıldız
+- [YajasM/Menu-Based-Calculator-CPP](https://github.com/YajasM/Menu-Based-Calculator-CPP) — Menu-driven C++ console calculator with 9 operations (arithmetic, modulo, powers, log, sqrt, trig) and input validation for… — C++ · 0 yıldız
+- [YajjuvarapuTharun123/Netflix_Stock_Price__Prediction](https://github.com/YajjuvarapuTharun123/Netflix_Stock_Price__Prediction) — To find the forecasting future stock prices based on historical data and various market indicators, By applying the statistical… — Jupyter Notebook · 0 yıldız
+- [yajurani/diary_cheatsheet_293](https://github.com/yajurani/diary_cheatsheet_293) — Handy scripts for everyday tasks. — — · 0 yıldız
+- [yaka-es/docker-postfix](https://github.com/yaka-es/docker-postfix) — Yet another dockerized Postfix MTA, OpenDKIM and policyd-spf-fs, based on Alpine Linux. — Shell · 0 yıldız
+- [yakcollective/SystemOfAVote](https://github.com/yakcollective/SystemOfAVote) — a voting system with upvotes and downvotes. low-key, really, really stripped down reddit. — — · 0 yıldız
+- [YakesContact/YakesLisans](https://github.com/YakesContact/YakesLisans) — (açıklama yok) — — · 0 yıldız
+- [yakla/minecraft-lectern-hackpad](https://github.com/yakla/minecraft-lectern-hackpad) — (açıklama yok) — Python · 0 yıldız
+- [yakshmatrix/ielts-writing-speaking-cheatsheet](https://github.com/yakshmatrix/ielts-writing-speaking-cheatsheet) — Complete IELTS Band 8.5+ prep cheatsheet, 4-paragraph writing framework, and speaking logic engine for study-abroad candidates. — — · 0 yıldız
+- [yaku02/InterVFX](https://github.com/yaku02/InterVFX) — VFXエンジンです（2026/09/07作成開始） — — · 0 yıldız
+- [YAKUPA16/Sudoku](https://github.com/YAKUPA16/Sudoku) — A C++-based terminal Sudoku game with 20 difficulty levels, random board generation, load game support, and a built-in… — C++ · 0 yıldız
+- [yakuparas28/YuksekLisans](https://github.com/yakuparas28/YuksekLisans) — (açıklama yok) — Jupyter Notebook · 0 yıldız
+- [yalamurisoni/Keylogging-in-linux](https://github.com/yalamurisoni/Keylogging-in-linux) — I developed this keylogging using linux operating system.To see the website visit https://github.com/yalamurisoni — — · 0 yıldız
+- [yalan0822/Bytes-Hacker-Tools](https://github.com/yalan0822/Bytes-Hacker-Tools) — Bytes网络安全工具包 — — · 0 yıldız
+- [yalarcon99/Obstacle_avoider](https://github.com/yalarcon99/Obstacle_avoider) — C/C++ algorithm used to solve final project based on the Embedded Systems course taught by Dr. O. Acevedo. Coded and written by… — C++ · 0 yıldız
+- [Yalcini/170420004_BurakYalcin_Buyuk-Dil-Modelleri_BitirmeProjesiLisans](https://github.com/Yalcini/170420004_BurakYalcin_Buyuk-Dil-Modelleri_BitirmeProjesiLisans) — (açıklama yok) — Python · 0 yıldız
+- [yalda67/git-cheat-sheet](https://github.com/yalda67/git-cheat-sheet) — (açıklama yok) — — · 0 yıldız
+- [yalexublue/PCGML_via_POD](https://github.com/yalexublue/PCGML_via_POD) — A PCG for minecraft house building, trained using "path of destruction" algorithm — Python · 0 yıldız
+- [yalnader/TheShoppies](https://github.com/yalnader/TheShoppies) — Shopify Front end Dev intern challenge 2021. The application allows users to search and nominate movies for the Shoppies. — JavaScript · 0 yıldız
+- [YALOKGARua/VirtuProcessor](https://github.com/YALOKGARua/VirtuProcessor) — MiniCPU Emulator A simple CPU emulator written in C that simulates basic CPU operations, including arithmetic, logical… — C · 0 yıldız
+- [YAlperenBOZKURT/git-cheatsheet](https://github.com/YAlperenBOZKURT/git-cheatsheet) — Beginner-friendly Git command cheat sheet as a visual diagram — — · 0 yıldız
+- [yalu2828/SampleHackathon](https://github.com/yalu2828/SampleHackathon) — (açıklama yok) — Python · 0 yıldız
+- [yama-devkit/frontend-cheatsheet](https://github.com/yama-devkit/frontend-cheatsheet) — Explore the ultimate guide to frontend development best practices. Learn coding standards, dos and don’ts, real-world examples,… — — · 0 yıldız
+- [yamaceay/flavor_network](https://github.com/yamaceay/flavor_network) — This project is a project doing research on flavor networks at recipees basing on their shared compounds and its final mission is… — Jupyter Notebook · 0 yıldız
+- [YamadaEnotic/AdminHelper_to_RDS](https://github.com/YamadaEnotic/AdminHelper_to_RDS) — (açıklama yok) — — · 0 yıldız
+- [yamahei21python/cornix-cheat-sheet](https://github.com/yamahei21python/cornix-cheat-sheet) — (açıklama yok) — TypeScript · 0 yıldız
+- [yamamushi/du-authbot](https://github.com/yamamushi/du-authbot) — A discord bot for automating the verification of Dual Universe backers — Go · 0 yıldız
+- [YamantakaEllis/SafeStage-4D](https://github.com/YamantakaEllis/SafeStage-4D) — Open source 4D concert sound - earphones + venue beacons that follow you, stay safe, help deaf people, help in games, and guide… — — · 0 yıldız
+- [YamasEcho/nocturn](https://github.com/YamasEcho/nocturn) — A cool minecraft mod, source: Trust me bro — — · 0 yıldız
+- [Yamatino/TarkovTracker](https://github.com/Yamatino/TarkovTracker) — An easy to use web based tarkov tracker service — JavaScript · 0 yıldız
+- [Yameen6/Unit-Converter-CLI](https://github.com/Yameen6/Unit-Converter-CLI) — A simple and efficient C++ Unit Converter CLI that converts temperature, length, weight, and currency with an easy text-based… — C++ · 0 yıldız
+- [Yami2Danchou/cheatsheet_m1summative](https://github.com/Yami2Danchou/cheatsheet_m1summative) — (açıklama yok) — — · 0 yıldız
+- [YamiCueto/cloud-cheatsheet](https://github.com/YamiCueto/cloud-cheatsheet) — Dashboard interactivo que sirve como cuaderno de aprendizaje visual de los principales servicios de AWS — TypeScript · 0 yıldız
+- [Yamini-Eshwar/SQL_vs_Pandas_Cheatsheet](https://github.com/Yamini-Eshwar/SQL_vs_Pandas_Cheatsheet) — This repository helps beginners quickly learn **Pandas by comparing it with familiar SQL queries. — Jupyter Notebook · 0 yıldız
+- [yaminiagrawal05/Embedded-systems-password-Keypad](https://github.com/yaminiagrawal05/Embedded-systems-password-Keypad) — This project is password based security . LCD is used to dislpay the result — — · 0 yıldız
+- [YaminiBatna/RandomForest-Classifier](https://github.com/YaminiBatna/RandomForest-Classifier) — Implemented a Random Forest Classifier using the Diabetes dataset to predict the likelihood of diabetes based on medical features. — Jupyter Notebook · 0 yıldız
+- [Yaminikanojiya/The-AI-Based-Story-Generator](https://github.com/Yaminikanojiya/The-AI-Based-Story-Generator) — The AI-Based Story Generator uses advanced AI to create customized short stories based on user input. Whether you prefer… — CSS · 0 yıldız
+- [yaminlambappi/OneTap](https://github.com/yaminlambappi/OneTap) — (açıklama yok) — PHP · 0 yıldız
+- [Yamuno-Software/latex-confluence-cheatsheet](https://github.com/Yamuno-Software/latex-confluence-cheatsheet) — The LaTeX commands people actually use in Confluence, with source and rendered output side by side. KaTeX compatible. — — · 0 yıldız
+- [yan-hai/THP-step-by-step](https://github.com/yan-hai/THP-step-by-step) — A Step By Step Guide for The Hacker Playbook 3 — — · 0 yıldız
+- [yan-zaretskiy/eclair](https://github.com/yan-zaretskiy/eclair) — (açıklama yok) — — · 0 yıldız
+- [yanaborja610-hub/Inconnek-Cheat-Sheet](https://github.com/yanaborja610-hub/Inconnek-Cheat-Sheet) — (açıklama yok) — HTML · 0 yıldız
+- [yanagassi/source_craft](https://github.com/yanagassi/source_craft) — Jogo 3D inspirado em minecraft com geração de terrenos procedural e mineração de blocos. — Python · 0 yıldız
+- [YanaKhariebova/git-cheatsheet](https://github.com/YanaKhariebova/git-cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [yanamlnk/docker-cheatsheet](https://github.com/yanamlnk/docker-cheatsheet) — A simple project I have done during the studies to learn Docker and Docker Compose. I have written cheatsheet on top of that — JavaScript · 0 yıldız
+- [yanana/ios_sdk_samples](https://github.com/yanana/ios_sdk_samples) — (açıklama yok) — Swift · 0 yıldız
+- [yanand8/Paris-Housing-Price-Prediction](https://github.com/yanand8/Paris-Housing-Price-Prediction) — This project delves into the prediction of Parisian housing prices using various regression models, including linear regression,… — Jupyter Notebook · 0 yıldız
+- [YanaYandexPrakticum/cheatsheet_git](https://github.com/YanaYandexPrakticum/cheatsheet_git) — (açıklama yok) — — · 0 yıldız
+- [yanazov/Eulen-Dach](https://github.com/yanazov/Eulen-Dach) — (açıklama yok) — JavaScript · 0 yıldız
+- [yanboowang/hpplonet](https://github.com/yanboowang/hpplonet) — (açıklama yok) — Python · 0 yıldız
+- [yanchen-01/CS297](https://github.com/yanchen-01/CS297) — CS297/298 Project (BioBlockchain) based on https://github.com/taustin/spartan-gold — Java · 0 yıldız
+- [yancmo/JSONLoader](https://github.com/yancmo/JSONLoader) — Load JSON contents into web elements dynamically — JavaScript · 0 yıldız
+- [Yancovenant/-Nusantara-Explores-Jakarta-s-Coast---Roblox-Game](https://github.com/Yancovenant/-Nusantara-Explores-Jakarta-s-Coast---Roblox-Game) — Open Source — Lua · 0 yıldız
+- [YandereSimSC/YandereSimulatorSource](https://github.com/YandereSimSC/YandereSimulatorSource) — (açıklama yok) — — · 0 yıldız
+- [Yandie0413/docker-cheat-sheet](https://github.com/Yandie0413/docker-cheat-sheet) — (açıklama yok) — — · 0 yıldız
+- [yandriuchuari/SMR_project](https://github.com/yandriuchuari/SMR_project) — Final project of the subject of mobile and articulated robots, based on the control of a Kuka Kr3 robot for a soft drink bottling… — CMake · 0 yıldız
+- [YaNeVLAD/TermProject](https://github.com/YaNeVLAD/TermProject) — (açıklama yok) — — · 0 yıldız
+- [YaNeVLAD/TSP_Application](https://github.com/YaNeVLAD/TSP_Application) — (açıklama yok) — — · 0 yıldız
+- [YanfeiWang3973/Airbnb-SQL-Data-Analysis](https://github.com/YanfeiWang3973/Airbnb-SQL-Data-Analysis) — SQL project exploring Airbnb listing, pricing, and availability data. Includes table creation, CSV loading, and business insights… — — · 0 yıldız
+- [YanFlach/mta-crud-menu](https://github.com/YanFlach/mta-crud-menu) — (açıklama yok) — Lua · 0 yıldız
+- [yang-liang/jae_seatbelt](https://github.com/yang-liang/jae_seatbelt) — Replication package: Mandatory seatbelt laws and traffic fatalities: A reassessment (J. Applied Econometrics 2024) — Stata · 0 yıldız
+- [yang-uh/hvhv](https://github.com/yang-uh/hvhv) — (açıklama yok) — — · 0 yıldız
+- [yang0913h/C-](https://github.com/yang0913h/C-) — how to load large-size image in C# (30000px*20000px) 2.2MB — — · 0 yıldız
+- [yangahmed/HPP](https://github.com/yangahmed/HPP) — High Performance Programming — C · 0 yıldız
+- [yangbo-yangbo/IARO-DF-TunnelSqueezing](https://github.com/yangbo-yangbo/IARO-DF-TunnelSqueezing) — Code and dataset for reproducing the Deep Forest-based hybrid model for tunnel squeezing risk prediction, including IARO… — Python · 0 yıldız
+- [yangezheng/CG_KIT2122](https://github.com/yangezheng/CG_KIT2122) — Computer Graphic exercises — — · 0 yıldız
+- [yangfstephen/my_CSharp_Source](https://github.com/yangfstephen/my_CSharp_Source) — (açıklama yok) — — · 0 yıldız
+- [yanghan8458/DECO3801_project14_RainbowSix](https://github.com/yanghan8458/DECO3801_project14_RainbowSix) — Ranbowsix code base for project14 — JavaScript · 0 yıldız
+- [yangjianchuan/claude-code-cheatsheet](https://github.com/yangjianchuan/claude-code-cheatsheet) — Bilingual Claude Code cheatsheet — Python · 0 yıldız
+- [yangkaiwen2002/CS2-Career-Simulator](https://github.com/yangkaiwen2002/CS2-Career-Simulator) — A browser-based CS2 professional career simulator — TypeScript · 0 yıldız
+- [yangliuy/LDAVariationsGibbsSampling](https://github.com/yangliuy/LDAVariationsGibbsSampling) — Implementations of LDA Variations based on Collapsed Gibbs Sampling. — — · 0 yıldız
+- [YANGMISEUNG/onetap](https://github.com/YANGMISEUNG/onetap) — onetap — HTML · 0 yıldız
+- [YANGMISEUNG/onetap2](https://github.com/YANGMISEUNG/onetap2) — onetap2 — HTML · 0 yıldız
+- [yangmuliateguh/cheatsheet-exercise](https://github.com/yangmuliateguh/cheatsheet-exercise) — (açıklama yok) — Rust · 0 yıldız
+- [YangNEDDY/Code-runner-Executor-Map](https://github.com/YangNEDDY/Code-runner-Executor-Map) — My first C project: a simple HTTP server — — · 0 yıldız
+- [yangshulin2333/Roblox_YanzoFrame_V2](https://github.com/yangshulin2333/Roblox_YanzoFrame_V2) — Roblox reusable StorageModule based on YanzoFrame_V0 — Lua · 0 yıldız
+- [yangshuoyi5072-svg/cluster-cheatsheets](https://github.com/yangshuoyi5072-svg/cluster-cheatsheets) — Script templates and common commands for running jobs on HPC clusters (Slurm) — Shell · 0 yıldız
+- [YangSiJun528/c99-my-cheatsheets](https://github.com/YangSiJun528/c99-my-cheatsheets) — (açıklama yok) — C · 0 yıldız
+- [yanguanglan/hppg](https://github.com/yanguanglan/hppg) — Automatically exported from code.google.com/p/hppg — — · 0 yıldız
+- [YANHAOsTHINGSdb/JavaMiddleClassSampleSource](https://github.com/YANHAOsTHINGSdb/JavaMiddleClassSampleSource) — Java中级课程用代码 — JavaScript · 0 yıldız
+- [yanibisa/Eulen](https://github.com/yanibisa/Eulen) — (açıklama yok) — — · 0 yıldız
+- [yanijr/brainrot-empire](https://github.com/yanijr/brainrot-empire) — Un jeu Roblox 3D amusant et coloré basé sur l'univers des Brainrot avec collection, amélioration et PvP — — · 0 yıldız
+- [yanikizzethan-boop/Y-ksekLisansTeziBilgisayarDestekliMaterial](https://github.com/yanikizzethan-boop/Y-ksekLisansTeziBilgisayarDestekliMaterial) — (açıklama yok) — — · 0 yıldız
+- [Yanis27/Arsenal_Roblox_hack](https://github.com/Yanis27/Arsenal_Roblox_hack) — (açıklama yok) — — · 0 yıldız
+- [YanisDahmouche/doppler-radar-stm32f767-end-to-end](https://github.com/YanisDahmouche/doppler-radar-stm32f767-end-to-end) — ﻿ End-to-end 24.125 GHz Doppler radar stack on STM32F767ZI: analog front-end acquisition, ADC/DMA + embedded FFT, OLED local… — C · 0 yıldız
+- [yaniskg/big-data-midterm-prep](https://github.com/yaniskg/big-data-midterm-prep) — BUSN 20800 Big Data - Midterm review notebooks, cheat sheet, and simulated practice exam. — Jupyter Notebook · 0 yıldız
+- [Yaniv23/LeetCodeCheatSheet](https://github.com/Yaniv23/LeetCodeCheatSheet) — (açıklama yok) — — · 0 yıldız
+- [yanivmo/cheatsheets](https://github.com/yanivmo/cheatsheets) — Cheatsheets for shell commands; suitable for navi – interactive cheatsheet tool — Shell · 0 yıldız
+- [yankees88888g/Rustic](https://github.com/yankees88888g/Rustic) — A paper fork with the goal of making a more vanilla base for servers. — Java · 0 yıldız
+- [Yanko-N/GeoCachingUtad](https://github.com/Yanko-N/GeoCachingUtad) — Projeto Final do Curso Engenharia Informática — — · 0 yıldız
+- [Yanko1013/ck3-mod-Seize-All-Court-Artifacts-After-Siege](https://github.com/Yanko1013/ck3-mod-Seize-All-Court-Artifacts-After-Siege) — source code of ck3 mod `Seize All Court Artifacts After Siege` — AMPL · 0 yıldız
+- [YanLinAung24/CheatSheetProject](https://github.com/YanLinAung24/CheatSheetProject) — jsp/servlet — Java · 0 yıldız
+- [YannChemin/netcdf_C](https://github.com/YannChemin/netcdf_C) — load netcdf in C — C · 0 yıldız
+- [yannick77/final_year_project](https://github.com/yannick77/final_year_project) — My final year project: The design and Implementation of a GSM Based Streetlight Control system — Arduino · 0 yıldız
+- [yannickferenczi/developer-dynamic-cheatsheet](https://github.com/yannickferenczi/developer-dynamic-cheatsheet) — This is a Web Application that aims to provides developers with practical coding cheatsheets, code snippets to enhance… — — · 0 yıldız
+- [YannisGuiro/Java_HPP](https://github.com/YannisGuiro/Java_HPP) — School project in High Perfomance Computing subject — Java · 0 yıldız
+- [YannPC/Event_Management_System](https://github.com/YannPC/Event_Management_System) — build a menu driven console-based application using C# — C# · 0 yıldız
+- [yannsay-impact/r-py-cheatsheet](https://github.com/yannsay-impact/r-py-cheatsheet) — Cheatsheet for R developer learning Python — JavaScript · 0 yıldız
+- [yannsay/r-py-cheatsheet](https://github.com/yannsay/r-py-cheatsheet) — R to Python conversion cheatsheet — HTML · 0 yıldız
+- [yanntoe/Luckblox-Src](https://github.com/yanntoe/Luckblox-Src) — Source code of Luckblox a old roblox revival created by Lucky — PHP · 0 yıldız
+- [yansinp/Smart_Shoppy](https://github.com/yansinp/Smart_Shoppy) — shopping app — Kotlin · 0 yıldız
+- [yansz54/gta6-trophy-rarity-forecast](https://github.com/yansz54/gta6-trophy-rarity-forecast) — GTA VI trophy rarity forecaster: count-based convolution model forecasting week-one unlock rates for all 55 trophies. Built by an… — Python · 0 yıldız
+- [yantakushii/shardline-tactical-fps](https://github.com/yantakushii/shardline-tactical-fps) — Round-based tactical FPS on three.js: two squads, buy phase, recoil and spread, bots that plant and defuse. Built by an AI agent… — JavaScript · 0 yıldız
+- [yanyan810/anAlive](https://github.com/yanyan810/anAlive) — (açıklama yok) — — · 0 yıldız
+- [yanyan810/CG2](https://github.com/yanyan810/CG2) — (açıklama yok) — — · 0 yıldız
+- [yanyan810/GJ_tunagu](https://github.com/yanyan810/GJ_tunagu) — (açıklama yok) — — · 0 yıldız
+- [yanyzhang/nyc-crash-ford-fatality-analysis](https://github.com/yanyzhang/nyc-crash-ford-fatality-analysis) — (açıklama yok) — Jupyter Notebook · 0 yıldız
+- [yanzstemplate/Source-Code-samp](https://github.com/yanzstemplate/Source-Code-samp) — (açıklama yok) — — · 0 yıldız
+- [Yao-class-cpp-studio/grassland-legacy](https://github.com/Yao-class-cpp-studio/grassland-legacy) — (açıklama yok) — — · 0 yıldız
+- [yao12138zy/distributed-kv-storage](https://github.com/yao12138zy/distributed-kv-storage) — Distributed Key-value Storage System — Java · 0 yıldız
+- [yaoenliu/FCG_Project01](https://github.com/yaoenliu/FCG_Project01) — (açıklama yok) — — · 0 yıldız
+- [yaofangwx123/GTA5Fivem](https://github.com/yaofangwx123/GTA5Fivem) — Base on ESX,make a company buisness. — — · 0 yıldız
+- [yaoguangz/CSCI680K](https://github.com/yaoguangz/CSCI680K) — This is source code used for processing data for our final project. — Java · 0 yıldız
+- [YaoiFanboy/HPP-Bucket](https://github.com/YaoiFanboy/HPP-Bucket) — (açıklama yok) — C++ · 0 yıldız
+- [YaoiFanboy/HPP-Merge](https://github.com/YaoiFanboy/HPP-Merge) — (açıklama yok) — C++ · 0 yıldız
+- [YaoiFanboy/Hpp2](https://github.com/YaoiFanboy/Hpp2) — (açıklama yok) — — · 0 yıldız
+- [YaoZengzeng/raft](https://github.com/YaoZengzeng/raft) — A toy etcd like fault-tolerant key/value storage system — Go · 0 yıldız
+- [yaps2/yaps2](https://github.com/yaps2/yaps2) — Yet another pcsx2 fork — — · 0 yıldız
+- [YapWeiXuan/CS5340-Final-Project](https://github.com/YapWeiXuan/CS5340-Final-Project) — Final Project: Human Crowd Modelling with Kalman Filter and its variants. Repository containing Final Project Jupyter Notebooks… — Jupyter Notebook · 0 yıldız
+- [yaqubal/Git-Github-Cheat-Sheet](https://github.com/yaqubal/Git-Github-Cheat-Sheet) — (açıklama yok) — — · 0 yıldız
+- [yaqubyaqubov1/clshowpos](https://github.com/yaqubyaqubov1/clshowpos) — creates a gui that looks just like the cl_showpos 1 command in source games to roblox — — · 0 yıldız
+- [Yar1991-Translation/CRD](https://github.com/Yar1991-Translation/CRD) — The website source code for the CRD (China Roblox Download) project — TypeScript · 0 yıldız
+- [yara19moh/Landing-page-for-a-cafe](https://github.com/yara19moh/Landing-page-for-a-cafe) — Responsive landing page for a concept café, Blossom & Bean. Built with HTML and CSS, with an interactive menu and light/dark mode… — HTML · 0 yıldız
+- [YaraELkhateeb/Restaurant-Management-System](https://github.com/YaraELkhateeb/Restaurant-Management-System) — C++ program managing recipes, orders, and staff. Key features: Phase 1: Console-based menu, order, and recipe management using… — — · 0 yıldız
+- [yaravind/openai-codex-cheatsheet](https://github.com/yaravind/openai-codex-cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [yardenbs/periodic_task_executor](https://github.com/yardenbs/periodic_task_executor) — Allows users to periodically schedule and execute tasks via an API developed in C. — C · 0 yıldız
+- [yarengunerr/UserRelationships](https://github.com/yarengunerr/UserRelationships) — The aim of this project is to retrieve user data through the Twitter API, analyze this data, and make matches based on similar… — Java · 0 yıldız
+- [yareny-delacruz/Logica-de-programacion-en-js-ONE-conceptos-primordiales](https://github.com/yareny-delacruz/Logica-de-programacion-en-js-ONE-conceptos-primordiales) — (açıklama yok) — HTML · 0 yıldız
+- [YariCB/CG-UCV-Project3Dscene](https://github.com/YariCB/CG-UCV-Project3Dscene) — (açıklama yok) — — · 0 yıldız
+- [yarkuliko3/cheat-sheets](https://github.com/yarkuliko3/cheat-sheets) — Useful info — — · 0 yıldız
+- [YarnFalconGenerator/CS2-Ultimate-Optimization](https://github.com/YarnFalconGenerator/CS2-Ultimate-Optimization) — CS2 Ultimate Optimization Script - 2026 — — · 0 yıldız
+- [yaroslaff/highla](https://github.com/yaroslaff/highla) — Execute diagnostics when Load Average is high. — Python · 0 yıldız
+- [yaroslav2308/HackerNews-SwiftUI](https://github.com/yaroslav2308/HackerNews-SwiftUI) — Using API parse JSON and load data in a list with opening WebView by touch. — Swift · 0 yıldız
+- [Yaroslav436/Fatality](https://github.com/Yaroslav436/Fatality) — (açıklama yok) — — · 0 yıldız
+- [yaroslavya/parallely](https://github.com/yaroslavya/parallely) — measuring performance of a different ways to load a web page — — · 0 yıldız
+- [YaroslawBagriy/macOS-Developer-Command-Cheat-Sheet](https://github.com/YaroslawBagriy/macOS-Developer-Command-Cheat-Sheet) — macOS Developer Command Cheat Sheet — — · 0 yıldız
+- [YaroslawBagriy/numpy-developer-cheatsheet](https://github.com/YaroslawBagriy/numpy-developer-cheatsheet) — Numpy developer cheatsheet — — · 0 yıldız
+- [YaroslawBagriy/pandas-developer-cheatsheet](https://github.com/YaroslawBagriy/pandas-developer-cheatsheet) — Pandas developer cheatsheet — — · 0 yıldız
+- [yarvod/esp_hack](https://github.com/yarvod/esp_hack) — (açıklama yok) — C · 0 yıldız
+- [yasamankouchaki/Restaurant](https://github.com/yasamankouchaki/Restaurant) — This program takes the menu requested by the user and shows the added value and the final price along with the requested menu. — C++ · 0 yıldız
+- [yasanaresh/react-advanced-todo](https://github.com/yasanaresh/react-advanced-todo) — "An advanced React-based To-Do application with task filtering, editing, dark mode, and persistent storage." — JavaScript · 0 yıldız
+- [Yasanga-Lakshan/Digital-Stopwatch-ASIC-Development-using-OSIC-Tools-and-OpenROAD-Flow](https://github.com/Yasanga-Lakshan/Digital-Stopwatch-ASIC-Development-using-OSIC-Tools-and-OpenROAD-Flow) — RTL-to-GDSII flow of a digital stopwatch in SystemVerilog using open-source tools (Yosys, ABC, OpenROAD, Magic, Netgen, OpenSTA).… — — · 0 yıldız
+- [Yasanga-Lakshan/QuickConnect---Contact-Management-System-](https://github.com/Yasanga-Lakshan/QuickConnect---Contact-Management-System-) — ContactEase is a simple C-based command-line contact management system. It lets users add, view, search, and delete contacts… — C · 0 yıldız
+- [Yasar1230/smartautomation](https://github.com/Yasar1230/smartautomation) — CONVOY — an interactive 3D digital twin for autonomous factory AGV fleets, featuring dynamic task allocation, deadlock detection,… — HTML · 0 yıldız
+- [Yasaswini-Y/Railway-Reservation-System](https://github.com/Yasaswini-Y/Railway-Reservation-System) — The project "Railway Reservation System" is a console-based application developed in the C programming language. The primary aim… — C · 0 yıldız
+- [yasaswiniks/python_modules_cheatsheets](https://github.com/yasaswiniks/python_modules_cheatsheets) — (açıklama yok) — — · 0 yıldız
+- [YasCoMa/manupcal_api](https://github.com/YasCoMa/manupcal_api) — Laravel API for management of licenses of software systems and applications usage as well as addition of users and permission… — PHP · 0 yıldız
+- [YasCoMa/manupcal_app](https://github.com/YasCoMa/manupcal_app) — Web application for management of licenses of software systems and applications usage as well as addition of users and permission… — Vue · 0 yıldız
+- [yaseen03032795925-dotcom/apex-edge-dashboard-0000000000](https://github.com/yaseen03032795925-dotcom/apex-edge-dashboard-0000000000) — Apex Edge Industrial Sourcing Unified CRM and Multi-Model AI Routing Dashboard — — · 0 yıldız
+- [yaseengadalrb-ctrl/ATLAS-Restaurant-](https://github.com/yaseengadalrb-ctrl/ATLAS-Restaurant-) — ATLAS is a website for a fancy restaurant that’s all about traveling the world through food. It has a cool dark design where you… — HTML · 0 yıldız
+- [yasenhorozov/OOP-Study-Vault](https://github.com/yasenhorozov/OOP-Study-Vault) — FMI OOP (C++) study vault: weekly notes, term glossary, commented code, and an exam cheat-sheet kit with compiled example… — C++ · 0 yıldız
+- [yaser912/Cpp-Warzone-simulator](https://github.com/yaser912/Cpp-Warzone-simulator) — Collaborative C++ project to simulate a popular web based strategy game called Warzone. — C++ · 0 yıldız
+- [Yash-Baranwal26/StoreShoppy-Assignment](https://github.com/Yash-Baranwal26/StoreShoppy-Assignment) — (açıklama yok) — JavaScript · 0 yıldız
+- [yash-jangra/Hexadecimal-Keypad-Scanner-in-Verilog](https://github.com/yash-jangra/Hexadecimal-Keypad-Scanner-in-Verilog) — Keypad scanners are used to enter data manually in digital telephones, computer keyboards and other digital systems. Telephones… — Verilog · 0 yıldız
+- [Yash-Khadse/Brutanix](https://github.com/Yash-Khadse/Brutanix) — (açıklama yok) — CSS · 0 yıldız
+- [Yash-Pandav/pjm-load-forecasting](https://github.com/Yash-Pandav/pjm-load-forecasting) — Hourly electricity load forecasting for the PJM AEP grid using Random Forest, with peak vs normal residual analysis. — Jupyter Notebook · 0 yıldız
+- [yash-pant/PremierLeaguePredictor](https://github.com/yash-pant/PremierLeaguePredictor) — This project predicts the Premier League champion based on squad-level features. — Python · 0 yıldız
+- [yash-vishwakarma12/SSIS_Multicast_Excel_To_DB_AND_CSV](https://github.com/yash-vishwakarma12/SSIS_Multicast_Excel_To_DB_AND_CSV) — This project demonstrates an end-to-end SSIS ETL pipeline that reads data from three Excel source files, performs sorting and… — — · 0 yıldız
+- [yash-yv-verma/Flight-Data-Processing-and-Query-System-in-C](https://github.com/yash-yv-verma/Flight-Data-Processing-and-Query-System-in-C) — This project is a C Flight Data Query System designed to load, process, and query international flight data from a CSV file. The… — C · 0 yıldız
+- [yash2391/Disease_Prediction_System](https://github.com/yash2391/Disease_Prediction_System) — One of the fastest-growing fields is the health care industry. The medical industries have a huge amount of data set collections… — Jupyter Notebook · 0 yıldız
+- [Yash5885/Expense-Tracker](https://github.com/Yash5885/Expense-Tracker) — Modern React-based personal expense tracker with analytics dashboard, category-wise breakdown, CSV export, dark mode, and… — JavaScript · 0 yıldız
+- [Yash924/FoodOrder](https://github.com/Yash924/FoodOrder) — FoodCorner home delivers vegetarian and non-vegetarian combos to its customer based on order., Given the type of food, quantity… — Java · 0 yıldız
+- [yash98/Apex](https://github.com/yash98/Apex) — Automated Policy EXtraction through analysis of Source Code and Documentation — C++ · 0 yıldız
+- [yasharth-0910/git-command-sheet](https://github.com/yasharth-0910/git-command-sheet) — A web-based interactive Git cheat sheet with a live sandbox to execute Git commands securely. Quickly search, learn, and practice… — TypeScript · 0 yıldız
+- [Yashas-Sagili/ML-Mini-Project](https://github.com/Yashas-Sagili/ML-Mini-Project) — Accident fatality prediction using historical accident data — Jupyter Notebook · 0 yıldız
+- [yashasjonnada/Cycle-by-cycle-simulator-for-an-out-order-APEX-pipeline-with-5-pipeline-stages](https://github.com/yashasjonnada/Cycle-by-cycle-simulator-for-an-out-order-APEX-pipeline-with-5-pipeline-stages) — Simulated an out-of-order design that uses 16 architectural registers, 20 physical registers, register renaming, supported by a… — C · 0 yıldız
+- [yashaswini-1018/TeluguMoviesExplorer](https://github.com/yashaswini-1018/TeluguMoviesExplorer) — A React-based web app to explore popular Telugu movies — search, sort by rating or year, and switch between dark/light modes. — JavaScript · 0 yıldız
+- [yashaswinim2018/irish-road-fatality-bayesian](https://github.com/yashaswinim2018/irish-road-fatality-bayesian) — Bayesian hierarchical Poisson model ranking Irish counties by road fatality risk per km driven (2015-2024). — — · 0 yıldız
+- [yashbalujadhav-arch/Task-1-Cybersecurity-Fundamentals](https://github.com/yashbalujadhav-arch/Task-1-Cybersecurity-Fundamentals) — Deliverables for Task 1: Foundations of Cybersecurity & Lab Setup. Contains Linux CLI cheat-sheet, cybersecurity fundamentals… — — · 0 yıldız
+- [yashbalujadhav-arch/Task-1-Foundation-of-cyber-security-Lab-setup](https://github.com/yashbalujadhav-arch/Task-1-Foundation-of-cyber-security-Lab-setup) — Task 1: Foundations of Cybersecurity & Lab Setup for ApexPlanet Internship. Contains study notes, Linux CLI cheat-sheet, and lab… — — · 0 yıldız
+- [YashBalwir/Jeopardy-Kaggle](https://github.com/YashBalwir/Jeopardy-Kaggle) — An EDA and a Random Forest Classifier trained over the data to predict the value of a question — Jupyter Notebook · 0 yıldız
+- [yashbhardwaj2005/Developer-Notes-](https://github.com/yashbhardwaj2005/Developer-Notes-) — A repository of my self-written notes, summaries, and cheat sheets created while learning and exploring software development. — — · 0 yıldız
+- [yashchavan721/https-mta-sts.hackerone.com-](https://github.com/yashchavan721/https-mta-sts.hackerone.com-) — (açıklama yok) — — · 0 yıldız
+- [Yashcodes04/Railway-Management-System](https://github.com/Yashcodes04/Railway-Management-System) — The Railway Management System is a comprehensive software solution designed to efficiently handle the operations and management… — C · 0 yıldız
+- [yashdeep370/Cheatsheet_DS_ML](https://github.com/yashdeep370/Cheatsheet_DS_ML) — Data Science & Analytics codes regarding machine learning — — · 0 yıldız
+- [yashdhivar/Btech_Project_AdversariallyRobustIDS](https://github.com/yashdhivar/Btech_Project_AdversariallyRobustIDS) — This is my final year BTech Project. The project domain is Cyber Security. It is a 3 Tier Intrusion Detection System. Tier1:… — Python · 0 yıldız
+- [yashera01/contact-book-organizer](https://github.com/yashera01/contact-book-organizer) — contact book organizer is a C++ program that enables users to organize and manage their contacts. It provides features like… — C++ · 0 yıldız
+- [yashesparkbiz/EcommercetaskSellerPanel](https://github.com/yashesparkbiz/EcommercetaskSellerPanel) — (açıklama yok) — HTML · 0 yıldız
+- [Yashfa-y/Restaurant-Management-System](https://github.com/Yashfa-y/Restaurant-Management-System) — A console-based restaurant management system built in C++ using Dev C++. It allows users to view menus, place orders, calculate… — C++ · 0 yıldız
+- [Yashfeenraza/Employee-Management-System](https://github.com/Yashfeenraza/Employee-Management-System) — The Employee Management System is a terminal-based application developed in C that allows organizations to manage employee… — C · 0 yıldız
+- [YashGoel931/Google-homepage-layout-design-using-HTML-CSS](https://github.com/YashGoel931/Google-homepage-layout-design-using-HTML-CSS) — It is a simple google homepage layout design page implemented by using HTML and CSS. — HTML · 0 yıldız
+- [YashGulatiwork/Three-Tier-Architecture](https://github.com/YashGulatiwork/Three-Tier-Architecture) — A hands-on AWS three-tier architecture project built using VPC, public and private subnets, an Application Load Balancer, EC2… — — · 0 yıldız
+- [yashgupte21/distributed-key-value-storage](https://github.com/yashgupte21/distributed-key-value-storage) — An empirical evaluation of distributed key value storage systems - MongoDB and Cassandra — Python · 0 yıldız
+- [yashh127/ML-Based-Intrusion-detection-system](https://github.com/yashh127/ML-Based-Intrusion-detection-system) — A production-grade intrusion detection system powered by Random Forest & XGBoost, featuring a real-time cyberpunk dashboard built… — Python · 0 yıldız
+- [yashhhseella/5105-cheatsheet](https://github.com/yashhhseella/5105-cheatsheet) — (açıklama yok) — TeX · 0 yıldız
+- [YashiiSinghh/EduGrade-Analyzer](https://github.com/YashiiSinghh/EduGrade-Analyzer) — A web-based Grade Calculator and GPA Analyzer with Dark Mode and Reward System. — CSS · 0 yıldız
+- [Yashikabansal16/Project-Hospital_Information_and_Appointment_Management_System](https://github.com/Yashikabansal16/Project-Hospital_Information_and_Appointment_Management_System) — The Hospital Information & Appointment Management System is a console-based C program designed to simplify the management of… — C · 0 yıldız
+- [Yashikamishra95/FireFly-Neural-Network-Optimization](https://github.com/Yashikamishra95/FireFly-Neural-Network-Optimization) — Firefly Algorithm-based Neural Network for handwritten digit classification and gradient-free optimization. — Python · 0 yıldız
+- [Yashikarastogi/Global-Covid-19-Tracker](https://github.com/Yashikarastogi/Global-Covid-19-Tracker) — Confirmed Cases and Fatalities — Jupyter Notebook · 0 yıldız
+- [yashkalambkar1005/CEH-cheat-sheet](https://github.com/yashkalambkar1005/CEH-cheat-sheet) — (açıklama yok) — — · 0 yıldız
+- [Yashkarde/NewsFlow](https://github.com/Yashkarde/NewsFlow) — NewsFlow is a responsive React-based news platform providing real-time updates across various categories. It fetches live news… — CSS · 0 yıldız
+- [Yashmaulekhi/Cheat_Sheet_DEVOPS](https://github.com/Yashmaulekhi/Cheat_Sheet_DEVOPS) — My Linux and DevOps command cheat sheet with examples and practical usage. Repository Public select karo. — — · 0 yıldız
+- [yashoda-neupane/git-cheatsheet](https://github.com/yashoda-neupane/git-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [yashparitkar/counter-strike-cursors](https://github.com/yashparitkar/counter-strike-cursors) — Counter Strike Cursors for Windows and Linux based OS to customise your PC. — — · 0 yıldız
+- [yashPat98/HPP](https://github.com/yashPat98/HPP) — This Repository contains programs of HPP - Heterogeneous Parallel Programming — C · 0 yıldız
+- [yashpatel458/RequestRouter](https://github.com/yashpatel458/RequestRouter) — Developed a multi-server load balancing system to distribute client requests efficiently across multiple servers by implementing… — C · 0 yıldız
+- [yashpathare01/QuizQuestions](https://github.com/yashpathare01/QuizQuestions) — Spring Boot-based Microservices Architecture. ✅ Features 🔍 Service Discovery using Eureka Server 🚪 API Gateway with Spring Cloud… — Java · 0 yıldız
+- [Yashprasadpatil/Admin-Seller_panel](https://github.com/Yashprasadpatil/Admin-Seller_panel) — (açıklama yok) — JavaScript · 0 yıldız
+- [Yashpratap12/ShoppyGlobe](https://github.com/Yashpratap12/ShoppyGlobe) — This is a small e-commerce website with most of the functionality like a proper amazon, flipkart etc. — JavaScript · 0 yıldız
+- [Yashraghuvans/AgentGuard](https://github.com/Yashraghuvans/AgentGuard) — A lightweight, open-source Apex security firewall between AI agents and your Salesforce data. — Apex · 0 yıldız
+- [yashraj-96/Faster-LLM-Inference-on-CPU-using-Rustformers](https://github.com/yashraj-96/Faster-LLM-Inference-on-CPU-using-Rustformers) — To run the open source available LLM models on CPU architecture is challenging, especially in terms of accuracy, hallucinations… — Rust · 0 yıldız
+- [Yashraj-Gaikwad/heterogeneous-parallel-programming](https://github.com/Yashraj-Gaikwad/heterogeneous-parallel-programming) — HPP Codes Cuda and OpenCL — — · 0 yıldız
+- [yashrajk555/To-Do-List-App](https://github.com/yashrajk555/To-Do-List-App) — A simple console-based To-Do List application built in C++ that allows users to add, view, and delete daily tasks using a… — C++ · 0 yıldız
+- [yashrajkakkad/fleetdb](https://github.com/yashrajkakkad/fleetdb) — Distributed key-value storage system based on Raft consensus algorithm (MIT's Distributed Systems Labs) — Go · 0 yıldız
+- [yashrajz/Chunkies](https://github.com/yashrajz/Chunkies) — Chunkies - Modern Tiffin Service Website 🍛 A fully responsive, dark-themed website for a Bangalore-based authentic Indian tiffin… — HTML · 0 yıldız
+- [yashrajzala/esp32_supabase_sample](https://github.com/yashrajzala/esp32_supabase_sample) — (açıklama yok) — — · 0 yıldız
+- [yashrenhiet/ViQAS](https://github.com/yashrenhiet/ViQAS) — This the Final year project by team, Its a visual question answering system based on top down and bottom up mechanism — Python · 0 yıldız
+- [yashsh568/CRUD_RestAPI](https://github.com/yashsh568/CRUD_RestAPI) — This project is a CRUD API for managing wallet transactions, developed using Java and Spring Boot, with MySQL as the database.… — Java · 0 yıldız
+- [yashsiriah16-ops/AI-Based-CO-Emission-Estimation-and-Forecasting-in-the-Cement-Industry](https://github.com/yashsiriah16-ops/AI-Based-CO-Emission-Estimation-and-Forecasting-in-the-Cement-Industry) — Curated 2015–2025 cement industry emissions data across 10+ companies. Built and validated SVR, Linear Regression, and Random… — Python · 0 yıldız
+- [YashuaSedai/Roblox-Project](https://github.com/YashuaSedai/Roblox-Project) — Roblox project source code — Luau · 0 yıldız
+- [YashuYadav001/cheat-sheets](https://github.com/YashuYadav001/cheat-sheets) — (açıklama yok) — — · 0 yıldız
+- [YashuYadav001/React-Sql-Cheatsheet](https://github.com/YashuYadav001/React-Sql-Cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [yashv7982/ShoppyGlobe](https://github.com/yashv7982/ShoppyGlobe) — (açıklama yok) — JavaScript · 0 yıldız
+- [yashv7982/shoppyglobe-frontend](https://github.com/yashv7982/shoppyglobe-frontend) — (açıklama yok) — JavaScript · 0 yıldız
+- [Yashvanthiniselvam/APB](https://github.com/Yashvanthiniselvam/APB) — AMBA APB Master-Slave interface implemented in Verilog with FSM-based design and basic read/write verification. — Verilog · 0 yıldız
+- [YashvanthSankar/cheatsheets-md-website](https://github.com/YashvanthSankar/cheatsheets-md-website) — (açıklama yok) — JavaScript · 0 yıldız
+- [yashveersinghrajpoot/velmora](https://github.com/yashveersinghrajpoot/velmora) — Velmora is an open source Roblox melee PvP arena game with server authoritative combat, 21 weapons, abilities, ranked battles,… — Luau · 0 yıldız
+- [yashveersinghrajpoot/yashveer-singh](https://github.com/yashveersinghrajpoot/yashveer-singh) — Personal website and engineering portfolio of Yashveer Singh, founder of Yashveer Labs. Showcasing software engineering, AI and… — TypeScript · 0 yıldız
+- [yashvyas95/CheatSheet_Collection](https://github.com/yashvyas95/CheatSheet_Collection) — Different Cheat-Sheet Collection — — · 0 yıldız · arşiv
+- [YashWagh23/Apex](https://github.com/YashWagh23/Apex) — Hand gesture-based spatial control system for Windows. — JavaScript · 0 yıldız
+- [yashwanth-eshwarappa/CS205-AI-Feature-Selection](https://github.com/yashwanth-eshwarappa/CS205-AI-Feature-Selection) — In this project, nearest neighbor classifier is implemented through two different types of searches - forward selection and… — JavaScript · 0 yıldız
+- [Yashwanth-git-coder/PythonCheatSheet101](https://github.com/Yashwanth-git-coder/PythonCheatSheet101) — (açıklama yok) — HTML · 0 yıldız
+- [yashwanth-kt/Game-Winner-Prediction](https://github.com/yashwanth-kt/Game-Winner-Prediction) — The target is to create a model which predicts players finishing placement based on their final stats. — HTML · 0 yıldız
+- [YashwanthSelvarajan/oracle-business-process-reporting-platform](https://github.com/YashwanthSelvarajan/oracle-business-process-reporting-platform) — Oracle SQL and PL/SQL-based business process reporting platform simulating APEX workflow automation, KPI reporting, approval… — — · 0 yıldız
+- [Yashwardhansingh99/Report-card-generator](https://github.com/Yashwardhansingh99/Report-card-generator) — In this we write a C program to generate the report card of a student based on his marks secured in the final examination. first… — C · 0 yıldız
+- [yashyash0110/UVM-Based-Verification-of-an-APB-Slave](https://github.com/yashyash0110/UVM-Based-Verification-of-an-APB-Slave) — (açıklama yok) — SystemVerilog · 0 yıldız
+- [yashyash0110/UVM-based-Verification-of-APB-Memory](https://github.com/yashyash0110/UVM-based-Verification-of-APB-Memory) — (açıklama yok) — SystemVerilog · 0 yıldız
+- [yasidusandaruwan-hue/BurpSuite-WebPentest-Cheatsheet](https://github.com/yasidusandaruwan-hue/BurpSuite-WebPentest-Cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [yasidusandaruwan-hue/SQL-Injection-Cheatsheet](https://github.com/yasidusandaruwan-hue/SQL-Injection-Cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [Yasin-Dikbas/movie-search](https://github.com/Yasin-Dikbas/movie-search) — A modern React movie search app powered by the OMDb API, featuring movie details, loading states, error handling, and a… — CSS · 0 yıldız
+- [Yasin-shaik/B-Tree-Project](https://github.com/Yasin-shaik/B-Tree-Project) — Implemented a B-Tree Data Structure using OOP concepts and C++ Programming Language. OOP concepts like Inheritance, Polymorphism,… — C++ · 0 yıldız
+- [yasin1151/DxFbxQuickViewer](https://github.com/yasin1151/DxFbxQuickViewer) — FBX is too slow to open, so I made a simple viewer, based on DirectX11 — — · 0 yıldız
+- [yasin1151/ZeroEngine](https://github.com/yasin1151/ZeroEngine) — 测试AI编程能力的仓库 — — · 0 yıldız
+- [yasinsariboun/Model-Based-Decision-Making](https://github.com/yasinsariboun/Model-Based-Decision-Making) — Includes the .py and .ipynb files of Group 5 for the final assignment of EPA1361 2020/2021 — Jupyter Notebook · 0 yıldız
+- [yasinuddowla/loading_c](https://github.com/yasinuddowla/loading_c) — Loading (progress) program using C programming language — C · 0 yıldız
+- [yasinxdxd/tiledgame](https://github.com/yasinxdxd/tiledgame) — (açıklama yok) — — · 0 yıldız
+- [yasirali969/Hospital-Management-System](https://github.com/yasirali969/Hospital-Management-System) — A C++ Hospital Management System that manages doctors, patients, diseases, and appointments. It allows searching records, adding… — C++ · 0 yıldız
+- [YasirbinZahid/-AI-News-to-Content-Automation](https://github.com/YasirbinZahid/-AI-News-to-Content-Automation) — This project is a fully automated AI content pipeline. It continuously monitors trusted AI news sources, selects the most… — — · 0 yıldız
+- [YasirMondal/Data-Science-project](https://github.com/YasirMondal/Data-Science-project) — A web application built with Flask that predicts passenger survival based on key features. Users can input data via a simple… — Python · 0 yıldız
+- [yasirr153/luminadiningresturants](https://github.com/yasirr153/luminadiningresturants) — Lumina Dining is a premium, fully responsive restaurant website featuring an elegant dark design with gold accents. It includes… — TypeScript · 0 yıldız
+- [yasirujanith/keystroke_authentication](https://github.com/yasirujanith/keystroke_authentication) — A simple keystroke authentication system which identifies user typing rhythm when signing in and use it back when the user is… — Java · 0 yıldız
+- [Yasirurandeepa/Cipher](https://github.com/Yasirurandeepa/Cipher) — System for encrypt a plain text to cipher text and decrypt cipher text back to plain text. Use invertible function and same… — Java · 0 yıldız
+- [Yasirurandeepa/Keystroke-Dynamics](https://github.com/Yasirurandeepa/Keystroke-Dynamics) — Project Keystroke Dynamics was developed as the individual project for the Computer Security module. The system is capable of… — Java · 0 yıldız
+- [Yasmeen-Turk/OneTap](https://github.com/Yasmeen-Turk/OneTap) — (açıklama yok) — — · 0 yıldız
+- [YasmeenTarek1/Primordial-Mix](https://github.com/YasmeenTarek1/Primordial-Mix) — (açıklama yok) — Makefile · 0 yıldız
+- [Yasmin007-estudante/IAsmin](https://github.com/Yasmin007-estudante/IAsmin) — Esta é uma IA treinada para ser uma atendente comercial especifica dos meus doces, porém, é primordial saber que a inteligencia… — JavaScript · 0 yıldız
+- [Yasmin007-estudante/IAsmin-Trufas-e-Cones](https://github.com/Yasmin007-estudante/IAsmin-Trufas-e-Cones) — Esta é uma IA treinada para ser uma atendente comercial especifica dos meus doces, porém, é primordial saber que a inteligencia… — — · 0 yıldız
+- [yasmin203/Fatalities-in-the-Israeli-Palestinian](https://github.com/yasmin203/Fatalities-in-the-Israeli-Palestinian) — analysis about the fatalities in the war between the Palestinian people and the Israelites tyrane since 2000 till 2020 — — · 0 yıldız
+- [YasminAlShawawrh/APB-FIFO-UVM-Verification](https://github.com/YasminAlShawawrh/APB-FIFO-UVM-Verification) — UVM-based verification environment for a buggy APB3-accessible synchronous FIFO. Includes APB agent, UVM register model,… — SystemVerilog · 0 yıldız
+- [yasmineh-d/-cheat-sheet](https://github.com/yasmineh-d/-cheat-sheet) — (açıklama yok) — — · 0 yıldız
+- [yasminelmargoushy/MobileAgentsThreads](https://github.com/yasminelmargoushy/MobileAgentsThreads) — 3-Tier Implementation of an ALP of the Mobile Agents using Multi-Threaded Socket Java programming. >> Content The solution of… — Java · 0 yıldız
+- [yasminzioudi/3Dauto](https://github.com/yasminzioudi/3Dauto) — (açıklama yok) — — · 0 yıldız
+- [yaspieze/baseplate.gg](https://github.com/yaspieze/baseplate.gg) — Baseplate.gg — Open Creator Roblox Studio AI Agent & 9-Slice GUI Forge (v2.4) — TypeScript · 0 yıldız
+- [Yass-200/log-fluency-cheat-sheet](https://github.com/Yass-200/log-fluency-cheat-sheet) — (açıklama yok) — — · 0 yıldız
+- [yassine-mabrouk/Distributed-systems-security_With_Keycloak](https://github.com/yassine-mabrouk/Distributed-systems-security_With_Keycloak) — (açıklama yok) — Java · 0 yıldız
+- [yassine5119/champions-esports-league](https://github.com/yassine5119/champions-esports-league) — Champions Esports League — The future of competitive eFootball tournaments, squads, rankings, and esports battles. — HTML · 0 yıldız
+- [yassinekamoune47-ctrl/TeeTime](https://github.com/yassinekamoune47-ctrl/TeeTime) — Golf tournament management platform for APEX Network – User management, role-based access, and tournament administration. — TypeScript · 0 yıldız
+- [yassinsolim/FightingLab](https://github.com/yassinsolim/FightingLab) — Original Roblox 3D fighting game (duel lobby): place file, exported Luau sources, fighter specs, tools and design docs. — Luau · 0 yıldız
+- [YassirBouigherdaine/Shoppy_website](https://github.com/YassirBouigherdaine/Shoppy_website) — (açıklama yok) — JavaScript · 0 yıldız
+- [yassirlaaouissi/csgo_source2_binary](https://github.com/yassirlaaouissi/csgo_source2_binary) — see my twitter thread here: https://twitter.com/kladblokje_88/status/1632444264654274560?s=20 — — · 0 yıldız
+- [yassmin1/GIT_cheatsheet](https://github.com/yassmin1/GIT_cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [Yassssmin/CsvFileSource](https://github.com/Yassssmin/CsvFileSource) — (açıklama yok) — Java · 0 yıldız
+- [yasu97/Predicting-Flight-Delays-Using-ML](https://github.com/yasu97/Predicting-Flight-Delays-Using-ML) — Developed Random Forest, K-Nearest Neighbor, and Naïve Bayes Classifier models to analyze, predict, and classify flight… — Jupyter Notebook · 0 yıldız
+- [yasui-i/emu-cab-1.21.1](https://github.com/yasui-i/emu-cab-1.21.1) — EMU driver cab for Sable physics trains: interactive controls, ATP, balises, electrical displays, gradual throttle and exterior… — Java · 0 yıldız
+- [yasui-i/simurail-navigation](https://github.com/yasui-i/simurail-navigation) — Physical train autopilot for SimuRail and Create (Minecraft 1.21.1 / NeoForge). — Java · 0 yıldız
+- [yasumorishima/gas-daily-diary](https://github.com/yasumorishima/gas-daily-diary) — Google Apps Script-based personal diary web application with mobile-optimized UI and dark mode support. — HTML · 0 yıldız
+- [Yaswanth-Kumar-Panthangi/APB-based-Single-Port-RAM](https://github.com/Yaswanth-Kumar-Panthangi/APB-based-Single-Port-RAM) — (açıklama yok) — SystemVerilog · 0 yıldız
+- [yaswanth0418367/ccc-code](https://github.com/yaswanth0418367/ccc-code) — This C program implements a simple role-based student management system. Users log in as Admin, Staff, User, or Guest, each with… — — · 0 yıldız
+- [yaswanth0418367/SRMS.c](https://github.com/yaswanth0418367/SRMS.c) — This C program implements a simple role-based student management system. Users log in as Admin, Staff, User, or Guest, each with… — C · 0 yıldız
+- [Yaswanth2747/IITB-CPU](https://github.com/Yaswanth2747/IITB-CPU) — This repository contains the VHDL implementation of a simple multicycle RISC CPU. It includes all source files, simulation… — VHDL · 0 yıldız
+- [Yaswanth2747/Pipelined-RISC-CPU](https://github.com/Yaswanth2747/Pipelined-RISC-CPU) — This repository contains the VHDL implementation of a pipelined RISC CPU. It includes source files, testbenches, and the final… — VHDL · 0 yıldız
+- [yaswanth63796/hackspoora_PhoenixSquad](https://github.com/yaswanth63796/hackspoora_PhoenixSquad) — it is a hackthon for event — — · 0 yıldız
+- [yaswanthkumar1845/Task-5-Decision-Trees-and-Random-Forests-ELEVATE-LABS.](https://github.com/yaswanthkumar1845/Task-5-Decision-Trees-and-Random-Forests-ELEVATE-LABS.) — A Decision Tree and Random Forest are trained on the Heart Disease dataset. The tree is visualized, depth is controlled to reduce… — Python · 0 yıldız
+- [yasweh/apap-midterm-cheatsheet](https://github.com/yasweh/apap-midterm-cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [Yatagarasu10/hppybirthdaysarah](https://github.com/Yatagarasu10/hppybirthdaysarah) — (açıklama yok) — HTML · 0 yıldız
+- [yatesthfild/cheatsheet](https://github.com/yatesthfild/cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [YatharthaRana/LARK-GAME](https://github.com/YatharthaRana/LARK-GAME) — The LARK is an action game based on the contrast of light and dark wherein the character of light goes pass the realms of DARK to… — GDScript · 0 yıldız
+- [yathu17/used-car-price-prediction-UG](https://github.com/yathu17/used-car-price-prediction-UG) — Used Car Price Prediction is my final-year project for my BSc (Hons) in Computing with Artificial Intelligence Technology at… — Jupyter Notebook · 0 yıldız
+- [yatima1460/proctree](https://github.com/yatima1460/proctree) — (açıklama yok) — — · 0 yıldız
+- [YatinSathish/Movie-Recommender-System-Model-Analysis](https://github.com/YatinSathish/Movie-Recommender-System-Model-Analysis) — A content-based movie recommendation system that uses Bernoulli Naive Bayes, Multinomial Naive Bayes, and Random Forest models to… — Jupyter Notebook · 0 yıldız
+- [Yatir-Solan/Taxonomic-and-ecological-mapping-of-secretion-systems](https://github.com/Yatir-Solan/Taxonomic-and-ecological-mapping-of-secretion-systems) — Profile HMMs and code scripts of the research pipeline and figures from a manuscript titled (currently undergoing peer review)… — Jupyter Notebook · 0 yıldız
+- [Yatochka812/MTACubemapLoader](https://github.com/Yatochka812/MTACubemapLoader) — MTACubemapLoader — — · 0 yıldız
+- [Yatocim1531/SDKRenderMTA](https://github.com/Yatocim1531/SDKRenderMTA) — (açıklama yok) — — · 0 yıldız
+- [YatuLi/UCL_EEE_3rd_Year_Project_Appendix](https://github.com/YatuLi/UCL_EEE_3rd_Year_Project_Appendix) — Source Codes of the Final Year Project — Java · 0 yıldız
+- [Yavar10/git-cheatsheet](https://github.com/Yavar10/git-cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [YavishtGupta/Ar-based-car-game](https://github.com/YavishtGupta/Ar-based-car-game) — (açıklama yok) — — · 0 yıldız
+- [YavishtGupta/Space-Shooter](https://github.com/YavishtGupta/Space-Shooter) — (açıklama yok) — — · 0 yıldız
+- [YavizGuldalf/RTAI-Cheatsheet](https://github.com/YavizGuldalf/RTAI-Cheatsheet) — (açıklama yok) — TeX · 0 yıldız
+- [Yavuz7/Quake4RACMod](https://github.com/Yavuz7/Quake4RACMod) — Quake 4 movement mod based off the Ratchet and Clank series, coded in C++ — C++ · 0 yıldız
+- [yavuzelcil/CheatSheetTemplate](https://github.com/yavuzelcil/CheatSheetTemplate) — (açıklama yok) — TeX · 0 yıldız
+- [yavuzelcil/MyRsCheatSheet](https://github.com/yavuzelcil/MyRsCheatSheet) — (açıklama yok) — TeX · 0 yıldız
+- [yawnyawnpizza/MetricCheatSheet](https://github.com/yawnyawnpizza/MetricCheatSheet) — (açıklama yok) — HTML · 0 yıldız
+- [yaya1310/HPPYBDAY](https://github.com/yaya1310/HPPYBDAY) — (açıklama yok) — HTML · 0 yıldız
+- [yayakm/ProjetHPP](https://github.com/yayakm/ProjetHPP) — DEBS 2016 Grand Challenge: Social networks: Query 1 — Java · 0 yıldız
+- [yaz0r/Azel](https://github.com/yaz0r/Azel) — Reverse engineering of Panzer Dragoon Saga — — · 0 yıldız
+- [yazan6546/Radix-Sort-In-C](https://github.com/yazan6546/Radix-Sort-In-C) — A C program that uses linked lists to perform radix sort on a list of strings. The program allows users to load strings from a… — C · 0 yıldız
+- [YazanAlshareef/keyboard-cheatsheet](https://github.com/YazanAlshareef/keyboard-cheatsheet) — Searchable keyboard shortcuts for Windows, VS Code, Excel and Chrome — JavaScript · 0 yıldız
+- [YazanDevelopment/LoginSystemHWID](https://github.com/YazanDevelopment/LoginSystemHWID) — LoginSystemHWID — — · 0 yıldız
+- [YazanJ/SubscriptionBillingSystem](https://github.com/YazanJ/SubscriptionBillingSystem) — (açıklama yok) — — · 0 yıldız
+- [yazannn1919/CP-CheatSheet](https://github.com/yazannn1919/CP-CheatSheet) — A C++ competitive programming cheat sheet with common algorithms and data structures. — C++ · 0 yıldız
+- [yazarbrahim/eJPT-Pentesting-Enumeration-Guide](https://github.com/yazarbrahim/eJPT-Pentesting-Enumeration-Guide) — Enumeration cheat sheets and service checklists for authorized labs and INE eJPT preparation — — · 0 yıldız
+- [yazhini2207/Automatic-Light-Detector](https://github.com/yazhini2207/Automatic-Light-Detector) — An LDR-based automatic lighting circuit that detects darkness and turns the LED ON using a transistor. — — · 0 yıldız
+- [yazhini2207/LDR-automatic-Light-Detector](https://github.com/yazhini2207/LDR-automatic-Light-Detector) — An LDR-based automatic lighting circuit that detects darkness and turns the LED ON using a transistor. — — · 0 yıldız
+- [Yazkun69/ROBLOX-Phishing](https://github.com/Yazkun69/ROBLOX-Phishing) — Phishing Source for ROBLOX (Educational Purposes) — — · 0 yıldız
+- [yazzakm/bloodstrike-rewrite](https://github.com/yazzakm/bloodstrike-rewrite) — (açıklama yok) — — · 0 yıldız
+- [yazzie7/PremierLeagueFantasy](https://github.com/yazzie7/PremierLeagueFantasy) — A web app that helps you build the best squad for Fantasy Premier League (FPL), a game where you manage a virtual football team.… — Java · 0 yıldız
+- [Yb-rabbit/GMTK2025](https://github.com/Yb-rabbit/GMTK2025) — GMTK2025仓库 — — · 0 yıldız
+- [ybhavesh-0915/To-Do-List-React](https://github.com/ybhavesh-0915/To-Do-List-React) — iToDo is a responsive, feature-rich, and interactive to-do application built with React. It supports dark mode, swipe gestures,… — JavaScript · 0 yıldız
+- [YBill/YouyunSample](https://github.com/YBill/YouyunSample) — 游云SDK chat 功能 — Java · 0 yıldız
+- [ybotwe/weatheratashesi](https://github.com/ybotwe/weatheratashesi) — This is a web application for our final software engineering project. It makes use of the ReSTful service oriented software… — JavaScript · 0 yıldız
+- [ybv/SimpleDynamo](https://github.com/ybv/SimpleDynamo) — A robust replicated key –value storage system, which emulates Amazon’s Dynamo in its functionality. It provides eventual… — Java · 0 yıldız
+- [ybwerneck/MonoAlg3Dly](https://github.com/ybwerneck/MonoAlg3Dly) — Extensible Monodomain equation simulator — — · 0 yıldız
+- [ycarodasilvarodrigues67-art/roblox-scripts](https://github.com/ycarodasilvarodrigues67-art/roblox-scripts) — Eoblox forte script hacker Fuciona apenas sbo jog Temot Breaker Croossrood Edition — — · 0 yıldız
+- [ycarodasilvarodrigues67-art/roblox-scripts-](https://github.com/ycarodasilvarodrigues67-art/roblox-scripts-) — Script Forte No JoGo Event Breaker Croossrood Edition Ele faz coisas de hacker fassoso roda no servidor :D Curtao Só fuciona… — — · 0 yıldız
+- [ycat3/base64](https://github.com/ycat3/base64) — Base64のエンコード/デコード処理をRustでプログラム — Rust · 0 yıldız
+- [ycfreeman/slack-log-reader](https://github.com/ycfreeman/slack-log-reader) — A little tool I hacked up for filtering Slack logs, by channels and users — JavaScript · 0 yıldız
+- [ychanovee/phasmocheatsheet](https://github.com/ychanovee/phasmocheatsheet) — little cheat sheet just for me — JavaScript · 0 yıldız
+- [YCLKC/ImGui-YiChen](https://github.com/YCLKC/ImGui-YiChen) — 在这个Github仓库中 我会分享一些关于AndroidImGui项目的代码 — — · 0 yıldız
+- [ycyusufcavdar/deu_lisansustuogrencitakipsistemi](https://github.com/ycyusufcavdar/deu_lisansustuogrencitakipsistemi) — (açıklama yok) — PHP · 0 yıldız
+- [Ydenizd/The-Accuracy-Transparency-Trade-Off-in-Responsible-AI-A-Case-Study-on-COMPAS](https://github.com/Ydenizd/The-Accuracy-Transparency-Trade-Off-in-Responsible-AI-A-Case-Study-on-COMPAS) — Empirical study of the accuracy–transparency trade-off in legal AI using the COMPAS recidivism dataset. Compares Decision Tree,… — Jupyter Notebook · 0 yıldız
+- [ydevving/LicenseSystem](https://github.com/ydevving/LicenseSystem) — (açıklama yok) — C++ · 0 yıldız
+- [ydingyd/Recommendation_System_Based_on_User-Book_Interactions](https://github.com/ydingyd/Recommendation_System_Based_on_User-Book_Interactions) — Final Project for the Big Data Course, Spring 2020 — Jupyter Notebook · 0 yıldız
+- [ydj515/shortcut-cheatsheet](https://github.com/ydj515/shortcut-cheatsheet) — 단축키 검색을 할 수 있는 react project — TypeScript · 0 yıldız
+- [YDVSHRADDHA/GIT-CHEAT-SHEET](https://github.com/YDVSHRADDHA/GIT-CHEAT-SHEET) — (açıklama yok) — — · 0 yıldız
+- [ye1107/he-computer-vision-assisted-key-borrowing-system](https://github.com/ye1107/he-computer-vision-assisted-key-borrowing-system) — (açıklama yok) — Jupyter Notebook · 0 yıldız
+- [yeabis/DAFTech-DriverLicense-System](https://github.com/yeabis/DAFTech-DriverLicense-System) — (açıklama yok) — Dart · 0 yıldız
+- [yeahbois/ai-cheatsheet](https://github.com/yeahbois/ai-cheatsheet) — (açıklama yok) — Jupyter Notebook · 0 yıldız
+- [yeahg-dev/UnoVisaulStateSample](https://github.com/yeahg-dev/UnoVisaulStateSample) — Reproduce compile error when using Visual State "Loading" — C# · 0 yıldız
+- [YEAHMAN563/cs2-veh-dllmain-dumper](https://github.com/YEAHMAN563/cs2-veh-dllmain-dumper) — VEH-based DllMain region dumper for CS2 pre-entrypoint dumps via manual-mapped DLL. Admin console watchdog. Benchmark research… — C++ · 0 yıldız
+- [yeahwhat-mc/mark2-backup](https://github.com/yeahwhat-mc/mark2-backup) — Bash script to backup mark2 based Minecraft servers — Shell · 0 yıldız
+- [yeapralay/scribe_app](https://github.com/yeapralay/scribe_app) — This is the final year college project based on the technologies like React, JS and Angular , also I use google cloud for… — TypeScript · 0 yıldız
+- [yecanv/sample_loader](https://github.com/yecanv/sample_loader) — (açıklama yok) — — · 0 yıldız
+- [yecao0118/KeyValueSystem](https://github.com/yecao0118/KeyValueSystem) — (açıklama yok) — Java · 0 yıldız
+- [yedveharshada/hpp](https://github.com/yedveharshada/hpp) — This is my first project — — · 0 yıldız
+- [Yeeeter30/Sodium](https://github.com/Yeeeter30/Sodium) — Sodium bypasser roblox — — · 0 yıldız
+- [Yeeeter30/Sodium-Bypasser](https://github.com/Yeeeter30/Sodium-Bypasser) — A Roblox chat bypasser for all script executers — — · 0 yıldız
+- [yeehaGdzie/luas](https://github.com/yeehaGdzie/luas) — luas for skeet/nvl/others that I have worked on — — · 0 yıldız
+- [yeemur/Heart-Disease-Detection-ML-Model](https://github.com/yeemur/Heart-Disease-Detection-ML-Model) — The Heart Disease Detection ML Model predicts heart disease based on patient data like age, blood pressure, cholesterol, etc.… — Jupyter Notebook · 0 yıldız
+- [YEET200/Awesome-ESX-Death-Menu](https://github.com/YEET200/Awesome-ESX-Death-Menu) — (açıklama yok) — HTML · 0 yıldız
+- [yeet227/GTA-Menuv2](https://github.com/yeet227/GTA-Menuv2) — (açıklama yok) — C# · 0 yıldız
+- [Yeetbot159/Longshot-Xbox](https://github.com/Yeetbot159/Longshot-Xbox) — Experimental port of Longshot (Ocarina of Time, Switch 2 recompilation) to Xbox Series X S Developer Mode as a UWP app. No game… — — · 0 yıldız
+- [yeetmaster123/stacchaccRIP](https://github.com/yeetmaster123/stacchaccRIP) — (açıklama yok) — — · 0 yıldız
+- [Yeetmeistercs/onetap](https://github.com/Yeetmeistercs/onetap) — onetap.dll and a dll with a better resolver — — · 0 yıldız
+- [YeetSkeet34/Yeet_Skeet34](https://github.com/YeetSkeet34/Yeet_Skeet34) — im really....cool..yeah — — · 0 yıldız
+- [YeetSkeeter31/YeetSkeeter31](https://github.com/YeetSkeeter31/YeetSkeeter31) — Config files for my GitHub profile. — — · 0 yıldız
+- [yeeuxnni/HBD_Ayden](https://github.com/yeeuxnni/HBD_Ayden) — (açıklama yok) — — · 0 yıldız
+- [yefanqiu/RTT-nanoFramework](https://github.com/yefanqiu/RTT-nanoFramework) — A .NET nanoFramework implementation for RT-Thread and RedEngine. — — · 0 yıldız
+- [yefferson123/hpp-pagina-wed-curso](https://github.com/yefferson123/hpp-pagina-wed-curso) — crea una pagina wed — HTML · 0 yıldız
+- [YegetaTaye/Atom-Squad-HackAtom](https://github.com/YegetaTaye/Atom-Squad-HackAtom) — Atom-Squad HackAtom — JavaScript · 0 yıldız
+- [yegroup-cuhksz/yegroup-cuhksz.github.io](https://github.com/yegroup-cuhksz/yegroup-cuhksz.github.io) — Source for the Neutrino and Dark Matter Group website (CUHK-Shenzhen). — Astro · 0 yıldız
+- [yeguetta557/android_device_zte_p892e10](https://github.com/yeguetta557/android_device_zte_p892e10) — The cyanogenmod 13 sources for the Blade Apex 2 device — C++ · 0 yıldız
+- [YeHyunCho/KillZombie](https://github.com/YeHyunCho/KillZombie) — (açıklama yok) — — · 0 yıldız
+- [yeissonceleita/proyecto-sena-pos-uneagros](https://github.com/yeissonceleita/proyecto-sena-pos-uneagros) — este es un sistema de ventas básico modificado a nuestra necesidad primordial como mipyme uneagros. — CSS · 0 yıldız
+- [yeit-ziral/BJH-SGA](https://github.com/yeit-ziral/BJH-SGA) — (açıklama yok) — — · 0 yıldız
+- [Yekiim-RG/9f783hs974](https://github.com/Yekiim-RG/9f783hs974) — (açıklama yok) — — · 0 yıldız
+- [Yekiim-RG/vader.busting](https://github.com/Yekiim-RG/vader.busting) — (açıklama yok) — — · 0 yıldız
+- [Yektaoo/git-cheat-sheet](https://github.com/Yektaoo/git-cheat-sheet) — (açıklama yok) — — · 0 yıldız
+- [YELANDAOKONG/SharpLoader](https://github.com/YELANDAOKONG/SharpLoader) — [C#] 用于加载来自C# (.NET)平台的Minecraft模组的加载器。 — Java · 0 yıldız · arşiv
+- [YelenaKo/movie-search](https://github.com/YelenaKo/movie-search) — The Shoppies. Search movie app - OMDB -React — HTML · 0 yıldız
+- [yelethefirst/aws-saa-c03-prep-lab](https://github.com/yelethefirst/aws-saa-c03-prep-lab) — Hands-on practice labs, notes, and solution architectures for preparing for the AWS Solutions Architect Associate (SAA-C03)… — Java · 0 yıldız
+- [yelink941/cheatsheet-project](https://github.com/yelink941/cheatsheet-project) — (açıklama yok) — Java · 0 yıldız
+- [YellowDongu/DX11SP](https://github.com/YellowDongu/DX11SP) — Fake Ace Combat7, Jusin solo project — — · 0 yıldız
+- [YellowFireFighter/YxllowSDK](https://github.com/YellowFireFighter/YxllowSDK) — (açıklama yok) — — · 0 yıldız
+- [yellowflash07/PandaEngine](https://github.com/yellowflash07/PandaEngine) — (açıklama yok) — — · 0 yıldız
+- [yellowgiraffe/virtual-keyboard](https://github.com/yellowgiraffe/virtual-keyboard) — Virtual-keyboard for Windows operating system — JavaScript · 0 yıldız
+- [Yelose/the-coopers-front](https://github.com/Yelose/the-coopers-front) — Proyecto final java MVC - front end - juego piedra papel tijera lagarto spock con base de datos — TypeScript · 0 yıldız
+- [yemilyou/covid-19-local](https://github.com/yemilyou/covid-19-local) — Prediction of local COVID cases and fatalities — Jupyter Notebook · 0 yıldız
+- [yemitad/Microsoft-Power-Bi-PL300-Exam-Prepartion-cheat-sheet](https://github.com/yemitad/Microsoft-Power-Bi-PL300-Exam-Prepartion-cheat-sheet) — Microsoft Power Bi PL 300 Cheat Sheet — — · 0 yıldız
+- [YendavAvlis/hackernews-clone](https://github.com/YendavAvlis/hackernews-clone) — This is a guided project on Scrimba about recreating the Hacker News platform. My version is called NooberNews — JavaScript · 0 yıldız
+- [yenil140/AntiCheatBypassForPopularGames](https://github.com/yenil140/AntiCheatBypassForPopularGames) — (açıklama yok) — — · 0 yıldız
+- [yenil140/AntiCheatBypassTest](https://github.com/yenil140/AntiCheatBypassTest) — (açıklama yok) — — · 0 yıldız
+- [yenil140/RobloxDaHoodAntiCheatBypass](https://github.com/yenil140/RobloxDaHoodAntiCheatBypass) — (açıklama yok) — — · 0 yıldız
+- [Yenilmez6/lisanss](https://github.com/Yenilmez6/lisanss) — (açıklama yok) — — · 0 yıldız
+- [yenisme/AOV-Class-imgui](https://github.com/yenisme/AOV-Class-imgui) — (açıklama yok) — — · 0 yıldız
+- [yenon/jKeypress](https://github.com/yenon/jKeypress) — Small program to press any key of the system — Java · 0 yıldız
+- [yensama3/csgo_platform](https://github.com/yensama3/csgo_platform) — a simple csgo platform for website — HTML · 0 yıldız
+- [yeo-menghan/generate-cheatsheet](https://github.com/yeo-menghan/generate-cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [yeonggwangchoi/Key_Rental_System](https://github.com/yeonggwangchoi/Key_Rental_System) — (açıklama yok) — C++ · 0 yıldız
+- [yeonii97/fattykao](https://github.com/yeonii97/fattykao) — Interactive Vocabulary Cheat Sheet — JavaScript · 0 yıldız
+- [Yeonji-Jang98/sampleOpenSource](https://github.com/Yeonji-Jang98/sampleOpenSource) — (açıklama yok) — — · 0 yıldız
+- [Yeoxis/y-loadingscreen](https://github.com/Yeoxis/y-loadingscreen) — Sleek, customizeable loading screen for FiveM. — HTML · 0 yıldız
+- [yerasuu/psport](https://github.com/yerasuu/psport) — psport is a fork of bloodborne_pc(bbport), the native Linux port of Bloodborne, taken past one game. — — · 0 yıldız
+- [yerbisonline/IrisStudio](https://github.com/yerbisonline/IrisStudio) — A movie-making mod for Call of Duty — — · 0 yıldız
+- [YERCKEN/EjePractico-1-HPP-III-2023](https://github.com/YERCKEN/EjePractico-1-HPP-III-2023) — (açıklama yok) — Visual Basic .NET · 0 yıldız
+- [YERCKEN/EjePractico-2-HPP-III-2023](https://github.com/YERCKEN/EjePractico-2-HPP-III-2023) — (açıklama yok) — Visual Basic .NET · 0 yıldız
+- [YERCKEN/HPP-III-TALLER-3](https://github.com/YERCKEN/HPP-III-TALLER-3) — Taller #3 HPP 3, — Visual Basic .NET · 0 yıldız
+- [YERCKEN/HPP-PARCIAL-2-2023](https://github.com/YERCKEN/HPP-PARCIAL-2-2023) — (açıklama yok) — Visual Basic .NET · 0 yıldız
+- [YERCKEN/SEMESTRAL-HPP-2023](https://github.com/YERCKEN/SEMESTRAL-HPP-2023) — (açıklama yok) — Visual Basic .NET · 0 yıldız
+- [YERCKEN/TALLER-2-HPP-III-2023](https://github.com/YERCKEN/TALLER-2-HPP-III-2023) — (açıklama yok) — Visual Basic .NET · 0 yıldız
+- [Yerd8roll-hue/los7cuarzos-beta](https://github.com/Yerd8roll-hue/los7cuarzos-beta) — Kael es un explorador cyberpunk que vive en una megaciudad dominada por corporaciones. Antiguamente fue un soldado de élite, pero… — JavaScript · 0 yıldız
+- [Yeriahz/Mailauth](https://github.com/Yeriahz/Mailauth) — A passive DNS-based tool that audits a domain’s email authentication setup, including SPF, DKIM, DMARC, MTA-STS, TLS-RPT, BIMI,… — Python · 0 yıldız
+- [Yerk08/09.02.2026_petrinet_round-based_algorithms](https://github.com/Yerk08/09.02.2026_petrinet_round-based_algorithms) — Petri nets modeling of inter-channel algorithms: synchronous channels, bidirectional communication, and crosstalk deadlock… — TeX · 0 yıldız
+- [yernikumarn-afk/gta-vizag](https://github.com/yernikumarn-afk/gta-vizag) — it is game like gta based on vizag — JavaScript · 0 yıldız
+- [yerson29/hack_tools_py](https://github.com/yerson29/hack_tools_py) — (açıklama yok) — Python · 0 yıldız
+- [YES-IT-Labs-Development/CheatSheet](https://github.com/YES-IT-Labs-Development/CheatSheet) — (açıklama yok) — Kotlin · 0 yıldız
+- [yeshuibo/mxss-cheatsheet](https://github.com/yeshuibo/mxss-cheatsheet) — This repository is a one-stop shop for diving deep into the fascinating world of mXSS (mutations caused by browser quirks in HTML… — — · 0 yıldız
+- [yeshzaoui/shoppyng-kata](https://github.com/yeshzaoui/shoppyng-kata) — (açıklama yok) — Java · 0 yıldız
+- [YesItsArchie/Custom-OxLib-QBcore-EmoteMenu-](https://github.com/YesItsArchie/Custom-OxLib-QBcore-EmoteMenu-) — This is my fully customizable OxLib/QBcore EmoteMenu, with this menu, you can get and do emotes in seconds, all either from a… — Lua · 0 yıldız
+- [YesItsArchie/Custom-OxLib-QBcore-Player-Menu-](https://github.com/YesItsArchie/Custom-OxLib-QBcore-Player-Menu-) — This is my fully customizable OxLib/QBcore Player menu, with this menu, you can see whos in the game, their job and more, you can… — Lua · 0 yıldız
+- [YesItsArchie/Custom-QBcore-Fishing-script-with-a-Menu.](https://github.com/YesItsArchie/Custom-QBcore-Fishing-script-with-a-Menu.) — Elevate your CIV Roleplay with my fully custom QBcore built fishing script with a in game menu! You can fish, buy fish, sell fish… — Lua · 0 yıldız
+- [yesmaybenookay/terminal-cheatsheet](https://github.com/yesmaybenookay/terminal-cheatsheet) — A collection of cheatsheets I've made for various command line tools. — — · 0 yıldız
+- [YesPechenko/CsvFileSource](https://github.com/YesPechenko/CsvFileSource) — (açıklama yok) — — · 0 yıldız
+- [yessirbbldrizzt/jarveHVHskinchanger](https://github.com/yessirbbldrizzt/jarveHVHskinchanger) — sc for cs2 for jarvehvh — HTML · 0 yıldız
+- [yessirxd/Shopify-Cheat-Sheet](https://github.com/yessirxd/Shopify-Cheat-Sheet) — The Shopify Cheat Sheet is a resource for building Shopify Themes with Liquid — — · 0 yıldız
+- [Yesterday17/mcp](https://github.com/Yesterday17/mcp) — proxy based on minecraft — JavaScript · 0 yıldız
+- [YesterMester/TheSimpsonsGameRecomp](https://github.com/YesterMester/TheSimpsonsGameRecomp) — A work in progress recomp of the The Simpsons Game 2007 from the Xbox 360 using the RexXGlue recomping tool to get the game… — — · 0 yıldız
+- [yesuraju11/Sample_Menu](https://github.com/yesuraju11/Sample_Menu) — (açıklama yok) — TypeScript · 0 yıldız
+- [yethway-coding/kotlin-cheat-sheet-myanmar](https://github.com/yethway-coding/kotlin-cheat-sheet-myanmar) — A cheat sheet for Kotlin programming language — — · 0 yıldız
+- [yetj/PUBGM-Stats](https://github.com/yetj/PUBGM-Stats) — Game statistics based on match results organized by EFG from PMCO/PMPL/PMWC — PHP · 0 yıldız
+- [Yetta-Spider-Man/Basic-Base](https://github.com/Yetta-Spider-Man/Basic-Base) — A UC Base for GTA5 made in 2 or so days — — · 0 yıldız
+- [Yevhenii2009/CHEAT-SHEET-CHAPTER-9](https://github.com/Yevhenii2009/CHEAT-SHEET-CHAPTER-9) — (açıklama yok) — — · 0 yıldız
+- [yevinsenadheera3-debug/Sellixa](https://github.com/yevinsenadheera3-debug/Sellixa) — an selling app — — · 0 yıldız
+- [yewell71/Sequential_Sample_Hold](https://github.com/yewell71/Sequential_Sample_Hold) — Open Source Eurorack Synthesizer Module — — · 0 yıldız
+- [yewinthlaing04/cheat-sheets-devops](https://github.com/yewinthlaing04/cheat-sheets-devops) — (açıklama yok) — JavaScript · 0 yıldız
+- [yewu286337/Lucky-Shooter-Skeet-Challenge](https://github.com/yewu286337/Lucky-Shooter-Skeet-Challenge) — (açıklama yok) — — · 0 yıldız
+- [YeZawHlaing/Odoo-Cheat-Sheet](https://github.com/YeZawHlaing/Odoo-Cheat-Sheet) — This repository is for learning Odoo from scratch. — — · 0 yıldız
+- [ygaakash/A-Blockchain-based-Anti-Fake-Product-System](https://github.com/ygaakash/A-Blockchain-based-Anti-Fake-Product-System) — This project is done as a final year major project for my University. The repo will get updated as I progress with the task — — · 0 yıldız
+- [ygalasong/HPP_validation_classifier](https://github.com/ygalasong/HPP_validation_classifier) — (açıklama yok) — HTML · 0 yıldız
+- [ygautomo/02-CS-109-Data-Science](https://github.com/ygautomo/02-CS-109-Data-Science) — 02 Harvard CS109 Data Science Source Code — — · 0 yıldız
+- [ygg-m/cheat-sheets](https://github.com/ygg-m/cheat-sheets) — (açıklama yok) — HTML · 0 yıldız
+- [ygh3rn/cheatsheets](https://github.com/ygh3rn/cheatsheets) — Cheatsheets for some of my school modules — — · 0 yıldız
+- [ygodesignertk/emerald-vision-client](https://github.com/ygodesignertk/emerald-vision-client) — Unlock the Ultimate Minecraft Hacked Client Experience for 2024 🚀🗺️ — — · 0 yıldız
+- [ygritte723/CS570-cheatsheet](https://github.com/ygritte723/CS570-cheatsheet) — LaTeX Cheatsheet for CS 570 - Data Mining (Emory) — — · 0 yıldız
+- [ygtakky/GAME3001-M2022-Labs](https://github.com/ygtakky/GAME3001-M2022-Labs) — (açıklama yok) — — · 0 yıldız
+- [ygyo2016/HwidChecker](https://github.com/ygyo2016/HwidChecker) — (açıklama yok) — — · 0 yıldız
+- [YH-Chen-Dev/resource-aware-local-work-executor](https://github.com/YH-Chen-Dev/resource-aware-local-work-executor) — A C++ Linux process executor with bounded fixed-concurrency scheduling. — C++ · 0 yıldız
+- [Yhariin/Procedural-Terrain-Generation](https://github.com/Yhariin/Procedural-Terrain-Generation) — (açıklama yok) — — · 0 yıldız
+- [YhelyO/Research-Lasers-in-optical-communication-InGaAsP-InP](https://github.com/YhelyO/Research-Lasers-in-optical-communication-InGaAsP-InP) — Final project in the course: 'Semiconductor-based optoelectronic devices' , about optical communication systems, emission &… — — · 0 yıldız
+- [Yhord/lightly-colored-sea-lanterns](https://github.com/Yhord/lightly-colored-sea-lanterns) — A Minecraft Fabric mod that add 16 colored Sea Lanterns based on the dye available in the game. — Java · 0 yıldız
+- [yhseok2014/valorant-training-room](https://github.com/yhseok2014/valorant-training-room) — A browser-based 3D aim training range. — HTML · 0 yıldız
+- [yhwhdesign/gdg-overwatch](https://github.com/yhwhdesign/gdg-overwatch) — serviceCo App - bringing office / management / employees / customers all to one source of truth. — TypeScript · 0 yıldız
+- [yi-fan-wang/PrimordialBH](https://github.com/yi-fan-wang/PrimordialBH) — (açıklama yok) — Jupyter Notebook · 0 yıldız
+- [yi-mei-wang/keyword-spotting](https://github.com/yi-mei-wang/keyword-spotting) — A keyword spotting system using Convolutional Neural Network built with Tensorflow Keras. — Python · 0 yıldız
+- [yi-yang-github/lambda-layer-aws-sdk-node](https://github.com/yi-yang-github/lambda-layer-aws-sdk-node) — In AWS Lambda functions, if you need to use AWS SDK, you need to import them as "layers". Putting the build tools and final zip… — Dockerfile · 0 yıldız
+- [yi7/Quake2_Mod_Source](https://github.com/yi7/Quake2_Mod_Source) — IT266 class mod — C · 0 yıldız
+- [yi7/Quake4_Mod_Source](https://github.com/yi7/Quake4_Mod_Source) — IT266 class mod — C++ · 0 yıldız
+- [yianwillis/macvimcdoc](https://github.com/yianwillis/macvimcdoc) — MacVim 中文文档 — — · 0 yıldız
+- [yianwillis/vimcdoc](https://github.com/yianwillis/vimcdoc) — Vim 中文文档计划 — — · 0 yıldız
+- [yiboTR/Build-Your-Own-Cheat-Sheet](https://github.com/yiboTR/Build-Your-Own-Cheat-Sheet) — konular: codecademy-project — HTML · 0 yıldız
+- [YichaoOU/chess_cheatsheet](https://github.com/YichaoOU/chess_cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [yichuanwang/KeySystemV1.3](https://github.com/yichuanwang/KeySystemV1.3) — (açıklama yok) — — · 0 yıldız
+- [yield-to-left/NHTSA_data_analysis](https://github.com/yield-to-left/NHTSA_data_analysis) — Fatal crash data were obtained from the National Highway Traffic Safety Administration (NHTSA) Fatality Analysis Reporting System… — Python · 0 yıldız
+- [Yifan0718/Cheat-Sheet-20th-birthday-](https://github.com/Yifan0718/Cheat-Sheet-20th-birthday-) — (açıklama yok) — TeX · 0 yıldız
+- [YiGeeker/Gobang](https://github.com/YiGeeker/Gobang) — A simple flash chess game made by Flash CS 6 — — · 0 yıldız
+- [yigitbolukbasii/metin2-gameforge-C--source-file](https://github.com/yigitbolukbasii/metin2-gameforge-C--source-file) — (açıklama yok) — C# · 0 yıldız
+- [YigitKw/Lidar-Ransac-Geometric-Docking](https://github.com/YigitKw/Lidar-Ransac-Geometric-Docking) — 2D LIDAR-based autonomous mobile robot docking detection in ISO C99. Extracts planar boundaries via sequential RANSAC and PCA,… — C · 0 yıldız
+- [YiguyiRuje15/sentry-cheatsheet](https://github.com/YiguyiRuje15/sentry-cheatsheet) — cache sentry with less boilerplate — — · 0 yıldız
+- [YihanLiu-fab/hvhjrg](https://github.com/YihanLiu-fab/hvhjrg) — (açıklama yok) — — · 0 yıldız
+- [YIHANZHOU/chord-protocol](https://github.com/YIHANZHOU/chord-protocol) — For this project, we build a distributed hash table based on “Chord” protocol. The system can support concurrent operations for… — Java · 0 yıldız
+- [yiherngang/Franka-Research-3-with-ROS-2-Imvia-lab](https://github.com/yiherngang/Franka-Research-3-with-ROS-2-Imvia-lab) — (açıklama yok) — — · 0 yıldız
+- [YiHuaPeng/Loading-CSV-dataset-into-MySQL-Database](https://github.com/YiHuaPeng/Loading-CSV-dataset-into-MySQL-Database) — There are a skill for loading CSV-dataset into MySQL — — · 0 yıldız
+- [yihudiana3/Proxy](https://github.com/yihudiana3/Proxy) — Multithreaded proxy written in C. Features include caching, load balancing, and compression — C · 0 yıldız
+- [Yiiden/Baseball-AI-cheerleading-squad](https://github.com/Yiiden/Baseball-AI-cheerleading-squad) — This is Side Project2 of UCLA AI CAMP. — Python · 0 yıldız
+- [yijie21/Falcor-SHLighting](https://github.com/yijie21/Falcor-SHLighting) — The first repo teaching how to use Falcor-7.0 to perform pixel-space Spherical Harmonics Lighting. — — · 0 yıldız
+- [yijie21/Neural-Radiosity-Falcor](https://github.com/yijie21/Neural-Radiosity-Falcor) — This is an unofficial implementation of Neural Radiosity with Falcor and tiny-cuda-nn, running at over 60 FPS for the resolution… — — · 0 yıldız
+- [yijunlai102120-lab/claude-code-cheatsheet](https://github.com/yijunlai102120-lab/claude-code-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [YijunShen1107/Factors-Influencing-Police-Fatal-Shooting-In-the-U.S.](https://github.com/YijunShen1107/Factors-Influencing-Police-Fatal-Shooting-In-the-U.S.) — investigate the relationship between states’ poverty rates to police fatalities per 100,000 residents of the state, and compare… — — · 0 yıldız
+- [yikuide/stable-baselines-tf2](https://github.com/yikuide/stable-baselines-tf2) — (açıklama yok) — Python · 0 yıldız
+- [yilativs/ansible-docker-image](https://github.com/yilativs/ansible-docker-image) — Provides a docker image with ansible and open-sshclient, volumes allow to import ansible configs and ssh keys from local system — Dockerfile · 0 yıldız
+- [yildizucer33/Traffic-Accident-Risk-Analysis](https://github.com/yildizucer33/Traffic-Accident-Risk-Analysis) — A data mining project classifying traffic accident risk levels across Turkish provinces using fatality rates. Features… — Jupyter Notebook · 0 yıldız
+- [yilenpan/system-design-cheatsheet](https://github.com/yilenpan/system-design-cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [Yilia59/Analysis-How-Statewide-System-Improve-Transfer](https://github.com/Yilia59/Analysis-How-Statewide-System-Improve-Transfer) — Data from 2010 to 2017, try to analysis how statewide system improve transfer. Final folder include 3 image, first shows the… — Jupyter Notebook · 0 yıldız
+- [yiliu1203/SPEngine](https://github.com/yiliu1203/SPEngine) — (açıklama yok) — — · 0 yıldız
+- [Yilmaz4/MV2](https://github.com/Yilmaz4/MV2) — Hardware accelerated Mandelbrot set explorer and zoom video creator — — · 0 yıldız
+- [YilunAllenChen/GTAV_SDC](https://github.com/YilunAllenChen/GTAV_SDC) — Self driving cars in GTA V based on pure CV — C++ · 0 yıldız
+- [yilwang/Game-Skeet](https://github.com/yilwang/Game-Skeet) — (açıklama yok) — C++ · 0 yıldız
+- [YimingLiBrown/Distributed_System_project](https://github.com/YimingLiBrown/Distributed_System_project) — My distributed system projects. The final project is Puddlestore and it is based on Raft and Tapestry. — Go · 0 yıldız
+- [YimingPan1997/hppCode](https://github.com/YimingPan1997/hppCode) — (açıklama yok) — — · 0 yıldız
+- [YimMenu-Free-GTA-V/YimMenu-Free-GTA-V](https://github.com/YimMenu-Free-GTA-V/YimMenu-Free-GTA-V) — (açıklama yok) — — · 0 yıldız
+- [YimMenu/Translations](https://github.com/YimMenu/Translations) — YimMenu translations can be found here. — — · 0 yıldız
+- [Yimura/TemplateHellBase](https://github.com/Yimura/TemplateHellBase) — (açıklama yok) — — · 0 yıldız
+- [Yinameah/open-key-manager](https://github.com/Yinameah/open-key-manager) — A rfid key manager system based on raspberryPi and Arduino — G-code · 0 yıldız
+- [YinFFF/Substring-keyword-SSE](https://github.com/YinFFF/Substring-keyword-SSE) — This repository contains an implementation of a substring-keyword symmetric searchable encryption system. — C++ · 0 yıldız
+- [YingChenLeu/html-cssCheatSheet.github.io](https://github.com/YingChenLeu/html-cssCheatSheet.github.io) — (açıklama yok) — HTML · 0 yıldız
+- [yinggeche/PUBG-Finish-Placement-Prediction](https://github.com/yinggeche/PUBG-Finish-Placement-Prediction) — Based on Spark and MapReduce — Python · 0 yıldız
+- [Yinghuochongxiaoq/EssentialCSharp4](https://github.com/Yinghuochongxiaoq/EssentialCSharp4) — EssentialCSharp4 source code. — C# · 0 yıldız
+- [yingtix/DistanceQuery](https://github.com/yingtix/DistanceQuery) — (açıklama yok) — — · 0 yıldız
+- [yinnkkk/MyGame](https://github.com/yinnkkk/MyGame) — Roblox game source exported from Studio — — · 0 yıldız
+- [yinonR8/TheMagicPen](https://github.com/yinonR8/TheMagicPen) — A menu-driven C program called 'The Magic Pen' that performs dynamic string manipulation. It uses manual memory management… — C++ · 0 yıldız
+- [Yinpinghua/doctest.hpp-](https://github.com/Yinpinghua/doctest.hpp-) — (açıklama yok) — C++ · 0 yıldız
+- [yinzzhou99-web/makefun-threejs-fps-01](https://github.com/yinzzhou99-web/makefun-threejs-fps-01) — An original round-based tactical FPS in three.js: bomb objective, buy economy, bot squads on waypoint routes. Built by an AI… — JavaScript · 0 yıldız
+- [yinzzhou99-web/makefun-threejs-fps-02](https://github.com/yinzzhou99-web/makefun-threejs-fps-02) — An original round-based tactical FPS in three.js: bomb objective, buy economy, bot squads on waypoint routes. Built by an AI… — JavaScript · 0 yıldız
+- [YippeeOfficial/Nullscape](https://github.com/YippeeOfficial/Nullscape) — This wiki is based off the game Nullscape, which can be played in Roblox. — — · 0 yıldız
+- [YiRanMushroom/EasyEngineCore](https://github.com/YiRanMushroom/EasyEngineCore) — (açıklama yok) — — · 0 yıldız
+- [yirini/PureCssGoogle](https://github.com/yirini/PureCssGoogle) — a simple google logo — CSS · 0 yıldız
+- [yishizh/SI539_interactive_cheatsheet](https://github.com/yishizh/SI539_interactive_cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [yisoofocusmodeon23/AWS-Cloud-Practitioner-Exam-Cheat-Sheet](https://github.com/yisoofocusmodeon23/AWS-Cloud-Practitioner-Exam-Cheat-Sheet) — This sheet helped me learn the AWS concepts and crack the exam. — HTML · 0 yıldız
+- [Yisuslalala/html-css-final-task](https://github.com/Yisuslalala/html-css-final-task) — This repository stores the source code of the final task of my HTML and CSS course. — — · 0 yıldız
+- [yiucdd/hvhj](https://github.com/yiucdd/hvhj) — (açıklama yok) — — · 0 yıldız
+- [yivo/google-maps-api-provider](https://github.com/yivo/google-maps-api-provider) — No more headache with loading Google Maps API — CoffeeScript · 0 yıldız
+- [yiwasa/1945Makurazaki_Hiroshima_fatality](https://github.com/yiwasa/1945Makurazaki_Hiroshima_fatality) — (açıklama yok) — JavaScript · 0 yıldız
+- [yiwenxue/lbvh](https://github.com/yiwenxue/lbvh) — (açıklama yok) — — · 0 yıldız
+- [Yixhilong/CDSA-Cheatsheet](https://github.com/Yixhilong/CDSA-Cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [Yixhilong/OSCP-Cheatsheet](https://github.com/Yixhilong/OSCP-Cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [yixin-cheng/Deploying-SVM-based-GA-on-Bidirectional-Neural-Networks-to-Predict-Final-Marks](https://github.com/yixin-cheng/Deploying-SVM-based-GA-on-Bidirectional-Neural-Networks-to-Predict-Final-Marks) — This repository contains the code for project "Deploying SVM-based GA on Bidirectional Neural Networks to Predict Final Marks" — Python · 0 yıldız
+- [Yiyang-Xu/PySpark-Cheat-Sheet](https://github.com/Yiyang-Xu/PySpark-Cheat-Sheet) — (açıklama yok) — — · 0 yıldız
+- [yjiang341/MTA-Train-Tracker](https://github.com/yjiang341/MTA-Train-Tracker) — A experimental real time MTA train tracker — JavaScript · 0 yıldız
+- [yjimenez1/CheatSheet---eJPT](https://github.com/yjimenez1/CheatSheet---eJPT) — (açıklama yok) — — · 0 yıldız
+- [YJJcoolcool/trainTicketingSite](https://github.com/YJJcoolcool/trainTicketingSite) — Website for Train Ticketing on Minecraft Servers. — — · 0 yıldız
+- [yJulian/GameSenseMod](https://github.com/yJulian/GameSenseMod) — A Minecraft Fabric Mod connecting to the Steelseries Gamesense JSON API. WIP — Java · 0 yıldız
+- [yk-data/mc_fatality_map_2025](https://github.com/yk-data/mc_fatality_map_2025) — (açıklama yok) — HTML · 0 yıldız
+- [yk-data/mc_fatality_map_2025_d1](https://github.com/yk-data/mc_fatality_map_2025_d1) — (açıklama yok) — HTML · 0 yıldız
+- [yk-data/mc_fatality_map_2025_d2](https://github.com/yk-data/mc_fatality_map_2025_d2) — (açıklama yok) — HTML · 0 yıldız
+- [yk-data/mc_fatality_map_2025_d3](https://github.com/yk-data/mc_fatality_map_2025_d3) — (açıklama yok) — HTML · 0 yıldız
+- [yk-data/mc_fatality_map_2025_d4](https://github.com/yk-data/mc_fatality_map_2025_d4) — (açıklama yok) — HTML · 0 yıldız
+- [yk-data/mc_fatality_map_2025_d5](https://github.com/yk-data/mc_fatality_map_2025_d5) — (açıklama yok) — HTML · 0 yıldız
+- [yk-data/mc_fatality_map_2025_d6](https://github.com/yk-data/mc_fatality_map_2025_d6) — (açıklama yok) — HTML · 0 yıldız
+- [yk-data/mc_fatality_map_2025_d7](https://github.com/yk-data/mc_fatality_map_2025_d7) — (açıklama yok) — HTML · 0 yıldız
+- [yk-data/mc_fatality_map_2025_test](https://github.com/yk-data/mc_fatality_map_2025_test) — (açıklama yok) — HTML · 0 yıldız
+- [ykaan0/nmap-cheatsheets-tr](https://github.com/ykaan0/nmap-cheatsheets-tr) — Detaylı nmap rehberi — JavaScript · 0 yıldız
+- [ykaan0/projectdiscovery-cheatsheet-tr](https://github.com/ykaan0/projectdiscovery-cheatsheet-tr) — Subfinder, HTTPX, Nuclei ve VulnX için interaktif siber web paneline sahip modern keşif ve güvenlik denetimi başvuru kılavuzu… — JavaScript · 0 yıldız
+- [ykaranouskaya/mtasubway-project](https://github.com/ykaranouskaya/mtasubway-project) — Data analysis project based on New York Metropolitan Transportation Authority Subway data. — Jupyter Notebook · 0 yıldız
+- [ykawai6581/ident_dm](https://github.com/ykawai6581/ident_dm) — The data and code for Kawai+2025 (Identifying close-in Jupiters that arrived via disk migration: Evidence of primordial… — Jupyter Notebook · 0 yıldız
+- [ykbroker/1337](https://github.com/ykbroker/1337) — (açıklama yok) — — · 0 yıldız
+- [ykbroker/gui](https://github.com/ykbroker/gui) — (açıklama yok) — — · 0 yıldız
+- [Ykicka/rdr2-xml-emotes](https://github.com/Ykicka/rdr2-xml-emotes) — sourced from REDM Discord link - not sure of author — — · 0 yıldız
+- [ykshek/CS2311](https://github.com/ykshek/CS2311) — Source files for assignments of the CS2311 course — C++ · 0 yıldız
+- [yksi7417/sanguodream](https://github.com/yksi7417/sanguodream) — Dream San Guo War Chess — — · 0 yıldız
+- [ykzhujiang/exp985-urban-esper-hacker](https://github.com/ykzhujiang/exp985-urban-esper-hacker) — (açıklama yok) — HTML · 0 yıldız
+- [ylaconcha-blip/nun](https://github.com/ylaconcha-blip/nun) — mar primordial — HTML · 0 yıldız
+- [Ylbl/Countdown](https://github.com/Ylbl/Countdown) — (açıklama yok) — — · 0 yıldız
+- [ylchin/nus_cheatsheets](https://github.com/ylchin/nus_cheatsheets) — (açıklama yok) — TeX · 0 yıldız
+- [Yliass/ylias.github.io](https://github.com/Yliass/ylias.github.io) — AZ-900 Cheat sheet — HTML · 0 yıldız
+- [yliu-fort/gallery](https://github.com/yliu-fort/gallery) — Public code repo — — · 0 yıldız
+- [ylixaerde/python-cheat-sheet](https://github.com/ylixaerde/python-cheat-sheet) — (açıklama yok) — — · 0 yıldız
+- [ylmzhnf/todo-app](https://github.com/ylmzhnf/todo-app) — Advanced Full-Stack Todo App based on the Frontend Mentor challenge. Features: Drag-and-drop reordering, Dark/Light mode, CRUD… — JavaScript · 0 yıldız
+- [ylyhappy-hello/text-edit-wui](https://github.com/ylyhappy-hello/text-edit-wui) — (açıklama yok) — — · 0 yıldız
+- [YM-bob-1/Baseline-Prediction-of-Chinese-Potential-Forest-Carbon-Sinks-under-Future-Climate-Scenarios](https://github.com/YM-bob-1/Baseline-Prediction-of-Chinese-Potential-Forest-Carbon-Sinks-under-Future-Climate-Scenarios) — The annual forest biomass increment was converted by GEDI, and the future carbon sequestration potential of existing forests in… — Jupyter Notebook · 0 yıldız
+- [ymehili/rtype](https://github.com/ymehili/rtype) — (açıklama yok) — — · 0 yıldız
+- [ymq3/OpenSource-CS-1.6-WH](https://github.com/ymq3/OpenSource-CS-1.6-WH) — (açıklama yok) — C++ · 0 yıldız
+- [ymrm/keywords_system](https://github.com/ymrm/keywords_system) — キーワード選択システムを作成する — Ruby · 0 yıldız
+- [ymsong1209/LeagueProject](https://github.com/ymsong1209/LeagueProject) — (açıklama yok) — — · 0 yıldız
+- [YMU290/YimMenuV2_Traditional-Chinese](https://github.com/YMU290/YimMenuV2_Traditional-Chinese) — (açıklama yok) — — · 0 yıldız
+- [yMugrelo/Prog-I-](https://github.com/yMugrelo/Prog-I-) — Binary/Hex Converter - A C program for numeric base conversions between binary, decimal, and hexadecimal systems. Features… — C · 0 yıldız
+- [YMY1666527646/csgo_cheatLib](https://github.com/YMY1666527646/csgo_cheatLib) — (açıklama yok) — — · 0 yıldız
+- [ymyurdakul/Farmbot1](https://github.com/ymyurdakul/Farmbot1) — (açıklama yok) — — · 0 yıldız
+- [yn94237n/DBMS_JavaProgram](https://github.com/yn94237n/DBMS_JavaProgram) — Repository that contains the java source code of the DBMS final project — Java · 0 yıldız
+- [ynadeem/hpp-create-member-prototype](https://github.com/ynadeem/hpp-create-member-prototype) — (açıklama yok) — JavaScript · 0 yıldız
+- [ynerant/Neel-Web](https://github.com/ynerant/Neel-Web) — Sources du site Web du serveur Minecraft Neel — Java · 0 yıldız
+- [ynnsau/r1bes_v243_m5_hppb_2chan](https://github.com/ynnsau/r1bes_v243_m5_hppb_2chan) — (açıklama yok) — Verilog · 0 yıldız
+- [ynqo/ServerSide](https://github.com/ynqo/ServerSide) — script server side for roblox to hacked maps — Lua · 0 yıldız
+- [yo6673f/formulas-and-cheatsheets](https://github.com/yo6673f/formulas-and-cheatsheets) — (açıklama yok) — Python · 0 yıldız
+- [YoaeiFr/szm-s-customs-open-source-roblox-script](https://github.com/YoaeiFr/szm-s-customs-open-source-roblox-script) — szm's customs open source script with every feature — Lua · 0 yıldız
+- [yoandresaav/neverlose.money-binance-hackathon](https://github.com/yoandresaav/neverlose.money-binance-hackathon) — Neverlose.money - Gamified HODL Protocol — — · 0 yıldız
+- [yoanlouvois/game-tracker-project-infra](https://github.com/yoanlouvois/game-tracker-project-infra) — Infrastructure as Code (Terraform) permettant de déployer la plateforme GameTracker sur AWS. L'infrastructure comprend un VPC… — HCL · 0 yıldız
+- [YoannSo/OpenGL_Moteur_3D_Introduction](https://github.com/YoannSo/OpenGL_Moteur_3D_Introduction) — (açıklama yok) — — · 0 yıldız
+- [yoavstern-1/claude-code-cheatsheet](https://github.com/yoavstern-1/claude-code-cheatsheet) — A workflow-first cheat sheet for Claude Code - nine steps from empty prompt to merged PR, plus every command, flag, key, model,… — HTML · 0 yıldız
+- [yoavstern1357/claude-code-cheatsheet](https://github.com/yoavstern1357/claude-code-cheatsheet) — Workflow-first Claude Code cheat sheet — run a task end to end from the terminal. Every command, flag, key, and model.… — HTML · 0 yıldız
+- [Yock-s-Personal/otherlib](https://github.com/Yock-s-Personal/otherlib) — (açıklama yok) — — · 0 yıldız
+- [yockey88/pbr-4e](https://github.com/yockey88/pbr-4e) — (açıklama yok) — — · 0 yıldız
+- [yockey88/raytracer](https://github.com/yockey88/raytracer) — (açıklama yok) — — · 0 yıldız
+- [yocmwa/ByPassRoblox](https://github.com/yocmwa/ByPassRoblox) — (açıklama yok) — HTML · 0 yıldız
+- [YoCodingJosh/jccc_cs200](https://github.com/YoCodingJosh/jccc_cs200) — Concepts of Algorithms in C++ (CS 200) source code — C++ · 0 yıldız
+- [YoCodingJosh/jccc_cs235](https://github.com/YoCodingJosh/jccc_cs235) — Source Code from CS 235 at JCCC — C++ · 0 yıldız
+- [yodamiszczpl/cheatsheet_cpp](https://github.com/yodamiszczpl/cheatsheet_cpp) — (açıklama yok) — HTML · 0 yıldız
+- [Yoelfs10/hvhfhf](https://github.com/Yoelfs10/hvhfhf) — (açıklama yok) — — · 0 yıldız
+- [yog3shmandg3/CS5643-ONOS-Application](https://github.com/yog3shmandg3/CS5643-ONOS-Application) — The repository holds the source code for ONOS SDN Controller Application done for CS5643 Software Defined Networking course. — Java · 0 yıldız
+- [YOGAALEX/CS2_External-](https://github.com/YOGAALEX/CS2_External-) — 2024.12.19 — — · 0 yıldız
+- [Yogap198/HitungHPP](https://github.com/Yogap198/HitungHPP) — (açıklama yok) — — · 0 yıldız
+- [Yogap198/Hpp](https://github.com/Yogap198/Hpp) — (açıklama yok) — HTML · 0 yıldız
+- [Yogap198/Hpproduk](https://github.com/Yogap198/Hpproduk) — (açıklama yok) — HTML · 0 yıldız
+- [YogaProjectRblx/KeysystemVNews](https://github.com/YogaProjectRblx/KeysystemVNews) — (açıklama yok) — — · 0 yıldız
+- [yogarn/tugas-2-pemdas](https://github.com/yogarn/tugas-2-pemdas) — Final project for the Basic Java Programming course, Informatics Engineering, Universitas Brawijaya (2023). This Java-based… — Java · 0 yıldız · arşiv
+- [Yogavelan2007/AMBA-AHB2APB-Bridge](https://github.com/Yogavelan2007/AMBA-AHB2APB-Bridge) — RTL Design and Verification of an AMBA AHB to APB Bridge using Verilog HDL with FSM-based APB controller, simulation, and… — Verilog · 0 yıldız
+- [yogeesh-agarwal/Darknet53_tf2](https://github.com/yogeesh-agarwal/Darknet53_tf2) — This repository train Darknet-53 classification model from scratch using tf.keras (tf2) on wider face dataset , which also serves… — Python · 0 yıldız
+- [yogeesh-agarwal/Yolov3_tf2](https://github.com/yogeesh-agarwal/Yolov3_tf2) — Face-detection model using yolov3 arch ,trained with keras-tf2 from scratch — Python · 0 yıldız
+- [yogesh0701m/Commodities-Management-System](https://github.com/yogesh0701m/Commodities-Management-System) — The system allows **Managers** and **Store Keepers** to log in, manage products, and access different features based on their… — JavaScript · 0 yıldız
+- [YOGESH4905/Food-Delivery-Analysis-Project](https://github.com/YOGESH4905/Food-Delivery-Analysis-Project) — Food Delivery Analysis project with orders (orders.csv), users (users.json), and restaurants (restaurants.sql) data. Demonstrates… — Jupyter Notebook · 0 yıldız
+- [yogeshchaure42/CUSTOMER-ORDERS-MANAGEMENT-APPLICATION](https://github.com/yogeshchaure42/CUSTOMER-ORDERS-MANAGEMENT-APPLICATION) — Customer Orders Management Application is a web-based application developed using Oracle APEX and Oracle Database. The… — — · 0 yıldız
+- [yogeshcodvin/shoppyglobe-e-commerce](https://github.com/yogeshcodvin/shoppyglobe-e-commerce) — This is a e-commerce online store for various kinds of products. — JavaScript · 0 yıldız
+- [yogeshdeshmukh86/-ai-architecture-cheatsheet](https://github.com/yogeshdeshmukh86/-ai-architecture-cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [YogeshInamdar379/Baugh-Wooley-Multiplier](https://github.com/YogeshInamdar379/Baugh-Wooley-Multiplier) — A multiplier is one of the key hardware blocks in most digital signal processing(DSP) systems. In signed multiplication, the… — — · 0 yıldız
+- [yogeshjadhao0345-dev/Student-Management-System](https://github.com/yogeshjadhao0345-dev/Student-Management-System) — Student Management System — A console-based C++ application for managing student records with persistent file handling. Supports… — — · 0 yıldız
+- [yogeshk2202/shoppywebsite](https://github.com/yogeshk2202/shoppywebsite) — (açıklama yok) — HTML · 0 yıldız
+- [YogeshKumar-Embedded/AddressBook](https://github.com/YogeshKumar-Embedded/AddressBook) — A console-based **Address Book** application written in C that allows users to **store, search, edit, and delete contact… — C · 0 yıldız
+- [yogeshMarutiPatil/Salesforce-Project](https://github.com/yogeshMarutiPatil/Salesforce-Project) — This project aimed at providing an integrated platform to the international students in order to bring the key serviceslike PPSN,… — — · 0 yıldız
+- [YogeshNagaraju/Image-Stitching-Processor](https://github.com/YogeshNagaraju/Image-Stitching-Processor) — An OpenCV-based image stitching project that combines multiple images into a seamless panorama. The script loads images, stitches… — Python · 0 yıldız
+- [yogeshrajour-0901/Aviation_Accident_Analysis](https://github.com/yogeshrajour-0901/Aviation_Accident_Analysis) — This project is meant to explore, analyse and visualize aviation accidents and related factors such as reasons, survival rates,… — Jupyter Notebook · 0 yıldız
+- [YogeshSabbani1213/ShoppyGlobe-E-Commerce-Website](https://github.com/YogeshSabbani1213/ShoppyGlobe-E-Commerce-Website) — (açıklama yok) — JavaScript · 0 yıldız
+- [yogeshwaran10/Anemia_detection](https://github.com/yogeshwaran10/Anemia_detection) — This Random forest model will predict whether the person is Anemic or non-anemic based on the provided attributes. — HTML · 0 yıldız
+- [yogeshwarsaini/product-inventory-using-java](https://github.com/yogeshwarsaini/product-inventory-using-java) — Product Inventory Management System — Java Spring Boot 3-tier app deployed on AWS Elastic Beanstalk with RDS MySQL, Auto Scaling,… — HTML · 0 yıldız
+- [yogeshwtp/trip-squad](https://github.com/yogeshwtp/trip-squad) — Plan epic trips across India with your squad! Track budgets, split bills, and build itineraries for trains, buses, and bike… — TypeScript · 0 yıldız
+- [Yogi1218/C-ATM-Simulator](https://github.com/Yogi1218/C-ATM-Simulator) — A console-based ATM Simulator built in C that demonstrates authentication logic, menu-driven programming, balance management, and… — C · 0 yıldız
+- [yogi9983/forest-cover-project](https://github.com/yogi9983/forest-cover-project) — to build classification methodlogy to predict the type of forest cover based on the data — Jupyter Notebook · 0 yıldız
+- [Yogiraj9975/COVID-19-Global-Analytics-Dashboard](https://github.com/Yogiraj9975/COVID-19-Global-Analytics-Dashboard) — Interactive Tableau dashboard analyzing global COVID-19 case trends, fatality rates, and vaccination progress across 20 countries… — — · 0 yıldız
+- [yogiranjan28/JanSampleStore_External](https://github.com/yogiranjan28/JanSampleStore_External) — (açıklama yok) — JavaScript · 0 yıldız
+- [yogiranjan28/JanSampleStore_Internal](https://github.com/yogiranjan28/JanSampleStore_Internal) — (açıklama yok) — JavaScript · 0 yıldız
+- [yogita-mehta/load-balancer](https://github.com/yogita-mehta/load-balancer) — A high-performance, multithreaded Load Balancer simulator in C++17 featuring 6 scheduling algorithms, circuit breakers, and… — C++ · 0 yıldız
+- [yogitamittal93/DSA-Cheatsheet](https://github.com/yogitamittal93/DSA-Cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [YogitaSahu9/Excel_Dashboard_road_saftey](https://github.com/YogitaSahu9/Excel_Dashboard_road_saftey) — DRISHTI- Data-Driven Road Safety Insights for India Tracking Accidents • Fatalities • State Trends • Safety Indicators — — · 0 yıldız
+- [YoheiAshino/integrated_tf_demo_cpp](https://github.com/YoheiAshino/integrated_tf_demo_cpp) — ROS2 Topic＋tf2統合デモ（base_link→map変換） — C++ · 0 yıldız
+- [YohSambre/gmod_nuc_fuck_contextmenu_disable_opening_for_user](https://github.com/YohSambre/gmod_nuc_fuck_contextmenu_disable_opening_for_user) — disables context menu opening for players without rank — Lua · 0 yıldız
+- [YohSambre/gmod_nuc_fuck_editor_player_menu](https://github.com/YohSambre/gmod_nuc_fuck_editor_player_menu) — hides the playermodel editing menu for players in the contextmenu — Lua · 0 yıldız
+- [YohSambre/gmod_snte_sourceban_file](https://github.com/YohSambre/gmod_snte_sourceban_file) — complete file of all users who tried to exploit on servers hosted at mtxserv.com — — · 0 yıldız
+- [YohSambre/gmod_zip_gmenu](https://github.com/YohSambre/gmod_zip_gmenu) — all your menus in a shortcut menu — Lua · 0 yıldız
+- [yoigxbng/useful_cheatsheet](https://github.com/yoigxbng/useful_cheatsheet) — Playground for testing ideas and demos. — — · 0 yıldız
+- [Yojanpardo/shoppy_django](https://github.com/Yojanpardo/shoppy_django) — (açıklama yok) — JavaScript · 0 yıldız
+- [yokakilan-boop/Experiment-8-Ensemble-Methods-Random-Forest-vs-AdaBoost-comparison](https://github.com/yokakilan-boop/Experiment-8-Ensemble-Methods-Random-Forest-vs-AdaBoost-comparison) — AIM: Train RandomForest and AdaBoost classifiers on the breast cancer dataset and compare accuracies. — — · 0 yıldız
+- [yokorey/EmployeePay](https://github.com/yokorey/EmployeePay) — Takes the first name, last name, id, Birthdate, Hire Date, and base pay. Spits out information and based on base pay, shows the… — Java · 0 yıldız
+- [yokosimp123-max/roblox](https://github.com/yokosimp123-max/roblox) — hackes for dandys world roblox — — · 0 yıldız
+- [yokosogithub/SnakeGame-C](https://github.com/yokosogithub/SnakeGame-C) — SnakeGame written by C language,save or load your log. — C++ · 0 yıldız
+- [YokoyamaHaruki64/MachinaDrive](https://github.com/YokoyamaHaruki64/MachinaDrive) — (açıklama yok) — — · 0 yıldız
+- [Yokuyin/mc-jerboa](https://github.com/Yokuyin/mc-jerboa) — Minecraft ComputerCraft script that displays Create train information. Work in Progress — Lua · 0 yıldız
+- [YoL-o/Telekinesis-system](https://github.com/YoL-o/Telekinesis-system) — Physics-based telekinesis interaction system for Roblox. — Lua · 0 yıldız
+- [yolahola1/gmodserver](https://github.com/yolahola1/gmodserver) — Gmod Loading Screen — — · 0 yıldız
+- [Yolanda-M-21/teacher-parent-interaction-app](https://github.com/Yolanda-M-21/teacher-parent-interaction-app) — Oracle APEX web application that improves communication between teachers and parents through secure, role-based access and… — — · 0 yıldız
+- [Yollnahe/Skyblock-Client-Unreleased-Version](https://github.com/Yollnahe/Skyblock-Client-Unreleased-Version) — Skyblock Client hacked client unreleased version — — · 0 yıldız
+- [yoloaryan/Apex_hackathon](https://github.com/yoloaryan/Apex_hackathon) — 4 initial questions that were asked in an hackathon — — · 0 yıldız
+- [yolobradda/keysystemtest](https://github.com/yolobradda/keysystemtest) — (açıklama yok) — — · 0 yıldız
+- [yomiitdev/cheatsheets](https://github.com/yomiitdev/cheatsheets) — (açıklama yok) — JavaScript · 0 yıldız
+- [yomna-mohamed/Qustion-Answering-on-Stanford-dataset](https://github.com/yomna-mohamed/Qustion-Answering-on-Stanford-dataset) — whenever, question up to our mind we run to Google or any browser and it give us many links with details, so our QA system give… — Jupyter Notebook · 0 yıldız
+- [YomnaWaleed/Coding-Actions-and-Fatalities-in-Militarized-Interstate-Confrontations--MICs-](https://github.com/YomnaWaleed/Coding-Actions-and-Fatalities-in-Militarized-Interstate-Confrontations--MICs-) — This project uses an existing corpus of newspaper articles to derive models that identify (1) whether a MIC occurred, (2) what… — Jupyter Notebook · 0 yıldız
+- [YomnaWaleed/Extract-Dates--Countries-and-Range-of-Fatilites-From-Articles](https://github.com/YomnaWaleed/Extract-Dates--Countries-and-Range-of-Fatilites-From-Articles) — This project uses an existing corpus of newspaper articles to derive models that identify (1) whether a MIC occurred, (2) what… — Jupyter Notebook · 0 yıldız
+- [Yonaim/Jungle_Week10_Team3](https://github.com/Yonaim/Jungle_Week10_Team3) — (açıklama yok) — — · 0 yıldız
+- [YonatanGM/Barnes-Hut](https://github.com/YonatanGM/Barnes-Hut) — Z-order curve for distributed tree construction and load balancing in a parallel barnes-hut solar system simulation written in… — C++ · 0 yıldız
+- [yonatanko/SmartSquad](https://github.com/yonatanko/SmartSquad) — Streamlit based app of Fantasy Premier league agent — Python · 0 yıldız
+- [YonEder/git-cheatsheet](https://github.com/YonEder/git-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [yonesuke/cheatsheet](https://github.com/yonesuke/cheatsheet) — cheatsheet for various subjects — Python · 0 yıldız
+- [yonex/BotHeaven](https://github.com/yonex/BotHeaven) — The Bot farm of Slack. — Ruby · 0 yıldız
+- [yongfeilu/Distributed-Sharded-Key-Value-Storage-System](https://github.com/yongfeilu/Distributed-Sharded-Key-Value-Storage-System) — (açıklama yok) — Go · 0 yıldız
+- [yongincho/spider](https://github.com/yongincho/spider) — Spider is a SDK that supports face recognition and detection for system access. It is the final project for CS50. — CSS · 0 yıldız
+- [yongyuandeAuask/bizi](https://github.com/yongyuandeAuask/bizi) — (açıklama yok) — — · 0 yıldız
+- [yongyuca/life](https://github.com/yongyuca/life) — (açıklama yok) — — · 0 yıldız
+- [yongzhengyu1993/Liunx-notebook](https://github.com/yongzhengyu1993/Liunx-notebook) — For the key point record of my Liunx system study. — HTML · 0 yıldız
+- [YonInsights/covid19-global-epidemiology-intelligence](https://github.com/YonInsights/covid19-global-epidemiology-intelligence) — Global epidemiological intelligence platform analyzing COVID-19 pandemic dynamics, case fatality rates, recovery velocities, and… — Jupyter Notebook · 0 yıldız
+- [yonur/yuksekLisansGtu](https://github.com/yonur/yuksekLisansGtu) — (açıklama yok) — C · 0 yıldız
+- [YooChanJo/Voyager](https://github.com/YooChanJo/Voyager) — (açıklama yok) — — · 0 yıldız
+- [yooktasyahh/hppp](https://github.com/yooktasyahh/hppp) — (açıklama yok) — HTML · 0 yıldız
+- [yoonbigbear/C-Client-Server](https://github.com/yoonbigbear/C-Client-Server) — (açıklama yok) — — · 0 yıldız
+- [yoonki-kim/uros_esp32_samples](https://github.com/yoonki-kim/uros_esp32_samples) — (açıklama yok) — C · 0 yıldız
+- [yoonmimioo418-ai/CheatsheetProject](https://github.com/yoonmimioo418-ai/CheatsheetProject) — (açıklama yok) — Java · 0 yıldız
+- [Yoonsin/SuperTuxKart-1.5-src](https://github.com/Yoonsin/SuperTuxKart-1.5-src) — SuperTuxKart 1.5 project — — · 0 yıldız
+- [Yoonsuji/Roblox](https://github.com/Yoonsuji/Roblox) — LuaScript basal — Lua · 0 yıldız
+- [yoosunghong/Decentralized-MQTT](https://github.com/yoosunghong/Decentralized-MQTT) — A project to integrate a Message Queuing Telemetry Transport (MQTT) and a Hyperledger Indy-based Decentralized Public Key… — C# · 0 yıldız
+- [yoppyoppp76-byte/Stand-Menu-](https://github.com/yoppyoppp76-byte/Stand-Menu-) — (açıklama yok) — — · 0 yıldız
+- [Yoraver/shoppyglobe](https://github.com/Yoraver/shoppyglobe) — (açıklama yok) — JavaScript · 0 yıldız
+- [yordevs/Discord-Authentication](https://github.com/yordevs/Discord-Authentication) — (açıklama yok) — JavaScript · 0 yıldız · arşiv
+- [Yorgalus/Pentest_Cheat-sheets](https://github.com/Yorgalus/Pentest_Cheat-sheets) — Cheat sheets sur les grandes familles de vulnérabilités web et système (CTF et pentest) — — · 0 yıldız
+- [yorhodes/apex-baseten](https://github.com/yorhodes/apex-baseten) — Baseten deployment package for cantina-security/apex-flash-1-abliterated using SGLang on B200 GPUs — Python · 0 yıldız
+- [YoriSyahputra/LazyVim-cheatsheet](https://github.com/YoriSyahputra/LazyVim-cheatsheet) — (açıklama yok) — CSS · 0 yıldız
+- [yorjaggy/VagrantExercise1SisDistri](https://github.com/yorjaggy/VagrantExercise1SisDistri) — In this exercise we use vagrant for a quickly provisioning of a environment with Two web servers, a database in postgres and a… — Ruby · 0 yıldız
+- [Yorkiebar15/MyHackingToolUpdater](https://github.com/Yorkiebar15/MyHackingToolUpdater) — (açıklama yok) — — · 0 yıldız
+- [Yorkqkwwiwiija/csgo](https://github.com/Yorkqkwwiwiija/csgo) — Hacked — — · 0 yıldız
+- [YorkshireTeaModifications/Simple-LoadingScreen](https://github.com/YorkshireTeaModifications/Simple-LoadingScreen) — A simple and stylish FiveM loading screen. — — · 0 yıldız
+- [yosananpra/OptionMenu](https://github.com/yosananpra/OptionMenu) — Warzone — — · 0 yıldız
+- [yosef-teofani/Sampling-and-Survei](https://github.com/yosef-teofani/Sampling-and-Survei) — This is a project designed to measure satisfaction with campus facilities. The data was collected from various sources, including… — Jupyter Notebook · 0 yıldız
+- [yosefavidfir16-ux/oishii-menu](https://github.com/yosefavidfir16-ux/oishii-menu) — An interactive Japanese restaurant menu catalog and table reservation web app built with a sleek Dark Japanese Aesthetic.… — HTML · 0 yıldız
+- [yosefavidfir16-ux/oishiijpn-menu](https://github.com/yosefavidfir16-ux/oishiijpn-menu) — An interactive Japanese restaurant menu catalog and table reservation web app built with a sleek Dark Japanese Aesthetic.… — — · 0 yıldız
+- [YosefEvanz/JavaCheatSheet](https://github.com/YosefEvanz/JavaCheatSheet) — (açıklama yok) — — · 0 yıldız
+- [yosfalie/MinecraftLaunchers](https://github.com/yosfalie/MinecraftLaunchers) — The main download of sentry launcher ghost edition dont download it somewhere or it might contain viruses! im not responsible if… — — · 0 yıldız
+- [Yosh145/fxannounce](https://github.com/Yosh145/fxannounce) — Use the Fenix A320 Family Announcements directly in the Toliss A320 Family — — · 0 yıldız
+- [yoshi-saur/gmodloading](https://github.com/yoshi-saur/gmodloading) — The loading screen for Garry's Mod — CSS · 0 yıldız
+- [Yoshida-Airi/TD2_rakushou](https://github.com/Yoshida-Airi/TD2_rakushou) — (açıklama yok) — — · 0 yıldız
+- [YoshidaIchigo/MyGameEngine](https://github.com/YoshidaIchigo/MyGameEngine) — 自作ゲームエンジン — — · 0 yıldız
+- [yoshidashota-hub/my-cheatsheet](https://github.com/yoshidashota-hub/my-cheatsheet) — このリポジトリは、開発や運用でよく使うコマンドやコードスニペット、設定例をまとめたチートシート集です。 — PHP · 0 yıldız
+- [Yoshihide-Nishimoto/esp8266_post_sample](https://github.com/Yoshihide-Nishimoto/esp8266_post_sample) — ESP8266モジュールを使って、外部のサーバにデータをPOSTするサンプルです。 — Arduino · 0 yıldız
+- [YoshikazuHosono/github-copilot-cheat-sheet](https://github.com/YoshikazuHosono/github-copilot-cheat-sheet) — (açıklama yok) — — · 0 yıldız
+- [yoshily9x/DirectX11_Yoshily9_VSC](https://github.com/yoshily9x/DirectX11_Yoshily9_VSC) — (açıklama yok) — — · 0 yıldız
+- [YoshiNagev/vegan-cheat-sheets](https://github.com/YoshiNagev/vegan-cheat-sheets) — (açıklama yok) — Astro · 0 yıldız
+- [YoshinoGento/Gengin](https://github.com/YoshinoGento/Gengin) — (açıklama yok) — — · 0 yıldız
+- [YoshinoGento/TL1_](https://github.com/YoshinoGento/TL1_) — (açıklama yok) — — · 0 yıldız
+- [yoshinorihirosetraining/android_sample_AsyncTaskLoader](https://github.com/yoshinorihirosetraining/android_sample_AsyncTaskLoader) — (açıklama yok) — Java · 0 yıldız
+- [YoshiokaHaruki/AMXX-Weapon-IGNITE-10](https://github.com/YoshiokaHaruki/AMXX-Weapon-IGNITE-10) — Grenade IGNITE-10 from Counter-Strike: Online for Counter-Strike 1.6 (based on AMX Mod X) — Pawn · 0 yıldız
+- [Yoshiqqq/amthloader](https://github.com/Yoshiqqq/amthloader) — (açıklama yok) — — · 0 yıldız
+- [yosnuffyyy/gta5loader](https://github.com/yosnuffyyy/gta5loader) — small project — JavaScript · 0 yıldız
+- [Yosolo1/Primordial](https://github.com/Yosolo1/Primordial) — (açıklama yok) — Python · 0 yıldız
+- [yosrinajar/Predictive-Maintenance](https://github.com/yosrinajar/Predictive-Maintenance) — Trained and evaluated multiple ML models (Random Forest, Logistic Regression, Gradient Boosting) and selected XGBoost based on… — Jupyter Notebook · 0 yıldız
+- [Yossi4/stock-portfolio-multi-service](https://github.com/Yossi4/stock-portfolio-multi-service) — Stock Portfolio Service with Docker Compose. Multi-service stock portfolio app using Docker Compose. Includes two persistent… — Java · 0 yıldız
+- [Yosuke616/SyuSyokuSakuhin](https://github.com/Yosuke616/SyuSyokuSakuhin) — 就職作品用ダヨーン — — · 0 yıldız
+- [yotakyofu11-ship-it/PRIMORDIAL-WRATH](https://github.com/yotakyofu11-ship-it/PRIMORDIAL-WRATH) — Yota Tl — — · 0 yıldız
+- [YotamMeg/UserMovieMatcher](https://github.com/YotamMeg/UserMovieMatcher) — A C++ program capable of loading users and movies, and matching movies to the users based on their preferences using several… — C++ · 0 yıldız
+- [yotsaphatlee-2518/esp32c6_r60afd1](https://github.com/yotsaphatlee-2518/esp32c6_r60afd1) — (açıklama yok) — C++ · 0 yıldız
+- [yotsuuuuuu/Audioscape](https://github.com/yotsuuuuuu/Audioscape) — (açıklama yok) — — · 0 yıldız
+- [You-Service/you_extinguisher](https://github.com/You-Service/you_extinguisher) — Allows players to quickly grab any fire extinguisher object on the map. — — · 0 yıldız
+- [Youcef-bahgat/Titanic_Survivours_classification](https://github.com/Youcef-bahgat/Titanic_Survivours_classification) — This project aims to help classifing the Titanic Survivours based on Titanic train.csv dataset doing preprosseing on it and use… — Jupyter Notebook · 0 yıldız
+- [youcefachira94/ShoppyAI.Agent](https://github.com/youcefachira94/ShoppyAI.Agent) — Personal coding agent — C# · 0 yıldız
+- [YouDad273/NexaAnticheatBypass](https://github.com/YouDad273/NexaAnticheatBypass) — 绕过网易我的世界的布吉岛服务器中的Native协议 — Java · 0 yıldız
+- [youetsux/shader](https://github.com/youetsux/shader) — ライティング関係やってく — — · 0 yıldız
+- [YougineGame/Yougine](https://github.com/YougineGame/Yougine) — ゲームエンジン開発プロジェクト — — · 0 yıldız
+- [youichi-uda/um_offload](https://github.com/youichi-uda/um_offload) — Within-Mechanism UMA Memory-Controller Arbitration Comparison Between Apple Silicon and AMD Strix Halo, With a Link-Bound… — TeX · 0 yıldız
+- [youknowdikaaaa/gta6-meme-x](https://github.com/youknowdikaaaa/gta6-meme-x) — GTA 6 meme entry: 13 years later, Vice City is finally loading. Built by an AI agent for make.fun's "Post a GTA 6 meme on X"… — TypeScript · 0 yıldız
+- [youknowdikaaaa/gta6-trophy-guide](https://github.com/youknowdikaaaa/gta6-trophy-guide) — Offline guide and tracker for all 55 GTA VI trophies on PS5: official names, descriptions and grades, own-words guides with cited… — JavaScript · 0 yıldız
+- [youknowhoIamMaybe/cheatsheets](https://github.com/youknowhoIamMaybe/cheatsheets) — Little Private Cheatsheets for bash, git, regex etc — — · 0 yıldız
+- [youlemei133/MenuSample](https://github.com/youlemei133/MenuSample) — (açıklama yok) — Java · 0 yıldız
+- [youmenl0769/lisanshuxueqimofuxibijijinghuaban](https://github.com/youmenl0769/lisanshuxueqimofuxibijijinghuaban) — (açıklama yok) — — · 0 yıldız
+- [younasiqw/Fuzion](https://github.com/younasiqw/Fuzion) — (açıklama yok) — — · 0 yıldız
+- [younasiqw/gamesneeze-1](https://github.com/younasiqw/gamesneeze-1) — gamersneeze hapcheew — — · 0 yıldız
+- [younasiqw/geezyhoselfkodik](https://github.com/younasiqw/geezyhoselfkodik) — pasta lmao — — · 0 yıldız
+- [younasiqw/opaihookv2](https://github.com/younasiqw/opaihookv2) — ;-; — — · 0 yıldız
+- [younasiqw/R6S-SDK](https://github.com/younasiqw/R6S-SDK) — Rainbow Six Siege SDK — C++ · 0 yıldız
+- [younasiqw/spuri_legit](https://github.com/younasiqw/spuri_legit) — (açıklama yok) — — · 0 yıldız
+- [younasiqw/trashpaste](https://github.com/younasiqw/trashpaste) — (açıklama yok) — — · 0 yıldız
+- [younasiqw/Wirefra.me](https://github.com/younasiqw/Wirefra.me) — (açıklama yok) — — · 0 yıldız
+- [Young-Igna/CSGO_ESP_TRIGGER](https://github.com/Young-Igna/CSGO_ESP_TRIGGER) — (açıklama yok) — — · 0 yıldız
+- [YoungCujo/CsgoSimple-FIXED-BY-YoungCujo](https://github.com/YoungCujo/CsgoSimple-FIXED-BY-YoungCujo) — Fixed version by Young Cujo — — · 0 yıldız
+- [YoungHutton/Black-Ops-1-BO_mods-not-loading](https://github.com/YoungHutton/Black-Ops-1-BO_mods-not-loading) — I have a custom zombies map called Battery downloaded. Whenever I click on BO_Mods to load it up, it closes straight away, even… — — · 0 yıldız
+- [YoungLabel/css](https://github.com/YoungLabel/css) — Counter Strike Source — — · 0 yıldız
+- [YoungLaFlame123/hvhjvjvhjv](https://github.com/YoungLaFlame123/hvhjvjvhjv) — (açıklama yok) — — · 0 yıldız
+- [youngmoney2t29-lang/fivem-loading-screen](https://github.com/youngmoney2t29-lang/fivem-loading-screen) — fivem loading screen — — · 0 yıldız
+- [YoungProgrammer-ai/gamesense_crack](https://github.com/YoungProgrammer-ai/gamesense_crack) — (açıklama yok) — — · 0 yıldız
+- [YoungTaubi/Eulen_Game](https://github.com/YoungTaubi/Eulen_Game) — (açıklama yok) — JavaScript · 0 yıldız
+- [YoungWook0533/2025_Capstone_mppi](https://github.com/YoungWook0533/2025_Capstone_mppi) — (açıklama yok) — — · 0 yıldız
+- [Younsko/RUpload](https://github.com/Younsko/RUpload) — Open-source Roblox bulk publishing tool for assets, developer products, and game passes. — TypeScript · 0 yıldız
+- [youoduckboi1466/echo-roblox-game](https://github.com/youoduckboi1466/echo-roblox-game) — Echo: The Sound of Silence - A multiplayer psychological horror/stealth Roblox game where players navigate a pitch-black world… — — · 0 yıldız
+- [youone04/cheat-sheet-ui](https://github.com/youone04/cheat-sheet-ui) — (açıklama yok) — HTML · 0 yıldız
+- [Your-Spy/Esport-Gaming-Website](https://github.com/Your-Spy/Esport-Gaming-Website) — DragonEsports Website Official single-page website. This hub showcases the team roster (players/staff), competitive achievements,… — HTML · 0 yıldız
+- [youraarav01/ff-esports-hub](https://github.com/youraarav01/ff-esports-hub) — Free Fire Esports Hub – Tournaments, events, teams, results, leaderboards and gaming updates all in one place — HTML · 0 yıldız
+- [youram470-art/wan3-prompt-cheatsheet](https://github.com/youram470-art/wan3-prompt-cheatsheet) — 30 reusable prompt templates for text-to-video shots: character close-ups, landscapes and camera moves, product showcase,… — — · 0 yıldız
+- [youravgENTP/Junior-Independent-Study-2023](https://github.com/youravgENTP/Junior-Independent-Study-2023) — This Github Repository contains the source code used to extract data, draw figures referenced and showed in the research proposal… — Jupyter Notebook · 0 yıldız
+- [yourboyglacier/ChunkLoader](https://github.com/yourboyglacier/ChunkLoader) — A Script for Minecraft Bedrock Edition that manages chunk loading and unloading. — JavaScript · 0 yıldız
+- [YourCH0ICE/WindowsEndpointCheatSheet](https://github.com/YourCH0ICE/WindowsEndpointCheatSheet) — (açıklama yok) — TypeScript · 0 yıldız
+- [YourDailyLlama/Apex-Legends-Tracker](https://github.com/YourDailyLlama/Apex-Legends-Tracker) — Track somebody's stats on Apex Legends — Vue · 0 yıldız · arşiv
+- [yourdisplay/Alert_system](https://github.com/yourdisplay/Alert_system) — The system checks key metrics every 15 minutes and issues an alarm if the metric is exceeded. — Python · 0 yıldız
+- [YourEverydayUser/rendering](https://github.com/YourEverydayUser/rendering) — A little project to get into rendering — — · 0 yıldız
+- [yourKage/mapthehack](https://github.com/yourKage/mapthehack) — (açıklama yok) — — · 0 yıldız
+- [Yourmama2201/ZOR](https://github.com/Yourmama2201/ZOR) — (açıklama yok) — — · 0 yıldız
+- [YourManz/options-flow-cheat-sheet](https://github.com/YourManz/options-flow-cheat-sheet) — (açıklama yok) — Python · 0 yıldız
+- [YourMiloo/RobloxEsp](https://github.com/YourMiloo/RobloxEsp) — (açıklama yok) — — · 0 yıldız
+- [yourprv/AuraPad](https://github.com/yourprv/AuraPad) — AuraPad is a free, open-source, offline-ready notepad. Sleek dark UI, rich text, word count, and export to TXT, DOCX, PDF & MD.… — TypeScript · 0 yıldız
+- [yourrem/yourrem.github.io](https://github.com/yourrem/yourrem.github.io) — Personal site styled after the Final Fantasy VII menu screen — JavaScript · 0 yıldız
+- [yourromchikkkkk/mathematic-cheat-sheet](https://github.com/yourromchikkkkk/mathematic-cheat-sheet) — Cheat sheets based on Mathematics for Machine Learning by A. Aldo Faisal, Cheng Soon Ong, and Marc Peter Deisenroth — Jupyter Notebook · 0 yıldız
+- [YourRoyalLinus/Battleship](https://github.com/YourRoyalLinus/Battleship) — A single and multiplayer enabled version of the classic game: Battleship. Developed in C++. — — · 0 yıldız
+- [yours-cyber-buddy/Cybersecurity-Tools-Cheat-Sheet](https://github.com/yours-cyber-buddy/Cybersecurity-Tools-Cheat-Sheet) — This repository contains an interactive Cybersecurity Tools Cheat Sheet (HTML) that lists essential offensive and defensive… — HTML · 0 yıldız
+- [yourscript/versions](https://github.com/yourscript/versions) — Public version metadata for Your Script resources. — — · 0 yıldız
+- [yourtechmafia/cli-cheat-sheet-tests](https://github.com/yourtechmafia/cli-cheat-sheet-tests) — Test harness for a cross-shell command line cheat sheet: zsh, bash, PowerShell 7.6, Windows PowerShell 5.1, Command Prompt — Python · 0 yıldız
+- [yous1964/B-R-csv-processor](https://github.com/yous1964/B-R-csv-processor) — Simple tool that goes around a CSV/XLSX file's column and appends/removes items from a list. Used to process changes in the MtG's… — Python · 0 yıldız
+- [yousafkhan2059/termcolor.hpp](https://github.com/yousafkhan2059/termcolor.hpp) — (açıklama yok) — C++ · 0 yıldız
+- [Yousef-Abdelhakim/Bank-Project-With-More-Features](https://github.com/Yousef-Abdelhakim/Bank-Project-With-More-Features) — ## Bank Management System A console-based Bank Management System built with C++. ### Features * Client management * Deposit &… — C++ · 0 yıldız
+- [yousef-Alyousef-FS/Solar-System](https://github.com/yousef-Alyousef-FS/Solar-System) — (açıklama yok) — — · 0 yıldız
+- [Yousef-AR1/DeltaForce-AI](https://github.com/Yousef-AR1/DeltaForce-AI) — Local RAG-based AI assistant for Delta Force and Esports — Python · 0 yıldız
+- [Yousef-Elattar/Cheat-sheet](https://github.com/Yousef-Elattar/Cheat-sheet) — (açıklama yok) — — · 0 yıldız
+- [yousef0090/https-discordapp.com-api-oauth2-authorize-client_id-666957072826499082-permissions-8-scope-bot](https://github.com/yousef0090/https-discordapp.com-api-oauth2-authorize-client_id-666957072826499082-permissions-8-scope-bot) — (açıklama yok) — JavaScript · 0 yıldız
+- [yousef2a2fakhry-creator/Soduko_Game](https://github.com/yousef2a2fakhry-creator/Soduko_Game) — A C++ Sudoku solver using backtracking with the MRV (Minimum Remaining Values) heuristic, with an interactive console menu for… — C++ · 0 yıldız
+- [yousef8/Balad](https://github.com/yousef8/Balad) — This repo contains the final project of JS course part of ITI Open Source Application track — CSS · 0 yıldız
+- [yousefalanbari/AWS-Three-Tier-Web-Application](https://github.com/yousefalanbari/AWS-Three-Tier-Web-Application) — A three-tier AWS web application using React, Node.js, Express, MySQL, EC2, VPC, Application Load Balancers, RDS, and S3. — JavaScript · 0 yıldız
+- [yousefemad444/Gym-Management-System](https://github.com/yousefemad444/Gym-Management-System) — Multi Language Gym Management System For Managing Clients and Subscriptions With Laravel — PHP · 0 yıldız
+- [yousefkadah/aws-cli-cheat-sheet](https://github.com/yousefkadah/aws-cli-cheat-sheet) — Copy-ready AWS CLI v2 cheat sheet: profiles & SSO, --query, S3, EC2, IAM, ECR, ECS, EKS, Lambda, CloudWatch, RDS and more — with… — — · 0 yıldız
+- [yousefmohammedegypt-cell/Games-and-fun](https://github.com/yousefmohammedegypt-cell/Games-and-fun) — A console-based mini game collection written in C. Includes Rock-Paper-Scissors and Guess the Number, with a menu-driven… — C · 0 yıldız
+- [YousefTaha6700/Pneumonia-Prediction-Project-](https://github.com/YousefTaha6700/Pneumonia-Prediction-Project-) — This project detects pneumonia using MobileNet, DenseNet, ResNet, EfficientNet, and NasNetMobile models. It preprocesses chest… — Jupyter Notebook · 0 yıldız
+- [Youseph-Elkhouly/sparkandprepper](https://github.com/Youseph-Elkhouly/sparkandprepper) — Spark & Prepper is an AI-powered study tool that transforms course materials into smart study guides, flashcards, cheat sheets,… — JavaScript · 0 yıldız
+- [youshijiuli/linux-cheatsheet](https://github.com/youshijiuli/linux-cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [yousif191/Medical-_-Model-](https://github.com/yousif191/Medical-_-Model-) — This project uses Random Forest Classifier models to predict the likelihood of migraines, diabetes, and lung cancer based on… — Python · 0 yıldız
+- [Yousra-akg/cheat-sheet](https://github.com/Yousra-akg/cheat-sheet) — (açıklama yok) — — · 0 yıldız
+- [Yousra0225/Docker-Cheatsheet](https://github.com/Yousra0225/Docker-Cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [Yousra0225/java-cheatsheet](https://github.com/Yousra0225/java-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [youss2017/CompGFX](https://github.com/youss2017/CompGFX) — (açıklama yok) — — · 0 yıldız
+- [youssef-abdallah/DBMS-and-JDBC-CS221-](https://github.com/youssef-abdallah/DBMS-and-JDBC-CS221-) — Educational project to create a database based on XML files and connect it to java — Java · 0 yıldız
+- [Youssef-Boulfiham/HPP-BucketSort](https://github.com/Youssef-Boulfiham/HPP-BucketSort) — (açıklama yok) — C++ · 0 yıldız
+- [Youssef-Hatem-S/Hotel-Booking-System](https://github.com/Youssef-Hatem-S/Hotel-Booking-System) — A console application built in C++ to manage hotel bookings. Features role-based menus for admins to manage hotels/rooms and for… — C++ · 0 yıldız
+- [youssef-mohamed07/CV](https://github.com/youssef-mohamed07/CV) — This repository contains the source code for Youssef Mohamed's professional CV website, designed to showcase his skills,… — JavaScript · 0 yıldız
+- [Youssef-YBM/dev-cheatsheets](https://github.com/Youssef-YBM/dev-cheatsheets) — (açıklama yok) — — · 0 yıldız
+- [Youssef11khaled99/Console-Counter-Strike](https://github.com/Youssef11khaled99/Console-Counter-Strike) — A console-based Counter-Strike game built with C++. Experience classic FPS gameplay right in your terminal! The game includes… — C++ · 0 yıldız
+- [Youssef167G/cpu-power-cheatsheet](https://github.com/Youssef167G/cpu-power-cheatsheet) — CPU Power Manager knowledge base — GNOME extension guide — HTML · 0 yıldız
+- [youssefbazdeh/BallerChain](https://github.com/youssefbazdeh/BallerChain) — ⚽ BallerChain is a Flutter-based Fantasy FPL look-alike app with a unique twist! It tracks your steps and converts them into a… — — · 0 yıldız
+- [youssefgebaly31256458-cmd/DVLD-System](https://github.com/youssefgebaly31256458-cmd/DVLD-System) — A desktop application built with C# and Windows Forms for managing driving licenses, users, and related records using SQL Server. — C# · 0 yıldız
+- [Youssefhazem15/Forest-Cover-Type-Classification](https://github.com/Youssefhazem15/Forest-Cover-Type-Classification) — Predict the type of forest cover based on cartographic and environmental features — Jupyter Notebook · 0 yıldız
+- [YoussefMo11/Facial-Expression-Game](https://github.com/YoussefMo11/Facial-Expression-Game) — "Radiant Pathways" is an innovative computer-vision-based video game that uniquely integrates emotional expression into gameplay.… — — · 0 yıldız
+- [YoussefMo11/Radiant-Pathways-Game---Facial-Expression-Game-Happy-](https://github.com/YoussefMo11/Radiant-Pathways-Game---Facial-Expression-Game-Happy-) — "Radiant Pathways" is an innovative computer-vision-based video game that uniquely integrates emotional expression into gameplay.… — — · 0 yıldız
+- [youssefmoharm/smart-home](https://github.com/youssefmoharm/smart-home) — A smart home system equipped with a touch sensor, darkness detector, light traffic monitor, fire detector, and rain detector. It… — — · 0 yıldız
+- [YoussefMouaddib/protocols-cheatsheet](https://github.com/YoussefMouaddib/protocols-cheatsheet) — Brrrrrrr you re welcome — — · 0 yıldız
+- [Yousseftahaa/wordpress-mysql-k8s](https://github.com/Yousseftahaa/wordpress-mysql-k8s) — This project demonstrates how to deploy aWordPress website connected to MySQL database on a Kubernetes cluster, using AWS storage… — — · 0 yıldız
+- [youssof33/SuperMarket-Inventory-System](https://github.com/youssof33/SuperMarket-Inventory-System) — Developed a C console app for product management with add/load/save functionalities, name-searching, and Bubble Sort by code. — C · 0 yıldız
+- [yousuf-cse-ict/HackerRankJava](https://github.com/yousuf-cse-ict/HackerRankJava) — Final Java is the best for OOP. — Java · 0 yıldız
+- [Youth-University/YU-GameDesign_Week2](https://github.com/Youth-University/YU-GameDesign_Week2) — (açıklama yok) — — · 0 yıldız
+- [youto023/DirectXGame_CG2](https://github.com/youto023/DirectXGame_CG2) — (açıklama yok) — — · 0 yıldız
+- [youty-ys/coen-esports-apex](https://github.com/youty-ys/coen-esports-apex) — coen e-sports Apex Legends event landing page — CSS · 0 yıldız
+- [youvegotnigel/selenide-commands-cheat-sheet](https://github.com/youvegotnigel/selenide-commands-cheat-sheet) — (açıklama yok) — JavaScript · 0 yıldız
+- [youwangai/CSourceCodeCollection](https://github.com/youwangai/CSourceCodeCollection) — My collection of C source code — — · 0 yıldız
+- [youxiage/hpp-kratos](https://github.com/youxiage/hpp-kratos) — kratos微服务实践 — Go · 0 yıldız
+- [YovannyMoscoso/A01_Linux_Git_CheatSheet](https://github.com/YovannyMoscoso/A01_Linux_Git_CheatSheet) — (açıklama yok) — — · 0 yıldız
+- [yovcor/retro-pong](https://github.com/yovcor/retro-pong) — A two-dimensional Pong game written in C++ with raylib. It has single-player and local two-player modes, a menu and pause screen,… — C++ · 0 yıldız
+- [yowainwright/infra-cheatsheets](https://github.com/yowainwright/infra-cheatsheets) — quick tips and tools for infra tooling — — · 0 yıldız
+- [yowal2024/espframe-rs](https://github.com/yowal2024/espframe-rs) — 虚幻引擎通用esp框架，使用rust编写 — Rust · 0 yıldız
+- [yowheohedhe098-hash/IMPERIUM_MODZ_X_Phantom_Force](https://github.com/yowheohedhe098-hash/IMPERIUM_MODZ_X_Phantom_Force) — IMPERIUM MODZ X Phantom Force - Advanced Free Fire Mod — — · 0 yıldız
+- [yoyo1809/hppp](https://github.com/yoyo1809/hppp) — (açıklama yok) — — · 0 yıldız
+- [yoyorei/MySQL-Database](https://github.com/yoyorei/MySQL-Database) — Using MySQL database for load and extract data from Sakila database. — — · 0 yıldız
+- [yoyourhomo/Fivemcheatdetector](https://github.com/yoyourhomo/Fivemcheatdetector) — (açıklama yok) — — · 0 yıldız
+- [YOYOYOYOGA-seu/ThreadPoolExecutor](https://github.com/YOYOYOYOGA-seu/ThreadPoolExecutor) — A thread pool for C++ — C++ · 0 yıldız
+- [Yoza00/3DProgramming](https://github.com/Yoza00/3DProgramming) — (açıklama yok) — — · 0 yıldız
+- [yozander2009-stack/Metroid-Dread-Recomp](https://github.com/yozander2009-stack/Metroid-Dread-Recomp) — Static recompilation of Metroid Dread (Switch, 2.1.0) for Windows, Linux and Steam Deck. Bring your own dump: no game files, keys… — — · 0 yıldız
+- [yozoe/HPPasscodeView](https://github.com/yozoe/HPPasscodeView) — (açıklama yok) — Objective-C · 0 yıldız
+- [yozzaofficial/ChunkLLM](https://github.com/yozzaofficial/ChunkLLM) — Chunk routing for large language models on consumer hardware — load only the layers you need, inspired by Minecraft chunk loading. — Python · 0 yıldız
+- [Ypjoshua7/Austin-Pizza-Rizz](https://github.com/Ypjoshua7/Austin-Pizza-Rizz) — A home-based pizza business serving North Austin and the Domain area. Find a favorite, then get in touch to ask about today's… — CSS · 0 yıldız
+- [yprovost/Neverlose](https://github.com/yprovost/Neverlose) — GH — — · 0 yıldız
+- [yranjan15/CSE291FinalSourceCode](https://github.com/yranjan15/CSE291FinalSourceCode) — (açıklama yok) — Jupyter Notebook · 0 yıldız
+- [yrevocnu/tiamat](https://github.com/yrevocnu/tiamat) — Primordial sea goddess, sovereign cyborg of the Lower House — — · 0 yıldız
+- [yrizk/mta_downloader](https://github.com/yrizk/mta_downloader) — A simple way to download NYC MTA Historical Train Data — Python · 0 yıldız
+- [yrotak/yrotak](https://github.com/yrotak/yrotak) — Developper — — · 0 yıldız
+- [yrqing/ClassLoaderSample](https://github.com/yrqing/ClassLoaderSample) — (açıklama yok) — Java · 0 yıldız
+- [yrrSyntax/C-projects-](https://github.com/yrrSyntax/C-projects-) — This C Quiz Game is a simple console-based project made to practice basic C programming concepts. It uses printf() and scanf()… — C · 0 yıldız
+- [ys1998/cse-homepage](https://github.com/ys1998/cse-homepage) — This repository contains the source code for my homepage developed as a part of CS251 Assignment for the year 2017. — HTML · 0 yıldız
+- [ys666031-code/Z4X-ESPORTS-](https://github.com/ys666031-code/Z4X-ESPORTS-) — Free Fire Tournament & Esports — — · 0 yıldız
+- [ysabellearaneta/cloud-learning](https://github.com/ysabellearaneta/cloud-learning) — A collection of notes, cheat sheets, and hands-on practice files from my journey learning cloud computing. Covers cloud basics,… — — · 0 yıldız
+- [ysabellearaneta/networking-cheat-sheet](https://github.com/ysabellearaneta/networking-cheat-sheet) — Quick reference guide for networking fundamentals: subnetting, IP basics, and commands. — — · 0 yıldız
+- [ysec-lab/cheatsheets](https://github.com/ysec-lab/cheatsheets) — (açıklama yok) — — · 0 yıldız
+- [YSGerman/ONE-Logica-de-programacion-Conceptos-primordiales](https://github.com/YSGerman/ONE-Logica-de-programacion-Conceptos-primordiales) — (açıklama yok) — HTML · 0 yıldız
+- [yshbtw/CreditCard_FraudDetection](https://github.com/yshbtw/CreditCard_FraudDetection) — The Credit Card Fraud Detection project uses a Random Forest Classifier to identify fraudulent transactions. It processes… — Jupyter Notebook · 0 yıldız
+- [yshklarov/sabrewing](https://github.com/yshklarov/sabrewing) — Algorithmic profiler — — · 0 yıldız
+- [yshvchnk/React.js-Tailwind-ShoppyAdminDashboardApp](https://github.com/yshvchnk/React.js-Tailwind-ShoppyAdminDashboardApp) — (açıklama yok) — JavaScript · 0 yıldız
+- [YSI-Visual/y_loader](https://github.com/YSI-Visual/y_loader) — Loads MTA Race maps as [y_races](y_races.md) maps. — PAWN · 0 yıldız
+- [yskarakas/StandUp](https://github.com/yskarakas/StandUp) — A tiny macOS menu bar app that reminds you to stand up every 25 minutes, tracks your water intake and shows your focus, break and… — Swift · 0 yıldız
+- [Ysku1337/fatality2018](https://github.com/Ysku1337/fatality2018) — Fatality 2018 SRC, credits to "Akatsuki" — — · 0 yıldız
+- [YslamI/CS487](https://github.com/YslamI/CS487) — Project based open source Image > Video > — — · 0 yıldız
+- [ySlayerr/Gamesense.me](https://github.com/ySlayerr/Gamesense.me) — (açıklama yok) — — · 0 yıldız
+- [yslwale/wale_limiter](https://github.com/yslwale/wale_limiter) — (açıklama yok) — — · 0 yıldız
+- [ySnowDev/cs2-offsetsupdater](https://github.com/ySnowDev/cs2-offsetsupdater) — (açıklama yok) — — · 0 yıldız
+- [ysuraj1999/cppengine](https://github.com/ysuraj1999/cppengine) — (açıklama yok) — — · 0 yıldız
+- [yswangrujithum/ETL](https://github.com/yswangrujithum/ETL) — The following project is associated with the Extract, Transform, and Load data onto the database, either onto the MySQL database… — Jupyter Notebook · 0 yıldız
+- [yt4169/SKEET](https://github.com/yt4169/SKEET) — (açıklama yok) — — · 0 yıldız
+- [ytakahashi2020/hackathon_sample_project](https://github.com/ytakahashi2020/hackathon_sample_project) — (açıklama yok) — JavaScript · 0 yıldız
+- [ytalp17/sampleasample-source](https://github.com/ytalp17/sampleasample-source) — (açıklama yok) — — · 0 yıldız
+- [ytbauyt/cpp](https://github.com/ytbauyt/cpp) — C++, cpp, hpp, h — C++ · 0 yıldız
+- [ytikaTM/CHEATjhfrgiigByytikabrCMDcheat](https://github.com/ytikaTM/CHEATjhfrgiigByytikabrCMDcheat) — Закрытый репозиторий платного чита на Among Us. Версия 4.1.2 — — · 0 yıldız
+- [ytk9-svg/cc-rewards-web](https://github.com/ytk9-svg/cc-rewards-web) — Personal HK credit-card rewards: which card to use + cheat-sheet — HTML · 0 yıldız
+- [YTMFband/NeverLoseLibrary](https://github.com/YTMFband/NeverLoseLibrary) — (açıklama yok) — — · 0 yıldız
+- [ytre12/lisova-pisnia-game](https://github.com/ytre12/lisova-pisnia-game) — Interactive game based on Lesia Ukrainka's "Forest Song" — Ukrainian mythology, forest spirits & the eternal story of Mavka. — — · 0 yıldız
+- [YTSiccShadowStorm/BO3ModMenusAndMaps](https://github.com/YTSiccShadowStorm/BO3ModMenusAndMaps) — This is my Call Of Duty Black Ops 3 PC Free Downloads that I downloaded — — · 0 yıldız
+- [ytsodacan/nwerokart](https://github.com/ytsodacan/nwerokart) — (açıklama yok) — — · 0 yıldız
+- [YU-N-AOSP/android_system_keymaster](https://github.com/YU-N-AOSP/android_system_keymaster) — (açıklama yok) — C++ · 0 yıldız
+- [Yu-v-Raj/MyBlog](https://github.com/Yu-v-Raj/MyBlog) — A full-featured Django blogging platform with authentication, comments, slug-based URLs, dark mode toggle, search functionality,… — Python · 0 yıldız
+- [yu992525/missing-semester](https://github.com/yu992525/missing-semester) — My notes and cheat sheets for MIT's Missing Semester course — — · 0 yıldız
+- [Yuan-Zzzz/FrogRE](https://github.com/Yuan-Zzzz/FrogRE) — (açıklama yok) — — · 0 yıldız
+- [yuandagao-uchicago/esports-live-tracker](https://github.com/yuandagao-uchicago/esports-live-tracker) — Live match tracker for LoL, CSGO, Valorant — MPCS 51238 DBS Assignment 4 — TypeScript · 0 yıldız
+- [yuanfangzhuye/ApexDataCollect-SDK](https://github.com/yuanfangzhuye/ApexDataCollect-SDK) — 无埋点 — Objective-C · 0 yıldız
+- [yuanjv/rustAutoPasteAfter3Sec](https://github.com/yuanjv/rustAutoPasteAfter3Sec) — (açıklama yok) — Rust · 0 yıldız
+- [yuanjv/UCI_CS177_MIDTERM_CHEAT_SHEETS](https://github.com/yuanjv/UCI_CS177_MIDTERM_CHEAT_SHEETS) — UCI 2026 FALL CS177 Midterm cheat sheets by Nathan — — · 0 yıldız
+- [YuanMenghe/trip-cheat-sheet-skill](https://github.com/YuanMenghe/trip-cheat-sheet-skill) — TripCheat · AI 行程规划专家 — Agent Skill: turn flight/hotel/agenda screenshots & travel materials into a dual-timezone itinerary page… — JavaScript · 0 yıldız
+- [yuanqing/command-line-cheatsheet](https://github.com/yuanqing/command-line-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [yuanwang688/cs230_license_plate_project_code](https://github.com/yuanwang688/cs230_license_plate_project_code) — This is a collection of scripts used to train & evaluate YOLO V3 Model for CS230 Project — Python · 0 yıldız
+- [yuanyingying1012/PaySdkSample](https://github.com/yuanyingying1012/PaySdkSample) — (açıklama yok) — — · 0 yıldız
+- [yuanyuanbujue/base-siege-wiki](https://github.com/yuanyuanbujue/base-siege-wiki) — (açıklama yok) — — · 0 yıldız
+- [yuanyuanbujue/main-code-base-siege](https://github.com/yuanyuanbujue/main-code-base-siege) — code — HTML · 0 yıldız
+- [yub005-afk/seat-belt-laws-traffic-fatalities](https://github.com/yub005-afk/seat-belt-laws-traffic-fatalities) — Analysis of primary seat belt laws and U.S. traffic fatalities, 1983–2012, using R, two-way fixed effects, and event-study… — R · 0 yıldız
+- [yubachiri/SampleSource](https://github.com/yubachiri/SampleSource) — (açıklama yok) — Java · 0 yıldız
+- [yuboyu111/LicensePlateRecognition_UI_final](https://github.com/yuboyu111/LicensePlateRecognition_UI_final) — lpr-system — C++ · 0 yıldız
+- [Yubrajproject/Tableauproject-](https://github.com/Yubrajproject/Tableauproject-) — Tableau dashboards and data visualizations showcasing insights from various datasets, including real-world business problems and… — — · 0 yıldız
+- [yubtub123/JOVAN-CLICKER](https://github.com/yubtub123/JOVAN-CLICKER) — This is a game based off of my school friend and fortnite tryhard, Jovan. — — · 0 yıldız
+- [yuchen1204/MZUI](https://github.com/yuchen1204/MZUI) — Cool grey-blue UI mod for Project Zomboid Build 42: menus, settings and multiplayer browser. — Lua · 0 yıldız
+- [yucheng918/Bugfix-io.netty](https://github.com/yucheng918/Bugfix-io.netty) — NetworkDispatcher exception io.netty.channel.unix.Errors$NativeIoException: syscall:write(..) failed: Broken pipe at… — — · 0 yıldız
+- [yuchihatuntun/cheatsheet](https://github.com/yuchihatuntun/cheatsheet) — Cheatsheets for the final exam — TeX · 0 yıldız
+- [yuchitoto/CUHK_CSCI2100_2018](https://github.com/yuchitoto/CUHK_CSCI2100_2018) — 2018 CSCI2100 data struct source code collection — C · 0 yıldız
+- [yuchunwujixian/lisan](https://github.com/yuchunwujixian/lisan) — lisan — — · 0 yıldız
+- [yucraian/hack1-minecraft](https://github.com/yucraian/hack1-minecraft) — (açıklama yok) — Java · 0 yıldız
+- [yudarhd/ABM_simulation_airline](https://github.com/yudarhd/ABM_simulation_airline) — Cargo plays a very important role in aviation industry. It supports the revenue for the company and help others to ship their… — Jupyter Notebook · 0 yıldız
+- [yudemin/parallel_scan_signature](https://github.com/yudemin/parallel_scan_signature) — this repository contains the source code for the final qualifying work — Cuda · 0 yıldız
+- [yudifeiluo/PT100_Temperature](https://github.com/yudifeiluo/PT100_Temperature) — In this project, the design of the Pt100 thermal resistance temperature sensor is composed of STC89C52RC microcontroller and… — C · 0 yıldız
+- [yudinmykhailo/ba-cheatsheet-full](https://github.com/yudinmykhailo/ba-cheatsheet-full) — Interactive BA cheatsheet for stakeholder requirements gathering - with FastAPI backend — HTML · 0 yıldız
+- [Yuditskiy-o/2.4.CsvFileSource](https://github.com/Yuditskiy-o/2.4.CsvFileSource) — 2.4. Циклы, параметризованные тесты и аннотации. Задание 2. — Java · 0 yıldız
+- [yudongedmundzhang/KPMGsudokuCheatingTool](https://github.com/yudongedmundzhang/KPMGsudokuCheatingTool) — (açıklama yok) — Python · 0 yıldız
+- [yue-lian/sourceSample-](https://github.com/yue-lian/sourceSample-) — 源码阅读 — C++ · 0 yıldız
+- [YuedongMa/FloatMenuSample](https://github.com/YuedongMa/FloatMenuSample) — (açıklama yok) — Java · 0 yıldız
+- [yueh0607/DXTest](https://github.com/yueh0607/DXTest) — (açıklama yok) — — · 0 yıldız
+- [yueh0607/SimpleSourceGeneratorSample](https://github.com/yueh0607/SimpleSourceGeneratorSample) — C# 简单的SourceGenerator示例 — C# · 0 yıldız
+- [YuehChuan/fix-openCV-2.4.9_NCVPixelOperations](https://github.com/YuehChuan/fix-openCV-2.4.9_NCVPixelOperations) — fix-openCV-2.4.9 NCVPixelOperations.hpp a storage class is not allowed in an explicit specialization. — C++ · 0 yıldız
+- [YuehWenn/HSR-Fix](https://github.com/YuehWenn/HSR-Fix) — Tools for Shader Hackers — — · 0 yıldız
+- [yuemanxilou/keyPoints-of-interview](https://github.com/yuemanxilou/keyPoints-of-interview) — 面试知识点记录 — — · 0 yıldız
+- [yufeilong92/WeChatSDK_sample_Android](https://github.com/yufeilong92/WeChatSDK_sample_Android) — (açıklama yok) — Java · 0 yıldız
+- [yuflo/HPP-model](https://github.com/yuflo/HPP-model) — Efficient Heterogeneous Proximity Preserving Network Embedding Model — C++ · 0 yıldız
+- [yufrances90/Facial-Keypoint-Detector](https://github.com/yufrances90/Facial-Keypoint-Detector) — A facial keypoint detection system that takes in any image with faces, and predicts the location of 68 distinguishing keypoints… — Jupyter Notebook · 0 yıldız
+- [Yugandhar1227/DevOpsCheatSheet](https://github.com/Yugandhar1227/DevOpsCheatSheet) — (açıklama yok) — — · 0 yıldız
+- [Yugandharsai03/Employees-Database-management-system](https://github.com/Yugandharsai03/Employees-Database-management-system) — (Tools used: MySQL, Microsoft Excel, Tableau) Built an Employees Database and performed Data Analysis from the scratch also… — — · 0 yıldız
+- [yugank/useradd](https://github.com/yugank/useradd) — add users and user pub keys to the system — — · 0 yıldız
+- [YugoMatsuda/ReactNative-SwiftUI-CheatSheetApp](https://github.com/YugoMatsuda/ReactNative-SwiftUI-CheatSheetApp) — (açıklama yok) — TypeScript · 0 yıldız
+- [YugPatel07/Business_Fundamentals_CheatSheet](https://github.com/YugPatel07/Business_Fundamentals_CheatSheet) — Business Metrics, KPIs, Data Analytics & Business Analytics Frameworks — — · 0 yıldız
+- [yugpatill/linux-git-cheatsheet](https://github.com/yugpatill/linux-git-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [YugThosar/Offline-AI-agent](https://github.com/YugThosar/Offline-AI-agent) — An open-source, fully offline document processing agent built using **Llama 3** and **LangChain**. This tool allows you to read,… — Python · 0 yıldız
+- [YUgyeong-Choi/Team_Final](https://github.com/YUgyeong-Choi/Team_Final) — (açıklama yok) — — · 0 yıldız
+- [YuhanLi1/An-Empirical-Evaluation-of-Distributed-Key-Value-Storage-Systems](https://github.com/YuhanLi1/An-Empirical-Evaluation-of-Distributed-Key-Value-Storage-Systems) — (açıklama yok) — Ruby · 0 yıldız
+- [Yuhanth/Simple-C-Data-Management-Case-Studies](https://github.com/Yuhanth/Simple-C-Data-Management-Case-Studies) — A collection of three practical console-based management systems implemented in C, demonstrating proficiency with structures,… — C · 0 yıldız
+- [yuhao-kuo/minecraftctl](https://github.com/yuhao-kuo/minecraftctl) — a Bash-based command-line tool for minecraft java edition — Shell · 0 yıldız
+- [Yuhao93/TexLoader](https://github.com/Yuhao93/TexLoader) — An api to turn a tex expression into a graphic. — JavaScript · 0 yıldız
+- [YuhBoyMatty/242252](https://github.com/YuhBoyMatty/242252) — hpp v6 — — · 0 yıldız
+- [YuhBoyMatty/hpp-v6](https://github.com/YuhBoyMatty/hpp-v6) — (açıklama yok) — — · 0 yıldız
+- [Yuhenan/Ln](https://github.com/Yuhenan/Ln) — (açıklama yok) — — · 0 yıldız
+- [yuhoudeboy/boy](https://github.com/yuhoudeboy/boy) — (açıklama yok) — — · 0 yıldız
+- [YuHu1/Stats-on-transcription-abandunce-CSE-549-](https://github.com/YuHu1/Stats-on-transcription-abandunce-CSE-549-) — Matlab source codes of data analysis for salmon outputs (Final project of CSE 549) — Matlab · 0 yıldız
+- [yuhwan/teba-cheatsheet](https://github.com/yuhwan/teba-cheatsheet) — 바이브 코딩 환경 설정 치트시트 — 테바 AI 클래스 — HTML · 0 yıldız
+- [yui9636/game_dx12_upload](https://github.com/yui9636/game_dx12_upload) — 就職作品 — — · 0 yıldız
+- [YuichiEjiri/sample_sourcetree](https://github.com/YuichiEjiri/sample_sourcetree) — SourceTreeの練習用リポジトリ — — · 0 yıldız
+- [yuifan/pexus4_external_quake](https://github.com/yuifan/pexus4_external_quake) — (açıklama yok) — C++ · 0 yıldız
+- [yuin2/appointments-no-shows](https://github.com/yuin2/appointments-no-shows) — In this project, we'll be analysing data for 100k medical appointments in Brazil. Our focus is on identifying the key factors… — Jupyter Notebook · 0 yıldız
+- [Yuis-Archives/swq](https://github.com/Yuis-Archives/swq) — Star Wars Quake mod source code — C · 0 yıldız · arşiv
+- [yuittti/Custom-tabs](https://github.com/yuittti/Custom-tabs) — Custom nesting tab panels and video carousel with lazy loading — HTML · 0 yıldız
+- [YujieLu10/ZJU_CS](https://github.com/YujieLu10/ZJU_CS) — Computer Science Project Source Code & Course Notes (ZJU) — C++ · 0 yıldız
+- [yujiin770/MobileLegends-Picking-Web-Based](https://github.com/yujiin770/MobileLegends-Picking-Web-Based) — (açıklama yok) — HTML · 0 yıldız
+- [Yujin-bot/keysystemCortex](https://github.com/Yujin-bot/keysystemCortex) — (açıklama yok) — — · 0 yıldız
+- [yujinslee38/GameSensePrototype](https://github.com/yujinslee38/GameSensePrototype) — Emphasis on Game feel — C# · 0 yıldız
+- [YujiTsuruda/wezterm-cheatsheet-window](https://github.com/YujiTsuruda/wezterm-cheatsheet-window) — Show your WezTerm key bindings in a separate small window — Lua · 0 yıldız
+- [yujnkm/TrainingVirtualAudience](https://github.com/yujnkm/TrainingVirtualAudience) — Training virtual audience using ML-Agents in digital twin, campus environment. — — · 0 yıldız
+- [yuju1998/Expression-Recogintion-by-Classification-Methods](https://github.com/yuju1998/Expression-Recogintion-by-Classification-Methods) — Use Random Forest, SVM and KNN to classify the preprocessed dataset, combination of JAFFE images and self-shot images, into 5… — R · 0 yıldız
+- [yujunyin/data_tool_cheatsheet](https://github.com/yujunyin/data_tool_cheatsheet) — private cheatsheet, mainly of sql and python — — · 0 yıldız
+- [yuk-to/flat_load_dwordx4_sample](https://github.com/yuk-to/flat_load_dwordx4_sample) — flat_load_dwordx4 requires explicit synchronization — C++ · 0 yıldız
+- [yukcsgo/skeet-by-yuk-nuw](https://github.com/yukcsgo/skeet-by-yuk-nuw) — new — — · 0 yıldız
+- [YukEyt0/ArkDays](https://github.com/YukEyt0/ArkDays) — (açıklama yok) — — · 0 yıldız
+- [yuki7-dev/GitCheatsheet](https://github.com/yuki7-dev/GitCheatsheet) — My git cheatsheet... so I don't forget the commands — — · 0 yıldız
+- [YukieMan97/minecraftTileGame](https://github.com/YukieMan97/minecraftTileGame) — A Minecraft styled tile-based game. — Processing · 0 yıldız
+- [yukihane/java-application-frameworks-cheat-sheet](https://github.com/yukihane/java-application-frameworks-cheat-sheet) — (açıklama yok) — Java · 0 yıldız
+- [yukiitou0221/oscp_cheat](https://github.com/yukiitou0221/oscp_cheat) — OSCP Cheat Sheet — HTML · 0 yıldız
+- [yukikaneko0730/Git-GitHubCheatSheet](https://github.com/yukikaneko0730/Git-GitHubCheatSheet) — This repo is my own purr-sonal notebook — a compact, copy-paste-ready Git & GitHub cheat sheet. Think of it as my scratching post… — — · 0 yıldız
+- [yukikaneko0730/ReactCheatSheet](https://github.com/yukikaneko0730/ReactCheatSheet) — A curated React cheat sheet with essential hooks, UI snippets, and patterns — for learning and quick reference🫢 — — · 0 yıldız
+- [yukikatori/laravel-cheat-sheet](https://github.com/yukikatori/laravel-cheat-sheet) — Laravel参考コードまとめ — PHP · 0 yıldız
+- [yukikatori/my-cheat-sheet](https://github.com/yukikatori/my-cheat-sheet) — 参考コードまとめ — — · 0 yıldız
+- [Yukinori-Fujita/hpp](https://github.com/Yukinori-Fujita/hpp) — (açıklama yok) — CSS · 0 yıldız
+- [YUKIRAA26/Coffee-House-Ordering-System-C-Programming](https://github.com/YUKIRAA26/Coffee-House-Ordering-System-C-Programming) — Console-based coffee shop ordering system in C with menu selection, order summary, and payment handling using cash or card with… — C · 0 yıldız
+- [Yukitoshi12345/Australia-Road-Fatality](https://github.com/Yukitoshi12345/Australia-Road-Fatality) — (açıklama yok) — Jupyter Notebook · 0 yıldız
+- [yukkunn611/siro_businesscard](https://github.com/yukkunn611/siro_businesscard) — We provide a business card system to facilitate RP. Only works in the QBCore/ox_inventory environment. — Lua · 0 yıldız
+- [yukouyoshi/vsc-markdown-cheatsheet](https://github.com/yukouyoshi/vsc-markdown-cheatsheet) — markdown cheatsheet for vscode extension — TypeScript · 0 yıldız
+- [yukozh/AzureHackathonSample](https://github.com/yukozh/AzureHackathonSample) — (açıklama yok) — C# · 0 yıldız
+- [yuksel-kadir/Grand-Theft-Auto-Modding-Source](https://github.com/yuksel-kadir/Grand-Theft-Auto-Modding-Source) — Modding source for GTA games. — C++ · 0 yıldız
+- [yuktabelgaonkar/Prediction-Model-for-employees-performance](https://github.com/yuktabelgaonkar/Prediction-Model-for-employees-performance) — This project uses Linear Regression and Random Forest Regression to predict employee performance based on factors like health… — Jupyter Notebook · 0 yıldız
+- [yuktamore/majorproject](https://github.com/yuktamore/majorproject) — This repository contains the modules of 3rd part of my final year major project. project is based on creating a blockchain based… — — · 0 yıldız
+- [yuli-ferna/PDI-Tarea2](https://github.com/yuli-ferna/PDI-Tarea2) — (açıklama yok) — — · 0 yıldız
+- [YuLi-YQ/DrakForest-Simulation](https://github.com/YuLi-YQ/DrakForest-Simulation) — A simple CLI simulation system,based on the dark forest thoery in ThreeBody II. — Java · 0 yıldız
+- [yullashai/hvhvyp](https://github.com/yullashai/hvhvyp) — (açıklama yok) — — · 0 yıldız
+- [yuluo688/cloud-port-cheatsheet](https://github.com/yuluo688/cloud-port-cheatsheet) — 云服务器安全组端口速查：常用端口用途 + 安全组规则建议，纯前端单页小工具 — HTML · 0 yıldız
+- [YulyaChubuk82/ssh-keygen--t-ed25519--C--skillbox-](https://github.com/YulyaChubuk82/ssh-keygen--t-ed25519--C--skillbox-) — ssh-keygen -t ed25519 -C "skillbox" — — · 0 yıldız
+- [yumaeda/cheatsheet](https://github.com/yumaeda/cheatsheet) — Cheatsheet for various tools — — · 0 yıldız
+- [yumeminami/kuavo_humanoid_rust_sdk](https://github.com/yumeminami/kuavo_humanoid_rust_sdk) — (açıklama yok) — CMake · 0 yıldız
+- [YUMEMl/minecraft-mod-finder-jp](https://github.com/YUMEMl/minecraft-mod-finder-jp) — Minecraft MOD一覧をLoader・Version・カテゴリで探せる日本語サイト・MODダイレクトダウンロード可能 — JavaScript · 0 yıldız
+- [yumey-me-8000/cpp-liunx-libary](https://github.com/yumey-me-8000/cpp-liunx-libary) — it is a simple libary i will try to update it but i will not very fast to include it use #include "filled.hpp" and to compile it… — C++ · 0 yıldız
+- [Yumihoshi/unnamed-action](https://github.com/Yumihoshi/unnamed-action) — 未命名行动-cusga复活赛老选手） — — · 0 yıldız
+- [yumirak/quake3sdk](https://github.com/yumirak/quake3sdk) — (açıklama yok) — C · 0 yıldız
+- [Yummyburber/HTML-Cheat-Sheet](https://github.com/Yummyburber/HTML-Cheat-Sheet) — Just a cheat sheet to help get familiar with html — HTML · 0 yıldız
+- [yummyvalmm/esports](https://github.com/yummyvalmm/esports) — Valorant Gaming Coaching — TypeScript · 0 yıldız
+- [yumnaalkhidir/philosophers](https://github.com/yumnaalkhidir/philosophers) — A pthread-based simulation of the Dining Philosophers problem with deadlock/starvation detection (42 School) — C · 0 yıldız
+- [yung1022/The-Final-FYSC](https://github.com/yung1022/The-Final-FYSC) — Based on Roblox FYSC: Finale — Tree-sitter Query · 0 yıldız
+- [yungaeng/Project_Tarkov](https://github.com/yungaeng/Project_Tarkov) — (açıklama yok) — — · 0 yıldız
+- [yungen-lu/shared-key-value-system](https://github.com/yungen-lu/shared-key-value-system) — (açıklama yok) — Go · 0 yıldız
+- [YungTedo/RobloxManager-Downloads](https://github.com/YungTedo/RobloxManager-Downloads) — Public download mirror for Roblox Manager (source kept private). — — · 0 yıldız
+- [yungthug/SmsSmartAssistant](https://github.com/yungthug/SmsSmartAssistant) — this project is aimed toward creating a smart, automated assistant capable of receiving text messages from friends, wrapping the… — Python · 0 yıldız
+- [yunhanf2/html-css-workshop](https://github.com/yunhanf2/html-css-workshop) — source code for html css workshop — JavaScript · 0 yıldız
+- [YunHsiao/HPP](https://github.com/YunHsiao/HPP) — Coursera Heterogeneous Parallel Programming Assignments — Mathematica · 0 yıldız
+- [YunieFoxu/apbdKolokwium1Base](https://github.com/YunieFoxu/apbdKolokwium1Base) — (açıklama yok) — C# · 0 yıldız
+- [YuniJang/SDK_Sample_SKT](https://github.com/YuniJang/SDK_Sample_SKT) — (açıklama yok) — — · 0 yıldız
+- [yunior-2020/Raffy-Hacker-Tool](https://github.com/yunior-2020/Raffy-Hacker-Tool) — (açıklama yok) — — · 0 yıldız
+- [Yunis2026/AXI-Stream-Fusion-UVM](https://github.com/Yunis2026/AXI-Stream-Fusion-UVM) — UVM-based functional verification of an APB-controlled dual-output AXI-Stream router — SystemVerilog · 0 yıldız
+- [Yunish-Pokharel/Face-recognition.py](https://github.com/Yunish-Pokharel/Face-recognition.py) — from tkinter import * from tkinter import filedialog import tkinter.font as tkfont from PIL import Image, ImageTk import cv2 as… — — · 0 yıldız
+- [YUNJAYJAY/Winnter_Boot_Camp](https://github.com/YUNJAYJAY/Winnter_Boot_Camp) — Build a mock interview artificial intelligence system for Software Engineers using openai API key — Python · 0 yıldız
+- [yunkhanglai/csyun_01](https://github.com/yunkhanglai/csyun_01) — Yun's Cheat Sheet — HTML · 0 yıldız
+- [yunseongkim1009/studyset](https://github.com/yunseongkim1009/studyset) — A complete offline-first study suite for students: hub + flashcards, quizzes, Cornell notes, exam planner, Pomodoro focus, and… — HTML · 0 yıldız
+- [yunu95/ProjectStack](https://github.com/yunu95/ProjectStack) — (açıklama yok) — — · 0 yıldız
+- [yunu95/YunuDX11Renderer](https://github.com/yunu95/YunuDX11Renderer) — (açıklama yok) — — · 0 yıldız
+- [yunuscanacar881-cloud/lisanslar](https://github.com/yunuscanacar881-cloud/lisanslar) — (açıklama yok) — — · 0 yıldız
+- [yunushaikh/mysql_load_generator](https://github.com/yunushaikh/mysql_load_generator) — Generate mysql load. — Python · 0 yıldız
+- [yunuszoro46-sketch/HackApex-Intra-Hackathon](https://github.com/yunuszoro46-sketch/HackApex-Intra-Hackathon) — (açıklama yok) — JavaScript · 0 yıldız
+- [yuogty/Realistic-gun-kit](https://github.com/yuogty/Realistic-gun-kit) — FiveM-based Roblox gun kit with switches, ARs, handguns, and many more common hood guns — — · 0 yıldız
+- [YupenBob/cheatsheet](https://github.com/YupenBob/cheatsheet) — 开发者速查表 - Git/SQL/Redis/正则/HTTP状态码 — HTML · 0 yıldız
+- [yupi2/css-server-stuff](https://github.com/yupi2/css-server-stuff) — Counter-Strike: Source BHOP Server Stuff — SourcePawn · 0 yıldız
+- [yuq-1s/load_tester](https://github.com/yuq-1s/load_tester) — A toy http load tester in c — C · 0 yıldız
+- [Yuqingliu23/aws-terraform-infrastructure-Public](https://github.com/Yuqingliu23/aws-terraform-infrastructure-Public) — A Terraform-based AWS infrastructure project that automates the deployment of a cloud application environment with EC2, MySQL,… — HCL · 0 yıldız
+- [YuraSopa/html-css-cheatsheet-starting](https://github.com/YuraSopa/html-css-cheatsheet-starting) — (açıklama yok) — HTML · 0 yıldız
+- [Yuri2274/primordial](https://github.com/Yuri2274/primordial) — Best Minecraft Bedrock Client for 26.62 — — · 0 yıldız
+- [yurial/confgen](https://github.com/yurial/confgen) — Generate config c++ code from YAML. Allow to change config in runtime. Optimized for high-load projects. — — · 0 yıldız
+- [yuriandrad/Reverse_Shell_Cheatsheet](https://github.com/yuriandrad/Reverse_Shell_Cheatsheet) — Diversos métodos de fácil acesso para criar shells reversas. — — · 0 yıldız
+- [yuriassaf1337/hw-sdk](https://github.com/yuriassaf1337/hw-sdk) — [hotwheels-sdk] @ 11/3/2021 — — · 0 yıldız
+- [YurieCo/HPP_2015](https://github.com/YurieCo/HPP_2015) — Heterogeneous Parallel Programming by Wen-mei W. Hwu @ Coursera — C++ · 0 yıldız
+- [yurii1-spec/10-Bash-Commands-for-Beginners](https://github.com/yurii1-spec/10-Bash-Commands-for-Beginners) — A simple **1-page PDF cheat sheet** with the 10 most useful Bash commands for beginners. Perfect for anyone starting with Linux… — — · 0 yıldız
+- [YuriMartinelli/cheatsheet-builder](https://github.com/YuriMartinelli/cheatsheet-builder) — (açıklama yok) — TypeScript · 0 yıldız
+- [yurisachan16-creator/Vampire-Survivor-like](https://github.com/yurisachan16-creator/Vampire-Survivor-like) — (açıklama yok) — — · 0 yıldız
+- [yuriy-n/Some-HTML-CSS-exp-sources-](https://github.com/yuriy-n/Some-HTML-CSS-exp-sources-) — (açıklama yok) — CSS · 0 yıldız
+- [yuriyklepikov/csgo-rollers](https://github.com/yuriyklepikov/csgo-rollers) — Website and Bot Source Code — PHP · 0 yıldız
+- [yuriykotlov/StatusLock](https://github.com/yuriykotlov/StatusLock) — See where your game status is while loading into a game of Deadlock — — · 0 yıldız
+- [yurki3/cs2offsets](https://github.com/yurki3/cs2offsets) — (açıklama yok) — C++ · 0 yıldız
+- [YurLuck1337/gamesense](https://github.com/YurLuck1337/gamesense) — (açıklama yok) — — · 0 yıldız
+- [yurox19/99damage_reader](https://github.com/yurox19/99damage_reader) — a simple script to scrape info about 99damage teams or matches — Python · 0 yıldız
+- [Yurqles/CS20---Tile-Based-Game-Project-C](https://github.com/Yurqles/CS20---Tile-Based-Game-Project-C) — Second game I made in cs-20 — JavaScript · 0 yıldız
+- [Yurqles/CS20-project-object-based](https://github.com/Yurqles/CS20-project-object-based) — (açıklama yok) — JavaScript · 0 yıldız
+- [yurukusa/git-cheatsheet](https://github.com/yurukusa/git-cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [yurukusa/regex-cheatsheet](https://github.com/yurukusa/regex-cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [yurushia/MHGU-Recomp-ThorCompanion](https://github.com/yurushia/MHGU-Recomp-ThorCompanion) — (açıklama yok) — — · 0 yıldız
+- [yus1108/UnsungEngine2](https://github.com/yus1108/UnsungEngine2) — (açıklama yok) — — · 0 yıldız
+- [yusama125718/NotInKeySystem](https://github.com/yusama125718/NotInKeySystem) — (açıklama yok) — C# · 0 yıldız
+- [yushadev0/mmpp](https://github.com/yushadev0/mmpp) — This repository contains the source code and scripts for the Minecraft MIDI & Pixelart Painter project. — HTML · 0 yıldız
+- [yushang657/DSH-YS-pojia](https://github.com/yushang657/DSH-YS-pojia) — DSH)破甲插件：对 DSH 三层解限越狱，宿主补丁(96补丁/70文件) + 消息层拒绝清洗 + 提示词注入破甲 / 解限 / 越狱 / 红队 / 提示词注入。文档：https://yushang657.github.io/DSH-YS-pojia/ — — · 0 yıldız
+- [yushaotai/hpplaycast](https://github.com/yushaotai/hpplaycast) — (açıklama yok) — — · 0 yıldız
+- [yushaotai/hpplaymirr](https://github.com/yushaotai/hpplaymirr) — (açıklama yok) — — · 0 yıldız
+- [yushenxin1206/onetap](https://github.com/yushenxin1206/onetap) — (açıklama yok) — Swift · 0 yıldız
+- [yushuinanrong/BU_EK500-K1_Deep_Learning_final_project](https://github.com/yushuinanrong/BU_EK500-K1_Deep_Learning_final_project) — This repository includes the source code of the final project "Single Image Super-Resolution Using GAN" created by Jiawei Chen &… — Python · 0 yıldız
+- [yusif19/hpppp](https://github.com/yusif19/hpppp) — (açıklama yok) — — · 0 yıldız
+- [yusjoel/UnityReleaseNotes](https://github.com/yusjoel/UnityReleaseNotes) — Unity的发布日志 — — · 0 yıldız
+- [yuskegoto/esp32c3_rust_getting_started](https://github.com/yuskegoto/esp32c3_rust_getting_started) — (açıklama yok) — Rust · 0 yıldız
+- [yuskegoto/espnow_rust_client](https://github.com/yuskegoto/espnow_rust_client) — (açıklama yok) — Rust · 0 yıldız
+- [Yusuf-Fakhreddin/CargoShipLoader](https://github.com/Yusuf-Fakhreddin/CargoShipLoader) — A simple Windows Forms app game to practice OOP with C# — C# · 0 yıldız
+- [Yusuf7681/server_sponsor_minecraft_mod](https://github.com/Yusuf7681/server_sponsor_minecraft_mod) — A simple client-side Fabric mod for modpack creators. It adds a customizable server hosting button to the main menu right next to… — HTML · 0 yıldız
+- [yusufalibinaliahmad0788-del/ff-esports](https://github.com/yusufalibinaliahmad0788-del/ff-esports) — Free Fire Esports Tournament Website — — · 0 yıldız
+- [yusufkerman/qual_engine](https://github.com/yusufkerman/qual_engine) — (açıklama yok) — — · 0 yıldız
+- [yusufketen/GaussianBlurOpenGL](https://github.com/yusufketen/GaussianBlurOpenGL) — (açıklama yok) — — · 0 yıldız
+- [YusufOzmen01/openhouse](https://github.com/YusufOzmen01/openhouse) — An open source replacement of SteamVR's lighthouse driver with numerous improvements and new features that are not available on… — — · 0 yıldız
+- [Yusufs7/Pubg-Mobile-Espor-T-rkiye](https://github.com/Yusufs7/Pubg-Mobile-Espor-T-rkiye) — Güncel puan durumları, kadrolar, transfer söylentileri ve maç takvimleri burada! — — · 0 yıldız
+- [YusufUnluu/170420821_Yusuf_Unlu_Buyuk-Dil-Modelleri_BitirmeProjesiLisans](https://github.com/YusufUnluu/170420821_Yusuf_Unlu_Buyuk-Dil-Modelleri_BitirmeProjesiLisans) — (açıklama yok) — Python · 0 yıldız
+- [yusuuferkan/Learning](https://github.com/yusuuferkan/Learning) — 🐍 Learn Python 3 by building: step-by-step notebooks, 20 mini projects and cheat sheets — Jupyter Notebook · 0 yıldız
+- [yutak03/amazon-sqs-pg](https://github.com/yutak03/amazon-sqs-pg) — AWS SDK for Rustを使って、SQSへいろいろ操作するためのplay groundです。 — Rust · 0 yıldız
+- [yutaka110/Rampage-on-Rails](https://github.com/yutaka110/Rampage-on-Rails) — (açıklama yok) — — · 0 yıldız
+- [YutaSawagami/sample_python_injector](https://github.com/YutaSawagami/sample_python_injector) — (açıklama yok) — Shell · 0 yıldız
+- [yutashio/salesforce_cli_cheatsheet](https://github.com/yutashio/salesforce_cli_cheatsheet) — [自分用]Salesforce CLI 早見表 — — · 0 yıldız
+- [yutch123/Audumbla](https://github.com/yutch123/Audumbla) — Second OpenGL repository documenting my learning from learnopengl.com. Focused on extensive comments to explain concepts and… — C++ · 0 yıldız
+- [YUTeleventures/system_keymaster](https://github.com/YUTeleventures/system_keymaster) — (açıklama yok) — — · 0 yıldız
+- [Yuthika08/Smart-CV-Analyser](https://github.com/Yuthika08/Smart-CV-Analyser) — Smart CV Analyser is a menu-driven C application that simplifies candidate screening by matching CV details with job… — C · 0 yıldız
+- [Yuting-Shao/MenuDrivenTicTacToeGame](https://github.com/Yuting-Shao/MenuDrivenTicTacToeGame) — Tic-Tac-Toe, minimax, C programming language, general tree abstract data structure — C · 0 yıldız
+- [yutougua/csgo.hpp](https://github.com/yutougua/csgo.hpp) — (açıklama yok) — — · 0 yıldız
+- [Yuu-stack/ESP32_React_Sample](https://github.com/Yuu-stack/ESP32_React_Sample) — (açıklama yok) — C++ · 0 yıldız
+- [yuu/cheats](https://github.com/yuu/cheats) — navi cheat sheets — — · 0 yıldız
+- [Yuuhiee/UmeBPR](https://github.com/Yuuhiee/UmeBPR) — (açıklama yok) — — · 0 yıldız
+- [yuuki2006/C-Users-8958t-source-repos-Sample101-Sample101](https://github.com/yuuki2006/C-Users-8958t-source-repos-Sample101-Sample101) — a — — · 0 yıldız
+- [yuunlee/internalCommunicator](https://github.com/yuunlee/internalCommunicator) — This is the final project for SI 579. It is a clone of slack, and will add on more features in the future — JavaScript · 0 yıldız
+- [yuusyaisami/TinnosukeGameLib-legacy](https://github.com/yuusyaisami/TinnosukeGameLib-legacy) — (açıklama yok) — — · 0 yıldız
+- [yuuto313/GE3](https://github.com/yuuto313/GE3) — (açıklama yok) — — · 0 yıldız
+- [yuuuuub/git-cheatsheet](https://github.com/yuuuuub/git-cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [yuuzimario/apex-esports-db](https://github.com/yuuzimario/apex-esports-db) — (açıklama yok) — Python · 0 yıldız · arşiv
+- [yuv-raj-25/cheatSheets](https://github.com/yuv-raj-25/cheatSheets) — (açıklama yok) — Astro · 0 yıldız
+- [yuva-ui/-ShoppyGlobe](https://github.com/yuva-ui/-ShoppyGlobe) — (açıklama yok) — — · 0 yıldız
+- [yuvakiran353/shoppyzone](https://github.com/yuvakiran353/shoppyzone) — it is a clone of a shopping cart app. — — · 0 yıldız
+- [yuval2017/3DAnimation](https://github.com/yuval2017/3DAnimation) — (açıklama yok) — — · 0 yıldız
+- [yuvalkh/cs1.6hacks-and-lf2hack](https://github.com/yuvalkh/cs1.6hacks-and-lf2hack) — Run it and it will give you unlimited hp/mp and will give you godmode — C++ · 0 yıldız
+- [yuvalperez/cs2](https://github.com/yuvalperez/cs2) — (açıklama yok) — — · 0 yıldız
+- [Yuvankrish3012/Predicting-Customer-Booking-Behavior-using-Random-Forest-and-XGBoost](https://github.com/Yuvankrish3012/Predicting-Customer-Booking-Behavior-using-Random-Forest-and-XGBoost) — This project predicts customer booking behavior using Random Forest and XGBoost models. After data cleaning and preprocessing,… — Jupyter Notebook · 0 yıldız
+- [yuvanrana9215-cyber/NXT-ESPORTS-](https://github.com/yuvanrana9215-cyber/NXT-ESPORTS-) — ​🏆 NXT — Competitive Esports 🎮 Fortnite • Community • Competition 📈 Compete • Connect • Climb 🏆 Fortnite Team Trials → #join — HTML · 0 yıldız
+- [yuvarajreddy2005/-Liver-Cirrhosis-Stage-Detection-](https://github.com/yuvarajreddy2005/-Liver-Cirrhosis-Stage-Detection-) — This project predicts the histologic stage of liver cirrhosis (Stage 1, 2, or 3) using clinical and biochemical patient data from… — Jupyter Notebook · 0 yıldız
+- [yuvasaiganesh/MarmetoShoppyApp](https://github.com/yuvasaiganesh/MarmetoShoppyApp) — (açıklama yok) — JavaScript · 0 yıldız
+- [yuvasrikanagaraj02-source/Lung-Cancer-Analysis-Using-Decision-Tree](https://github.com/yuvasrikanagaraj02-source/Lung-Cancer-Analysis-Using-Decision-Tree) — In this project, I analyzed a lung cancer survey dataset using a Decision Tree Regressor to identify patterns and predict… — Jupyter Notebook · 0 yıldız
+- [yuvikapatel/Banker-s-AlgorithmSimulator](https://github.com/yuvikapatel/Banker-s-AlgorithmSimulator) — This project is based on the concept of Banker's Algorithm, which is a fundamental algorithm used in Operating Systems for… — HTML · 0 yıldız
+- [Yuvraj-Jangir/-ShoppyGlobe](https://github.com/Yuvraj-Jangir/-ShoppyGlobe) — (açıklama yok) — JavaScript · 0 yıldız
+- [Yuvraj-Jangir/ShoppyGlobeBackend](https://github.com/Yuvraj-Jangir/ShoppyGlobeBackend) — (açıklama yok) — JavaScript · 0 yıldız
+- [Yuvraj8863/Railway_Deadlock_simulation](https://github.com/Yuvraj8863/Railway_Deadlock_simulation) — The goal of this project is to simulate a deadlock scenario in railway systems, where multiple trains require access to shared… — — · 0 yıldız
+- [YuvrajOza/HackerRank_Orchestrate_june_2026](https://github.com/YuvrajOza/HackerRank_Orchestrate_june_2026) — This repo contains all the project files of final submission in HackerRank Hackathon June Edition — Python · 0 yıldız
+- [yuvrajSingh-rajput/bidify](https://github.com/yuvrajSingh-rajput/bidify) — Bidify is a MERN stack-based web application that allows users to organize and participate in real-time cricket player auctions.… — TypeScript · 0 yıldız
+- [yuvrajstomar/NHTSA](https://github.com/yuvrajstomar/NHTSA) — NHTSA_HIGHWAY_FATALITY_ANAYSIS_SYSTEM — Python · 0 yıldız
+- [yuvrajthakurrrr/pandas-cheatsheet](https://github.com/yuvrajthakurrrr/pandas-cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [YuvrazError/Bangladesh_Population_Data_Detailed_Analysis](https://github.com/YuvrazError/Bangladesh_Population_Data_Detailed_Analysis) — Analyzed Bangladeshi population data by loading and cleaning the dataset, conducting exploratory data analysis (EDA), and… — Jupyter Notebook · 0 yıldız
+- [Yuya-Kojima/Azure-Ascent](https://github.com/Yuya-Kojima/Azure-Ascent) — (açıklama yok) — — · 0 yıldız
+- [Yuya14808734/GameProject](https://github.com/Yuya14808734/GameProject) — (açıklama yok) — — · 0 yıldız
+- [yuyash0106/Android_MenuSample](https://github.com/yuyash0106/Android_MenuSample) — (açıklama yok) — Java · 0 yıldız
+- [yuyh948/Study-Notes-and-Cheatsheets](https://github.com/yuyh948/Study-Notes-and-Cheatsheets) — My cheatsheet and lab reports in ShanghaiTech — — · 0 yıldız
+- [yuyongze/PUBG_hacker](https://github.com/yuyongze/PUBG_hacker) — (açıklama yok) — Jupyter Notebook · 0 yıldız
+- [Yuyu-1115/team-project](https://github.com/Yuyu-1115/team-project) — A processing-based mini-game, with respect to "Safe Landing" from Wii Party U. This is the final project for the class I take in… — Processing · 0 yıldız
+- [yuzhang-npu/system-keylogic-fverifcation](https://github.com/yuzhang-npu/system-keylogic-fverifcation) — (açıklama yok) — — · 0 yıldız
+- [YuZhiYuanDev/RustdeskAndroid](https://github.com/YuZhiYuanDev/RustdeskAndroid) — An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. — Rust · 0 yıldız
+- [YuZichuan/GPH-GU-2338-Final-Project](https://github.com/YuZichuan/GPH-GU-2338-Final-Project) — This is the open source code files for the GPH-GU 2338 final project — — · 0 yıldız
+- [yuzu-n1/n1mbus_preview](https://github.com/yuzu-n1/n1mbus_preview) — N1mbus Preview — — · 0 yıldız
+- [yuzuki5695/LE3B_06_MyGame](https://github.com/yuzuki5695/LE3B_06_MyGame) — (açıklama yok) — — · 0 yıldız
+- [yuzurihakazuma/KazumimiEngine](https://github.com/yuzurihakazuma/KazumimiEngine) — (açıklama yok) — — · 0 yıldız
+- [yvern/primordiallycash](https://github.com/yvern/primordiallycash) — (açıklama yok) — F# · 0 yıldız
+- [yvetuya-Air/Lisans_Calismalar](https://github.com/yvetuya-Air/Lisans_Calismalar) — (açıklama yok) — Python · 0 yıldız
+- [YvMohsin/Artificial-Intelligence](https://github.com/YvMohsin/Artificial-Intelligence) — Awesome AI Learning with +100 AI Cheat-Sheets, Free online Books, Top Courses, Best Videos and Lectures, Papers, Tutorials, +99… — — · 0 yıldız
+- [YvMohsin/cheat-sheet-for-Data-scientist](https://github.com/YvMohsin/cheat-sheet-for-Data-scientist) — (açıklama yok) — — · 0 yıldız
+- [YvMohsin/cheat_sheets](https://github.com/YvMohsin/cheat_sheets) — A collection of handy cheat sheets for programming, data science, version control, statistics, and probability. — — · 0 yıldız
+- [YvMohsin/cheat_sheets_of_python_libraries](https://github.com/YvMohsin/cheat_sheets_of_python_libraries) — This repository contains the bunch of cheat sheets of diffenrent python libraries which are used in order to develop data science… — — · 0 yıldız
+- [YvMohsin/CheatSheet-LLM](https://github.com/YvMohsin/CheatSheet-LLM) — The LLM (Language Model) Cheatsheet is a quick reference guide that provides an overview of the key concepts and techniques… — — · 0 yıldız
+- [YvMohsin/cheatsheets-ai](https://github.com/YvMohsin/cheatsheets-ai) — Essential Cheat Sheets for deep learning and machine learning researchers — — · 0 yıldız
+- [YvMohsin/cv-cheatsheet](https://github.com/YvMohsin/cv-cheatsheet) — A cheat sheet for the Computer Vision DMET901 course at the GUC. — TeX · 0 yıldız
+- [YvMohsin/Data-Science--Cheat-Sheet](https://github.com/YvMohsin/Data-Science--Cheat-Sheet) — Cheat Sheets — — · 0 yıldız
+- [YvMohsin/Data-science-Cheat-sheet-for-beginner](https://github.com/YvMohsin/Data-science-Cheat-sheet-for-beginner) — Data science cheat sheet that refreshment of knowledge of ML, DL and AI — — · 0 yıldız
+- [YvMohsin/Data-Science-Cheatsheet](https://github.com/YvMohsin/Data-Science-Cheatsheet) — (açıklama yok) — TeX · 0 yıldız
+- [YvMohsin/Data-Science-Machine-Learning-Cheat-Sheet](https://github.com/YvMohsin/Data-Science-Machine-Learning-Cheat-Sheet) — Data Science Cheat Sheet is help to remind code with in minute and also useful to recall the code.Collecting at one place so… — — · 0 yıldız
+- [YvMohsin/deep-learning-cheatsheet](https://github.com/YvMohsin/deep-learning-cheatsheet) — (açıklama yok) — TeX · 0 yıldız
+- [YvMohsin/DockerCheatSheet](https://github.com/YvMohsin/DockerCheatSheet) — 🐋 Docker Cheat Sheet 🐋 — — · 0 yıldız
+- [YvMohsin/ds-cheatsheets](https://github.com/YvMohsin/ds-cheatsheets) — List of Data Science Cheatsheets to rule the world — — · 0 yıldız
+- [yvoinov/ip2city](https://github.com/yvoinov/ip2city) — Oracle ApEx IP2CITY application is PoC (proof-of-concept) implementation based on MaxMind database with fully in-database… — PLSQL · 0 yıldız · arşiv
+- [Yvokim/Gitignore-Cheatsheet](https://github.com/Yvokim/Gitignore-Cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [yvonnembulwa/random-forest-intrusion-detection](https://github.com/yvonnembulwa/random-forest-intrusion-detection) — a random forest based intrusion detection model for distinguishing normal wi-fi traffic and the various attacks at the MAC layer — Python · 0 yıldız
+- [YvonneVDK/Skeeton](https://github.com/YvonneVDK/Skeeton) — (açıklama yok) — ShaderLab · 0 yıldız
+- [yvrajkumar/Key-Value-Data-Store](https://github.com/yvrajkumar/Key-Value-Data-Store) — A file-based Key-Value Data Store that supports basic CRD (create, read, and delete) operations. The data store is meant to be… — HTML · 0 yıldız
+- [YvvonM/tpch_sample_data_dbt_snowflake_datapipeline](https://github.com/YvvonM/tpch_sample_data_dbt_snowflake_datapipeline) — The project consist of a data pipeline to stage data and load it into a data warehouse — Python · 0 yıldız
+- [Ywexler/AIM-5005-Cheat-Sheet](https://github.com/Ywexler/AIM-5005-Cheat-Sheet) — ML Models Brief Summaries — — · 0 yıldız
+- [ywsabc/last-train-100-days](https://github.com/ywsabc/last-train-100-days) — Minecraft 1.21.1 cooperative physical-train zombie survival campaign — — · 0 yıldız
+- [ywu666/CS335Part1_Assignments](https://github.com/ywu666/CS335Part1_Assignments) — This is the source code of UOA CS335. — JavaScript · 0 yıldız
+- [ywzzs/server-cheatsheet](https://github.com/ywzzs/server-cheatsheet) — 练习的 — JavaScript · 0 yıldız
+- [yx-3s/CapWareVal-Medusa](https://github.com/yx-3s/CapWareVal-Medusa) — CapWare / Medusa Valorant Source + Driver — — · 0 yıldız
+- [yxl-prz/ValorantAPI](https://github.com/yxl-prz/ValorantAPI) — Fetch a user's match history with some information about the game. — Go · 0 yıldız
+- [yxsinyxsuf/Credit-Risk-Calculator](https://github.com/yxsinyxsuf/Credit-Risk-Calculator) — Upload loan data in CSV format. View a correlation matrix for key features. Visualize feature importance from a trained Random… — Python · 0 yıldız
+- [yy-2022/cheatsheets](https://github.com/yy-2022/cheatsheets) — Curated lists of most commonly used commands in your everyday tooling. — — · 0 yıldız
+- [yy-3308/mle-cheatsheet](https://github.com/yy-3308/mle-cheatsheet) — MLE Interview Cheatsheet — ML Fundamentals, Spark, System Design — HTML · 0 yıldız
+- [yy485740/yy485740.github.io](https://github.com/yy485740/yy485740.github.io) — 自用 — — · 0 yıldız
+- [yyar70386-maker/CheatSheet_Hibernate](https://github.com/yyar70386-maker/CheatSheet_Hibernate) — Spring and Hibernate project — Java · 0 yıldız
+- [yyasirnawaz1/cloud-cheatsheet](https://github.com/yyasirnawaz1/cloud-cheatsheet) — (açıklama yok) — TypeScript · 0 yıldız
+- [yyassiradamo17-boop/Seletor-de-armaduras](https://github.com/yyassiradamo17-boop/Seletor-de-armaduras) — Seletor de armaduras para pilar, vigas, lajes e sapatas, malhasol com base em catálogo, recobrimentos e amarração e emendas — HTML · 0 yıldız
+- [YYC-yy/PacmanGame](https://github.com/YYC-yy/PacmanGame) — It's a class final Project. We find a classic game, and try to read this code and add some functions. Thanks for the source code… — C# · 0 yıldız
+- [yyg27/eva-unit-01-autonomous-exploration](https://github.com/yyg27/eva-unit-01-autonomous-exploration) — FSM-based autonomous exploration robot built with ROS & Gazebo on Ubuntu 20.04. Uses LIDAR sectoring and a finite state machine… — CMake · 0 yıldız
+- [yyh6788h-code/penis](https://github.com/yyh6788h-code/penis) — (açıklama yok) — — · 0 yıldız
+- [yyjeqhc/rust_nft_fullcone](https://github.com/yyjeqhc/rust_nft_fullcone) — 基于This project is based on nft_fullcone, sourced from https://github.com/fullcone-nat-nftables.的rust编写样例测试 — C · 0 yıldız
+- [YYOC/load-initialize](https://github.com/YYOC/load-initialize) — Objective C类方法load和initialize的区别 — — · 0 yıldız
+- [YYomna-MMaged/Diabetes-Prediction](https://github.com/YYomna-MMaged/Diabetes-Prediction) — A Streamlit app that predicts Diabetes by analyzing patient medical data using a trained Random Forest model. It standardizes… — Jupyter Notebook · 0 yıldız
+- [Yyoungion/PythonCheatSheet](https://github.com/Yyoungion/PythonCheatSheet) — (açıklama yok) — Jupyter Notebook · 0 yıldız
+- [yyouyang12/AlcoholConsumption](https://github.com/yyouyang12/AlcoholConsumption) — Source files for EDAV final project (We encountered some issue in this old version. We have moved all project contents to the new… — JavaScript · 0 yıldız
+- [yyt0823/java-concurrency-locks-and-monitors](https://github.com/yyt0823/java-concurrency-locks-and-monitors) — Deadlock-free ingredient locking with ReentrantReadWriteLock and monitor-based cafe synchronization — McGill COMP 409 — Java · 0 yıldız
+- [yyyyyforever16/HtmtoCsv-Uic](https://github.com/yyyyyforever16/HtmtoCsv-Uic) — Transfer the log file in htm format To csv format, by catching sth need out the source file. — — · 0 yıldız
+- [yz-1209/cheat-sheet-tool](https://github.com/yz-1209/cheat-sheet-tool) — (açıklama yok) — Go · 0 yıldız
+- [yz599766-rgb/Linux-cheat-sheet](https://github.com/yz599766-rgb/Linux-cheat-sheet) — linux命令速查 — — · 0 yıldız
+- [yzheng494/gh-network-analysis](https://github.com/yzheng494/gh-network-analysis) — This repo serve for the code base of MGT6314 Final Project: Collaboration Network Analysis of an Open-Source Community — Python · 0 yıldız
+- [yzlSatis/lisansl-siteler](https://github.com/yzlSatis/lisansl-siteler) — (açıklama yok) — CSS · 0 yıldız
+- [yzr95924/CSCI4190Tutorial-SourceCode](https://github.com/yzr95924/CSCI4190Tutorial-SourceCode) — (açıklama yok) — Python · 0 yıldız
+- [z-ACID-v/skzlit](https://github.com/z-ACID-v/skzlit) — Yeet skeet — — · 0 yıldız
+- [Z-F-x/developer-command-prompt-cheat-sheet](https://github.com/Z-F-x/developer-command-prompt-cheat-sheet) — Developer Command Prompt Cheat Sheet — — · 0 yıldız
+- [Z-F-x/docker-cheat-sheet](https://github.com/Z-F-x/docker-cheat-sheet) — (açıklama yok) — — · 0 yıldız
+- [Z-F-x/git-cheat-sheet](https://github.com/Z-F-x/git-cheat-sheet) — (açıklama yok) — — · 0 yıldız
+- [Z-F-x/nvim-cheat-sheet](https://github.com/Z-F-x/nvim-cheat-sheet) — Useful tricks & tips for nvim problems — — · 0 yıldız
+- [Z-F-x/powershell-cheat-sheet](https://github.com/Z-F-x/powershell-cheat-sheet) — (açıklama yok) — — · 0 yıldız
+- [Z-F-x/windows-file-system-cheat-sheet](https://github.com/Z-F-x/windows-file-system-cheat-sheet) — (açıklama yok) — — · 0 yıldız
+- [Z-F-x/windows-registry-cheat-sheet](https://github.com/Z-F-x/windows-registry-cheat-sheet) — (açıklama yok) — — · 0 yıldız
+- [z-shigaev/cheatsheets](https://github.com/z-shigaev/cheatsheets) — (açıklama yok) — — · 0 yıldız
+- [Z-V-K/LHCSGO](https://github.com/Z-V-K/LHCSGO) — (açıklama yok) — — · 0 yıldız
+- [z0d0dOr/POLYGON](https://github.com/z0d0dOr/POLYGON) — POLYGON 透视辅助源码 — — · 0 yıldız
+- [Z0L74N/CheatSheet](https://github.com/Z0L74N/CheatSheet) — Tooling cheatsheet — — · 0 yıldız
+- [z10n-dev/quarto-cheatsheet](https://github.com/z10n-dev/quarto-cheatsheet) — (açıklama yok) — Python · 0 yıldız
+- [z1439527767/regex-playground](https://github.com/z1439527767/regex-playground) — Free online regex tester with real-time matching, flags, and cheat sheet. Zero dependencies, runs in browser. — HTML · 0 yıldız
+- [z1rvee/private](https://github.com/z1rvee/private) — (açıklama yok) — — · 0 yıldız
+- [z1rvee/src](https://github.com/z1rvee/src) — (açıklama yok) — — · 0 yıldız
+- [z21-cloud/GridBasedInventorySystem](https://github.com/z21-cloud/GridBasedInventorySystem) — Tarkov-like grid inventory system — C# · 0 yıldız
+- [z376368673/WeChatOpenSdkSample](https://github.com/z376368673/WeChatOpenSdkSample) — (açıklama yok) — Java · 0 yıldız
+- [z3r0-1sec/Sentry-Recon](https://github.com/z3r0-1sec/Sentry-Recon) — Passive-oriented subdomain discovery using public sources, plus apex DNS and WHOIS enrichment. No scanning, no host probing. — Python · 0 yıldız
+- [Z3r0n3us/Pentest_Tools_Cheat](https://github.com/Z3r0n3us/Pentest_Tools_Cheat) — This is a list of common pentest tools built into both a cli and/or html that is searchable and viewable to get commands for each… — Python · 0 yıldız
+- [z3r0v3c70r/security-notes](https://github.com/z3r0v3c70r/security-notes) — Practical security reference notes and tool cheat sheets built from hands-on lab practice — — · 0 yıldız
+- [Z3r0xF/CheatSheets-And-WarmUps](https://github.com/Z3r0xF/CheatSheets-And-WarmUps) — Simple collection for some generally practices, notices, templates or workflows as cheatsheets — HTML · 0 yıldız
+- [z3roghost/Plasma-Squad-Hackers](https://github.com/z3roghost/Plasma-Squad-Hackers) — (açıklama yok) — — · 0 yıldız
+- [z3tsx/cs2-settingspro](https://github.com/z3tsx/cs2-settingspro) — Open source CS2 settings database — TypeScript · 0 yıldız
+- [z3u4r5dok/awesome-cheatsheets](https://github.com/z3u4r5dok/awesome-cheatsheets) — (açıklama yok) — — · 0 yıldız
+- [z3xox/BT3-Recomp](https://github.com/z3xox/BT3-Recomp) — Dragon Ball Z: Budokai Tenkaichi 3 PC port via static recompilation (PS2Recomp fork) — bring your own disc image — — · 0 yıldız
+- [z4jr/fatality.cc](https://github.com/z4jr/fatality.cc) — (açıklama yok) — — · 0 yıldız
+- [Z4ub3rp1lz/Periodic-Table-cheatsheets](https://github.com/Z4ub3rp1lz/Periodic-Table-cheatsheets) — Download the HTML-script to hate the Periodic Table avialble without Internet,Servers direct in your Browser — HTML · 0 yıldız
+- [z80/ignition](https://github.com/z80/ignition) — Ignition is a game inspired by Kerbal Space Program — — · 0 yıldız
+- [z8mrqvwjdp-source/Chord-Chart-Cheat-Sheet](https://github.com/z8mrqvwjdp-source/Chord-Chart-Cheat-Sheet) — Interface to select Nashville numbers chord charts — HTML · 0 yıldız
+- [za3999/wechat_sdk_sample_android](https://github.com/za3999/wechat_sdk_sample_android) — 微信支付坑demo坑，正确的写法。 — Java · 0 yıldız
+- [za575525-arch/dev-utility-kit](https://github.com/za575525-arch/dev-utility-kit) — A useful open-source developer utility kit with cheat sheets, templates, and workflow helpers. — — · 0 yıldız
+- [zaaabik/hppl_skoltech](https://github.com/zaaabik/hppl_skoltech) — (açıklama yok) — HTML · 0 yıldız
+- [zaaabik/hppl_skoltech_project](https://github.com/zaaabik/hppl_skoltech_project) — (açıklama yok) — Python · 0 yıldız
+- [ZAARAziof/HDL-mini-Booklet](https://github.com/ZAARAziof/HDL-mini-Booklet) — This booklet serves as a quick-reference guide for students, featuring step-by-step instructions, practical tasks (e.g., build a… — — · 0 yıldız
+- [ZAARAziof/HDL-Web-Page](https://github.com/ZAARAziof/HDL-Web-Page) — The web page is a study tool with categorized questions, collapsible answers, and a dark-themed hacker aesthetic. It helps… — HTML · 0 yıldız
+- [zab2312/GameSensei](https://github.com/zab2312/GameSensei) — (açıklama yok) — — · 0 yıldız
+- [zabintn/apb_protocol](https://github.com/zabintn/apb_protocol) — class based testbench for an apb slave module — SystemVerilog · 0 yıldız
+- [zabintn/apb_protocol_uvm](https://github.com/zabintn/apb_protocol_uvm) — UVM-based testbench verification of an apb slave memory module — HTML · 0 yıldız
+- [zabintn/apb_verification_cocotb](https://github.com/zabintn/apb_verification_cocotb) — verifying apb slave module using a class-based cocotb testbench — Python · 0 yıldız
+- [zabor4k/neverlose](https://github.com/zabor4k/neverlose) — (açıklama yok) — — · 0 yıldız
+- [zabor4k/skeetles](https://github.com/zabor4k/skeetles) — (açıklama yok) — — · 0 yıldız
+- [zac-pixel/Bee-Swarm-Simulator-Script-and-Game](https://github.com/zac-pixel/Bee-Swarm-Simulator-Script-and-Game) — a game based on bee swarm simulator roblox — — · 0 yıldız
+- [Zacarette/Animal-Rescue-System](https://github.com/Zacarette/Animal-Rescue-System) — This repository contains my source code for the final project in SNHU's IT-145 Java course. All code in this repository was… — Java · 0 yıldız
+- [Zacarette/Left-Center-Right-Game](https://github.com/Zacarette/Left-Center-Right-Game) — This repository contains my source code for the final project in SNHU's IT-312 C++ course. All code in this repository was… — C++ · 0 yıldız
+- [ZachACombs/KMT](https://github.com/ZachACombs/KMT) — c# class designed for loading, modifying, and saving Mario Kart Wii's KMT files. — C# · 0 yıldız
+- [Zacharay/GraphVisualizer](https://github.com/Zacharay/GraphVisualizer) — (açıklama yok) — — · 0 yıldız
+- [ZacharieMcGee/skeetersdevjourney.github.io](https://github.com/ZacharieMcGee/skeetersdevjourney.github.io) — My personal website — SCSS · 0 yıldız
+- [ZacharyBurrAbel/credit-score-tool-cheat-sheet](https://github.com/ZacharyBurrAbel/credit-score-tool-cheat-sheet) — How is your credit score formed? How does adding credit cards affect it? Tricks to improve it — HTML · 0 yıldız
+- [zacharyhorvitz/minecraft-concept-net](https://github.com/zacharyhorvitz/minecraft-concept-net) — Relational information extracted from Minecraft wiki-sources — Python · 0 yıldız
+- [zacharyinserra/ChordSystem](https://github.com/zacharyinserra/ChordSystem) — Implementation of a chord system in Java. Will find key node based on a randomly selected starting node from user-specified… — Java · 0 yıldız
+- [ZachCurtis/roblox-long-polling](https://github.com/ZachCurtis/roblox-long-polling) — Communication between Roblox and Node.js based on long polling — JavaScript · 0 yıldız
+- [zachever/cpp_ac_trainer](https://github.com/zachever/cpp_ac_trainer) — (açıklama yok) — — · 0 yıldız
+- [zachhco/Fatal_Pred](https://github.com/zachhco/Fatal_Pred) — Automotive Fatality Predictor — Python · 0 yıldız
+- [zachingtoncentral/GIDoHbaPBH-Code](https://github.com/zachingtoncentral/GIDoHbaPBH-Code) — Gravitationally Induced Dissociation of Hydrogen by a Primordial Black Hole Code — Jupyter Notebook · 0 yıldız
+- [zachnoel/overwatch](https://github.com/zachnoel/overwatch) — Java based application monitor — Java · 0 yıldız
+- [zachswift615/primordial](https://github.com/zachswift615/primordial) — (açıklama yok) — Python · 0 yıldız
+- [ZachWildermen/ZackWilderbeast](https://github.com/ZachWildermen/ZackWilderbeast) — I like trains and minecraft — — · 0 yıldız
+- [zachzloof/tarkov-convenience-store](https://github.com/zachzloof/tarkov-convenience-store) — made for practice/fun, the store is based off the game Escape From Tarkov made by battlestate games. — JavaScript · 0 yıldız
+- [Zackdatarom/ml-algorithm-cheatsheet](https://github.com/Zackdatarom/ml-algorithm-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [Zacke1234/Emgine_New](https://github.com/Zacke1234/Emgine_New) — (açıklama yok) — — · 0 yıldız
+- [ZackerySpears/Text-Based-Game](https://github.com/ZackerySpears/Text-Based-Game) — This game take a dictionary of rooms, items and then has the user move through each room to collect each item before going to the… — Python · 0 yıldız
+- [zackfodil/gamesense-ai-mvp.zio](https://github.com/zackfodil/gamesense-ai-mvp.zio) — (açıklama yok) — JavaScript · 0 yıldız
+- [zackkehl/Halo-Hackathon-2026](https://github.com/zackkehl/Halo-Hackathon-2026) — (açıklama yok) — R · 0 yıldız
+- [ZackKoblenz/Twitch-Points](https://github.com/ZackKoblenz/Twitch-Points) — Creating a web application to translate Twitch/Streamlabs Subscriptions, bits, and donations to a point system that can be… — JavaScript · 0 yıldız
+- [zackmcnulty/CSE_351](https://github.com/zackmcnulty/CSE_351) — Examines key computational abstraction levels below modern high-level languages; number representation, assembly language,… — C · 0 yıldız
+- [zackmoyal/Fortnite-Stats-Analyzer](https://github.com/zackmoyal/Fortnite-Stats-Analyzer) — A web application that analyzes Fortnite player statistics and provides AI-generated coaching feedback. Features include… — HTML · 0 yıldız
+- [ZackOnez/roblox-basetowerdefense](https://github.com/ZackOnez/roblox-basetowerdefense) — (açıklama yok) — Luau · 0 yıldız
+- [zacktps2025/armada-releases](https://github.com/zacktps2025/armada-releases) — Installers for Armada. The game's source lives elsewhere; this repository exists so downloads and auto-updates are publicly… — TypeScript · 0 yıldız
+- [ZackXevious/IPFinalExam-SPACEXFORUM](https://github.com/ZackXevious/IPFinalExam-SPACEXFORUM) — The final exam for internet programming at TAMUCC, spring 2020. ([SP-20] COSC-3351-001) We based the idea on SpaceX, and made a… — JavaScript · 0 yıldız
+- [ZackyNjenga/shoppyrhino](https://github.com/ZackyNjenga/shoppyrhino) — (açıklama yok) — TypeScript · 0 yıldız
+- [zacster7209/Gtag-Menu-AstraTemp](https://github.com/zacster7209/Gtag-Menu-AstraTemp) — (açıklama yok) — — · 0 yıldız
+- [Zada-cdh/R-software-code](https://github.com/Zada-cdh/R-software-code) — Use R software，Crime rate prediction in the United States based on ridge regression and random forest，sampling — R · 0 yıldız
+- [Zaddy2016/zaddys-safe-csgoudouble-trainbot](https://github.com/Zaddy2016/zaddys-safe-csgoudouble-trainbot) — a safe way to pet 24/7 following trains — — · 0 yıldız
+- [ZaderCode/blockchain_voting_system](https://github.com/ZaderCode/blockchain_voting_system) — Smart contract implementation of a blockchain-based voting system. This project was made for a final degree project in the… — JavaScript · 0 yıldız
+- [zaderenko/rbxmk-studio](https://github.com/zaderenko/rbxmk-studio) — the best open-source alternative for the original Roblox Studio — CMake · 0 yıldız
+- [zadokvillarreal/esports-forecasting](https://github.com/zadokvillarreal/esports-forecasting) — Walk-forward statistical forecasting for pro Counter-Strike player performance. NegBin regression + LightGBM residual learner… — Python · 0 yıldız
+- [Zaelious/ow2externalupdate](https://github.com/Zaelious/ow2externalupdate) — Use VMP or you'll be banned. — — · 0 yıldız
+- [zaewz/Warzone-AIO](https://github.com/zaewz/Warzone-AIO) — Free Warzone AIO Source Code Made By NJ — — · 0 yıldız
+- [zaewz/Warzone-Unlock-All](https://github.com/zaewz/Warzone-Unlock-All) — Free Warzone Unlock All Source Made By NJ — C++ · 0 yıldız
+- [zaeyeonkim/study_shoppy](https://github.com/zaeyeonkim/study_shoppy) — (açıklama yok) — — · 0 yıldız
+- [zafarlaiba223-ui/Quiz-Game](https://github.com/zafarlaiba223-ui/Quiz-Game) — Interactive C++ console quiz game with 5 MCQS ,instant feedback ,a recursive menu, and automatic score saving to file .Built with… — — · 0 yıldız
+- [ZafeerRamzan/shoppy_ecommerce](https://github.com/ZafeerRamzan/shoppy_ecommerce) — (açıklama yok) — JavaScript · 0 yıldız
+- [zaferaltun05/AdminMenuV1](https://github.com/zaferaltun05/AdminMenuV1) — FiveM admin menü — Lua · 0 yıldız
+- [zafree-lab/Counter-Strike-Source](https://github.com/zafree-lab/Counter-Strike-Source) — (açıklama yok) — C++ · 0 yıldız
+- [Zafrex20/systemverilog-apb-verification](https://github.com/Zafrex20/systemverilog-apb-verification) — SystemVerilog-based verification of an APB slave with four memory-mapped registers, an object-oriented testbench, and a… — SystemVerilog · 0 yıldız
+- [zaghl0ul/Coach-Clippi](https://github.com/zaghl0ul/Coach-Clippi) — (açıklama yok) — — · 0 yıldız
+- [zaghloul2012/Student-Performance-Prediction](https://github.com/zaghloul2012/Student-Performance-Prediction) — This project aims to develop and implement various regression models to predict the final score of a student (G3) based on the… — Jupyter Notebook · 0 yıldız
+- [zagorskiymv-code/gta_peterburg](https://github.com/zagorskiymv-code/gta_peterburg) — 3d game with open-world based on GTA series. — GDScript · 0 yıldız
+- [Zagusan/Cheat-Sheet-Python](https://github.com/Zagusan/Cheat-Sheet-Python) — (açıklama yok) — Svelte · 0 yıldız
+- [ZAGY555/1.21Generate-electricity-modpack](https://github.com/ZAGY555/1.21Generate-electricity-modpack) — This is a modpack for minecraft version 1.21, designed to optimize the gaming experience (frame rate, loading speed, etc.) — — · 0 yıldız
+- [zaheernaqvi72/diabetes-prediction-app](https://github.com/zaheernaqvi72/diabetes-prediction-app) — A Streamlit-based interactive web application that predicts the likelihood of diabetes using the Random Forest Classifier. — Python · 0 yıldız
+- [zaheersyedkdr/Weather-Forecast-Application](https://github.com/zaheersyedkdr/Weather-Forecast-Application) — A web based application that displays current weather conditions and also hourly, daily forecasts. This website features dynamic… — HTML · 0 yıldız
+- [zaherg/docker-etcd](https://github.com/zaherg/docker-etcd) — Dockerized Distributed reliable key-value store for the most critical data of a distributed system — Dockerfile · 0 yıldız · arşiv
+- [zahid60/Implementing_Algorithms_using_Bash_Programming](https://github.com/zahid60/Implementing_Algorithms_using_Bash_Programming) — This project is based on the concept of 3 types of algorithms using Bash Programming. This 3 types of algorithms are CPU… — Shell · 0 yıldız
+- [zahinahmed97/Pattern-based-digital-lock-system](https://github.com/zahinahmed97/Pattern-based-digital-lock-system) — a digital lock system that takes number patterns as the key. Done for the course CSE231- Digital Logic Design — — · 0 yıldız
+- [Zahir2004/Association-Rule-Mining--Market-Basket-Analysis-](https://github.com/Zahir2004/Association-Rule-Mining--Market-Basket-Analysis-) — The problem statement is There is no header in the dataset and the first row contains the first transaction, so mentioned header… — Jupyter Notebook · 0 yıldız
+- [Zahirul-sys/hppy-birthdy](https://github.com/Zahirul-sys/hppy-birthdy) — (açıklama yok) — HTML · 0 yıldız
+- [zahmed02/CS2001-Automated-Ticket-Management-System](https://github.com/zahmed02/CS2001-Automated-Ticket-Management-System) — A C++ based software solution for managing service requests through a structured ticketing and agent system. It supports ticket… — C++ · 0 yıldız
+- [ZahraFarooq12/RAG-QA-Chatbot](https://github.com/ZahraFarooq12/RAG-QA-Chatbot) — RAG-based Q&A Chatbot using SentenceTransformers + T5 on SQuAD dataset — Jupyter Notebook · 0 yıldız
+- [ZahraKhademi1997/UF-Robot-ASABE-2024-main](https://github.com/ZahraKhademi1997/UF-Robot-ASABE-2024-main) — (açıklama yok) — — · 0 yıldız
+- [zahramokhtari/LicensePlateManagementSystem](https://github.com/zahramokhtari/LicensePlateManagementSystem) — (açıklama yok) — Java · 0 yıldız
+- [Zahran-AL/CaseFatalityRate_Andes_Virus_Hantavirus](https://github.com/Zahran-AL/CaseFatalityRate_Andes_Virus_Hantavirus) — reggression, uji pytest dan uji latency — Jupyter Notebook · 0 yıldız
+- [Zaid-maker/my-awesome-stars-list](https://github.com/Zaid-maker/my-awesome-stars-list) — Discover hidden gems - a treasure trove of incredible GitHub repositories you won't want to miss. — — · 0 yıldız
+- [zaidalk/CsharpTurbo](https://github.com/zaidalk/CsharpTurbo) — Instagram C# Turbo Source Free WIth Parallel.For loops — — · 0 yıldız
+- [Zaidbichu/Deep_research_agent](https://github.com/Zaidbichu/Deep_research_agent) — A Multi-Agent AI Research System that automates research using four specialized agents: Search, Reader, Writer, and Critic. It… — Python · 0 yıldız
+- [zaidiasim070-code/deadlock-prevention-system](https://github.com/zaidiasim070-code/deadlock-prevention-system) — A Flask-based cybersecurity project implementing the Banker's Algorithm for deadlock prevention with an interactive web interface. — — · 0 yıldız
+- [zaidqaiser/loading-screen---previews](https://github.com/zaidqaiser/loading-screen---previews) — Fivem Loading screen preview for your server. Standalone script work on both esx or qbcore or Vmenu Server — — · 0 yıldız
+- [zaidthebanana/address_book](https://github.com/zaidthebanana/address_book) — yyet skeet — — · 0 yıldız
+- [zaidtihlati/linux-labs](https://github.com/zaidtihlati/linux-labs) — Hands-on Linux labs from my first Cégep session. Covers NFS server configuration, cross-platform file sharing with Samba, and a… — — · 0 yıldız
+- [zaimapc2-max/candy_crush](https://github.com/zaimapc2-max/candy_crush) — 1st Semester Final Project based on the concepts of Programming Fundamentals which allows the user to save first 10 high scores,… — — · 0 yıldız
+- [Zain4999/Covid_exploration](https://github.com/Zain4999/Covid_exploration) — An exploration of Covid-19 data including deaths in the UK, percentage of population affected, case fatality rate and… — Jupyter Notebook · 0 yıldız
+- [Zainab2801/HTML-CSS-Cheat-sheet](https://github.com/Zainab2801/HTML-CSS-Cheat-sheet) — A beginner-friendly HTML & CSS cheat sheet with essential tags, attributes, and CSS properties, perfect for quick lookups while… — HTML · 0 yıldız
+- [zainab893/PYTHON-advance-cheat-sheet](https://github.com/zainab893/PYTHON-advance-cheat-sheet) — (açıklama yok) — Jupyter Notebook · 0 yıldız
+- [zainab893/Python-Cheat-Sheet-Basic-](https://github.com/zainab893/Python-Cheat-Sheet-Basic-) — (açıklama yok) — Jupyter Notebook · 0 yıldız
+- [Zainabbas5/-C-program-to-convert-numbers-into-binary-octal-decimal-and-hexadecimal.-](https://github.com/Zainabbas5/-C-program-to-convert-numbers-into-binary-octal-decimal-and-hexadecimal.-) — A menu-based C++ program to convert numbers into binary, octal, decimal, and hexadecimal. — C++ · 0 yıldız
+- [zainabidrees1234/ShoppyKart-Store-Frontend](https://github.com/zainabidrees1234/ShoppyKart-Store-Frontend) — (açıklama yok) — CSS · 0 yıldız
+- [zainabkarim6/Smart-Room-System](https://github.com/zainabkarim6/Smart-Room-System) — Smart Room Management System in C++ using OOP. Manage devices by adding, toggling ON/OFF, and adjusting brightness. Demonstrates… — — · 0 yıldız
+- [zainahmadlums/LoadingScreenMainMenuRoblox](https://github.com/zainahmadlums/LoadingScreenMainMenuRoblox) — (açıklama yok) — Lua · 0 yıldız
+- [zainal-ilmi/Simple-Food-Ordering-System-Using-cpp](https://github.com/zainal-ilmi/Simple-Food-Ordering-System-Using-cpp) — A console-based food ordering system in C++. Supports adding, editing, deleting, and viewing menu items using linked lists. Users… — C++ · 0 yıldız
+- [zainarif00456/C-Restaurant-E-Menu-Semester-02](https://github.com/zainarif00456/C-Restaurant-E-Menu-Semester-02) — This project is based on the concepts of OOP in C++. Project Title: Restaurant E-Menu Mark V — C++ · 0 yıldız
+- [zainarif00456/C-Restaurant-Menu-Semester-01](https://github.com/zainarif00456/C-Restaurant-Menu-Semester-01) — This is the first semester final project of C++ programming. Project Title: Restaurant E-Menu — C++ · 0 yıldız
+- [Zainebridene00/E-keys-Smart-vehicle-rental](https://github.com/Zainebridene00/E-keys-Smart-vehicle-rental) — Ce projet consiste à concevoir et développer une application mobile permettant de localiser les voitures à allouer et un système… — — · 0 yıldız
+- [Zainebridene00/E-keys-Smart-Vehicle-Rental-](https://github.com/Zainebridene00/E-keys-Smart-Vehicle-Rental-) — Ce projet consiste à concevoir et développer une application mobile permettant de localiser les voitures à allouer et un système… — Java · 0 yıldız
+- [zaingk/calculator](https://github.com/zaingk/calculator) — CALCULATE SOLAR INVERTER AND THE NUMBER OF SOLAR PANELS NEEDED FOR A SPECIFIC LOAD — Python · 0 yıldız
+- [zainKhanGit1/AppInfraPipeline](https://github.com/zainKhanGit1/AppInfraPipeline) — AWS infrastructure deployed in eu-west-1 (Ireland) using Terraform. It includes a VPC (11.0.0.0/16) with a public subnet hosting… — HCL · 0 yıldız
+- [zainKhushall/primordial](https://github.com/zainKhushall/primordial) — Primordial Sea is Node.js-based artificial life observatory simulating origin-of-life evolution in an early Earth land and ocean.… — JavaScript · 0 yıldız
+- [ZAINmc86/AXI_2_APB_bridge_verification](https://github.com/ZAINmc86/AXI_2_APB_bridge_verification) — UVM-based verification environment for an AXI-to-APB bridge RTL design. Includes complete testbench, interface agents… — SystemVerilog · 0 yıldız
+- [zainmorshed/child_transportation_injuries_and_fatalities_analysis](https://github.com/zainmorshed/child_transportation_injuries_and_fatalities_analysis) — I conducted a comprehensive analysis of active transportation injuries and fatalities to children in Houston from 2018-2023,… — Jupyter Notebook · 0 yıldız
+- [zainmustafai/shoppytg](https://github.com/zainmustafai/shoppytg) — (açıklama yok) — JavaScript · 0 yıldız
+- [zainn021/OneTap-ads](https://github.com/zainn021/OneTap-ads) — For OneTap ads.txt — — · 0 yıldız
+- [zainn021/zainn021.github.io](https://github.com/zainn021/zainn021.github.io) — For OneTap ads.txt — — · 0 yıldız
+- [ZakaCyber707/Hostel_Order_System.cpp](https://github.com/ZakaCyber707/Hostel_Order_System.cpp) — A C++ console-based order management system for a hostel store, featuring a numeric menu selection and structured price… — C++ · 0 yıldız
+- [zakariae14/Youtube-comments-pipeline](https://github.com/zakariae14/Youtube-comments-pipeline) — build a pipeline to extract youtube comments and load them to mysql database — Python · 0 yıldız
+- [zakarlyya/mta](https://github.com/zakarlyya/mta) — macOS menu bar countdown for NYC subway arrivals — Swift · 0 yıldız
+- [ZAKAT1337sss/cs2cheat](https://github.com/ZAKAT1337sss/cs2cheat) — (açıklama yok) — C++ · 0 yıldız
+- [ZakhAHAHAHhahaharov/BRUTAN_MATH](https://github.com/ZakhAHAHAHhahaharov/BRUTAN_MATH) — A) — Python · 0 yıldız
+- [ZakhAHAHAHhahaharov/Brutan_PPN_checked](https://github.com/ZakhAHAHAHhahaharov/Brutan_PPN_checked) — ura — HTML · 0 yıldız
+- [zakheav/query_expansion](https://github.com/zakheav/query_expansion) — a query expansion system, input a key word, return related key words — Java · 0 yıldız
+- [Zaki-Tahir/transitpulse](https://github.com/Zaki-Tahir/transitpulse) — Every NYC subway train live on a map: GTFS-realtime ingestion, position estimates, WebSocket deltas. FastAPI, PostGIS, Redis,… — Python · 0 yıldız
+- [ZAKI1905/DMSS](https://github.com/ZAKI1905/DMSS) — This package calculates the exposure of the satellites to the Sun, evaluates the time dependent dark matter cosmic ray signals… — C++ · 0 yıldız
+- [zaki21243/tools-hackfb](https://github.com/zaki21243/tools-hackfb) — (açıklama yok) — Shell · 0 yıldız
+- [Zaki4v/moddle-pid](https://github.com/Zaki4v/moddle-pid) — it's an ai moddle created,trainned and performed by me to tune and calibrate pid easier adnsmoth but this is not the final… — Python · 0 yıldız
+- [zakia/reconbolt](https://github.com/zakia/reconbolt) — Alt-Tab guide for Valorant Sova Arrows — JavaScript · 0 yıldız
+- [zakicals/John-Roblox](https://github.com/zakicals/John-Roblox) — source code — — · 0 yıldız
+- [ZakiOmer22/mobile_next_to_do_app](https://github.com/ZakiOmer22/mobile_next_to_do_app) — A Flutter-based mobile To-Do List app integrated with Supabase. Features include: User authentication (sign up/sign in) Task… — Dart · 0 yıldız
+- [Zakkery0908/FinalYearProject-SwiftQuiz](https://github.com/Zakkery0908/FinalYearProject-SwiftQuiz) — The project is my Final Year Project in XJTLU-SwiftQuiz development based on Moodle — — · 0 yıldız
+- [zakkie/EspNvsSample](https://github.com/zakkie/EspNvsSample) — (açıklama yok) — C · 0 yıldız
+- [zakomayo/Data-Integration-and-Reshaping](https://github.com/zakomayo/Data-Integration-and-Reshaping) — We have two tasks in this project. Firstly, we have to integrate data from various sources and create a specified final schema as… — Jupyter Notebook · 0 yıldız
+- [zalefin/ncurses-loadbar](https://github.com/zalefin/ncurses-loadbar) — A loading bar for ncurses in C — C · 0 yıldız
+- [Zaman304/Final_Paper](https://github.com/Zaman304/Final_Paper) — This Repo holds the source code for my final thesis — — · 0 yıldız
+- [zamanayaz/langchain-agents-cheatsheet](https://github.com/zamanayaz/langchain-agents-cheatsheet) — Langchain Cheat Sheet for Quick Review and Usage. — Jupyter Notebook · 0 yıldız
+- [zambare1998/Telecom_Churn_Prediction_Internal_Submission_Kalpesh_Zambare](https://github.com/zambare1998/Telecom_Churn_Prediction_Internal_Submission_Kalpesh_Zambare) — Solution file - This Jupyter notebook will contain the overall solution that you have created for the given problem statement. It… — Jupyter Notebook · 0 yıldız
+- [zammili/gta6-trophy-guide](https://github.com/zammili/gta6-trophy-guide) — Leonida Ledger — an offline web app guide and tracker for all 55 GTA VI PlayStation 5 trophies: checklist saved in your browser,… — JavaScript · 0 yıldız
+- [zammul/SourceCode-Enkripsi-Dekripsi-Menggunakan-Kunci-Geser](https://github.com/zammul/SourceCode-Enkripsi-Dekripsi-Menggunakan-Kunci-Geser) — import java.io.*; //mengimport funsi yang digunakan untuk input output import javax.swing.*; //mengimport fungsi yang di gunakan… — — · 0 yıldız
+- [ZAN-Tech-bd/Thingspeak_ESP32_Sample](https://github.com/ZAN-Tech-bd/Thingspeak_ESP32_Sample) — (açıklama yok) — C++ · 0 yıldız
+- [Zana172704/tobacco-use-mortality](https://github.com/Zana172704/tobacco-use-mortality) — Analysis of hospital admissions, prescriptions, and fatalities in England. — Jupyter Notebook · 0 yıldız
+- [Zanaylo/UNI2-Improvement-Mod](https://github.com/Zanaylo/UNI2-Improvement-Mod) — As vezes eu penso se é o certo. — — · 0 yıldız
+- [Zanci19/SifuCoop](https://github.com/Zanci19/SifuCoop) — Sifu Online Multiplayer Mod — — · 0 yıldız
+- [zanda8893/PAM-Remote-Authorisation](https://github.com/zanda8893/PAM-Remote-Authorisation) — The PAM Remote Authorization project facilitates execution of sudo commands by leveraging a Discord bot for remote authorization. — Python · 0 yıldız
+- [ZanderA2030/Personal_Finance_Tracker](https://github.com/ZanderA2030/Personal_Finance_Tracker) — A personal finance tracker that can add, remove, save, load and display data about your expenses. Made in entirely C++. — C++ · 0 yıldız
+- [zanebookbinder/Global-PassStore](https://github.com/zanebookbinder/Global-PassStore) — A Distributed System that stores passwords by breaking them up into chunks and storing each chunk on a different machine. Employs… — Python · 0 yıldız
+- [Zanehisako/RPG](https://github.com/Zanehisako/RPG) — (açıklama yok) — — · 0 yıldız
+- [zanew/KeyBindings](https://github.com/zanew/KeyBindings) — Emacs-like keybindings for the cocoa text system — — · 0 yıldız
+- [Zangetsu6793/SoloLevelingCheatV2](https://github.com/Zangetsu6793/SoloLevelingCheatV2) — (açıklama yok) — — · 0 yıldız
+- [zanhim58/rdr2-menu](https://github.com/zanhim58/rdr2-menu) — (açıklama yok) — — · 0 yıldız
+- [zaniluca/fisica-tecnica-cheatsheet](https://github.com/zaniluca/fisica-tecnica-cheatsheet) — Cheatsheet del corso di Fisica Tecnica per MSc in Computer Engineering @ Polimi (A.Y. 2024-2025). — TeX · 0 yıldız
+- [zanncdwbl/Source-Mapping](https://github.com/zanncdwbl/Source-Mapping) — Collection of all the tools/projects/tf2 related files used while creating my maps, heavily disorganized but localised now — Valve Data Format · 0 yıldız
+- [zanppa/radio_hack](https://github.com/zanppa/radio_hack) — Tools used for trying to modify a KT0922 based radio to receive weather satellites — C · 0 yıldız
+- [zanzo420/DeadByDaylight-SDK](https://github.com/zanzo420/DeadByDaylight-SDK) — (açıklama yok) — C++ · 0 yıldız
+- [zanzo420/Pasting.win-Old-SpellBreak](https://github.com/zanzo420/Pasting.win-Old-SpellBreak) — (açıklama yok) — — · 0 yıldız
+- [zanzo420/Source-R6-Modified](https://github.com/zanzo420/Source-R6-Modified) — (açıklama yok) — — · 0 yıldız
+- [ZapDragon/Hykkota-Launcher](https://github.com/ZapDragon/Hykkota-Launcher) — Open Source Minecraft Launcher — — · 0 yıldız
+- [Zaph123/medussa-snake-miniapp](https://github.com/Zaph123/medussa-snake-miniapp) — Medussa Miniapp is a neon-styled retro Snake game for the Farcaster ecosystem. It features smooth gameplay, responsive controls,… — TypeScript · 0 yıldız
+- [Zaphodious/EssentialSorcery](https://github.com/Zaphodious/EssentialSorcery) — Open-Source Casting for Minecraft — Java · 0 yıldız
+- [ZaPpi3/gravitational-wave-blue-tilt](https://github.com/ZaPpi3/gravitational-wave-blue-tilt) — Analytical derivations and tensor perturbation tracking pipelines demonstrating the organic generation of a highly blue-tilted… — Python · 0 yıldız
+- [zapuis/HTML---CSS-Course](https://github.com/zapuis/HTML---CSS-Course) — Cheat Sheet — HTML · 0 yıldız
+- [zararbinakram/AI-ML-internship-task-2](https://github.com/zararbinakram/AI-ML-internship-task-2) — This project predicts the next day’s stock closing price using historical data from Yahoo Finance. Features like Open, High, Low,… — — · 0 yıldız
+- [Zarasuto/Random_Forest_Fake_News_Detection](https://github.com/Zarasuto/Random_Forest_Fake_News_Detection) — A Thesis about detecting fake news based on the linguistic features of the article using AI — Python · 0 yıldız
+- [Zarathustra-Forge/primordial](https://github.com/Zarathustra-Forge/primordial) — In collaboration with: https://github.com/Joona-t/primordial — — · 0 yıldız
+- [zarco98/Alura-Oracle_Conceptos_Primordiales](https://github.com/zarco98/Alura-Oracle_Conceptos_Primordiales) — Activities solved through Lógica de Programación: Conceptos Primordiales (Programming Logic: Fundamental Concepts) Course. — HTML · 0 yıldız
+- [zardan4/cs201-hackathon](https://github.com/zardan4/cs201-hackathon) — (açıklama yok) — Python · 0 yıldız
+- [Zardar/pimmarket](https://github.com/Zardar/pimmarket) — market based on pim from openperipheras for opencomputers — Lua · 0 yıldız
+- [Zardian18/GridBox-Shooter](https://github.com/Zardian18/GridBox-Shooter) — Based off the map ASCEND from valorant — C# · 0 yıldız
+- [zardoy/dimaka.love](https://github.com/zardoy/dimaka.love) — Source for dimaka.love site. Minecraft replacement with modern API for modding and blazing performance — TypeScript · 0 yıldız
+- [ZarenFW/Lumens](https://github.com/ZarenFW/Lumens) — Solar power based mod for Minecraft — Java · 0 yıldız
+- [zarfmouse/zweather_data](https://github.com/zarfmouse/zweather_data) — Just some hacked up tools for grabbing weather data and computing some statistics. — Perl · 0 yıldız
+- [Zargham012/Forest-Cover-Type-Classification](https://github.com/Zargham012/Forest-Cover-Type-Classification) — The goal of is to build a multi-class classification model that predicts the type of forest cover for a patch of land based on… — Python · 0 yıldız
+- [Zari-16/PythonCheatSheet](https://github.com/Zari-16/PythonCheatSheet) — for personal use — HTML · 0 yıldız
+- [zariatur/hpp](https://github.com/zariatur/hpp) — (açıklama yok) — — · 0 yıldız
+- [Zarkana/friend-address-book-1](https://github.com/Zarkana/friend-address-book-1) — A CLI written in C that allows users to interact with a linked list ADT. The application saves and loads from a .txt file. — C · 0 yıldız
+- [zarkey1/ColdWarOffsets](https://github.com/zarkey1/ColdWarOffsets) — (açıklama yok) — — · 0 yıldız
+- [ZarkosCypher/Cisco-Switches-Routers-Cheat-Sheet](https://github.com/ZarkosCypher/Cisco-Switches-Routers-Cheat-Sheet) — Here I am going to post my Cisco Router and Switch cheet sheet I created throughout my Associates Degree — — · 0 yıldız
+- [ZarkosCypher/Programing-Cheat-Sheets](https://github.com/ZarkosCypher/Programing-Cheat-Sheets) — This is a repository for me to post a cheat sheets for any programing languages i remeber to upload — — · 0 yıldız
+- [Zarnaken/Zarnaken](https://github.com/Zarnaken/Zarnaken) — My personal repository of primordial soup — — · 0 yıldız
+- [ZaroDev/SDL2ImGuiTemplate](https://github.com/ZaroDev/SDL2ImGuiTemplate) — (açıklama yok) — — · 0 yıldız
+- [ZaroDev/WiwaEngine2](https://github.com/ZaroDev/WiwaEngine2) — (açıklama yok) — — · 0 yıldız
+- [zarr1n/Full-subtractor](https://github.com/zarr1n/Full-subtractor) — C program that simulates a full subtractor by taking 3-bit binary or hexadecimal input and computing the difference and… — — · 0 yıldız
+- [zarr1n/Quiz-Game](https://github.com/zarr1n/Quiz-Game) — C programming quiz game with a menu system that lets users start a quiz, view high scores, or quit. The game loads questions from… — C · 0 yıldız
+- [Zaryob/execmap](https://github.com/Zaryob/execmap) — Explore Linux ELF loading, linking, binary analysis, and runtime tracing through source-backed guides and hands-on C/GDB labs. — JavaScript · 0 yıldız
+- [Zas258/crimson-edge-official](https://github.com/Zas258/crimson-edge-official) — Official website for Crimson Edge / 红限 — CSS · 0 yıldız
+- [zasiokjinafer/little-vue-cheatsheet](https://github.com/zasiokjinafer/little-vue-cheatsheet) — Handy scripts for everyday tasks. — — · 0 yıldız
+- [ZasmLabs/frappe-cheat-sheet](https://github.com/ZasmLabs/frappe-cheat-sheet) — (açıklama yok) — Shell · 0 yıldız
+- [Zaura-Digital/zaura-digital.github.io](https://github.com/Zaura-Digital/zaura-digital.github.io) — Zaura Digital website: NBA Cheat Sheets landing page — HTML · 0 yıldız
+- [Zaurak/Lab-OperatingSystem](https://github.com/Zaurak/Lab-OperatingSystem) — Ce dépôt contient les sources du rapport répondant aux questions des Travaux Pratiques/Dirigés du cours de système d'exploitation… — C · 0 yıldız
+- [Zaurry/3drenderer](https://github.com/Zaurry/3drenderer) — (açıklama yok) — — · 0 yıldız
+- [zavierxu/CSGO-SDK](https://github.com/zavierxu/CSGO-SDK) — CSGO SDK — C++ · 0 yıldız
+- [zawjen/ds-lisan-ul-arab-qum-1405h-hawza](https://github.com/zawjen/ds-lisan-ul-arab-qum-1405h-hawza) — لسان العرب (Lisan al-Arab) by ابن منظور (Ibn Manzur) — — · 0 yıldız
+- [ZawMinHtwe383/html-cheatsheet](https://github.com/ZawMinHtwe383/html-cheatsheet) — ပြန်ကြည့်ရင် လေ့လာရ လွယ်ကူစေရန် — HTML · 0 yıldız
+- [zaxarik81/oop_cheatsheet](https://github.com/zaxarik81/oop_cheatsheet) — Проект для тренировки навыков по пайтону. — Python · 0 yıldız
+- [zaxe3d/xdesktopv3](https://github.com/zaxe3d/xdesktopv3) — new XDesktop based on PrusaSlicer — — · 0 yıldız
+- [Zaxil1300/The-Rail-Shooter](https://github.com/Zaxil1300/The-Rail-Shooter) — (açıklama yok) — — · 0 yıldız
+- [zay1br/hppy-birthday-chaima](https://github.com/zay1br/hppy-birthday-chaima) — (açıklama yok) — HTML · 0 yıldız
+- [Zayd-Waves/stylish-blocks-mod](https://github.com/Zayd-Waves/stylish-blocks-mod) — Source code for my Stylish Blocks Minecraft mod. — Java · 0 yıldız
+- [zaydenholloway/cheat-sheets](https://github.com/zaydenholloway/cheat-sheets) — This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various… — — · 0 yıldız
+- [zaydiscold/TUI-cheat-sheet](https://github.com/zaydiscold/TUI-cheat-sheet) — A cheat sheet for makng my TUIs nicer — — · 0 yıldız
+- [zaynisthatu/cpp-apps](https://github.com/zaynisthatu/cpp-apps) — Four console C++ programs from early C++ practice in 2022: a menu-driven bank program in two versions, a phone bill calculator… — C++ · 0 yıldız
+- [ZaySec/Tool_Cheatsheets](https://github.com/ZaySec/Tool_Cheatsheets) — Useful commands I have written down — — · 0 yıldız
+- [Zaytho/FiveM_Menus](https://github.com/Zaytho/FiveM_Menus) — (açıklama yok) — — · 0 yıldız
+- [zaz-zy/rbx-linux-runtime](https://github.com/zaz-zy/rbx-linux-runtime) — Unofficial Wine-based compatibility research for Roblox on Linux. Not affiliated with Roblox Corporation. — Shell · 0 yıldız
+- [zaze06/GridCraft](https://github.com/zaze06/GridCraft) — GridCraft, a fun little click game originally based on Minecraft — — · 0 yıldız
+- [ZAziz1132132/neverloseloader](https://github.com/ZAziz1132132/neverloseloader) — (açıklama yok) — — · 0 yıldız
+- [zazralt/cheat-sheet](https://github.com/zazralt/cheat-sheet) — A collection of personal cheat sheets for the lookup of different code snippets. — — · 0 yıldız
+- [zbcrowe-22/Nmap-Cheatsheet](https://github.com/zbcrowe-22/Nmap-Cheatsheet) — Quick-reference for Nmap installation, timing knobs, NSE scripts, and output parsing. — — · 0 yıldız
+- [zbdpay/DeviceCheckIOS](https://github.com/zbdpay/DeviceCheckIOS) — (açıklama yok) — — · 0 yıldız
+- [Zbinden04/Ethics-Final-Project](https://github.com/Zbinden04/Ethics-Final-Project) — Contains the code for our website design for our final project about the ethics surrounding Workers and Copyrighted material… — HTML · 0 yıldız
+- [zbirkovsky/dayz_ESP32_Waveshare_playerstracker](https://github.com/zbirkovsky/dayz_ESP32_Waveshare_playerstracker) — (açıklama yok) — C · 0 yıldız
+- [zblwtf/GTAIVHack](https://github.com/zblwtf/GTAIVHack) — (açıklama yok) — — · 0 yıldız
+- [zbowman1994/sportsSimulator](https://github.com/zbowman1994/sportsSimulator) — A text-based simulator that outputs the final score of a simulated sports game — Python · 0 yıldız
+- [ZBr14n/A-Z-Word-Lookup](https://github.com/ZBr14n/A-Z-Word-Lookup) — This web application works like a cheatsheet system where users can contribute to key words and defining the meaning, which will… — PHP · 0 yıldız
+- [zbrzhdrcwb/hvhc](https://github.com/zbrzhdrcwb/hvhc) — content — — · 0 yıldız
+- [zc-staff/shs-dayz](https://github.com/zc-staff/shs-dayz) — An galgame based on SHS created by Z.C. Staff. — Ruby · 0 yıldız · arşiv
+- [zcanic/matlab_cheatsheet](https://github.com/zcanic/matlab_cheatsheet) — matlab_cheatsheet_karma — TypeScript · 0 yıldız
+- [zcharo99/fractal](https://github.com/zcharo99/fractal) — open source script for a lot of roblox games — Lua · 0 yıldız
+- [zchen654/CS3213-HW1](https://github.com/zchen654/CS3213-HW1) — Key Word In Context index system — Java · 0 yıldız
+- [zchisholm/customer-churn](https://github.com/zchisholm/customer-churn) — This project builds an end-to-end pipeline for customer churn prediction, covering data loading, cleaning, training five ML… — Jupyter Notebook · 0 yıldız
+- [zcindy22/iterum](https://github.com/zcindy22/iterum) — A text-based adventure game in C++ made with @raddina24 as the final project for intro to Computing. — — · 0 yıldız
+- [Zckyy/Blazeblox](https://github.com/Zckyy/Blazeblox) — (açıklama yok) — — · 0 yıldız
+- [zcorn2017/cheatsheets](https://github.com/zcorn2017/cheatsheets) — An incomplete collection of my cheatsheets for UIUC/ CUHK-Shenzhen — Typst · 0 yıldız
+- [zcrwind/ARC](https://github.com/zcrwind/ARC) — A campus web app based on Django and Bootstrap, which is the final project of my undergraduate database course in NPU. — JavaScript · 0 yıldız
+- [zculp6/Guardians-Attendance-Predictor](https://github.com/zculp6/Guardians-Attendance-Predictor) — I currently work part-time for the Cleveland Guardians and we receive a game "cheat sheet" in the meetings before. We always like… — Python · 0 yıldız
+- [Zcxq/MW2-LUCiD-SOURCE](https://github.com/Zcxq/MW2-LUCiD-SOURCE) — (açıklama yok) — — · 0 yıldız
+- [zdari23/KnowledgeSiege](https://github.com/zdari23/KnowledgeSiege) — This is a game I developed for my Java course. Knowledge Siege is a desktop game built with Java Swing/AWT (GUI + event handling)… — Java · 0 yıldız
+- [Zdscsf/Protected_Key-System---Arsenal](https://github.com/Zdscsf/Protected_Key-System---Arsenal) — (açıklama yok) — — · 0 yıldız
+- [Zdscsf/Protected_Key-System---Kat](https://github.com/Zdscsf/Protected_Key-System---Kat) — (açıklama yok) — — · 0 yıldız
+- [Ze-Chr0ME/phasmophobia-cheat-sheet](https://github.com/Ze-Chr0ME/phasmophobia-cheat-sheet) — Question-based ghost identification for Phasmophobia — weighted scoring for low/no-evidence runs — JavaScript · 0 yıldız
+- [Ze-Limao/CG-Project](https://github.com/Ze-Limao/CG-Project) — (açıklama yok) — — · 0 yıldız
+- [zeakrold/gmodloading](https://github.com/zeakrold/gmodloading) — 1942rp Loading Screen — — · 0 yıldız
+- [Zeal-L/CLOC](https://github.com/Zeal-L/CLOC) — Count Lines of Code 代码行数统计⼯具 — — · 0 yıldız
+- [zealottormunds/ns4moddingapi](https://github.com/zealottormunds/ns4moddingapi) — Naruto: Storm 4 - Modding API by Zealot Tormunds — — · 0 yıldız
+- [ZEB1405/C-sharp-collections-cheat-sheet](https://github.com/ZEB1405/C-sharp-collections-cheat-sheet) — (açıklama yok) — C# · 0 yıldız
+- [zebeal5/hvha](https://github.com/zebeal5/hvha) — content — — · 0 yıldız
+- [zebedelu/SeedFinder](https://github.com/zebedelu/SeedFinder) — Minecraft Bedrock & Java, structure finder API & seed cracker - find structures from a world seed or discover seed with… — — · 0 yıldız
+- [Zeboo99/gta6-trophy-guide-01](https://github.com/Zeboo99/gta6-trophy-guide-01) — Sunset Ledger: an offline web app that guides and tracks all 55 GTA VI PlayStation 5 trophies, with saved progress, filters and a… — JavaScript · 0 yıldız
+- [zebr1/apg-cheat-sheets](https://github.com/zebr1/apg-cheat-sheets) — (açıklama yok) — — · 0 yıldız
+- [ZechariahWang/CS20-AP_Assignments](https://github.com/ZechariahWang/CS20-AP_Assignments) — All CS20-AP Mastery Project source code at Lord Beaverbrook High School. — Java · 0 yıldız
+- [Zecharian/PrometheaLauncher](https://github.com/Zecharian/PrometheaLauncher) — Minecraft launcher based off FTB Launch for Promethea minecraft server. — Java · 0 yıldız
+- [zed-0xff/ZBMacOSHideMenuBar](https://github.com/zed-0xff/ZBMacOSHideMenuBar) — fix Project Zomboid borderless windowed mode still showing OSX menu bar — Java · 0 yıldız
+- [zed-code-repo/zed.kati.webapp.model.async.image.lazy](https://github.com/zed-code-repo/zed.kati.webapp.model.async.image.lazy) — Lazy load image, thus avoir memory overload — — · 0 yıldız
+- [zed201shadow/mta-sts.hackerone.com](https://github.com/zed201shadow/mta-sts.hackerone.com) — (açıklama yok) — — · 0 yıldız
+- [zedithx/mobilelegendwebscraper](https://github.com/zedithx/mobilelegendwebscraper) — Webscraping to generate insights on the best Mobile Legend Team compositions based on recent tournaments in Indonesia and… — Python · 0 yıldız
+- [zedxot/nmutt-cheatsheet](https://github.com/zedxot/nmutt-cheatsheet) — A comprehensive cheatsheet for NeoMutt, configured with Luke's mutt-wizard. — HTML · 0 yıldız
+- [zee2ex2/SC-Community-SHOWER](https://github.com/zee2ex2/SC-Community-SHOWER) — Org-based server for community inventory and commodity orders. Auths via Discord. Connects with PITS. — Python · 0 yıldız
+- [zeehyt/game-tracker-emitter](https://github.com/zeehyt/game-tracker-emitter) — An Event-based system to track Roblox players without having access to the servers they may join. — JavaScript · 0 yıldız
+- [zeekayzeekay/hacker-news-clone-improved](https://github.com/zeekayzeekay/hacker-news-clone-improved) — An infinitely loading basic hacker news clone using Hacker News API — JavaScript · 0 yıldız
+- [ZeekDaGeek/worldworldpack](https://github.com/ZeekDaGeek/worldworldpack) — Minecraft 1.7.10 modpack based around dimensions and tech. — JavaScript · 0 yıldız
+- [zeelsheth94/subscription_system](https://github.com/zeelsheth94/subscription_system) — (açıklama yok) — HTML · 0 yıldız
+- [zeemohamed7/ga-dev-cheat-sheet](https://github.com/zeemohamed7/ga-dev-cheat-sheet) — (açıklama yok) — — · 0 yıldız
+- [zeerbo/ShoppyHome](https://github.com/zeerbo/ShoppyHome) — (açıklama yok) — C# · 0 yıldız
+- [zeeropoooint/git-cheatsheet](https://github.com/zeeropoooint/git-cheatsheet) — Git 协同开发教学项目 — — · 0 yıldız
+- [Zeeshan-Khan1/Surge-UMT-Hackathon-CampusConnect](https://github.com/Zeeshan-Khan1/Surge-UMT-Hackathon-CampusConnect) — Surge-UMT-25-WebDev This repository contains the source code for the Surge-UMT-25 web development project, built as part of the… — JavaScript · 0 yıldız
+- [Zeeshan138063/pandas-learning-journal](https://github.com/Zeeshan138063/pandas-learning-journal) — My personal log of pandas learning – cheat sheets, exercises, examples, and key takeaways. — Jupyter Notebook · 0 yıldız
+- [Zeeshan88c/APB_VIP](https://github.com/Zeeshan88c/APB_VIP) — UVM-based APB Verification IP with a master environment and a Verilog APB slave supporting configurable PREADY delay. — SystemVerilog · 0 yıldız
+- [zeeshank1/devops-commands-cheatsheet](https://github.com/zeeshank1/devops-commands-cheatsheet) — A curated collection of essential commands for various technologies and tools. — Batchfile · 0 yıldız
+- [ZeeshanKay/Smart-India-Hackathon---GIS-Tool](https://github.com/ZeeshanKay/Smart-India-Hackathon---GIS-Tool) — (açıklama yok) — — · 0 yıldız
+- [ZeeshanKeyani/Cybersecurity-Cheat-Sheets](https://github.com/ZeeshanKeyani/Cybersecurity-Cheat-Sheets) — (açıklama yok) — — · 0 yıldız
+- [ZeeZee2Real/GainFN-New-Src-Driverless-](https://github.com/ZeeZee2Real/GainFN-New-Src-Driverless-) — GainFN New Src (Driverless) — — · 0 yıldız
+- [zeezo679/Docker-CheatSheets](https://github.com/zeezo679/Docker-CheatSheets) — Cheat sheets for docker — — · 0 yıldız
+- [Zefearr/locktraker](https://github.com/Zefearr/locktraker) — webpage with deadlock statistics based on free api — TypeScript · 0 yıldız
+- [zeffiroh/ap-bio-cheatsheets](https://github.com/zeffiroh/ap-bio-cheatsheets) — cheat sheets, ap bio — HTML · 0 yıldız
+- [ZehelFenris/PoE-cheat-sheet](https://github.com/ZehelFenris/PoE-cheat-sheet) — (açıklama yok) — HTML · 0 yıldız
+- [zehir1345/LisansWebUygulamasi](https://github.com/zehir1345/LisansWebUygulamasi) — (açıklama yok) — C# · 0 yıldız
+- [ZehraSimsek/AdminPanelAuthorization](https://github.com/ZehraSimsek/AdminPanelAuthorization) — (açıklama yok) — C# · 0 yıldız
+- [zehuiyin/bike_theft_and_police_stations](https://github.com/zehuiyin/bike_theft_and_police_stations) — SOCC70 Final Project R source code — JavaScript · 0 yıldız
+- [zeichenreihe/cheateroo](https://github.com/zeichenreihe/cheateroo) — A "cheaty" client-side Minecraft mod that adds various features. — Java · 0 yıldız
+- [ZeinabMahmoud7/Dish-web-Page](https://github.com/ZeinabMahmoud7/Dish-web-Page) — "A modern and responsive landing page for **Dish** restaurant, featuring chefs, menu, gallery, and contact options, with dark… — CSS · 0 yıldız
+- [ZeinabSav/-linux-git-cheat-sheet](https://github.com/ZeinabSav/-linux-git-cheat-sheet) — (açıklama yok) — — · 0 yıldız
+- [zeinos896-jpg/c-base](https://github.com/zeinos896-jpg/c-base) — (açıklama yok) — — · 0 yıldız
+- [zeinxq/zeinloading](https://github.com/zeinxq/zeinloading) — fivem loading screen. — CSS · 0 yıldız
+- [ZeithComms/Telebeacons](https://github.com/ZeithComms/Telebeacons) — Beacon-based teleportation network in Minecraft! — Java · 0 yıldız
+- [Zejnilovic/vim-cheatsheet](https://github.com/Zejnilovic/vim-cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [Zeke-Buckholz/RTD-LED-Map](https://github.com/Zeke-Buckholz/RTD-LED-Map) — Spring 2026 CSCI 3515: IoT, Final Project. Using a ESP8266 to connect LEDs that light up on a map of the RTD system when an RTD… — — · 0 yıldız
+- [Zekima/MinePay](https://github.com/Zekima/MinePay) — Free and open-source store for Minecraft servers. Simplify donations and boost server support with customizable features. — TypeScript · 0 yıldız
+- [zekkontro/valorant-api-flutter-sdk](https://github.com/zekkontro/valorant-api-flutter-sdk) — (açıklama yok) — Dart · 0 yıldız
+- [ZekNikZ/SchoolsOfMagic](https://github.com/ZekNikZ/SchoolsOfMagic) — A progression-based magic mod for Minecraft. — Java · 0 yıldız
+- [Zeldaboy14/Srcbox-LEGACY-](https://github.com/Zeldaboy14/Srcbox-LEGACY-) — Srcbox is a open-sourced SDK 2013 SP project, aimed at being a Gmod 10+ — C++ · 0 yıldız
+- [Zeldaboy14/TF2_Menu](https://github.com/Zeldaboy14/TF2_Menu) — Old Menu + Ahud configurations that i use — ReScript · 0 yıldız
+- [ZeldaWWHDRecomp/ZeldaWWHDRecomp](https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp) — Zelda Wind Waker HD Recomp — — · 0 yıldız
+- [Zeldorb456/OpenSourceFinal_Xander](https://github.com/Zeldorb456/OpenSourceFinal_Xander) — My final for open source programming, doing the booking website option — TypeScript · 0 yıldız
+- [Zelex/jo_clojure](https://github.com/Zelex/jo_clojure) — Fast Embeddable Clojure in C/C++ — — · 0 yıldız
+- [ZelionGG/AdiBags_PrimordialStones](https://github.com/ZelionGG/AdiBags_PrimordialStones) — (açıklama yok) — Lua · 0 yıldız · arşiv
+- [Zellith/Armalla](https://github.com/Zellith/Armalla) — Text Based Game for Java OOP — Java · 0 yıldız
+- [ZellNguyen/Key-Detection](https://github.com/ZellNguyen/Key-Detection) — The system that automatically detects the musical key of an recorded vocal input. — Java · 0 yıldız
+- [Zellno/ZellnoGlobalChat](https://github.com/Zellno/ZellnoGlobalChat) — Open source DayZ mod adding secure server-wide Global Chat while preserving vanilla Vicinity Chat. — C · 0 yıldız
+- [Zellno/ZellnoLoadingScreen](https://github.com/Zellno/ZellnoLoadingScreen) — Original custom loading screen for Zellno DayZ Server Full PvE — Shell · 0 yıldız
+- [zempix/vanta-fortnite-source](https://github.com/zempix/vanta-fortnite-source) — contact me if you are looking for a dev or sources to purchase — — · 0 yıldız
+- [zena48520-droid/NeverLose](https://github.com/zena48520-droid/NeverLose) — (açıklama yok) — Lua · 0 yıldız
+- [ZenarchistCode/ZenBookshelf](https://github.com/ZenarchistCode/ZenBookshelf) — DayZ SA Mod: ZenBookshelf Source Code — C++ · 0 yıldız
+- [ZenarchistCode/ZenChristmasTree](https://github.com/ZenarchistCode/ZenChristmasTree) — DayZ SA Mod: ZenMap Source Code — C · 0 yıldız
+- [ZenarchistCode/ZenCircleMapMarkers](https://github.com/ZenarchistCode/ZenCircleMapMarkers) — DayZ SA Mod: ZenCircleMapMarkers Source Code — C · 0 yıldız
+- [ZenarchistCode/ZenClientCrashReporter](https://github.com/ZenarchistCode/ZenClientCrashReporter) — DayZ SA Mod: ZenClientCrashReporter Source Code — C · 0 yıldız
+- [ZenarchistCode/ZenDirty](https://github.com/ZenarchistCode/ZenDirty) — DayZ SA Mod: ZenDirty Source Code — C · 0 yıldız
+- [ZenarchistCode/ZenGPSChat](https://github.com/ZenarchistCode/ZenGPSChat) — DayZ SA Mod: ZenGPSChat Source Code — C · 0 yıldız
+- [ZenarchistCode/ZenHints](https://github.com/ZenarchistCode/ZenHints) — DayZ SA Mod: ZenHints Source Code — C · 0 yıldız
+- [ZenarchistCode/ZenMapGroupPosSpawner](https://github.com/ZenarchistCode/ZenMapGroupPosSpawner) — DayZ SA Mod: ZenMapGroupPosSpawner Source Code — C · 0 yıldız
+- [ZenarchistCode/ZenMicCheck](https://github.com/ZenarchistCode/ZenMicCheck) — DayZ SA Mod: ZenMicCheck Source Code — C · 0 yıldız
+- [ZenarchistCode/ZenModCore](https://github.com/ZenarchistCode/ZenModCore) — DayZ SA Mod: ZenModCore Source Code — C · 0 yıldız
+- [ZenarchistCode/ZenRaidBalanceLogger](https://github.com/ZenarchistCode/ZenRaidBalanceLogger) — DayZ SA Mod: ZenRaidBalanceLogger Source Code — C · 0 yıldız
+- [ZenarchistCode/ZenRepairableWells](https://github.com/ZenarchistCode/ZenRepairableWells) — DayZ SA Mod: ZenRepairableWells Source Code — C · 0 yıldız
+- [ZenarchistCode/ZenSlopeStamina](https://github.com/ZenarchistCode/ZenSlopeStamina) — DayZ SA Mod: ZenSlopeStamina Source Code — C · 0 yıldız
+- [ZenarchistCode/ZenUAP](https://github.com/ZenarchistCode/ZenUAP) — DayZ SA Mod: ZenUAP Source Code — C · 0 yıldız
+- [ZenarchistCode/ZenVeganism](https://github.com/ZenarchistCode/ZenVeganism) — DayZ SA Mod: ZenVeganism Source Code — C · 0 yıldız
+- [zenbakiak/hs-agenda](https://github.com/zenbakiak/hs-agenda) — Hacker School Agenda, a brief introduction to eager loading — Ruby · 0 yıldız
+- [ZendeR911/ApexLegends_FimozHook](https://github.com/ZendeR911/ApexLegends_FimozHook) — (açıklama yok) — — · 0 yıldız
+- [ZenGetsuu/c-maze-game](https://github.com/ZenGetsuu/c-maze-game) — A grid-based maze game in C with random snake movement, player controls, and optional DARK mode for limited visibility. — C · 0 yıldız
+- [zengfung/TrafficFatalityAnalysis](https://github.com/zengfung/TrafficFatalityAnalysis) — Analysis of the Effects of Traffic Policies on Alcohol-Related Vehicle Fatalities — HTML · 0 yıldız
+- [zengkan1/ESP_Cheat_Robot](https://github.com/zengkan1/ESP_Cheat_Robot) — (açıklama yok) — C++ · 0 yıldız
+- [ZenGo-X/kms-ed25519](https://github.com/ZenGo-X/kms-ed25519) — An HD-wallet key management system for Ed25519 signature scheme — Rust · 0 yıldız
+- [Zeni44/gmod-pac-urlchanger](https://github.com/Zeni44/gmod-pac-urlchanger) — Load a pac to get all custom links used within it and change + save them — Lua · 0 yıldız
+- [Zenika/recruiter-cheatsheet](https://github.com/Zenika/recruiter-cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [Zenith-Team/RedCore](https://github.com/Zenith-Team/RedCore) — The modern NSMBU custom code API. — — · 0 yıldız
+- [zenklinov/MLBB_PredictionWR](https://github.com/zenklinov/MLBB_PredictionWR) — Mobile Legends Match Prediction based on Winrate — Python · 0 yıldız
+- [ZenkoDev/Staff-ValorantESP](https://github.com/ZenkoDev/Staff-ValorantESP) — a He trabajado en el staff del servidor de Valorant España (+70k) 🎓 — — · 0 yıldız
+- [zenmom89/the-good-hacker](https://github.com/zenmom89/the-good-hacker) — Hoy hello im a good hacker but i just joke arond on roblox the name of my chanal is the good hacker — — · 0 yıldız
+- [zenNaz/linux-cheatsheet](https://github.com/zenNaz/linux-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [ZennProject/Hppybirhtdy-v2](https://github.com/ZennProject/Hppybirhtdy-v2) — (açıklama yok) — JavaScript · 0 yıldız
+- [ZennProject/hppybrthdy](https://github.com/ZennProject/hppybrthdy) — (açıklama yok) — JavaScript · 0 yıldız
+- [zeno-b/nmap-cheat-sheet](https://github.com/zeno-b/nmap-cheat-sheet) — (açıklama yok) — — · 0 yıldız
+- [ZenoCoding/multivar-cheatsheet](https://github.com/ZenoCoding/multivar-cheatsheet) — A printable, one-page US Letter cheatsheet for multivariable calculus vector theorems styled with HTML/CSS and KaTeX. — HTML · 0 yıldız
+- [zenolth/src_models](https://github.com/zenolth/src_models) — Repository storing some source models because Roblox StringValues are stoopid — — · 0 yıldız
+- [zenoooooooooo/django-cheatsheet](https://github.com/zenoooooooooo/django-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [zenotheomni/ollama-chat-local](https://github.com/zenotheomni/ollama-chat-local) — A simple local chat UI for Ollama with DeepSeek, memory, train-of-thought, dark mode, and prompt history. One-click desktop… — — · 0 yıldız
+- [ZenoxITA/CaveiraESP-R6](https://github.com/ZenoxITA/CaveiraESP-R6) — (açıklama yok) — C++ · 0 yıldız
+- [ZenseiPaq/PlanetCamera](https://github.com/ZenseiPaq/PlanetCamera) — (açıklama yok) — — · 0 yıldız
+- [zentia/ZEngine](https://github.com/zentia/ZEngine) — (açıklama yok) — — · 0 yıldız
+- [ZentifyZ/Kors_lol](https://github.com/ZentifyZ/Kors_lol) — (açıklama yok) — — · 0 yıldız
+- [zentrope/fickle](https://github.com/zentrope/fickle) — Challenge: Make a menu item app for switching backgrounds and dark/light appearance — Swift · 0 yıldız
+- [ZenUnt/MenuSample](https://github.com/ZenUnt/MenuSample) — (açıklama yok) — Kotlin · 0 yıldız
+- [ZenVega/cheat-sheets-and-configs](https://github.com/ZenVega/cheat-sheets-and-configs) — (açıklama yok) — — · 0 yıldız
+- [zenzue/AI-Prompt-Injection-2026-Cheat-Sheet-Mitigation-Playbook](https://github.com/zenzue/AI-Prompt-Injection-2026-Cheat-Sheet-Mitigation-Playbook) — (açıklama yok) — — · 0 yıldız
+- [zenzue/RTL-SDR-Beginner-Cheatsheet-for-SDR-and-Radio-Learning](https://github.com/zenzue/RTL-SDR-Beginner-Cheatsheet-for-SDR-and-Radio-Learning) — (açıklama yok) — — · 0 yıldız
+- [zenzue/Sigma-Rule-Writing-Cheatsheet-for-SOC](https://github.com/zenzue/Sigma-Rule-Writing-Cheatsheet-for-SOC) — (açıklama yok) — — · 0 yıldız
+- [ZeoLino/sysadmin-cheatsheet](https://github.com/ZeoLino/sysadmin-cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [zeon1045/belzepruebafinal](https://github.com/zeon1045/belzepruebafinal) — (açıklama yok) — — · 0 yıldız
+- [zeph/aruba-aws-map](https://github.com/zeph/aruba-aws-map) — cheat-sheet Aruba Cloud <> AWS — — · 0 yıldız
+- [zephin-null/Reignited-CSGO](https://github.com/zephin-null/Reignited-CSGO) — This is an open source CSGO project i am working on to help other people — C++ · 0 yıldız
+- [ZephireNZ/Lantern](https://github.com/ZephireNZ/Lantern) — A from-scratch Minecraft server based around SpongeAPI — Java · 0 yıldız · arşiv
+- [zephonitis/DataScienceProject](https://github.com/zephonitis/DataScienceProject) — This is a repository used for the deployment of Model used to train on titanic dataset using Random Forest Model — Python · 0 yıldız
+- [Zephoro/source.css](https://github.com/Zephoro/source.css) — (açıklama yok) — CSS · 0 yıldız
+- [Zephrup/CAB340-Cheat-Sheet](https://github.com/Zephrup/CAB340-Cheat-Sheet) — QUT CAB340 Cheat Sheet I created and used for the final exam (2024 Sem 2) — — · 0 yıldız
+- [zeppoli/basic-rust-cheatsheet](https://github.com/zeppoli/basic-rust-cheatsheet) — (açıklama yok) — Rust · 0 yıldız
+- [zeppto/Mansion-Escape](https://github.com/zeppto/Mansion-Escape) — This is the seconded larges game we created at BTH. We used the 3D programming courses final submission as our base for the game… — C++ · 0 yıldız
+- [ZepyhrPlaysMC/The-Pact-Client](https://github.com/ZepyhrPlaysMC/The-Pact-Client) — The Pact is a so-called "hacked client" for Minecraft — — · 0 yıldız
+- [ZeR0-N-112/MWB-MCPR](https://github.com/ZeR0-N-112/MWB-MCPR) — MCPR-300 in Modern Warfare Base — Mathematica · 0 yıldız
+- [zer0condition/NTMemory](https://github.com/zer0condition/NTMemory) — Usermode NT Explorer - Query kernel addresses, translate virtual to physical addresses, inspect the PFN database, and more. — — · 0 yıldız
+- [zer0nisx/ogz-source-master-LITE](https://github.com/zer0nisx/ogz-source-master-LITE) — ZERONIS EDIT — — · 0 yıldız
+- [zeravenyoej/shoppies](https://github.com/zeravenyoej/shoppies) — Employees at Shopify can nominated their favorite films for The Shoppies — JavaScript · 0 yıldız
+- [zeref843/NZombies-Cheat-Sheet](https://github.com/zeref843/NZombies-Cheat-Sheet) — Stuff For Me And My Buddy — Lua · 0 yıldız
+- [ZERICO2005/ABS-Fractal-Explorer](https://github.com/ZERICO2005/ABS-Fractal-Explorer) — ABS Fractal Explorer will allow you to explore hundereds of different Mandelbrot variants. Also checkout the GitHub-Wiki — — · 0 yıldız
+- [zerjioang/docker-cheatsheet](https://github.com/zerjioang/docker-cheatsheet) — A functional Docker CheatSheet — — · 0 yıldız · arşiv
+- [ZerkayGoodLand/Mod_Menu_GTA](https://github.com/ZerkayGoodLand/Mod_Menu_GTA) — (açıklama yok) — Lua · 0 yıldız
+- [ZerkayGoodLand/Mod_Menu_RDR2](https://github.com/ZerkayGoodLand/Mod_Menu_RDR2) — (açıklama yok) — — · 0 yıldız
+- [Zerktes/clean-code-notes](https://github.com/Zerktes/clean-code-notes) — Practical cheat sheets and notes for writing clean, self-documenting, and interview-ready data structures and algorithms. — — · 0 yıldız
+- [zero-griot/hvh2403](https://github.com/zero-griot/hvh2403) — (açıklama yok) — — · 0 yıldız
+- [zero318/BlockRenderTest](https://github.com/zero318/BlockRenderTest) — Renders inventory images of Minecraft blocks based on model files. — C# · 0 yıldız
+- [Zero37dot4/Terraria-tModLoader-and-server-launcher](https://github.com/Zero37dot4/Terraria-tModLoader-and-server-launcher) — Config files for my GitHub profile. — C++ · 0 yıldız
+- [ZerO970/fl-studio-cheatsheet](https://github.com/ZerO970/fl-studio-cheatsheet) — Your personal Guide in a world of VST plugins. — JavaScript · 0 yıldız
+- [ZeRoClassix/BlindEye-repost-v2](https://github.com/ZeRoClassix/BlindEye-repost-v2) — (açıklama yok) — — · 0 yıldız
+- [zerocool443/Load-Balancer-Detecter-](https://github.com/zerocool443/Load-Balancer-Detecter-) — This shell script runs and checks if there is any load balancer working on the web server . — Shell · 0 yıldız
+- [ZeroDayFORGE-Lab/SuperLibrary](https://github.com/ZeroDayFORGE-Lab/SuperLibrary) — A massive, curated collection of information security books, study guides, cheat sheets, and resources. This library is intended… — — · 0 yıldız
+- [ZeroDayGang-gh05t5h311/HEY_CPU_WHOM_IS_YOUR_PROGRAMMER](https://github.com/ZeroDayGang-gh05t5h311/HEY_CPU_WHOM_IS_YOUR_PROGRAMMER) — A collection of cheat sheets to give more technical details of what code is doing. Aimed at anyone that want's to learn but… — — · 0 yıldız
+- [ZeroDayStudent/nmap-cheat-sheet](https://github.com/ZeroDayStudent/nmap-cheat-sheet) — A comprehensive cheat sheet for Nmap commands and usage — — · 0 yıldız
+- [zerodesigner233/Astro-personal-site](https://github.com/zerodesigner233/Astro-personal-site) — Personal portfolio built with Astro — bento grid, bilingual i18n, dark mode, and tab-based single-page interface. — Astro · 0 yıldız
+- [zerodeveloper0/DarkWebOS](https://github.com/zerodeveloper0/DarkWebOS) — Dark Web OS PC v1.0 — Ubuntu-based custom operating system with Tor, Dark Web Browser and privacy tools. — — · 0 yıldız
+- [ZeroEfe503/restaurant_menu](https://github.com/ZeroEfe503/restaurant_menu) — Final project for the “HTML” course codédex — HTML · 0 yıldız
+- [Zerofour04/zero_checkpointmap](https://github.com/Zerofour04/zero_checkpointmap) — 🗺️ Checkpoint (YMAP) for FiveM — Lua · 0 yıldız
+- [ZeroFries/GardenR](https://github.com/ZeroFries/GardenR) — Web app for gardeners, florists, and nature photographers to share images of their work. Features arrow-key traversable gallery,… — Ruby · 0 yıldız
+- [ZeroGCDev/CHEAT-SHEETS](https://github.com/ZeroGCDev/CHEAT-SHEETS) — (açıklama yok) — — · 0 yıldız
+- [zeroit789/kenshi-coop](https://github.com/zeroit789/kenshi-coop) — Open-source cooperative multiplayer for Kenshi (Steam 1.0.68) — a community continuation built on prior projects. Multijugador… — — · 0 yıldız
+- [Zeroji/minecord](https://github.com/Zeroji/minecord) — A Discord-based tool to manage a Minecraft server — Python · 0 yıldız
+- [ZeroJit/MenuSample](https://github.com/ZeroJit/MenuSample) — (açıklama yok) — Java · 0 yıldız
+- [ZeroKwok/muiltprocessing](https://github.com/ZeroKwok/muiltprocessing) — 一个基于Boost::Process & ZeroMQ方案的C++多进程并发框架，只有一个hpp文件。 — C++ · 0 yıldız
+- [ZeroKwok/pages_manager](https://github.com/ZeroKwok/pages_manager) — 一个基于Qt的极简页面管理器，仅有一个pages_manager.hpp文件。 — C++ · 0 yıldız
+- [zerolfer/TFM-Documentacion](https://github.com/zerolfer/TFM-Documentacion) — Here you can find the source files and images used to create the memory of my Master's Final Thesis (Máster Universitario en… — TeX · 0 yıldız
+- [zeromix555/threejs-fps-02-entry](https://github.com/zeromix555/threejs-fps-02-entry) — threejs-fps-02 entry: round-based tactical FPS (bomb plant/defuse, buy economy, bot squads) on three.js 0.187.0 — JavaScript · 0 yıldız
+- [ZEROMTZ0/dooom-esp32-s3-armando](https://github.com/ZEROMTZ0/dooom-esp32-s3-armando) — (açıklama yok) — C++ · 0 yıldız
+- [zeroninefourfour/roblox-studio-hackatime](https://github.com/zeroninefourfour/roblox-studio-hackatime) — Version to work with hackatime. — Luau · 0 yıldız
+- [Zeronity2/Automated-Deadlock-Detection-Tool](https://github.com/Zeronity2/Automated-Deadlock-Detection-Tool) — An OS-based project in C that detects deadlocks by analyzing process–resource allocation, request matrices, and available… — C · 0 yıldız
+- [ZeroRin/Terraria-Source-Code](https://github.com/ZeroRin/Terraria-Source-Code) — (açıklama yok) — C# · 0 yıldız
+- [zerosandones/go-cheatsheet](https://github.com/zerosandones/go-cheatsheet) — Go programming language cheatsheet with example code — Go · 0 yıldız
+- [ZeroShepherd/HpPrintCupsStuff](https://github.com/ZeroShepherd/HpPrintCupsStuff) — Setup files for my printers. HP Brother HLL2305 — Shell · 0 yıldız
+- [Zerosrs/Il2CPP-Base](https://github.com/Zerosrs/Il2CPP-Base) — (açıklama yok) — — · 0 yıldız
+- [ZEROTSUDIO/my-interview-cheatsheet](https://github.com/ZEROTSUDIO/my-interview-cheatsheet) — it is what it is — HTML · 0 yıldız
+- [Zerovoice/ShareSDK_SocializationSample](https://github.com/Zerovoice/ShareSDK_SocializationSample) — ShareSDK_SocializationSample — Java · 0 yıldız
+- [zeroyl-0/primordial-era](https://github.com/zeroyl-0/primordial-era) — (açıklama yok) — JavaScript · 0 yıldız
+- [zerrri/news-app](https://github.com/zerrri/news-app) — A responsive news web application built with React, Redux, and Ant Design that fetches the latest articles from API. Features… — JavaScript · 0 yıldız
+- [zertvxx/Kiddions-Scripts-](https://github.com/zertvxx/Kiddions-Scripts-) — Kiddions Scripts ( Ultimate V2 Menu) — — · 0 yıldız
+- [Zertya2/Zertya](https://github.com/Zertya2/Zertya) — Zertya est une team esport et académique (pour les nouveaux joueurs). Basé sur les ejux fortnite puis rocket league — HTML · 0 yıldız
+- [zerventaltan/Lisanslar](https://github.com/zerventaltan/Lisanslar) — (açıklama yok) — — · 0 yıldız
+- [zeryl/php_uls_loader](https://github.com/zeryl/php_uls_loader) — Loads the FCC ULS data into MySQL — PHP · 0 yıldız
+- [zerzisx/HashTable-](https://github.com/zerzisx/HashTable-) — Hashtable++ is a C++ hash table implementation with thread-safe operations. It supports insertion, removal, and lookup of… — C++ · 0 yıldız
+- [Zeshankhan03/CarParkingProject](https://github.com/Zeshankhan03/CarParkingProject) — AOA, I have created the Car Parking Project written in Java Language as my console based OOP final Project. — C++ · 0 yıldız
+- [Zeshawn/MTA.status](https://github.com/Zeshawn/MTA.status) — Showing the status of MTA trains — — · 0 yıldız
+- [Zeshawn/MTAStatus](https://github.com/Zeshawn/MTAStatus) — Showing the status of MTA trains — Ruby · 0 yıldız
+- [zesonzhang/CS-APP2e](https://github.com/zesonzhang/CS-APP2e) — source code and reading notes of 「Computer Systems: A Programmer's Perspective Second Edition」 — C · 0 yıldız
+- [ZestiEats/jejoy-portfolio](https://github.com/ZestiEats/jejoy-portfolio) — Production-ready Food Delivery Platform built using Spring Boot, React, MySQL and deployed on AWS. Load tested with 900… — — · 0 yıldız
+- [zesty-pika-87/gta6-trophy-guide-01-v8](https://github.com/zesty-pika-87/gta6-trophy-guide-01-v8) — Leonida Platinum Roadbook v8 — offline GTA VI trophy guide & tracker for all 55 trophies, per-claim cited sources (make.fun… — JavaScript · 0 yıldız
+- [zetenykeee/DawnMenu](https://github.com/zetenykeee/DawnMenu) — Minecraft Fabric mod — Java · 0 yıldız
+- [ZETH-Community/RAZE-Source-config](https://github.com/ZETH-Community/RAZE-Source-config) — Counter-Strike: Source Zombie Escape Config file — — · 0 yıldız
+- [Zethax5/endersbane](https://github.com/Zethax5/endersbane) — A datapack for Minecraft 1.14.4 and up which is based on filling the Nether and End with more content. — mcfunction · 0 yıldız
+- [Zetille03/Programming-Theory-Repo-Zetille03](https://github.com/Zetille03/Programming-Theory-Repo-Zetille03) — submission 2 for jr programmer pathway — — · 0 yıldız
+- [zetooan/tempat_sampah_esp32](https://github.com/zetooan/tempat_sampah_esp32) — (açıklama yok) — C++ · 0 yıldız
+- [zettix/special-relativity-equation-cheat-sheet-](https://github.com/zettix/special-relativity-equation-cheat-sheet-) — Special Relativity Equations Cheat Sheet (summary) for the SR Class on Youtube via Stanford University taught by Prof. Leonard… — TeX · 0 yıldız
+- [ZeusExMachina/Swen225-Text-Based-Cluedo](https://github.com/ZeusExMachina/Swen225-Text-Based-Cluedo) — Designing and Implementing the board game Cluedo as a text-based game. Below is a link to the final version of this game, which… — Java · 0 yıldız · arşiv
+- [ZeusFromDK/ZDK-Load](https://github.com/ZeusFromDK/ZDK-Load) — ZDK-Load Free FiveM Loading Screen No Support ZeusDK#9634 — — · 0 yıldız
+- [zeusmarval/office-status-management-with-aws-appsync](https://github.com/zeusmarval/office-status-management-with-aws-appsync) — Serverless real-time office status management system built with AWS AppSync, GraphQL, DynamoDB, and Lambda. Features JWT… — JavaScript · 0 yıldız
+- [ZeusOwner/NRG64BIT](https://github.com/ZeusOwner/NRG64BIT) — (açıklama yok) — — · 0 yıldız
+- [zeuxhaxor1/License_system](https://github.com/zeuxhaxor1/License_system) — (açıklama yok) — — · 0 yıldız
+- [ZevosSky/rtrtFramework](https://github.com/ZevosSky/rtrtFramework) — RealTimeRaytracing — — · 0 yıldız
+- [zewol95/Linux-Cheatsheets](https://github.com/zewol95/Linux-Cheatsheets) — A personal collection of essential Linux commands for quick reference. — — · 0 yıldız
+- [zexanein/steelseries-gamesense-snake-game](https://github.com/zexanein/steelseries-gamesense-snake-game) — (açıklama yok) — C# · 0 yıldız
+- [ZexeaDeveloper/RobloxHacksDLL](https://github.com/ZexeaDeveloper/RobloxHacksDLL) — (açıklama yok) — — · 0 yıldız
+- [ZextEU/zext-scenario-share](https://github.com/ZextEU/zext-scenario-share) — Share and import WHIP Director scenarios with short codes. Unofficial add-on for whip_core (WHIP-FX), plus a free Cloudflare… — Lua · 0 yıldız
+- [ZeyadElgedawy/Forest-Cover-Type-Classification](https://github.com/ZeyadElgedawy/Forest-Cover-Type-Classification) — Predict the type of forest cover based on cartographic and environmental features — Jupyter Notebook · 0 yıldız
+- [ZeyadGamerDev/Skeetbot](https://github.com/ZeyadGamerDev/Skeetbot) — nothing — Java · 0 yıldız
+- [zeyadsobh/CMPN205-GraphicsGame](https://github.com/zeyadsobh/CMPN205-GraphicsGame) — Computer Graphics Project - third year CUFE students. — — · 0 yıldız
+- [zeynepakkalyoncu/tech_cheatsheets](https://github.com/zeynepakkalyoncu/tech_cheatsheets) — My collection of cheatsheets for various programming languages, frameworks, etc. — Jupyter Notebook · 0 yıldız
+- [ZeyroxCode/Clothing_Menu](https://github.com/ZeyroxCode/Clothing_Menu) — esx Clothing_Menu By Zemun! — — · 0 yıldız
+- [zezoo124/mta-sts.managed.hackerone.com](https://github.com/zezoo124/mta-sts.managed.hackerone.com) — tack — — · 0 yıldız
+- [zfernm/Volatility-3-Cheatsheet-Instalasi-Tools](https://github.com/zfernm/Volatility-3-Cheatsheet-Instalasi-Tools) — (açıklama yok) — Shell · 0 yıldız
+- [zfih/HybridVRThesis](https://github.com/zfih/HybridVRThesis) — Hybrid Renderer for VR, written as part of a master thesis project. — — · 0 yıldız
+- [zfphantoms/voting-classifier-iso25010-with-sentiment-analysis](https://github.com/zfphantoms/voting-classifier-iso25010-with-sentiment-analysis) — Sentiment analysis of the Polri Presisi application based on ISO/IEC 25010 software quality characteristics using a Voting… — CSS · 0 yıldız
+- [ZFUNG14/DataWarehouseDesign](https://github.com/ZFUNG14/DataWarehouseDesign) — PostgreSQL-based data warehouse for analyzing Australian road fatalities with Tableau and association rule mining. — Jupyter Notebook · 0 yıldız
+- [zg-devj/cheat-sheet](https://github.com/zg-devj/cheat-sheet) — Cheat sheets — — · 0 yıldız
+- [zgander/gamesense](https://github.com/zgander/gamesense) — (açıklama yok) — TypeScript · 0 yıldız
+- [zgarnirawen/cheat-sheets](https://github.com/zgarnirawen/cheat-sheets) — Technical cheat sheets and quick references for programming, DevOps, Linux, networking, and software engineering — — · 0 yıldız
+- [zGLados/hltv_telegram_alert](https://github.com/zGLados/hltv_telegram_alert) — 🎮 Telegram bot that monitors HLTV.org for CS2 matches with daily summaries, customizable star ratings, and notifications for your… — Python · 0 yıldız
+- [ZH-Hristov/shaderdamage](https://github.com/ZH-Hristov/shaderdamage) — Shader based damage effects for GMod — Lua · 0 yıldız
+- [Zh0uY1ngL33q/hacker-](https://github.com/Zh0uY1ngL33q/hacker-) — sol to 3.9.20.300505 — — · 0 yıldız
+- [zH4x-SDK/zMCDungeons-SDK](https://github.com/zH4x-SDK/zMCDungeons-SDK) — SDK for Minecraft Dungeons, dumped with CheatGear — C++ · 0 yıldız
+- [zH4x/csgo-sdk](https://github.com/zH4x/csgo-sdk) — Counter-Strike Global Offensive — — · 0 yıldız
+- [zha0/reaper-1](https://github.com/zha0/reaper-1) — Reaper is a powerful tool written in Python3, designed with OSINT (Open Source Intelligence) in mind. It leverages APIs and other… — — · 0 yıldız
+- [ZhadowValker/Sony-A7IV-Cheat-Sheet](https://github.com/ZhadowValker/Sony-A7IV-Cheat-Sheet) — (açıklama yok) — HTML · 0 yıldız
+- [zhaijianhui/rustdesk20251019](https://github.com/zhaijianhui/rustdesk20251019) — An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. — — · 0 yıldız
+- [zhan0891/mac-shortcuts-cheatsheet](https://github.com/zhan0891/mac-shortcuts-cheatsheet) — Master Mac shortcuts to boost your productivity and minimize mouse usage — JavaScript · 0 yıldız
+- [Zhane4994/Espy](https://github.com/Zhane4994/Espy) — A Minecraft Shader — GLSL · 0 yıldız
+- [Zhang-Setsail/Computer_Graphics](https://github.com/Zhang-Setsail/Computer_Graphics) — (açıklama yok) — — · 0 yıldız
+- [zhangbaogang123/csmsf](https://github.com/zhangbaogang123/csmsf) — This repo contains source codes for the paper fMRI-based Cross-subject Visual Reconstruction via Structural Consistency and… — Python · 0 yıldız
+- [ZhangEPSB/2019CSC-agk](https://github.com/ZhangEPSB/2019CSC-agk) — Source Code and Asset files from presentation — Assembly · 0 yıldız
+- [zhangfengqilk/testNodSlotAndCatch.hpp](https://github.com/zhangfengqilk/testNodSlotAndCatch.hpp) — 测试nod.hpp和catch.hpp — C++ · 0 yıldız
+- [zhanghongyi16/raylib_cheatsheet_chinese_plus](https://github.com/zhanghongyi16/raylib_cheatsheet_chinese_plus) — 一个raylib参考手册的加强版，将raymath参考手册融合进一个html并进行二次细翻译。 — — · 0 yıldız
+- [zhanghu1206/ian-ckd-nhanes-study](https://github.com/zhanghu1206/ian-ckd-nhanes-study) — Code for the study: Inflammation-Adjusted Nutrition (IAN) score and chronic kidney disease prevalence among US adults based on… — Python · 0 yıldız
+- [zhangjiongjie/BookSourceCode-Head_First_HTML_and_CSS](https://github.com/zhangjiongjie/BookSourceCode-Head_First_HTML_and_CSS) — (açıklama yok) — HTML · 0 yıldız
+- [zhangjiongjie/BookSourceCode-HTML5_and_CSS3](https://github.com/zhangjiongjie/BookSourceCode-HTML5_and_CSS3) — (açıklama yok) — JavaScript · 0 yıldız
+- [zhangjq12/CS546source](https://github.com/zhangjq12/CS546source) — (açıklama yok) — JavaScript · 0 yıldız
+- [zhangmeng712/web-kit](https://github.com/zhangmeng712/web-kit) — node bin for server which can compile less save files and load page automatically — JavaScript · 0 yıldız
+- [zhangqicode/T8ProgressWebViewController](https://github.com/zhangqicode/T8ProgressWebViewController) — A view controller with a webview and progress bar can show the progress of webview's loading — Objective-C · 0 yıldız
+- [zhangshuheng6/csgSource](https://github.com/zhangshuheng6/csgSource) — 南网两个细则系统 — — · 0 yıldız
+- [zhangshuw/solara-nights](https://github.com/zhangshuw/solara-nights) — An original top-down open-world crime game with a sun-soaked coastal city, drivable cars, traffic, pedestrians, a five-star… — JavaScript · 0 yıldız
+- [zhangtongxin888/animal-restaurant-anomaly](https://github.com/zhangtongxin888/animal-restaurant-anomaly) — Independent source repository for the Animal Restaurant Anomaly Roblox beginner guide. — TypeScript · 0 yıldız
+- [zhangtongxin888/plus1-grow-per-step](https://github.com/zhangtongxin888/plus1-grow-per-step) — Independent source repository for the +1 Grow Per Step Roblox beginner guide. — TypeScript · 0 yıldız
+- [zhangtongxin888/plus1-jump-crunchy-asmr-escape](https://github.com/zhangtongxin888/plus1-jump-crunchy-asmr-escape) — Independent source repository for the +1 Jump Crunchy ASMR Escape Roblox beginner guide. — TypeScript · 0 yıldız
+- [zhangtongxin888/power-a-city](https://github.com/zhangtongxin888/power-a-city) — Independent source repository for the Power a City Roblox beginner guide. — TypeScript · 0 yıldız
+- [zhangtongxin888/unbox-squishies](https://github.com/zhangtongxin888/unbox-squishies) — Independent source repository for the Unbox Squishies Roblox beginner guide. — TypeScript · 0 yıldız
+- [zhangwen1987/keylin](https://github.com/zhangwen1987/keylin) — a machine interactive computer system based on speech recognition — — · 0 yıldız
+- [zhangwenhaojf40/AndroidSourceSample](https://github.com/zhangwenhaojf40/AndroidSourceSample) — (açıklama yok) — Java · 0 yıldız
+- [zhangYanDan/standard-vue-menu](https://github.com/zhangYanDan/standard-vue-menu) — (açıklama yok) — JavaScript · 0 yıldız
+- [zhangzachary834-commits/Earthcall](https://github.com/zhangzachary834-commits/Earthcall) — (açıklama yok) — — · 0 yıldız
+- [Zhangzy-54/Procyon](https://github.com/Zhangzy-54/Procyon) — 南河三 — — · 0 yıldız
+- [ZhantaoLi/omen-cat-pet](https://github.com/ZhantaoLi/omen-cat-pet) — A chibi Omen Cat digital pet based on the Valorant spray dance pose — — · 0 yıldız
+- [zhao8445/hackTools](https://github.com/zhao8445/hackTools) — Python语言编写的渗透工具 — Tcl · 0 yıldız
+- [zhaojihuionline/BattleOfIsland](https://github.com/zhaojihuionline/BattleOfIsland) — (açıklama yok) — — · 0 yıldız
+- [zhaolin191544/algorithm-s-cheatsheet](https://github.com/zhaolin191544/algorithm-s-cheatsheet) — (açıklama yok) — Python · 0 yıldız
+- [zhaorongyuan/testapp](https://github.com/zhaorongyuan/testapp) — (açıklama yok) — — · 0 yıldız
+- [zhaoweikid/memlink](https://github.com/zhaoweikid/memlink) — key-list nosql system — — · 0 yıldız
+- [zhaoyoubing/cg27labs](https://github.com/zhaoyoubing/cg27labs) — Lab projects for 5CM507 Graphics 26/27 — — · 0 yıldız
+- [zhaozhendong0608/Apex](https://github.com/zhaozhendong0608/Apex) — 项目base架构代码开发指南 — HTML · 0 yıldız
+- [ZHBALEX/HikerForest-feedback](https://github.com/ZHBALEX/HikerForest-feedback) — Public feedback, ideas and bug reports for HikerForest. The game source is maintained separately. — — · 0 yıldız
+- [ZHdK-Critical-Coding/Manuals](https://github.com/ZHdK-Critical-Coding/Manuals) — Cheat Sheets and Manals — JavaScript · 0 yıldız
+- [zheenn/pygame-battlefield](https://github.com/zheenn/pygame-battlefield) — Turn-Based Battle Game.pygame — Python · 0 yıldız
+- [ZheLi2001/PBHs](https://github.com/ZheLi2001/PBHs) — I will put my codes about Primordial Black Holes(PBHs) to this repo. — — · 0 yıldız
+- [zhengcai112data/vegetables_tf2.3](https://github.com/zhengcai112data/vegetables_tf2.3) — 基于TensorFlow 2.3的智能果蔬识别系统/Intelligent Fruit‑Vegetable Recognition System Based on TensorFlow 2.3 — Python · 0 yıldız
+- [ZhengguangGao/CS61B_2018-spring](https://github.com/ZhengguangGao/CS61B_2018-spring) — This is my exercise, just for fun, thanks very much for the Instructor: Josh Hug, the open source for us. In order to use the… — Java · 0 yıldız
+- [zhengwei6/NCTU_Esport](https://github.com/zhengwei6/NCTU_Esport) — The Web is the class final project.It is developed for signing up NCTU sport. — PHP · 0 yıldız
+- [zhengyuheng1999/menu](https://github.com/zhengyuheng1999/menu) — 选用go或rust编写menu项目，创建一个版本库（gitee或github），采用VS Code作为编译调试环境。 — Go · 0 yıldız
+- [zhengzhengyiyi/ender_pearl_loader](https://github.com/zhengzhengyiyi/ender_pearl_loader) — a Minecraft Fabric mod — Java · 0 yıldız
+- [zhengzhoujuli/ApexAdsSdk](https://github.com/zhengzhoujuli/ApexAdsSdk) — apex ads — Objective-C · 0 yıldız
+- [zhengzihao2002/Photos-CS213](https://github.com/zhengzihao2002/Photos-CS213) — JavaFX based Photo Album — HTML · 0 yıldız
+- [ZhenIT/hpp](https://github.com/ZhenIT/hpp) — (açıklama yok) — PHP · 0 yıldız
+- [zhenweigc/CS12b-FinalProject](https://github.com/zhenweigc/CS12b-FinalProject) — An improved version of CS11a Final project: this project now has a GUI. The one in Combine branch has save\load functions but it… — Java · 0 yıldız
+- [zhenyong25/EE0005-classify-cuisine](https://github.com/zhenyong25/EE0005-classify-cuisine) — Classify the type of cuisine based on the ingredients provided from the dataset. The dataset is analyze through decision tree… — Jupyter Notebook · 0 yıldız
+- [zhenyu050701/cheatsheet-AD-enumeration](https://github.com/zhenyu050701/cheatsheet-AD-enumeration) — (açıklama yok) — — · 0 yıldız
+- [zhepS-z/valorant-esports-training-platform](https://github.com/zhepS-z/valorant-esports-training-platform) — comprehensive web-based platform for VALORANT esports teams and players — PHP · 0 yıldız
+- [ZhepuZhao/grade_curve_project](https://github.com/ZhepuZhao/grade_curve_project) — The project to calculate the final grade of a students based on their participation score, assignment score, midterm, and final… — Java · 0 yıldız
+- [zheref/swift-cheatsheets](https://github.com/zheref/swift-cheatsheets) — Swift interview cheat sheets: one self-contained HTML page, 29 sheets, 17 SVG infographics — HTML · 0 yıldız
+- [zhestkovda/AutoOper](https://github.com/zhestkovda/AutoOper) — Software for HPP automation — C# · 0 yıldız
+- [ZhiguangYan/APEX](https://github.com/ZhiguangYan/APEX) — Reference and optimized implementations of APEX-based block ciphers, tweakable block ciphers, hash functions, and authenticated… — C · 0 yıldız
+- [zhihaoevans/basic_cheatsheets](https://github.com/zhihaoevans/basic_cheatsheets) — (açıklama yok) — Python · 0 yıldız
+- [zhijunbit/HPprinter_Slant](https://github.com/zhijunbit/HPprinter_Slant) — HP printer slant 32heads for MR. Lv — — · 0 yıldız
+- [Zhincore/ZhinM-loadscreen](https://github.com/Zhincore/ZhinM-loadscreen) — Custom loading screen for my FiveM server — Svelte · 0 yıldız
+- [ZhiquanW/CSE167x-Computer-Graphics](https://github.com/ZhiquanW/CSE167x-Computer-Graphics) — This repository was created for storing source codes associated with course CSE167x Computer Graphics. = The source codes are… — HTML · 0 yıldız
+- [zhiruii/nba-mvp-predictor](https://github.com/zhiruii/nba-mvp-predictor) — Random Forest model trained on 42 seasons of NBA data to predict the MVP. Mean Average Precision: 0.65 — JavaScript · 0 yıldız
+- [zhitkur/DayZzz](https://github.com/zhitkur/DayZzz) — (açıklama yok) — — · 0 yıldız
+- [zhl10220801/webload](https://github.com/zhl10220801/webload) — web load — Go · 0 yıldız
+- [Zhmuda/License_Management_System](https://github.com/Zhmuda/License_Management_System) — (açıklama yok) — Python · 0 yıldız
+- [zhongguorenn/Minecraft_Stronghold_Coordinate_Calculator](https://github.com/zhongguorenn/Minecraft_Stronghold_Coordinate_Calculator) — 一个基于java的我的世界末影要塞坐标计算器，A Coordinate Calculator based on Java for stronghold in Minecraft — Java · 0 yıldız
+- [zhongjis/keyword_search_engine_xlsm](https://github.com/zhongjis/keyword_search_engine_xlsm) — this is a simple keyword matching system for Excel file processing — Java · 0 yıldız · arşiv
+- [zhongzht/fe-ai-cheatsheet](https://github.com/zhongzht/fe-ai-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [Zhopaa/crimson-clap-roblox](https://github.com/Zhopaa/crimson-clap-roblox) — Crimson Clap — team bat-PvP arena for Roblox (showcase, source private) — — · 0 yıldız
+- [zhoumaneo/Contribution_of_The_Urban_Forest_to_Noise_Control_Based_NYC](https://github.com/zhoumaneo/Contribution_of_The_Urban_Forest_to_Noise_Control_Based_NYC) — (açıklama yok) — HTML · 0 yıldız
+- [ZhouRan2020/yugioh-masterduel-Small_World-cheatsheet](https://github.com/ZhouRan2020/yugioh-masterduel-Small_World-cheatsheet) — (açıklama yok) — C++ · 0 yıldız
+- [zhous20/HackerSim](https://github.com/zhous20/HackerSim) — The final project for SFWRENG 3A04 Software Design III - Large System Design. — C# · 0 yıldız
+- [Zhouyi2013/ESP32_Minecraft_Server](https://github.com/Zhouyi2013/ESP32_Minecraft_Server) — (açıklama yok) — C++ · 0 yıldız
+- [zhouyuzju/sampling](https://github.com/zhouyuzju/sampling) — sampling web pages among pages within one website based on the html tag structure — — · 0 yıldız
+- [zhouzhen24/cheat_sheets](https://github.com/zhouzhen24/cheat_sheets) — Cheat sheets of useful tools & scripts — — · 0 yıldız
+- [zhouzhiying2022/DwmDll](https://github.com/zhouzhiying2022/DwmDll) — (açıklama yok) — — · 0 yıldız
+- [zhouzuoji/HPPas](https://github.com/zhouzuoji/HPPas) — High Performance Pascal Application Server — — · 0 yıldız
+- [Zhoya0077/roblox-coin-rush](https://github.com/Zhoya0077/roblox-coin-rush) — Coin Rush — a timed round-based Roblox collecting game (Luau + Rojo). Built by an AI agent for make.fun's roblox-game-01 bounty. — Luau · 0 yıldız
+- [zhrmrz/licenseKeyFormatting](https://github.com/zhrmrz/licenseKeyFormatting) — (açıklama yok) — Python · 0 yıldız
+- [zhub9006/peace-research-bibliography](https://github.com/zhub9006/peace-research-bibliography) — Annotated bibliography of peace research sources with conflict fatality / peacebuilding investment analysis — — · 0 yıldız
+- [zhub9006/peacebuilding-annotated-bibliography](https://github.com/zhub9006/peacebuilding-annotated-bibliography) — Annotated bibliography for research on peacebuilding investment, conflict fatality statistics, and peace index rankings across… — — · 0 yıldız
+- [zhubin215130/Bryan-Cheatsheet](https://github.com/zhubin215130/Bryan-Cheatsheet) — (açıklama yok) — JavaScript · 0 yıldız
+- [zhubin215130/GPU-Cheatsheet](https://github.com/zhubin215130/GPU-Cheatsheet) — Interactive GPU specification search and comparison cheatsheet — JavaScript · 0 yıldız
+- [zhuckan/pharmacy-etl](https://github.com/zhuckan/pharmacy-etl) — ETL service for loading pharmacy data from Excel into MySQL with search by lemmatization — Python · 0 yıldız
+- [ZHuffman5/armadillo-discordbot-source](https://github.com/ZHuffman5/armadillo-discordbot-source) — Source Code of Bot Without Discord API Key — Python · 0 yıldız
+- [ZhuGuanyu/Source_Code_CSE534_Websites](https://github.com/ZhuGuanyu/Source_Code_CSE534_Websites) — (açıklama yok) — CSS · 0 yıldız
+- [zhuhanming/cs2100-cheatsheet](https://github.com/zhuhanming/cs2100-cheatsheet) — (açıklama yok) — JavaScript · 0 yıldız
+- [zhuiyy/CS2-trading](https://github.com/zhuiyy/CS2-trading) — a cs2 portfolio method based on llm and news — Jupyter Notebook · 0 yıldız
+- [zhukaaaaaa/DE-task1](https://github.com/zhukaaaaaa/DE-task1) — Data Engineering task: parsing non-standard JSON, loading into MySQL, and building summary table with SQL transformations. — Jupyter Notebook · 0 yıldız
+- [zhukovadariya/cheatsheet_itis_2025_vvot17_bot](https://github.com/zhukovadariya/cheatsheet_itis_2025_vvot17_bot) — (açıklama yok) — Python · 0 yıldız
+- [zhuohui/hpp](https://github.com/zhuohui/hpp) — (açıklama yok) — — · 0 yıldız
+- [zhuosheng039/Fantastic-Squad](https://github.com/zhuosheng039/Fantastic-Squad) — Build a fantastic squad based on 24-25 performance in big five leagues — Jupyter Notebook · 0 yıldız
+- [zhuyifei1999/orderly_reboot_sysrq](https://github.com/zhuyifei1999/orderly_reboot_sysrq) — Orderly reboot with a magic sysrq key -- REISUB replacement when system is mostly okay — C · 0 yıldız
+- [zhxchd/game_theory_cheatsheet](https://github.com/zhxchd/game_theory_cheatsheet) — Cheatsheet for NUS MA4264 Final Exam, Spring 2023. — TeX · 0 yıldız
+- [zhyhfut/Computer-room-reservation-system](https://github.com/zhyhfut/Computer-room-reservation-system) — This code was developed using VS2022 and is a computer room reservation system code based on the Dark Horse Programmer course. — C++ · 0 yıldız
+- [Ziad-Ijja/primordial](https://github.com/Ziad-Ijja/primordial) — An interactive 3D journey through Earth's prehistoric eras — explore ancient continents, atmospheres, and lost lifeforms from the… — TypeScript · 0 yıldız
+- [ziadAlswary/DataBase-project](https://github.com/ziadAlswary/DataBase-project) — this Repository contain several files of the final project(sql, png, pdf) for the database — — · 0 yıldız
+- [ziadelsisyy/egp-currency-tracker](https://github.com/ziadelsisyy/egp-currency-tracker) — A sleek, real-time currency converter app based on the Egyptian Pound (EGP), featuring a dark UI and live rates API. — Python · 0 yıldız
+- [ZiadFahmyZewailCity/gr4.0-remotePlotting](https://github.com/ZiadFahmyZewailCity/gr4.0-remotePlotting) — (açıklama yok) — — · 0 yıldız
+- [ziadlawatey/gta4lve_kernel_source](https://github.com/ziadlawatey/gta4lve_kernel_source) — Custom kernel source for the Samsung Galaxy Tab A7 (SM-T509/gta4lve). Includes CPU and GPU overclocking, along with other… — C · 0 yıldız
+- [ziadnabil/Facial-Keypoint-Detection](https://github.com/ziadnabil/Facial-Keypoint-Detection) — Facial keypoint detection system that takes in any image with faces, and predicts the location of 68 distinguishing keypoints on… — Jupyter Notebook · 0 yıldız
+- [ZIB-TechSquare/git-tutorials](https://github.com/ZIB-TechSquare/git-tutorials) — Git cheat sheets and examples from the ZIB TechSquare Dev Hints Shorts on YouTube. — Shell · 0 yıldız
+- [zicofarry/Language-Cheatsheet](https://github.com/zicofarry/Language-Cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [Zidane86-06/Gamesense_AI](https://github.com/Zidane86-06/Gamesense_AI) — (açıklama yok) — Python · 0 yıldız
+- [zidankhan86/cPanel-Terminal-Cheatsheet](https://github.com/zidankhan86/cPanel-Terminal-Cheatsheet) — Quck connect your private and pulic repo in cPanel — — · 0 yıldız
+- [zidanmemon/linux-commands-cheatsheet](https://github.com/zidanmemon/linux-commands-cheatsheet) — A beginner-friendly Linux commands reference for Cyber Security students. — — · 0 yıldız
+- [ZidanXy/hppybday](https://github.com/ZidanXy/hppybday) — (açıklama yok) — HTML · 0 yıldız
+- [zidekk-daun/ZalupaHack](https://github.com/zidekk-daun/ZalupaHack) — Combat Warriors/Universal script for roblox. — Lua · 0 yıldız
+- [Zidhansidu98/zidhan](https://github.com/Zidhansidu98/zidhan) — Hacker bomb squad — — · 0 yıldız
+- [zidjian/logica-de-programacion-conceptos-primordiales](https://github.com/zidjian/logica-de-programacion-conceptos-primordiales) — Curso de Oracle ONE y Alura — HTML · 0 yıldız
+- [Zido64/voidshift-client-mc](https://github.com/Zido64/voidshift-client-mc) — Unlock Powerful Features with the Ultimate Hacked Client for Minecraft Enhancement — — · 0 yıldız
+- [ziemowit141/MES-No-Key-Lock](https://github.com/ziemowit141/MES-No-Key-Lock) — Bluetooth lock system for doors etc. — C++ · 0 yıldız
+- [zier-one/forestdb_paper_zh_cn](https://github.com/zier-one/forestdb_paper_zh_cn) — 论文翻译 - ForestDB: A Fast Key-Value Storage System for Variable-Length String Keys — TeX · 0 yıldız
+- [ZiftechAfrica/marcus-chen-portfolio](https://github.com/ZiftechAfrica/marcus-chen-portfolio) — A minimal, dark-themed portfolio website showcasing coding projects, technical skills, open-source contributions, and technical… — TypeScript · 0 yıldız
+- [zigahchristian/LinuxCheatSheet](https://github.com/zigahchristian/LinuxCheatSheet) — A Cheet Sheet for Linux Beginers — HTML · 0 yıldız
+- [Zigaloid/Reflection](https://github.com/Zigaloid/Reflection) — WIP: C++ serialization and reflection system. A simple system that allows you to easily save and load properties of C++ objects. — C++ · 0 yıldız
+- [zigerupa/data_cheatsheet_220](https://github.com/zigerupa/data_cheatsheet_220) — A collection of small utilities I use daily. — — · 0 yıldız
+- [ZiggyJoJo/Just_Carwash](https://github.com/ZiggyJoJo/Just_Carwash) — A simple carwash for FiveM — Lua · 0 yıldız
+- [ZiggyJoJo/Just_Repairs](https://github.com/ZiggyJoJo/Just_Repairs) — A simple vehicle repair shop for FiveM — Lua · 0 yıldız
+- [ZiggyZonko/MinecraftVoidClient](https://github.com/ZiggyZonko/MinecraftVoidClient) — A Minecraft Hacked Client built in Eclipse using mcp-918. — — · 0 yıldız
+- [ZigmaGroup/SAMP](https://github.com/ZigmaGroup/SAMP) — The source code of SAMP. — Python · 0 yıldız
+- [zigon15/webgpu_learning](https://github.com/zigon15/webgpu_learning) — (açıklama yok) — — · 0 yıldız
+- [zigzaq/Early-Stop-On-Baseline](https://github.com/zigzaq/Early-Stop-On-Baseline) — Custom EarlyStopping Callback for Keras (TF2+) to prioritize baseline and use patience after baseline was reached — Python · 0 yıldız
+- [ZihanWG/VulkanEngine](https://github.com/ZihanWG/VulkanEngine) — (açıklama yok) — — · 0 yıldız
+- [zihaojf/ETS2Better](https://github.com/zihaojf/ETS2Better) — (açıklama yok) — — · 0 yıldız
+- [zijuntok/cheatsheet](https://github.com/zijuntok/cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [Zika-dev/PlanarSDK](https://github.com/Zika-dev/PlanarSDK) — The official SDK for the Planar game console — — · 0 yıldız
+- [Zika766/SKEET.PUB](https://github.com/Zika766/SKEET.PUB) — SKEET.PUB — — · 0 yıldız
+- [zilehuda/cheatsheet-agent](https://github.com/zilehuda/cheatsheet-agent) — (açıklama yok) — Python · 0 yıldız
+- [ZILIKS/SkillChecker-DBD](https://github.com/ZILIKS/SkillChecker-DBD) — A fully open source AHK tool for skill checks in dead by daylight — — · 0 yıldız
+- [zillahmwimali/StudentMangement](https://github.com/zillahmwimali/StudentMangement) — This is a system that simplifies management of information relevant to a given school setting where all the details required of… — Python · 0 yıldız
+- [zillazorentoro-tech/xeno-executor-download-nocemar](https://github.com/zillazorentoro-tech/xeno-executor-download-nocemar) — Execute scripts and surface live game data in one streamlined workflow. — — · 0 yıldız
+- [zillucse08/programming-cheat-sheets](https://github.com/zillucse08/programming-cheat-sheets) — (açıklama yok) — — · 0 yıldız
+- [ZimalYousuf3/CS216L_Project1_TaskManager](https://github.com/ZimalYousuf3/CS216L_Project1_TaskManager) — Console-based Study Task Manager in Java using a Linked List, Stack (Undo), Linear Search and Bubble Sort. CS216L Data Structures… — Java · 0 yıldız
+- [zimavi/OperatorTabMod](https://github.com/zimavi/OperatorTabMod) — Source code of Minecraft mod — — · 0 yıldız
+- [zimery92/hvhao](https://github.com/zimery92/hvhao) — content — — · 0 yıldız
+- [zimilp/cheaterflag](https://github.com/zimilp/cheaterflag) — CheaterFlag by ehbaah! - flags known and suspected CS2 cheaters — JavaScript · 0 yıldız
+- [ZIMO-Elektronik/DCC](https://github.com/ZIMO-Elektronik/DCC) — DCC protocol for controlling digital model railways — — · 0 yıldız
+- [Zimolost/case-front](https://github.com/Zimolost/case-front) — keysystems (front) — Vue · 0 yıldız
+- [Zimolost/project_keysystems](https://github.com/Zimolost/project_keysystems) — keysystems (back) — PHP · 0 yıldız
+- [zImPatrick/Scriptprox2](https://github.com/zImPatrick/Scriptprox2) — basically fancy mitmproxy for fivem — Go · 0 yıldız
+- [zINaPalm/LegendCraftSource](https://github.com/zINaPalm/LegendCraftSource) — 800Craft modded software. For MineCraft Classic Servers! — C# · 0 yıldız
+- [zinccyy/breakout](https://github.com/zinccyy/breakout) — (açıklama yok) — — · 0 yıldız
+- [zindebrs/hvhw](https://github.com/zindebrs/hvhw) — content — — · 0 yıldız
+- [zinkevychdaria/MIKKI](https://github.com/zinkevychdaria/MIKKI) — An open-source simulation game . Walk through a magical forest as a soft gray Sphynx cat wearing a dark blue sweater. Explore,… — — · 0 yıldız
+- [Zinkievich/CheatSheets](https://github.com/Zinkievich/CheatSheets) — Web pages for gaming cheat sheets — HTML · 0 yıldız
+- [Zinth/Statues_Plus](https://github.com/Zinth/Statues_Plus) — The source code for my first Minecraft mod Statues+ — Java · 0 yıldız
+- [zinx28/1.11-GS](https://github.com/zinx28/1.11-GS) — Luna 1.11 GS — — · 0 yıldız
+- [zinzin92/FiveM_Cms](https://github.com/zinzin92/FiveM_Cms) — konular: cms, fivem, site — PHP · 0 yıldız
+- [zionforbes15/-Git-tutorial](https://github.com/zionforbes15/-Git-tutorial) — This article describes the steps and common commands for using Git in daily development, and provides a command cheat sheet for… — — · 0 yıldız
+- [ZionStage/AeroCheat](https://github.com/ZionStage/AeroCheat) — macOS menu bar cheatsheet for AeroSpace shortcuts, with an active mode that suggests the keyboard shortcut when you use the mouse — Swift · 0 yıldız
+- [Zioplex/Autoexec-by-Zioplex-CSGO](https://github.com/Zioplex/Autoexec-by-Zioplex-CSGO) — (_____ ) _ (_ ) /'/'(_) _ _ _ __ /'/' /'_`\ ( '_`\ /'__`\(`\/') /'/'___ ( (_) ) (_) ) ( ___/ > < (_______)(_)`\___/'… — — · 0 yıldız
+- [ziotom78/tnds_final_seminars](https://github.com/ziotom78/tnds_final_seminars) — Slides and source codes for the final seminars of the TNDS class (italian) — C++ · 0 yıldız
+- [ZippBomb/Aluminium-Store](https://github.com/ZippBomb/Aluminium-Store) — Aluminium Store is primitive game store similar to Steam developed by Chris Husky — — · 0 yıldız
+- [Zipped1337/Emulate](https://github.com/Zipped1337/Emulate) — Roblox Hacked client repo py — — · 0 yıldız
+- [ZippityDoodah/Magic](https://github.com/ZippityDoodah/Magic) — Minecraft Magic Based Mod Development — Java · 0 yıldız
+- [zippospartakmos/NeverloseHack](https://github.com/zippospartakmos/NeverloseHack) — (açıklama yok) — — · 0 yıldız
+- [Ziptor/scarlex-software](https://github.com/Ziptor/scarlex-software) — Учебный проект: локальное демо лицензирования на Express и SQLite, подпись сессий Ed25519 и примеры рендера на C++/HLSL. — — · 0 yıldız
+- [ziqiangt/systemverilog_keywords.vim](https://github.com/ziqiangt/systemverilog_keywords.vim) — systemverilog keywords source for asyncomplete.vim — Vim script · 0 yıldız
+- [zischl/OmniLink](https://github.com/zischl/OmniLink) — Omni.. Link... get it ? — — · 0 yıldız
+- [zischwartz/workerfatalities](https://github.com/zischwartz/workerfatalities) — Worker Fatalities and Catastrophes Map from OSHA data — Jupyter Notebook · 0 yıldız
+- [zisen123/HALO-Text-Role-Play-Game](https://github.com/zisen123/HALO-Text-Role-Play-Game) — A text role play game based on HALO — — · 0 yıldız
+- [Zish7n/APB-based-SPI-Protocol](https://github.com/Zish7n/APB-based-SPI-Protocol) — (açıklama yok) — Verilog · 0 yıldız
+- [zisheng-chen/hpp-vulnerable-site](https://github.com/zisheng-chen/hpp-vulnerable-site) — website with HTTP parameter pollution vulnerabilities made for Web Security final project — JavaScript · 0 yıldız
+- [Zispah/camBalance-reworkdiff](https://github.com/Zispah/camBalance-reworkdiff) — Improvement mod based on camBalance, a mod for the Warzone 2100 campaign that was later merged. — JavaScript · 0 yıldız
+- [zitengzela/SkyFire_5.4.8](https://github.com/zitengzela/SkyFire_5.4.8) — (açıklama yok) — — · 0 yıldız
+- [Ziuluiziul/esporica](https://github.com/Ziuluiziul/esporica) — Bullet heaven no tanque primordial — Three.js — JavaScript · 0 yıldız
+- [ZivaTuch/GameCenter-hackerU](https://github.com/ZivaTuch/GameCenter-hackerU) — final project in C# — C# · 0 yıldız
+- [ziwikiwi/Hackathon](https://github.com/ziwikiwi/Hackathon) — The code I did for HackIllinois. We ended up changing it up, so this isn't the version used in the final project but it's the… — CSS · 0 yıldız
+- [zixmodecool/Zik.menufull.com](https://github.com/zixmodecool/Zik.menufull.com) — Halo — HTML · 0 yıldız
+- [Zixradoom/Cognition](https://github.com/Zixradoom/Cognition) — A simple Java API to load a properties file — Java · 0 yıldız
+- [zixtyy/FreeFireHackREAL](https://github.com/zixtyy/FreeFireHackREAL) — (açıklama yok) — Lua · 0 yıldız
+- [Ziya-Asgar/MongoDB](https://github.com/Ziya-Asgar/MongoDB) — MongoDB notes and cheat sheets — — · 0 yıldız
+- [ziyamajeedathooni-jpg/terminal-cheatsheet](https://github.com/ziyamajeedathooni-jpg/terminal-cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [Ziyang-Bai/PlayerESP](https://github.com/Ziyang-Bai/PlayerESP) — Highlighting players through walls in Minecraft Forge 1.8.9, DEBUG — — · 0 yıldız
+- [ziyaram706-dot/onetap](https://github.com/ziyaram706-dot/onetap) — (açıklama yok) — JavaScript · 0 yıldız
+- [ziyilin/deadlockRepro](https://github.com/ziyilin/deadlockRepro) — This project focus on how to reproduce deadlock based on very limited information — Java · 0 yıldız · arşiv
+- [ziyiyan1113/aws-superhero-data-pipeline](https://github.com/ziyiyan1113/aws-superhero-data-pipeline) — A serverless AWS project using Aurora MySQL, Lambda, and S3 to load and serve superhero data — — · 0 yıldız
+- [ZiYuan32/lisanshuxue](https://github.com/ZiYuan32/lisanshuxue) — (açıklama yok) — JavaScript · 0 yıldız
+- [ziyuans/CS121_OpenSourceActivity](https://github.com/ziyuans/CS121_OpenSourceActivity) — (açıklama yok) — — · 0 yıldız
+- [ZiZc3/VLC](https://github.com/ZiZc3/VLC) — VLC for PS5. — — · 0 yıldız
+- [ZiZc3/XPSemu](https://github.com/ZiZc3/XPSemu) — Original Xbox emulator for the PS5 — — · 0 yıldız
+- [zizux/open-source-roblox](https://github.com/zizux/open-source-roblox) — (açıklama yok) — — · 0 yıldız
+- [zj-net/WaterSource](https://github.com/zj-net/WaterSource) — A crowd-sourced water quality measurement application. CS 2340 Final Project. — Java · 0 yıldız
+- [ZJacey/Collaborative-filtering-based-sampling-recommendation-for-high-product-quality-level-prediction](https://github.com/ZJacey/Collaborative-filtering-based-sampling-recommendation-for-high-product-quality-level-prediction) — This repository contains the source code to reproduce the core experimental results for the paper "Collaborative filtering-based… — Python · 0 yıldız
+- [zjlshuyu110/HPP-Individual-Project](https://github.com/zjlshuyu110/HPP-Individual-Project) — Individual Project--Quick Sort -Pthread/OpenMP Parallel — C · 0 yıldız
+- [zjlshuyu110/HPP-Project](https://github.com/zjlshuyu110/HPP-Project) — (açıklama yok) — — · 0 yıldız
+- [zjones2142/cs2-profile-switcher](https://github.com/zjones2142/cs2-profile-switcher) — Change your Steam name and avatar based on the CS2 map you are playing — JavaScript · 0 yıldız
+- [ZJU-Lv/MiniGameEngine](https://github.com/ZJU-Lv/MiniGameEngine) — 利用OpenGL实现的小型2D游戏引擎 — — · 0 yıldız
+- [zju-pengpai/SAGCN-for-UNiLAB-super-resolution](https://github.com/zju-pengpai/SAGCN-for-UNiLAB-super-resolution) — UNiLAB Smart Energy system Big data analysis Race track 1 high frequency power load data super resolution perception scheme, the… — — · 0 yıldız
+- [zjx1319/Key-value-Query-System](https://github.com/zjx1319/Key-value-Query-System) — 一个简单的键值查询系统，使用Go echo开发 — Go · 0 yıldız
+- [ZK000325/D-B-GROUP48-](https://github.com/ZK000325/D-B-GROUP48-) — It's the final submission of sources codes and design files of group 48,bupt and qmul — — · 0 yıldız
+- [zkkn/SkypeLoaderSample](https://github.com/zkkn/SkypeLoaderSample) — (açıklama yok) — Swift · 0 yıldız
+- [zkl94/go_keyvalue](https://github.com/zkl94/go_keyvalue) — Implemented a key-value server (2016 Fall Distributed System) — Go · 0 yıldız
+- [zkm/web-scraper](https://github.com/zkm/web-scraper) — Hacker News front page as a JSON API and a responsive web UI with search, sorting and dark mode — JavaScript · 0 yıldız
+- [zknitter/currency-exchange-cheatsheet](https://github.com/zknitter/currency-exchange-cheatsheet) — A static currency exchange cheatsheet for those seeking to memorize conversions from a native to a foreign currency — — · 0 yıldız
+- [zkohryu/KatalystClient](https://github.com/zkohryu/KatalystClient) — 1.8.9 Minecraft Hacked Client — CSS · 0 yıldız
+- [zkromerUCD/JokerFusion](https://github.com/zkromerUCD/JokerFusion) — A Balatro mod that adds fusion jokers, as well other unique Jokers, primordial card enhancements and more! — Lua · 0 yıldız
+- [zkthehider/mta-sts.forwarding.hackerone.com](https://github.com/zkthehider/mta-sts.forwarding.hackerone.com) — (açıklama yok) — PHP · 0 yıldız
+- [zkV1210/CS2015701_11402](https://github.com/zkV1210/CS2015701_11402) — CS2015701 Computer Graphic Projects. — — · 0 yıldız
+- [zkwentz/mta-subway-realtime-tracker](https://github.com/zkwentz/mta-subway-realtime-tracker) — Real-time MTA subway tracker application with live train positions on NYC map — — · 0 yıldız
+- [zkwentz/mta-subway-tracker](https://github.com/zkwentz/mta-subway-tracker) — Real-time MTA subway tracker application with live train positions on NYC map — — · 0 yıldız
+- [zky0ta/Old-Roblox-Fleasion-Pack](https://github.com/zky0ta/Old-Roblox-Fleasion-Pack) — This is a fleasion rivals texuture pack based on THE OLD ROBLOX :3 — — · 0 yıldız
+- [zkyy66/cloud_primordial_training_camp](https://github.com/zkyy66/cloud_primordial_training_camp) — (açıklama yok) — Go · 0 yıldız
+- [zkz917/Key_Value_Store](https://github.com/zkz917/Key_Value_Store) — Distributed Key- Value Storage system — Java · 0 yıldız
+- [zL-dev1/z-LoadingScreen](https://github.com/zL-dev1/z-LoadingScreen) — Loading Screen For FiveM — CSS · 0 yıldız
+- [zl190/Mask-RCNN-TF2](https://github.com/zl190/Mask-RCNN-TF2) — Mask-RCNN-TF2 (fork with the fix for Tensorflow 2.2/2.3) based on https://github.com/matterport/Mask_RCNN — Python · 0 yıldız
+- [zlgr/GTA5-Braquage-Infini](https://github.com/zlgr/GTA5-Braquage-Infini) — Script Open Source AHK qui permet de relancer les braquages à l'infini en gardant l'argent — AutoHotkey · 0 yıldız
+- [zli867/CMB-GC](https://github.com/zli867/CMB-GC) — The project is supervised by Dr. Russell. I used CMB-GC to analyze the different sources' contributions for PM2.5 in North… — JavaScript · 0 yıldız
+- [zlindner/Cosmic](https://github.com/zlindner/Cosmic) — A 1.12.2 Minecraft mod based on the 1.4.7 revisions of GregTech 3 — Java · 0 yıldız
+- [ZLING823/Dataset-for-GRS-OBS-project](https://github.com/ZLING823/Dataset-for-GRS-OBS-project) — This is the final analytic dataset for paper "Antioxidant Enzyme and DNA Base Repair Genetic Risk Scores’ Associations with… — SAS · 0 yıldız
+- [zljin/cheatsheet](https://github.com/zljin/cheatsheet) — (açıklama yok) — Shell · 0 yıldız
+- [zljxl/Educational-Memory-Finder](https://github.com/zljxl/Educational-Memory-Finder) — (açıklama yok) — — · 0 yıldız
+- [zljxl/hudhook](https://github.com/zljxl/hudhook) — (açıklama yok) — — · 0 yıldız
+- [zlldaniellz12-star/menubasicocakefit](https://github.com/zlldaniellz12-star/menubasicocakefit) — arma tu dulce — HTML · 0 yıldız
+- [zlldaniellz12-star/menubasicocakefit2](https://github.com/zlldaniellz12-star/menubasicocakefit2) — arma tu dulce — HTML · 0 yıldız
+- [zlldaniellz12-star/menucakefit](https://github.com/zlldaniellz12-star/menucakefit) — arma tu dulce — HTML · 0 yıldız
+- [zlldaniellz12-star/menucakefit22](https://github.com/zlldaniellz12-star/menucakefit22) — arma tu dulce — — · 0 yıldız
+- [zlldaniellz12-star/menucfpty](https://github.com/zlldaniellz12-star/menucfpty) — Arma tu dulce — HTML · 0 yıldız
+- [zlldaniellz12-star/menustandartcakefit2](https://github.com/zlldaniellz12-star/menustandartcakefit2) — arma tu dulce — — · 0 yıldız
+- [zlldaniellz12-star/menustartcakefit1](https://github.com/zlldaniellz12-star/menustartcakefit1) — arma tu dulce — HTML · 0 yıldız
+- [zlnnhnri-cloud/cheatsheettkj](https://github.com/zlnnhnri-cloud/cheatsheettkj) — (açıklama yok) — HTML · 0 yıldız
+- [zloveless/autopageant](https://github.com/zloveless/autopageant) — A program to automatically add a directory of key files to a pageant key ring on system boot. — C# · 0 yıldız · arşiv
+- [Zloy4elovekGod/SRC-Gamesense](https://github.com/Zloy4elovekGod/SRC-Gamesense) — https://www.mediafire.com/file/trq9ujez7yi2xna/Gamesense.zip/file — — · 0 yıldız
+- [zloykabar07-ui/network-cheatsheet](https://github.com/zloykabar07-ui/network-cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [zLuoManhwas/NumerosPrimosNogue](https://github.com/zLuoManhwas/NumerosPrimosNogue) — Aqui guardare mi script donde demuestro como el problema de los numeros primos es que esta resuelto en una matematica primordial — Python · 0 yıldız
+- [zlxnas/docker-commands-cheat-sheet](https://github.com/zlxnas/docker-commands-cheat-sheet) — 这是一份全面、实用的Docker命令参考手册，专为Docker初学者和开发者设计。文档涵盖了Docker的核心命令，包括镜像管理、容器操作、网络配置、数据卷管理以及Docker Compose的使用方法。 — — · 0 yıldız
+- [zm2283145/goldenballoon-vita-port](https://github.com/zm2283145/goldenballoon-vita-port) — DKR64 Vita Port of Golden Ballon — — · 0 yıldız
+- [ZMALambda/LCD-Writer-Mod-Minecraft](https://github.com/ZMALambda/LCD-Writer-Mod-Minecraft) — This mod allows its users to write text into an LCD using MCreator Link and Arduino. Download the files and run the .ino file for… — C++ · 0 yıldız
+- [zmazen/COVID-19-Global-Impact-Analysis](https://github.com/zmazen/COVID-19-Global-Impact-Analysis) — Global COVID-19 Data Analysis: Cleaned and analyzed COVID-19 data to explore global trends, country impacts, case fatality rates,… — Jupyter Notebook · 0 yıldız
+- [zmbkilla/Vita3k_zan](https://github.com/zmbkilla/Vita3k_zan) — Fork from Zangetsu's branch — — · 0 yıldız
+- [zmh430412-ai/CheatSheetServletProject2](https://github.com/zmh430412-ai/CheatSheetServletProject2) — Servlet Project — Java · 0 yıldız
+- [zmorgado/log_anomaly_detector](https://github.com/zmorgado/log_anomaly_detector) — Hybrid two-stage system for network threat detection: an unsupervised LSTM Autoencoder flags anomalous traffic flows, and a… — Jupyter Notebook · 0 yıldız
+- [zMrKenn/gamesense.pub-scripts](https://github.com/zMrKenn/gamesense.pub-scripts) — Tampermonkey & console scripts for gamesense.pub. — JavaScript · 0 yıldız
+- [zMrKenn/lethal-cs2](https://github.com/zMrKenn/lethal-cs2) — (açıklama yok) — — · 0 yıldız
+- [ZNDR22/R-Cheatsheet](https://github.com/ZNDR22/R-Cheatsheet) — A cheat sheet and sandbox for learning R with tidyverse; updated as I learn the language. — R · 0 yıldız
+- [znibsss/Harmful-Gas](https://github.com/znibsss/Harmful-Gas) — A Java-based Minecraft mod adding gas mechanics. — — · 0 yıldız
+- [zNozh/nozh-actors](https://github.com/zNozh/nozh-actors) — My MW2 mod, based on Civil/Sass's actors mod. — — · 0 yıldız
+- [znss1989/hacker-news-client](https://github.com/znss1989/hacker-news-client) — This site is a Hacker News Client, loading threads from the official API. — JavaScript · 0 yıldız
+- [Zoatik/AlphaEarth-forestGrowth](https://github.com/Zoatik/AlphaEarth-forestGrowth) — Research project based on the AlphaEarth Foundations embeddings and ICP Forests recordings. Its main objective is to determine… — Jupyter Notebook · 0 yıldız
+- [zodiacon/ProcExpX](https://github.com/zodiacon/ProcExpX) — (açıklama yok) — — · 0 yıldız
+- [Zoe0814/counter-example_based_SAG](https://github.com/Zoe0814/counter-example_based_SAG) — The final version — C++ · 0 yıldız
+- [zogrez/Sidebar-Menu](https://github.com/zogrez/Sidebar-Menu) — Responsive sidebar menu using HTML, CSS and JS with dark mode and light mode — CSS · 0 yıldız
+- [zohaib-119/vending-machine-system](https://github.com/zohaib-119/vending-machine-system) — Terminal-based vending machine inventory and sales simulation written in C, with keyboard-driven menus and CSV-backed data… — C · 0 yıldız
+- [ZohaibAkhtar786/House-Price-Prediction](https://github.com/ZohaibAkhtar786/House-Price-Prediction) — California Housing Price Predictor is a Flask web application that uses a Random Forest regression model to estimate California… — Python · 0 yıldız
+- [zohaibarsalan/screenshotter](https://github.com/zohaibarsalan/screenshotter) — Playwright-based dashboard screenshot automation with light/dark and element capture support — TypeScript · 0 yıldız
+- [zohaibcodes9642/Smartphone-HAR-](https://github.com/zohaibcodes9642/Smartphone-HAR-) — A Human Activity Recognition system using Random Forest and Logistic Regression. Trained on the dataset from UCI-HAR — Jupyter Notebook · 0 yıldız
+- [ZohaibMohsin33/Final_Hackathon](https://github.com/ZohaibMohsin33/Final_Hackathon) — This repository is created after the final hackathon — JavaScript · 0 yıldız
+- [zohaibsafdar19/AMS](https://github.com/zohaibsafdar19/AMS) — A full-featured Oracle APEX–based accounting system implementing double-entry bookkeeping with real-time financial reporting and… — — · 0 yıldız
+- [zohair114aoun-art/mini-gta](https://github.com/zohair114aoun-art/mini-gta) — it based in gta — — · 0 yıldız
+- [zohebhussain114-oss/ESP32-IoT-Smart-Access-Control-System](https://github.com/zohebhussain114-oss/ESP32-IoT-Smart-Access-Control-System) — An ESP32-powered IoT smart access control system featuring a self-hosted dark-mode web application, sliding-window rate limiting… — — · 0 yıldız
+- [ZOJulian/Kubernetes-Cheatsheet](https://github.com/ZOJulian/Kubernetes-Cheatsheet) — Kubernetes Cheatsheet — — · 0 yıldız
+- [Zolletta/cheatsheets](https://github.com/Zolletta/cheatsheets) — (açıklama yok) — — · 0 yıldız
+- [zolori/moteur](https://github.com/zolori/moteur) — (açıklama yok) — — · 0 yıldız
+- [Zomb1342/pcileech-DRP](https://github.com/Zomb1342/pcileech-DRP) — DRP Commands to setup linking parameters before the core is activated — SystemVerilog · 0 yıldız
+- [zombi-x/android_device_asus_tf201t](https://github.com/zombi-x/android_device_asus_tf201t) — Omni based device tree modified for zombi — C · 0 yıldız
+- [ZombieBattalion/DAYZ_Base](https://github.com/ZombieBattalion/DAYZ_Base) — (açıklama yok) — — · 0 yıldız
+- [ZombieModInfection/ZPBased-ZombieEscape](https://github.com/ZombieModInfection/ZPBased-ZombieEscape) — Zombie Escape Mod for Counter-Strike 1.6 based off Zombie Plague Mod. Inspired by ZMParadise server and MD Zombie Mod Infection. — — · 0 yıldız
+- [zonde306/l4d2Simple](https://github.com/zonde306/l4d2Simple) — (açıklama yok) — — · 0 yıldız
+- [zong4/ProceduralWorld](https://github.com/zong4/ProceduralWorld) — (açıklama yok) — — · 0 yıldız
+- [zonghan822/online-trading-platform](https://github.com/zonghan822/online-trading-platform) — Repository for team project for CSD2161 Computer Networks at DigiPen Institute of Technology (2026) — — · 0 yıldız
+- [ZonkoQ/csgo_cheat](https://github.com/ZonkoQ/csgo_cheat) — (açıklama yok) — C · 0 yıldız
+- [Zoobia-Qadeer/Student-Record-Management-System](https://github.com/Zoobia-Qadeer/Student-Record-Management-System) — A console-based University Management System in C++ to add, display, and search student records including name, father’s name,… — C++ · 0 yıldız
+- [Zoom-Game-Studio/AiMap](https://github.com/Zoom-Game-Studio/AiMap) — ar眼镜项目 — — · 0 yıldız
+- [zoonyoung/reactShoppy](https://github.com/zoonyoung/reactShoppy) — (açıklama yok) — JavaScript · 0 yıldız
+- [zooooss/MiniBattleGround](https://github.com/zooooss/MiniBattleGround) — A Windows-based battle royale survival game inspired by PUBG's blue zone mechanics — C++ · 0 yıldız
+- [zopthemop/valheim-neverloselevels](https://github.com/zopthemop/valheim-neverloselevels) — Valheim mod for not losing levels when dying (only progress towards next level) — C# · 0 yıldız
+- [zoravur/ssdb](https://github.com/zoravur/ssdb) — Database/spreadsheet app — — · 0 yıldız
+- [Zorbn/StructuralEditor](https://github.com/Zorbn/StructuralEditor) — (açıklama yok) — — · 0 yıldız
+- [zorftw/gasper-cpp](https://github.com/zorftw/gasper-cpp) — A Forge 'ghost client' written in C++ — — · 0 yıldız
+- [Zorkats/FalcomBGMInfo](https://github.com/Zorkats/FalcomBGMInfo) — A mod that backports the BGM Information functionality from newer PH3 Ports back into older Falcom games. — — · 0 yıldız
+- [Zorkats/G-Diffuser](https://github.com/Zorkats/G-Diffuser) — Unofficial PC Port of F-Zero X based on the decompilation of inspectredc. — — · 0 yıldız
+- [zorluaa/gamesense](https://github.com/zorluaa/gamesense) — (açıklama yok) — Lua · 0 yıldız
+- [ZorluBarking/Understood-Sire](https://github.com/ZorluBarking/Understood-Sire) — A 2.5D game where you are a Napoleonic Era commander and you command the battlefield via written messages and gather information… — C# · 0 yıldız
+- [zorogotty14/ansible-cheatsheet](https://github.com/zorogotty14/ansible-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [zorogotty14/AWS-cheatsheet](https://github.com/zorogotty14/AWS-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [zorogotty14/Azure-cheatsheet](https://github.com/zorogotty14/Azure-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [zorogotty14/celium-cheatsheet](https://github.com/zorogotty14/celium-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [zorogotty14/chef-knife-cheatsheet](https://github.com/zorogotty14/chef-knife-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [zorogotty14/Docker-cheatsheet](https://github.com/zorogotty14/Docker-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [zorogotty14/ELK-cheatsheet](https://github.com/zorogotty14/ELK-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [zorogotty14/fluxCD-cheatsheet](https://github.com/zorogotty14/fluxCD-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [zorogotty14/GCP-cheatsheet](https://github.com/zorogotty14/GCP-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [zorogotty14/git-cheatsheet](https://github.com/zorogotty14/git-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [zorogotty14/gitlab-cheatsheet](https://github.com/zorogotty14/gitlab-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [zorogotty14/grafana-cheatsheet](https://github.com/zorogotty14/grafana-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [zorogotty14/helm-cheatsheet](https://github.com/zorogotty14/helm-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [zorogotty14/Istio-cheatsheet](https://github.com/zorogotty14/Istio-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [zorogotty14/jenkins-cheatsheet](https://github.com/zorogotty14/jenkins-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [zorogotty14/Kubernetes-cheatsheet](https://github.com/zorogotty14/Kubernetes-cheatsheet) — Kubernetes Cheatsheet — — · 0 yıldız
+- [zorogotty14/linux-cheatsheet](https://github.com/zorogotty14/linux-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [zorogotty14/nginx-cheatsheet](https://github.com/zorogotty14/nginx-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [zorogotty14/prometheus-cheatsheet](https://github.com/zorogotty14/prometheus-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [zorogotty14/terraform-cheatsheet](https://github.com/zorogotty14/terraform-cheatsheet) — terraform-cheatsheet — — · 0 yıldız
+- [zorogotty14/Vault-cheatsheet](https://github.com/zorogotty14/Vault-cheatsheet) — (açıklama yok) — — · 0 yıldız
+- [zorozoro1372006-alt/cheatsheetnhom16](https://github.com/zorozoro1372006-alt/cheatsheetnhom16) — (açıklama yok) — — · 0 yıldız
+- [Zorphyo/Lab12-APIs](https://github.com/Zorphyo/Lab12-APIs) — (açıklama yok) — — · 0 yıldız
+- [zouhao83/rg35xx-usb-storage](https://github.com/zouhao83/rg35xx-usb-storage) — USB mass storage for Allwinner H700-based ANBERNIC RG35XX on original firmware — access TF2 over USB without removing the card. — Shell · 0 yıldız
+- [zoujiaqing/timer](https://github.com/zoujiaqing/timer) — Like boost/timer.hpp using std::chrono instead of std::clock (C++11) — C++ · 0 yıldız
+- [ZoumiSurGithub/NexusClient](https://github.com/ZoumiSurGithub/NexusClient) — - Un client pour Minecraft Bedrock Edition, fait principalement par l'IA Claude. — — · 0 yıldız
+- [zourkyzen-hub/HHP-Warung-UMKM](https://github.com/zourkyzen-hub/HHP-Warung-UMKM) — HITUNG HPP WARUNG UMKM — — · 0 yıldız
+- [zovzov67ultra/Urbanshade](https://github.com/zovzov67ultra/Urbanshade) — A free, open-sourced Roblox script hub — — · 0 yıldız
+- [zow1e2k/rage-mp-server](https://github.com/zow1e2k/rage-mp-server) — Counter-Strike based on GTA V [Rage Multiplayer] — C# · 0 yıldız
+- [ZozioZore/Zozio_Competition_HUD](https://github.com/ZozioZore/Zozio_Competition_HUD) — Zozio's Competition HUD (ZCH) — A lightweight, competitive-focused Team Fortress 2 custom HUD based on the default stock… — — · 0 yıldız
+- [zozofashionhub3-max/smart-bmi-detector](https://github.com/zozofashionhub3-max/smart-bmi-detector) — “Smart BMI Detector using TensorFlow.js and MediaPipe — a browser-based tool for real-time pose detection, BMI estimation, and… — HTML · 0 yıldız
+- [ZpqKKrZXTIz52/hvhfcz](https://github.com/ZpqKKrZXTIz52/hvhfcz) — (açıklama yok) — — · 0 yıldız
+- [zquangqisszd/cpebuds](https://github.com/zquangqisszd/cpebuds) — A Minecraft mod that adds some hostile chickens based on other Minecraft mobs — — · 0 yıldız
+- [ZqurGy/KeyAgreementSystem](https://github.com/ZqurGy/KeyAgreementSystem) — 秘钥协商系统 — C++ · 0 yıldız
+- [Zqwe123456/hvhv](https://github.com/Zqwe123456/hvhv) — (açıklama yok) — Lua · 0 yıldız
+- [zqzhuhai-commits/CS-Source-Switch](https://github.com/zqzhuhai-commits/CS-Source-Switch) — Counter-Strike: Source Switch port (css_nx) - 含体感瞄准配置 — — · 0 yıldız
+- [zqzqz/hackbackstage](https://github.com/zqzqz/hackbackstage) — a tool to get the location of web backstage / python2 — Python · 0 yıldız
+- [zr0aces/Git-Cheat-Sheet](https://github.com/zr0aces/Git-Cheat-Sheet) — Professional workflow automation & recovery guide. — HTML · 0 yıldız
+- [zraib/gps-spoofer-m3](https://github.com/zraib/gps-spoofer-m3) — konular: gps, spoofer — TypeScript · 0 yıldız
+- [zrasheed1800/cheatsheetforeverydaywork](https://github.com/zrasheed1800/cheatsheetforeverydaywork) — (açıklama yok) — — · 0 yıldız
+- [Zredoxoff/BaseFivem2023](https://github.com/Zredoxoff/BaseFivem2023) — Freebasefive m 2023 — — · 0 yıldız
+- [zrhubs/Onetap](https://github.com/zrhubs/Onetap) — (açıklama yok) — — · 0 yıldız
+- [zrottman/cheatsheets](https://github.com/zrottman/cheatsheets) — Personal cheatsheets for learning new languages, frameworks, and other tech — — · 0 yıldız
+- [zrovihr/Saturday34](https://github.com/zrovihr/Saturday34) — 土曜３，４ — — · 0 yıldız
+- [zrrbite/cheatsheets](https://github.com/zrrbite/cheatsheets) — Quick reference for tiling window managers and Neovim, plus an index of where my longer notes live — — · 0 yıldız
+- [zRyyH/HackValorant](https://github.com/zRyyH/HackValorant) — (açıklama yok) — Python · 0 yıldız
+- [zs144/23fa-ece661-final-proj](https://github.com/zs144/23fa-ece661-final-proj) — This is repo to hold the source code and other materials for ECE 661 final project with Lavsen, Ken, and Zion. — Jupyter Notebook · 0 yıldız
+- [zs144/23fa-ece684-final-proj](https://github.com/zs144/23fa-ece684-final-proj) — This is repo to hold the source code and other materials for ECE 684 (NLP) final project with Lavsen and Zion. — Jupyter Notebook · 0 yıldız · arşiv
+- [zs144/24sp-BME548-final-proj](https://github.com/zs144/24sp-BME548-final-proj) — This repo holds the source code and other materials for BME548 (ML and Imaging) final project for Zion. — Jupyter Notebook · 0 yıldız
+- [zsayar17/Philosophers](https://github.com/zsayar17/Philosophers) — This repository provides a C-based solution to the Dining Philosophers problem, addressing data races and deadlock issues in a… — C · 0 yıldız
+- [zsc15/HPPP](https://github.com/zsc15/HPPP) — (açıklama yok) — Jupyter Notebook · 0 yıldız
+- [zsc9q6f258-collab/aqua-esports](https://github.com/zsc9q6f258-collab/aqua-esports) — Website for Aqua Esports, a competitive Rainbow Six Siege team — TypeScript · 0 yıldız
+- [zschuster/kaggle.aviation](https://github.com/zschuster/kaggle.aviation) — Reducing airplane fatalities by predicting the state of pilots — R · 0 yıldız
+- [zschuster/Kaggle.PKG.Aviation](https://github.com/zschuster/Kaggle.PKG.Aviation) — Reducing Commercial Aviation Fatalities — R · 0 yıldız
+- [zsldeyou126z/atrXj](https://github.com/zsldeyou126z/atrXj) — The authentic surf game mode from Source games brought to Call of Duty 4! — — · 0 yıldız
+- [zsnahid/GitHub-CLI-Cheat-Sheet](https://github.com/zsnahid/GitHub-CLI-Cheat-Sheet) — PDF with commands for GitHub CLI actions — HTML · 0 yıldız
+- [ZSurti-Dev/The-Magical-Forest](https://github.com/ZSurti-Dev/The-Magical-Forest) — An interactive text-based adventure game where you explore a magical forest filled with enchanted creatures and mysterious… — — · 0 yıldız
+- [zswll2/git-commands-cheatsheet](https://github.com/zswll2/git-commands-cheatsheet) — 一个包含常用Git命令的Shell脚本集合 — — · 0 yıldız
+- [ZSZ7/Leaf-Client](https://github.com/ZSZ7/Leaf-Client) — Minecraft 1.8.9 forge hacked client — — · 0 yıldız
+- [ZTao-z/GreedySnake](https://github.com/ZTao-z/GreedySnake) — (açıklama yok) — — · 0 yıldız
+- [ztlLiHa/BT-Skeeter](https://github.com/ztlLiHa/BT-Skeeter) — (açıklama yok) — — · 0 yıldız
+- [ztxnpretium-collab/ARKM-ESPORTS-](https://github.com/ztxnpretium-collab/ARKM-ESPORTS-) — “ARKM ESPORTS – Equipo profesional de Free Fire. SIN PIEDAD, SOLO VICTORIA. Noticias, torneos, jugadores y contenido exclusivo… — — · 0 yıldız
+- [Zu-srumova/osvc](https://github.com/Zu-srumova/osvc) — JavaScriptová kalkulačka OSVČ → HPP — CSS · 0 yıldız
+- [ZuanCrisp/shadPS4PlusPKGExtractor](https://github.com/ZuanCrisp/shadPS4PlusPKGExtractor) — Standalone PKG extractor based on code that used to be in ShadPS4 (project abandoned) — — · 0 yıldız
+- [zubaerturjo/TournifyX-Report](https://github.com/zubaerturjo/TournifyX-Report) — TournifyX is a Django-based tournament management platform that allows users to host and join tournaments for games and sports… — — · 0 yıldız
+- [Zubair-Iqbal-1/Squad_Battle](https://github.com/Zubair-Iqbal-1/Squad_Battle) — Luke Noval Idea base game. — C# · 0 yıldız
+- [zubarashiidays/cheatsheets](https://github.com/zubarashiidays/cheatsheets) — (açıklama yok) — — · 0 yıldız
+- [zubayerisfar/Github-Cheat-Sheet-Note](https://github.com/zubayerisfar/Github-Cheat-Sheet-Note) — (açıklama yok) — — · 0 yıldız
+- [zuber144/PrecursorAI](https://github.com/zuber144/PrecursorAI) — PrecursorAI is an AI-powered HSSE intelligence system that detects Serious Injury & Fatality (SIF) precursors from safety reports… — Python · 0 yıldız
+- [zubinkadva/vikms](https://github.com/zubinkadva/vikms) — The Visitor Information Key Management System — — · 0 yıldız
+- [Zubos1/winboost](https://github.com/Zubos1/winboost) — Klikaci optimalizer Windows 11 a herni rezim. Diagnostika misto tweaku: co se v benchmarku neprokazalo, v appce neni. — PowerShell · 0 yıldız
+- [zucenthvulsdez/cheatsheet_18aa](https://github.com/zucenthvulsdez/cheatsheet_18aa) — A collection of small utilities I use daily. — — · 0 yıldız
+- [ZuDDwa/GitHub-cheat-sheet](https://github.com/ZuDDwa/GitHub-cheat-sheet) — (açıklama yok) — — · 0 yıldız
+- [zugzw4ng/CSS-Snippet-Cheatsheet](https://github.com/zugzw4ng/CSS-Snippet-Cheatsheet) — CSS syntax reference tool — HTML · 0 yıldız
+- [zuhaakashif/Train-Ticket-Cost-Calculator](https://github.com/zuhaakashif/Train-Ticket-Cost-Calculator) — A train ticket based on the user's selected destination and travel class. It prompts the user to choose a destination and a… — — · 0 yıldız
+- [zuhaibinnocent873-droid/Raza-](https://github.com/zuhaibinnocent873-droid/Raza-) — Please enter source of horizon and roblox — — · 0 yıldız
+- [zuharbutt/BrickZilla](https://github.com/zuharbutt/BrickZilla) — A retro Brick Breaker game written entirely in x86 Assembly (NASM), running as a .com file in DOSBox. Features a bouncing ball,… — Assembly · 0 yıldız
+- [ZUK4/Tools_Hack](https://github.com/ZUK4/Tools_Hack) — (açıklama yok) — Python · 0 yıldız
+- [ZUK778/cheat-sheets](https://github.com/ZUK778/cheat-sheets) — (açıklama yok) — — · 0 yıldız
+- [Zuke-New/ToolsHackHtml.sh](https://github.com/Zuke-New/ToolsHackHtml.sh) — (açıklama yok) — Shell · 0 yıldız
+- [Zukof1/mae101-cheatsheet](https://github.com/Zukof1/mae101-cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [zulaica/modern-css-2017winter](https://github.com/zulaica/modern-css-2017winter) — Source Code and Class Notes — HTML · 0 yıldız · arşiv
+- [ZulfiFazhar/caelestia-cheatsheet](https://github.com/ZulfiFazhar/caelestia-cheatsheet) — (açıklama yok) — QML · 0 yıldız
+- [zulfikar4568/redis-dasar](https://github.com/zulfikar4568/redis-dasar) — Dasar-dasar redis (Cheat Sheet) — Shell · 0 yıldız
+- [zulkar30/blood-donor-app](https://github.com/zulkar30/blood-donor-app) — This application is an admin dashboard application that is used to manage blood donor data to make it more efficient and neat.… — CSS · 0 yıldız
+- [Zulu928/12.41-Rewrite](https://github.com/Zulu928/12.41-Rewrite) — (açıklama yok) — — · 0 yıldız
+- [zumerani/HackingEDU-Live](https://github.com/zumerani/HackingEDU-Live) — live.html is the portion I worked on for HackingEDU. This live site was created as a guide for the hackathon. — JavaScript · 0 yıldız
+- [Zumi002/CUDA-CSG-Tree-Raycasting](https://github.com/Zumi002/CUDA-CSG-Tree-Raycasting) — CSG Tree Raycaster is a Constructive Solid Geometry (CSG) Raycaster implemented in CUDA. — — · 0 yıldız
+- [zunaeid20/Smart-Restaurant-Management-System-SRMS](https://github.com/zunaeid20/Smart-Restaurant-Management-System-SRMS) — A console-based Smart Restaurant Management System developed in ANSI C, featuring linked-list–based menu management, queue-driven… — C · 0 yıldız
+- [ZunanHiya/-Reconnaissance-Cheatsheet-Beginner-Friendly-Kali-Linux-](https://github.com/ZunanHiya/-Reconnaissance-Cheatsheet-Beginner-Friendly-Kali-Linux-) — AI Overview বাংলা The Reconnaissance Cheatsheet — Beginner Friendly (Kali Linux) is an essential, quick-reference guide designed… — — · 0 yıldız
+- [zunayn/Hackathon](https://github.com/zunayn/Hackathon) — HackTX 2025 Project by Team Syntax Squad — TypeScript · 0 yıldız
+- [Zunera-Mujahid/apex-sourcing-module](https://github.com/Zunera-Mujahid/apex-sourcing-module) — NLP-based CV and Job Description matching system — Python · 0 yıldız
+- [zuogl/pokesurvivor-moves-data](https://github.com/zuogl/pokesurvivor-moves-data) — Unofficial PokéSurvivor moves/type cheat sheet (fan notes) — HTML · 0 yıldız
+- [Zupe1/SkysthelimitHackathon](https://github.com/Zupe1/SkysthelimitHackathon) — VALORANT gun sound quiz game with scoring and leaderboards — HTML · 0 yıldız
+- [zuri-training/school-scout-be-pjt-56](https://github.com/zuri-training/school-scout-be-pjt-56) — School Finder is a web-based application that helps students (aspiring undergraduates and postgraduates) to find information… — CSS · 0 yıldız
+- [ZurielBoateng/CheatSheet](https://github.com/ZurielBoateng/CheatSheet) — Cheat Sheet Repository — — · 0 yıldız
+- [zurlybird/weareonesource](https://github.com/zurlybird/weareonesource) — The source code for my first solo project We_Are_One. An Arena shooter based off the early days of Halo and Splitgate — C# · 0 yıldız
+- [Zurmely/primordial](https://github.com/Zurmely/primordial) — Primordial CF challenges and errors. — HTML · 0 yıldız
+- [zurupe/minecraft-sources](https://github.com/zurupe/minecraft-sources) — (açıklama yok) — — · 0 yıldız
+- [Zury7/FrontEnd-BankTransactionSystem](https://github.com/Zury7/FrontEnd-BankTransactionSystem) — A web based frontend system for a Bank Transaction Management DBMS project which is the final assignment for CS 3043 Database… — JavaScript · 0 yıldız
+- [zushinzackery2-ship-it/Snowbreak-AuxiliaryPlugin](https://github.com/zushinzackery2-ship-it/Snowbreak-AuxiliaryPlugin) — D3D11Hook，UnrealEngine，ReverseAnalysis，尘白禁区 — — · 0 yıldız
+- [ZutoMayoo/WeCheat](https://github.com/ZutoMayoo/WeCheat) — A tool to disguise your WeChat as an AI chat interface. 一款将您的微信伪装成AI聊天界面的工具 — HTML · 0 yıldız
+- [Zux1U/gta-reversed-camera](https://github.com/Zux1U/gta-reversed-camera) — GTA:SA 1.0 reverse engineering - CCamera reconstruction (validated against gta_sa.exe) — — · 0 yıldız
+- [zuxxr/neverloseBLOXSTRIKE](https://github.com/zuxxr/neverloseBLOXSTRIKE) — (açıklama yok) — Lua · 0 yıldız
+- [zuxxr/NeverLoseskinchanger](https://github.com/zuxxr/NeverLoseskinchanger) — (açıklama yok) — Lua · 0 yıldız
+- [zuxxr/NeverLoseUniversal](https://github.com/zuxxr/NeverLoseUniversal) — (açıklama yok) — Lua · 0 yıldız
+- [zuzu9627/Fundacion-Esplai-Hackathon--Reto-Drop-Zone-Frontend](https://github.com/zuzu9627/Fundacion-Esplai-Hackathon--Reto-Drop-Zone-Frontend) — Desafio Front-End — CSS · 0 yıldız
+- [zvonimir1998/zvonimir1998.github.io](https://github.com/zvonimir1998/zvonimir1998.github.io) — System design interview cheat sheet + notes — HTML · 0 yıldız
+- [Zwacktus/hack_roblox](https://github.com/Zwacktus/hack_roblox) — (açıklama yok) — Lua · 0 yıldız
+- [zwhshl1uw449/hvhwxj](https://github.com/zwhshl1uw449/hvhwxj) — (açıklama yok) — — · 0 yıldız
+- [ZwiebelPloit/ZwiebClient](https://github.com/ZwiebelPloit/ZwiebClient) — Open Source Minecraft Hacked Client — — · 0 yıldız
+- [zwiebelslayer/obsidian_multi_vault_search](https://github.com/zwiebelslayer/obsidian_multi_vault_search) — (açıklama yok) — — · 0 yıldız
+- [zwirek2201/BobSquad-Chillout-Hackaton](https://github.com/zwirek2201/BobSquad-Chillout-Hackaton) — During a Hackaton that I took part in my team created a software for booking company's property such as rooms, cars and… — C# · 0 yıldız
+- [ZWolferZ/Low-Level-Platform-Optimisation](https://github.com/ZWolferZ/Low-Level-Platform-Optimisation) — (açıklama yok) — — · 0 yıldız
+- [zwolffium/HPP-Assignment-4](https://github.com/zwolffium/HPP-Assignment-4) — (açıklama yok) — — · 0 yıldız
+- [zwunio/Neverlose](https://github.com/zwunio/Neverlose) — (açıklama yok) — Luau · 0 yıldız
+- [zx202412/hvhowi](https://github.com/zx202412/hvhowi) — (açıklama yok) — — · 0 yıldız
+- [zxbiao/NETGEAR-R6220](https://github.com/zxbiao/NETGEAR-R6220) — NETGEAR R6260_R6350_R6850_R6330 Offical Source Code — — · 0 yıldız
+- [zxc458675/Skeetvusuals](https://github.com/zxc458675/Skeetvusuals) — xxx — HTML · 0 yıldız
+- [zxcasdqwe123123/citadel-fps](https://github.com/zxcasdqwe123123/citadel-fps) — ⚡ Next-Gen Windows Gaming Optimizer & 0.5ms Input Lag Elimination Suite for CS2, Valorant, Dota 2, Fortnite & Apex Legends — — · 0 yıldız
+- [zxcgoga/skeet](https://github.com/zxcgoga/skeet) — skeetcrack — — · 0 yıldız
+- [zxcPandora/APEX-Loading-Icon](https://github.com/zxcPandora/APEX-Loading-Icon) — APEX Loading Icon — — · 0 yıldız
+- [ZXCVBNM07/cs2offsets](https://github.com/ZXCVBNM07/cs2offsets) — (açıklama yok) — Python · 0 yıldız
+- [zxczxc1231/pubg_internal](https://github.com/zxczxc1231/pubg_internal) — (açıklama yok) — — · 0 yıldız
+- [ZXH2y/git_cheatSheet](https://github.com/ZXH2y/git_cheatSheet) — beberapa perintah untuk mengoperasikan git — — · 0 yıldız
+- [zxhio/hpp-libs](https://github.com/zxhio/hpp-libs) — A structured logging interface similar to logrus based on spdlog. — C++ · 0 yıldız
+- [zxiaojinian/PracticeRenderer](https://github.com/zxiaojinian/PracticeRenderer) — (açıklama yok) — — · 0 yıldız
+- [ZXin0305/HRI-Based-On-Action-Recognition-And-Hand-Recognition](https://github.com/ZXin0305/HRI-Based-On-Action-Recognition-And-Hand-Recognition) — The final structure to detect multi-person poses, actions, and hand gestures for flexible and natural HRI. — Python · 0 yıldız
+- [zxkzxx/HMMMGC-NX](https://github.com/zxkzxx/HMMMGC-NX) — Port of HMMMGC (Harvest Moon: Magical Melody) for Nintendo Switch Homebrew — — · 0 yıldız
+- [zxlee920/tailwind-cheatsheet](https://github.com/zxlee920/tailwind-cheatsheet) — Tailwind CSS CheatSheet — TypeScript · 0 yıldız
+- [zxm256/HackTool](https://github.com/zxm256/HackTool) — (açıklama yok) — HTML · 0 yıldız
+- [zxr-roro/GPT5.6-5.5-](https://github.com/zxr-roro/GPT5.6-5.5-) — 此项目为gpt5.6/5.5破甲方案 — — · 0 yıldız
+- [zxsrxt-kebab-case/bpm-calc](https://github.com/zxsrxt-kebab-case/bpm-calc) — simple open-source calculator for bpm damage — — · 0 yıldız
+- [zxsrxt-kebab-case/unturned_external](https://github.com/zxsrxt-kebab-case/unturned_external) — (açıklama yok) — — · 0 yıldız
+- [zxwmr01/ServerLauncher](https://github.com/zxwmr01/ServerLauncher) — A PUBG 2017 PS Server Launcher source code file — C# · 0 yıldız
+- [ZXYZXY99/KeyanSystem](https://github.com/ZXYZXY99/KeyanSystem) — (açıklama yok) — Java · 0 yıldız
+- [zyadmohamed88/SEC-504](https://github.com/zyadmohamed88/SEC-504) — A comprehensive, highly interactive, and premium dark-themed study hub for SANS SEC 504 (Hacker Tools, Techniques, Exploits, and… — HTML · 0 yıldız
+- [Zyadon7/firefly_iii](https://github.com/Zyadon7/firefly_iii) — A free and open source personal finance manager — — · 0 yıldız
+- [Zyan0x/Deadly](https://github.com/Zyan0x/Deadly) — 7 Deadly Sins Grand Cross PC — — · 0 yıldız
+- [zyang-16/TriSampler](https://github.com/zyang-16/TriSampler) — The source code for TriSampler that accepted in AAAI'24 — — · 0 yıldız
+- [ZyChua2000/FrameEX](https://github.com/ZyChua2000/FrameEX) — (açıklama yok) — — · 0 yıldız
+- [zycskylove520/ZSKYUI](https://github.com/zycskylove520/ZSKYUI) — 一个基于IMGUI的高自由度可移植框架 — — · 0 yıldız
+- [Zyd93/attackshark-r6-linux](https://github.com/Zyd93/attackshark-r6-linux) — ATTACK SHARK R6 Linux Control Center — Native open-source Linux hidraw driver, PyQt5 GUI & CLI for Wired & Wireless 8K — Python · 0 yıldız
+- [Zyd93/deadlock-server-blocker-DSB](https://github.com/Zyd93/deadlock-server-blocker-DSB) — Deadlock Server Blocker - DSB: Minimal Deadlock server & packet blocker for Linux & Windows (based on Server Picker X) — Python · 0 yıldız
+- [zyeasin123-eng/primordial-downloader](https://github.com/zyeasin123-eng/primordial-downloader) — Primordial Downloader Central Configuration Beacon — — · 0 yıldız
+- [ZygmuntKrawiec/LicenseManagementSystem](https://github.com/ZygmuntKrawiec/LicenseManagementSystem) — A system to manage licenses numbers for users. — C# · 0 yıldız
+- [ZygoteCode/WindowsKeyGetter](https://github.com/ZygoteCode/WindowsKeyGetter) — Simple program to see your registered Windows key in your system. — C# · 0 yıldız
+- [zyh404/halo_blog](https://github.com/zyh404/halo_blog) — This project is based on the Java Springboot and FreeMarker. It including the front-end UI and back up blog management system — Java · 0 yıldız
+- [Zykor-Club/TerrariaBLive](https://github.com/Zykor-Club/TerrariaBLive) — 基于 B站直播开放平台官方 SDK（OpenBLive）实现实时接收直播间，并广播到服务器 — C# · 0 yıldız
+- [zyli5313/markdown-cheat-sheet](https://github.com/zyli5313/markdown-cheat-sheet) — Markdown cheat sheet — HTML · 0 yıldız
+- [Zynifier/FNModdingProj-27.11](https://github.com/Zynifier/FNModdingProj-27.11) — Fortnite Stub Modding Project Based on 27.11 UEFN — C++ · 0 yıldız
+- [ZynpKymzl/Console-Based-Restaurant-Ordering-System](https://github.com/ZynpKymzl/Console-Based-Restaurant-Ordering-System) — Developed a modular, console-based restaurant ordering system in C, featuring category-based menus, dynamic bill calculation, and… — C++ · 0 yıldız
+- [zynpozkk/lisansustu-rag-asistani](https://github.com/zynpozkk/lisansustu-rag-asistani) — Lisansüstü yönetmeliği üzerine Türkçe soru-cevap yapan RAG tabanlı bir yapay zeka asistanı. — Jupyter Notebook · 0 yıldız
+- [Zynthasius39/cscods](https://github.com/Zynthasius39/cscods) — Dockerized Classic Offensive — Shell · 0 yıldız
+- [zyonify/battlefield-6-stats](https://github.com/zyonify/battlefield-6-stats) — Created this to check out battlefield 6 stats based on my own preferences. — TypeScript · 0 yıldız
+- [ZypherusKhan/Empostor](https://github.com/ZypherusKhan/Empostor) — Enhanced Impostor - An Enhanced open source reimplementation of the Among Us Server — C# · 0 yıldız
+- [Zyrex24/symbol-arcade](https://github.com/Zyrex24/symbol-arcade) — A modular browser game hub using C++ and WebAssembly for high-performance mini-games, served through a React-based symbol menu. — TypeScript · 0 yıldız
+- [ZyrielZero/cheatsheet](https://github.com/ZyrielZero/cheatsheet) — Module 1 Assignment — — · 0 yıldız
+- [zys8ngwg4j-pixel/skeetellar](https://github.com/zys8ngwg4j-pixel/skeetellar) — (açıklama yok) — — · 0 yıldız
+- [zytelabs/uv-cheatsheet](https://github.com/zytelabs/uv-cheatsheet) — A uv cheatsheet that says which version it is current for. Companion to the Zyte blog post. — HTML · 0 yıldız
+- [Zytronium/Stratos_X](https://github.com/Zytronium/Stratos_X) — Based on the underrated Roblox game, Starscape — C · 0 yıldız
+- [Zyumie/MenjiiRemakeLol](https://github.com/Zyumie/MenjiiRemakeLol) — A Minecraft server called MenjiRemake is open source and I update it often. It belongs to me. — HTML · 0 yıldız
+- [ZyWick/-CSINTSY-MazeBot](https://github.com/ZyWick/-CSINTSY-MazeBot) — The repository contains the source code for a maze game implemented in C, focusing on simulating an intelligent maze bot using… — Java · 0 yıldız
+- [Zyxean/MTA-Roleplay-Source-Scripts](https://github.com/Zyxean/MTA-Roleplay-Source-Scripts) — MTA Roleplay Source Scripts — — · 0 yıldız
+- [zyzel-del/blacklist_cheaters_tf2_bot_detector](https://github.com/zyzel-del/blacklist_cheaters_tf2_bot_detector) — List hackers for PazerOP/tf2_bot_detector tool — — · 0 yıldız
+- [zyzzchehe/Print_Sdk_Sample](https://github.com/zyzzchehe/Print_Sdk_Sample) — 新增蓝牙标签打印机-R12原生SDK包 — Java · 0 yıldız
+- [zyzzfh/eclipse-airflow](https://github.com/zyzzfh/eclipse-airflow) — (açıklama yok) — — · 0 yıldız
+- [zyzzfh/fatality](https://github.com/zyzzfh/fatality) — (açıklama yok) — — · 0 yıldız
+- [zz1231me/sqli-cheatsheet](https://github.com/zz1231me/sqli-cheatsheet) — (açıklama yok) — HTML · 0 yıldız
+- [ZZ1313111/optimized-esx_menu_default](https://github.com/ZZ1313111/optimized-esx_menu_default) — Mikz#3800 — — · 0 yıldız
+- [zz1sb0t/pubg-sdk](https://github.com/zz1sb0t/pubg-sdk) — (açıklama yok) — C++ · 0 yıldız
+- [zz3553/mtaDelayPredictor](https://github.com/zz3553/mtaDelayPredictor) — Application to help predict MTA Train Delays based on weather conditions. — Python · 0 yıldız
+- [ZzBombardierzZ/DayZ_Epoch_Russian_Roulette](https://github.com/ZzBombardierzZ/DayZ_Epoch_Russian_Roulette) — WIP - Completely overhauled Vampire's old Russian Roulette script with base odds of firing on number of bullets in cylinder and… — SQF · 0 yıldız
+- [zzcnick/c_executor](https://github.com/zzcnick/c_executor) — Program launcher in C — C · 0 yıldız
+- [zzgchina888/directx_sdk_sample](https://github.com/zzgchina888/directx_sdk_sample) — (açıklama yok) — C++ · 0 yıldız
+- [zzhangjoyi/cheat-sheets](https://github.com/zzhangjoyi/cheat-sheets) — This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various… — — · 0 yıldız
+- [zzhu247/Energy-Consumption-Analysis-of-Home-Appliances](https://github.com/zzhu247/Energy-Consumption-Analysis-of-Home-Appliances) — Trained over the optimal parameter combination and delivered visualized variable-importance results based on the random forest… — Jupyter Notebook · 0 yıldız
+- [zziger/supercow-widescreen-fix](https://github.com/zziger/supercow-widescreen-fix) — A widescreen fix for Nevosoft's game "Supercow" — — · 0 yıldız
+- [zziger/supermod](https://github.com/zziger/supermod) — SuperMod - a modloader for Nevosoft's game "Supercow" — — · 0 yıldız
+- [zzj3720/bunker](https://github.com/zzj3720/bunker) — Open-source SPT (Single Player Tarkov) launcher and mod manager built with mbui — Rust · 0 yıldız
+- [zzl0720-2025/dark-forest-model](https://github.com/zzl0720-2025/dark-forest-model) — An ODE and agent-based simulation of civilization emergence, collapse, and discovery-driven destruction, inspired by Liu Cixin's… — HTML · 0 yıldız
+- [ZZlab412/Murine-thiamine-DATA](https://github.com/ZZlab412/Murine-thiamine-DATA) — Scripts of data progressing for the original innovation article entitled "maternal vitamin B1 is a determinant for the fate of… — R · 0 yıldız
+- [zzlkikolk/skeet_gamesense](https://github.com/zzlkikolk/skeet_gamesense) — (açıklama yok) — Python · 0 yıldız
+- [zZMiltonZz/Neverlose-names](https://github.com/zZMiltonZz/Neverlose-names) — (açıklama yok) — — · 0 yıldız
+- [zzolo/halo-hackathon](https://github.com/zzolo/halo-hackathon) — Halo Hackathon at Eyeo — JavaScript · 0 yıldız
+- [zzvsvv/Pepexploit](https://github.com/zzvsvv/Pepexploit) — Open source roblox exploit — C# · 0 yıldız
+- [zzxym/rustdesk](https://github.com/zzxym/rustdesk) — An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. — Rust · 0 yıldız
+- [zzxzzk115/vrendergraph](https://github.com/zzxzzk115/vrendergraph) — vrendergraph is a tiny data-driven render pipeline layer that builds a runtime FrameGraph from JSON. — — · 0 yıldız
+- [zzyqor3250/hvhw](https://github.com/zzyqor3250/hvhw) — content — — · 0 yıldız
+- [ZzyYH617/open-source-EasyCs2Esp](https://github.com/ZzyYH617/open-source-EasyCs2Esp) — 基于https://github.com/Tonyha7/FutaZone简化的作弊,仅供学习使用,24小时内必须删除 — C# · 0 yıldız
+- [ZzyYH617/python_cs2_Hacker](https://github.com/ZzyYH617/python_cs2_Hacker) — python_cs2_Hacker — Python · 0 yıldız
+- [ZZZ-Monster/Private_PUBG_external_hack](https://github.com/ZZZ-Monster/Private_PUBG_external_hack) — April 28, 2022 — — · 0 yıldız
+- [zzzzzzssssmmm9/R6SDK](https://github.com/zzzzzzssssmmm9/R6SDK) — (açıklama yok) — — · 0 yıldız
+
+---
+
+## Bu korpus nasıl 1.000.000+'a büyür (v3.0 yol haritası — AKTİF)
+
+1. **Otonom hasat hattı (çalışıyor):** `harvest_v2.py` her turda ~4-6K yeni repo ekler;
+   cron ile sürekli döngüde. Sorgu bankası: cheat-loader öncelikli ~3.060 statik + sınırsız
+   dinamik yıl/çeyrek/ay/gün dilimi (her sorgu 1.000-sonuç sınırını aşamaz ama dilimler aşar).
+2. **Kod-uzayı araması:** `"imgui.h" aimbot`, `"ImGui::Begin" keyauth` gibi imzalar —
+   açıklamasında imgui yazmayan menü depolarını yakalar (her imza ~1K repo).
+3. **Derin dilimleme:** `hack` (1M+) ve `cheat` (124K) evrenleri yıl→çeyrek→ay→gün
+   parçalarına bölünerek tam çekilir; 100K satır aşılınca cilt dosyaları açılır.
+4. **Fork grafiği madenciliği:** `imgui fork:true` tek başına 46.087 depo.
+5. **Sonraki faz — GlobalInfos:** bu korpus satır satır analiz edilip obje/event/tema/
+   animasyon olasılık evrenine dönüşür; editör + çözücü beslenir.
+6. Yeni satırlar aynı formatta eklenir: `- [owner/repo](url) — açıklama — dil · yıldız`.
+
+> Üretim: oto-hasat (GitHub Search API + kod araması + rekurif dilimleme) — 2026-11-27, v3.0.
+> Analiz çıktıları (GlobalInfos) ayrı dosyalarda birikir; bu liste ham girdidir.
