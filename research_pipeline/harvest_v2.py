@@ -248,10 +248,13 @@ def build_bank():
         bank.append((extra, "stars", 6, "v", "repo"))
     for q in G_GENERIC:
         bank.append((q, "stars", 4, "g", "repo"))
-    # tekrarlari at
+    # tekrarlari at — v2.18 DUZELTME: anahtar TAG de icerir. Eskiden
+    # kind|q|srt anahtari u-probe'larla G_GENERIC g-katmanini yenig
+    # dusuruyordu (16 hacim teriminin 15'i HIC kayda girmiyordu — 1M
+    # hacim katmani sessizce olu idi).
     seen, uniq = set(), []
     for q, srt, m, tag, kind in bank:
-        k = f"{kind}|{q}|{srt}"
+        k = f"{kind}|{q}|{srt}|{tag}"
         if k not in seen:
             seen.add(k)
             uniq.append((q, srt, m, tag, kind))
@@ -329,8 +332,22 @@ def children(q, tag):
 def load_state():
     if os.path.exists(STATE):
         with open(STATE, encoding="utf-8") as f:
-            return json.load(f)
-    return {"repos": {}, "queries": {}, "totals": {}}
+            st = json.load(f)
+    else:
+        st = {"repos": {}, "queries": {}, "totals": {}}
+    # v2.18 gecis: eski 'kind|q|srt' kayit anahtarlarini uclari TAG'li
+    # yeni formata tasi (kaydin kendi tag alani kullanilir). Baska turlu
+    # ayni sorgunun u-probe kaydi, g-katman calismasini 'done' sanip atlar.
+    q = st.get("queries", {})
+    for k in list(q.keys()):
+        rec = q[k]
+        tag = rec.get("tag")
+        if tag and not k.endswith("|" + tag):
+            nk = k + "|" + tag
+            if nk not in q:
+                q[nk] = rec
+            del q[k]
+    return st
 
 
 def save_state(st):
@@ -415,6 +432,24 @@ def main():
     bank = build_bank()
     hot = []
     hot_set = set()
+    # v2.18: kalici hot kuyrugu — onceki turun islenemeyen cocuk dilimleri
+    # kaybolmasin (parent zaten done oldugu icin bir daha uretilmiyorlardi;
+    # son turda 43 dilim boylece cope gitti).
+    for h in st.get("hotqueue", []):
+        try:
+            q, srt, m2, tag2, kind2 = h
+        except Exception:
+            continue
+        if st["queries"].get(f"{kind2}|{q}|{srt}|{tag2}", {}).get("done"):
+            continue
+        sk = f"{kind2}|{q}|{srt}|{tag2}"
+        if sk in hot_set:
+            continue
+        hot_set.add(sk)
+        hot.append((q, srt, int(m2), tag2, kind2))
+    # v2.18: g-katman (hacim yolu) hot kuyrugunda DA her zaman onde —
+    # fork/v dilimleri bitmeden 1M hedefinin motoru calismaya baslasin.
+    hot.sort(key=lambda x: x[3] != "g")
     i = 0
     new_total = 0
     q_new = 0
@@ -454,7 +489,7 @@ def main():
         if nxt is None:
             break
         q, srt, maxp, tag, kind = nxt
-        qkey = f"{kind}|{q}|{srt}"
+        qkey = f"{kind}|{q}|{srt}|{tag}"
         rec = st["queries"].get(qkey)
         if rec and rec.get("done"):
             continue
@@ -476,10 +511,15 @@ def main():
                 if total and total > 950 and maxp > 0 and rec is None:
                     if allowed_depth(tag) > 0:
                         for cq in children(q, tag):
-                            sk = f"repo|{cq}|{srt}"
+                            sk = f"repo|{cq}|{srt}|{tag}"
                             if sk not in st["queries"] and sk not in hot_set:
                                 hot_set.add(sk)
-                                hot.append((cq, srt, 10, tag, "repo"))
+                                if tag == "g":
+                                    # g-cocuklari (cheat/hack hacim dilimleri) kuyrugun
+                                    # BASINA girer — oncelik hicbir zaman kaybolmaz
+                                    hot.insert(0, (cq, srt, 10, tag, "repo"))
+                                else:
+                                    hot.append((cq, srt, 10, tag, "repo"))
             items = data.get("items", [])
             if not items:
                 break
@@ -512,9 +552,11 @@ def main():
             print(f"[{tag}] {q[:58]:58s} yeni={new:<4d} t={total if total is not None else '?':>6} "
                   f"| KORPUS={len(st['repos'])}", flush=True)
         if time.time() - last_save > 40:
+            st["hotqueue"] = [list(x) for x in hot[:800]]
             save_state(st)
             last_save = time.time()
 
+    st["hotqueue"] = [list(x) for x in hot[:800]]
     save_state(st)
     q_done = sum(1 for v in st["queries"].values() if v.get("done"))
     print(f"DURUM: bu turda +{new_total} yeni | toplam={len(st['repos'])} "

@@ -31,7 +31,12 @@ for REPO in MVP_GOD_SSS_TIER_IMGUI_UI_EDITOR UniversalMVPUIAlgorithm; do
     echo "$REPO: degisiklik yok"
     continue
   fi
-  N=$(grep -c '^- \[' "$DL/TotallyResearch.md" 2>/dev/null || echo 0)
+  # FAZ 2.18: satir sayimi TUM ciltlere topla (Vol01 100K satirla kapali —
+  # eskiden sadece Vol01 sayiliyordu, gercek toplam yanilticiydi).
+  N=0
+  for MD in "$DL"/TotallyResearch.md "$DL"/TotallyResearch_Vol*.md; do
+    [ -f "$MD" ] && N=$(( N + $(grep -c '^- \[' "$MD" 2>/dev/null || echo 0) ))
+  done
   T=$(date +"%Y-%m-%d %H:%M")
   if git -c user.name="0xByteDeveloper" -c user.email="0xByteDeveloper@users.noreply.github.com" \
       commit -q -m "TotallyResearch v3 oto-hasat: $N satir — $T (cheat-sahasi oncelikli genisleme)"; then
